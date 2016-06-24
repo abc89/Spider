@@ -6,7 +6,11 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.apache.log4j.Logger;
-
+/***
+ * 京东bean 生成
+ * @author e7691
+ *
+ */
 public class JDFacy extends ShopBeanFactory{
 
 	private static Logger log=Logger.getLogger(JDBean.class.getName());

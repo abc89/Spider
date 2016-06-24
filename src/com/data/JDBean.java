@@ -13,11 +13,26 @@ import org.apache.log4j.Logger;
  */
 public class JDBean extends ShopBean{
 
+	///测试日志输出
     private static Logger log=Logger.getLogger(JDBean.class.getName());
 	//正则匹配查找内容
 	private String shopID;//商品id
-	private String price;
-	private String title;
+	private String price;//价格
+	private String title;//标题及描述
+	private String deteil_url;//物品地址链接
+	private String img_url;//图片地址
+	/***
+	 * 
+	 */
+	  //评论配查找内容
+		private String goodCount;//好评
+		private String generalCount;//中评
+		private String poorCount;//差评
+		private String name;//评论内容
+	   private List<String> comments;//评论集合
+   
+	  private String shopType;
+
 	public String getShopID() {
 		return shopID;
 	}
@@ -123,20 +138,6 @@ public class JDBean extends ShopBean{
 		this.commentNum = commentNum;
 	}
 
-
-	private String deteil_url;
-	private String img_url;
-	/***
-	 * 
-	 */
-	  //评论配查找内容
-		private String goodCount;//商品id
-		private String generalCount;
-		private String poorCount;
-		private String name;//评论内容
-	   private List<String> comments;
-   
-	  private String shopType;
 
 
 	public List<String> getComments() {
