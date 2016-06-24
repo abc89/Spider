@@ -1,0 +1,1481 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="renderer" content="webkit">
+<meta http-equiv="Cache-Control" content="max-age=300" />
+<link rel="dns-prefetch" href="//search.jd.com" /><link rel="dns-prefetch" href="//item.jd.com" /><link rel="dns-prefetch" href="//list.jd.com" /><link rel="dns-prefetch" href="//p.3.cn" /><link rel="dns-prefetch" href="//misc.360buyimg.com" /><link rel="dns-prefetch" href="//nfa.jd.com" /><link rel="dns-prefetch" href="//d.jd.com" /><link rel="dns-prefetch" href="//img12.360buyimg.com" /><link rel="dns-prefetch" href="//img13.360buyimg.com" /><link rel="dns-prefetch" href="//static.360buyimg.com" /><link rel="dns-prefetch" href="//csc.jd.com" /><link rel="dns-prefetch" href="//mercury.jd.com" /><link rel="dns-prefetch" href="//x.jd.com" /><link rel="dns-prefetch" href="//wl.jd.com" /><title>篮球 - 商品搜索 - 京东</title><meta name="Keywords" content="篮球,京东篮球" /><meta name="description" content="在京东中找到了415655件篮球的类似商品，其中包含了“体育用品”，“洗护用品”，“客厅家具”，“积木拼插”等类型的篮球的商品。" /><script>
+window.jdpts={};jdpts._st=new Date().getTime();window.pageConfig={
+	compatible: false,
+	searchType: 0,
+	floatnav: 1,
+	price_pdos_off: 0,
+	actName: '',
+	queryParam: {
+		c1: '',
+		c2: '',
+		c3: '',
+		brand: '',
+		price: '',
+		keyword: '篮球',
+		page: '1'
+	}
+};
+window.searchUnit={
+	resizeOnebox: function(g,f,j){var g=parseInt(g),i=typeof f,h=typeof j;if(!isNaN(g)){if("string"==i&&f!=""&&g>0){$("#J_oneBoxFrame_"+f).css("height",g+10);h=="function"&&j()}else{if(i=="undefined"||i=="function"){$("#virtualWareIFrame").css("height",g>0?g+10:0);i=="function"&&f()}}}},
+	resizeShopbox: function(e,d){var f=0;switch(e){case 1:case 2:f=145;break;case 3:f=75;break;case 4:f=80;break;default:break}f&&$("#shopboxIFrame").css("height",f).show();typeof(d)=="string"&&(new Image().src=d)},
+	coupon: {}};
+window.QUERY_KEYWORD='篮球';
+window.REAL_KEYWORD='篮球';
+</script>
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/jdf/1.0.0/unit/??ui-base/1.0.0/ui-base.css,shortcut/2.0.0/shortcut.css,global-header/1.0.0/global-header.css,myjd/2.0.0/myjd.css,nav/2.0.0/nav.css,shoppingcart/2.0.0/shoppingcart.css,global-footer/1.0.0/global-footer.css,service/1.0.0/service.css,basePatch/1.0.0/basePatch.css" />
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/product/search/0.0.17/css/search.css" />
+<script type="text/javascript" src="//misc.360buyimg.com/??jdf/lib/jquery-1.6.4.js,jdf/1.0.0/unit/base/1.0.0/base.js"></script>
+<script>
+window.SEARCH = {
+	cid: 1698,
+	ui_ver: '0.0.17',
+	c_category: 0,
+	p_category: 0,
+	activity_id: 0,
+	enable_adv: 1,
+	enable_presale: 1,
+	enable_prom_adwords: 1,
+	enable_prom_flag: 1,
+	enable_price: 1,
+	enable_stock: 1,
+	enable_yyk: 0,
+	is_correct_hash: function(e){var a=["keyword","brand_id","activity_id","coupon_batch"];for(var c=0,b=a.length;c<b;c++){var d=new RegExp("(^|\\?|&)"+a[c]+"=([^&]*)(\\s|&|$)");if(d.test(e)){return true}}return false},
+	get_real_hash: function(){var a=window.location.hash.substr(1);if(a&&$.browser.mozilla){return location.href.substr(location.href.indexOf("#")+1)}else{return a}}
+};
+(function(a,b){var c=b.get_real_hash();if(b.is_correct_hash(c)){a.location.href=a.location.pathname+"?"+c;return false}else{if(a.self!=a.top||$.browser.msie&&$.browser.version<=9){var f=null,e=function(){var d=$(a).width();return 1210>d?$("html").removeClass():$("html").removeClass().addClass(d>=1210&&1390>d?"resp01":"resp02"),true};e();$(a).resize(function(){clearTimeout(f),f=setTimeout(e,20)})}}})(window,SEARCH);
+</script>
+</head>
+<body>
+<div id="shortcut-2014">
+	<div class="w">
+    	<ul class="fl" clstag="shangpin|keycount|toplist1|a01">
+    		<li class="dorpdown" id="ttbar-mycity"></li>
+    	</ul>
+    	<ul class="fr">
+			<li class="fore1" id="ttbar-login" clstag="shangpin|keycount|toplist1|a02">
+				<a target="_blank" href="javascript:login();" class="link-login">你好，请登录</a>&nbsp;&nbsp;<a href="javascript:regist();" class="link-regist style-red">免费注册</a>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore2" clstag="shangpin|keycount|toplist1|a03">
+				<div class="dt">
+					<a target="_blank" href="//order.jd.com/center/list.action">我的订单</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore3 dorpdown" id="ttbar-myjd" clstag="shangpin|keycount|toplist1|a04">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>
+					<a target="_blank" href="//home.jd.com/">我的京东</a>
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore4" clstag="shangpin|keycount|toplist1|a05">
+				<div class="dt">
+					<a target="_blank" href="//vip.jd.com/">京东会员</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore5" clstag="shangpin|keycount|toplist1|a06">
+				<div class="dt">
+					<a target="_blank" href="//b.jd.com/">企业采购</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore6 dorpdown" id="ttbar-apps" clstag="shangpin|keycount|toplist1|a07">
+				<div class="dt cw-icon">
+					<i class="ci-left"></i>
+					<i class="ci-right"><s>◇</s></i>
+					<a target="_blank" href="//app.jd.com/">手机京东</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore7 dorpdown" id="ttbar-atte" clstag="shangpin|keycount|toplist1|a08">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>关注京东
+				</div>	
+			</li>
+			<li class="spacer"></li>
+			<li class="fore8 dorpdown" id="ttbar-serv" clstag="shangpin|keycount|toplist1|a09">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>客户服务
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore9 dorpdown" id="ttbar-navs" clstag="shangpin|keycount|toplist1|a10">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>网站导航
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+    	</ul>
+		<span class="clr"></span>
+    </div>
+</div>
+<div id="o-header-2013"><div id="header-2013" style="display:none;"></div></div><div class="w">
+    <div id="logo-2014">
+    	<a href="//www.jd.com/" class="logo" clstag="shangpin|keycount|toplist1|b01">京东</a>
+    </div>
+    <div id="search-2014" >
+		<ul id="shelper" class="hide"></ul>
+		<div class="form">
+			<input type="text" onkeydown="javascript:if(event.keyCode==13) search('key');" autocomplete="off" id="key" accesskey="s" class="text" clstag="shangpin|keycount|toplist1|b02" />
+			<button onclick="search('key');return false;" class="button cw-icon" clstag="shangpin|keycount|toplist1|b03"><i></i>搜索</button>
+		</div>
+    </div>
+    <div id="settleup-2014" class="dorpdown">
+		<div class="cw-icon">
+			<i class="ci-left"></i>
+			<i class="ci-right">&gt;</i>
+			<a target="_blank" href="//cart.jd.com/cart.action" clstag="shangpin|keycount|toplist1|b05">我的购物车</a>
+		</div>
+		<div class="dorpdown-layer">
+			<div class="spacer"></div>
+			<div id="settleup-content">
+				<span class="loading"></span>
+			</div>
+		</div>
+	</div>
+    <div id="hotwords" clstag="shangpin|keycount|toplist1|b04"></div>
+    <span class="clr"></span>
+</div>
+<div id="nav-2014">
+    <div class="w">
+        <div class="w-spacer"></div>
+		<div id="categorys-2014" class="dorpdown" data-type="default">
+			<div class="dt" clstag="shangpin|keycount|toplist1|c01">
+				<a target="_blank" href="//www.jd.com/allSort.aspx">全部商品分类</a>
+			</div>
+		</div>
+		<div id="navitems-2014">
+			<ul id="navitems-group1">
+				<li id="nav-home" class="fore1" clstag="shangpin|keycount|toplist1|c02">
+					<a target="_blank" href="//www.jd.com/">首页</a>
+				</li>
+				<li id="nav-fashion" class="fore2" clstag="shangpin|keycount|toplist1|c03">
+					<a target="_blank" href="//fashion.jd.com/">服装城</a>
+				</li>
+				<li id="nav-beauty" class="fore3" clstag="shangpin|keycount|toplist1|c04">
+					<a target="_blank" href="//channel.jd.com/beautysale.html">美妆馆</a>
+				</li>
+				<li id="nav-chaoshi" class="fore4" clstag="shangpin|keycount|toplist1|c05">
+					<a target="_blank" href="//channel.jd.com/chaoshi.html">超市</a>
+				</li>
+				<li id="nav-jdww" class="fore5" clstag="shangpin|keycount|toplist1|c06">
+					<a target="_blank" href="//www.jd.hk/">全球购</a>
+				</li>
+			</ul>
+			<div class="spacer"></div>
+			<ul id="navitems-group2">
+				<li id="nav-red" class="fore6" clstag="shangpin|keycount|toplist1|c07">
+					<a target="_blank" href="//red.jd.com/">闪购</a>
+				</li>
+				<li id="nav-tuan" class="fore7" clstag="shangpin|keycount|toplist1|c08">
+					<a target="_blank" href="//tuan.jd.com/">团购</a>
+				</li>
+				<li id="nav-auction" class="fore8" clstag="shangpin|keycount|toplist1|c09">
+					<a target="_blank" href="//paimai.jd.com/">拍卖</a>
+				</li>
+				<li id="nav-jr" class="fore9" clstag="shangpin|keycount|toplist1|c010">
+					<a target="_blank" href="//jr.jd.com/">金融</a>
+				</li>
+			</ul>
+		</div>
+        <div id="treasure"></div>
+        <span class="clr"></span>
+    </div>
+</div><div id="J_searchWrap" class="w">
+<div id="J_crumbsBar" class="crumbs-bar">
+	<div id="J_giftBox" class="cb-gift">
+		<div class="cb-gift-trigger"><i class="ico-gift"></i><span class="txt"><a href="//gift.jd.com" target="_blank">京东帮您选礼物</a></span></div>
+		<div class="cb-gift-main">
+			<div class="cb-gift-filter"><div class="title">送给谁：</div><ul class="cb-gift-filter-list clearfix"></ul></div>
+			<div class="cb-gift-filter"><div class="title">啥时送：</div><ul class="cb-gift-filter-list clearfix"></ul></div>
+			<div class="gift-btnbox"><a href="javascript:;" class="btn btn-primary btn-XL">搜索</a></div>
+		</div>
+	</div>
+	<div class="crumbs-nav">
+		<div class="crumbs-nav-main clearfix">
+			<div class="crumbs-nav-item">
+				<div class="crumbs-first"><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3">全部结果</a></div>
+			</div>
+			<i class="crumbs-arrow">&gt;</i>
+			<div class="crumbs-nav-item">
+				<strong class="search-key">"篮球"</strong>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="J_boxSearch" style="display:none;"></div>
+<div id="J_container" class="container">
+<div id="J_selector" class="selector">
+<div class="J_selectorLine s-brand">
+	<div class="sl-wrap">
+		<div class="sl-key"><strong>品牌：</strong></div>
+		<div class="sl-value">
+			<ul class="sl-b-letter J_brandLetter" onclick="searchlog(1,0,0,48)"><li data-initial="0" class="curr">所有品牌</li><li data-initial="a">A</li><li data-initial="b">B</li><li data-initial="c">C</li><li data-initial="d">D</li><li data-initial="e">E</li><li data-initial="g">G</li><li data-initial="h">H</li><li data-initial="j">J</li><li data-initial="k">K</li><li data-initial="l">L</li><li data-initial="m">M</li><li data-initial="n">N</li><li data-initial="o">O</li><li data-initial="p">P</li><li data-initial="q">Q</li><li data-initial="r">R</li><li data-initial="s">S</li><li data-initial="t">T</li><li data-initial="w">W</li><li data-initial="x">X</li><li data-initial="y">Y</li><li data-initial="z">Z</li><li data-initial="other">其它</li></ul>			<div class="sl-b-search J_brandSearch">
+				<i></i><input type="text" class="input-txt placehoder" data-placehoder="可输入拼音、汉字查找品牌">
+			</div>
+			<div class="clr"></div>
+			<div class="sl-v-logos">
+				<ul class="J_valueList v-fixed">
+					<li id="brand-84890" data-initial="s" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E6%96%AF%E4%BC%AF%E4%B8%81%EF%BC%88SPALDING%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,0,71,'品牌::斯伯丁（SPALDING）')" title="斯伯丁（SPALDING）">
+							<i></i>斯伯丁（SPALDING）						</a>
+					</li>
+					<li id="brand-30338" data-initial="n" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E8%80%90%E5%85%8B%EF%BC%88NIKE%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,1,71,'品牌::耐克（NIKE）')" title="耐克（NIKE）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2431/118/1111498735/2783/f3a7c803/5679f249N3029f1e7.jpg" width="102" height="36">耐克（NIKE）						</a>
+					</li>
+					<li id="brand-147009" data-initial="l" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E6%9D%8E%E5%AE%81%EF%BC%88LI-NING%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,2,71,'品牌::李宁（LI-NING）')" title="李宁（LI-NING）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2836/314/2198130755/3154/735c3f49/575d1973N3198f5a7.jpg" width="102" height="36">李宁（LI-NING）						</a>
+					</li>
+					<li id="brand-8768" data-initial="h" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%81%AB%E8%BD%A6%EF%BC%88Train%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,3,71,'品牌::火车（Train）')" title="火车（Train）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2395/55/972467474/2420/8509f5ab/56397082N8e899f7b.jpg" width="102" height="36">火车（Train）						</a>
+					</li>
+					<li id="brand-11469" data-initial="l" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%88%A9%E7%94%9F%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,4,71,'品牌::利生')" title="利生">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2974/321/668050060/21994/2beadbd3/57627042N8d0f44ca.jpg" width="102" height="36">利生						</a>
+					</li>
+					<li id="brand-17360" data-initial="w" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%A8%81%E5%B0%94%E8%83%9C%EF%BC%88Wilson%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,5,71,'品牌::威尔胜（Wilson）')" title="威尔胜（Wilson）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2293/246/962365080/5765/8d47208/56397df6N33cd2baa.jpg" width="102" height="36">威尔胜（Wilson）						</a>
+					</li>
+					<li id="brand-156973" data-initial="m" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E6%91%A9%E8%85%BE%EF%BC%88molten%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,6,71,'品牌::摩腾（molten）')" title="摩腾（molten）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2035/145/1208849294/41007/83d0dc81/564c212fNfe12ffe9.jpg" width="102" height="36">摩腾（molten）						</a>
+					</li>
+					<li id="brand-16337" data-initial="s" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E6%96%AF%E5%8A%9B%E5%85%8B%EF%BC%88Silik%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,7,71,'品牌::斯力克（Silik）')" title="斯力克（Silik）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2404/100/1017734605/7559/49fd0404/56397b4fNfdd5ef8f.jpg" width="102" height="36">斯力克（Silik）						</a>
+					</li>
+					<li id="brand-21244" data-initial="z" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%A5%96%E8%BF%AA%E6%96%AF%EF%BC%88JOEREX%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,8,71,'品牌::祖迪斯（JOEREX）')" title="祖迪斯（JOEREX）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1864/251/1862325740/4011/b7630e8f/56e1185fN00d846ac.jpg" width="102" height="36">祖迪斯（JOEREX）						</a>
+					</li>
+					<li id="brand-8331" data-initial="h" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%BA%A2%E5%8F%8C%E5%96%9C%EF%BC%88DHS%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,9,71,'品牌::红双喜（DHS）')" title="红双喜（DHS）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1870/321/1837574768/8279/5fda5bb6/56e115ebNef77d4fc.jpg" width="102" height="36">红双喜（DHS）						</a>
+					</li>
+					<li id="brand-13959" data-initial="p" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%8C%B9%E5%85%8B%EF%BC%88PEAK%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,10,71,'品牌::匹克（PEAK）')" title="匹克（PEAK）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2212/254/1772895124/3942/9e308bbd/5670fb16N76af39a4.jpg" width="102" height="36">匹克（PEAK）						</a>
+					</li>
+					<li id="brand-82807" data-initial="w" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_WITESS%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,11,71,'品牌::WITESS')" title="WITESS">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1990/277/988293350/19133/f5a6b70b/563d6e6dN38ca5010.jpg" width="102" height="36">WITESS						</a>
+					</li>
+					<li id="brand-157052" data-initial="s" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E4%B8%96%E8%BE%BE%EF%BC%88STAR%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,12,71,'品牌::世达（STAR）')" title="世达（STAR）">
+							<i></i>世达（STAR）						</a>
+					</li>
+					<li id="brand-14376" data-initial="q" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E4%B9%94%E4%B8%B9%EF%BC%88QIAODAN%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,13,71,'品牌::乔丹（QIAODAN）')" title="乔丹（QIAODAN）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2713/36/2100648469/7279/d050bd7c/575780a6Na56dfe04.jpg" width="102" height="36">乔丹（QIAODAN）						</a>
+					</li>
+					<li id="brand-10684" data-initial="k" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%8B%82%E8%BF%B7%EF%BC%88kuangmi%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,14,71,'品牌::狂迷（kuangmi）')" title="狂迷（kuangmi）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2734/309/1062592913/4154/757ec13/57342ffaN267c44fd.jpg" width="102" height="36">狂迷（kuangmi）						</a>
+					</li>
+					<li id="brand-10685" data-initial="k" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%8B%82%E7%A5%9E%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,15,71,'品牌::狂神')" title="狂神">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2596/357/1076768054/19324/dd182783/57343013Na66e5337.jpg" width="102" height="36">狂神						</a>
+					</li>
+					<li id="brand-11184" data-initial="l" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E4%B9%90%E5%A3%AB%EF%BC%88Enpex%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,16,71,'品牌::乐士（Enpex）')" title="乐士（Enpex）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2740/39/1126317353/4624/295be065/57343032N20f0e286.jpg" width="102" height="36">乐士（Enpex）						</a>
+					</li>
+					<li id="brand-69912" data-initial="s" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E6%96%AF%E6%B3%A2%E5%85%8B%EF%BC%88SPOCK%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,17,71,'品牌::斯波克（SPOCK）')" title="斯波克（SPOCK）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2008/276/984918201/9514/30ffc25d/563d6607N4ef59466.jpg" width="102" height="36">斯波克（SPOCK）						</a>
+					</li>
+					<li id="brand-2316" data-initial="s" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_SBA305%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,18,71,'品牌::SBA305')" title="SBA305">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2086/169/2492371758/16215/6643a393/56e1050eN2c059da2.jpg" width="102" height="36">SBA305						</a>
+					</li>
+					<li id="brand-20613" data-initial="y" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E8%BF%90%E5%8A%A8%E4%BC%99%E4%BC%B4%EF%BC%88MOTION%20PARTNER%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,19,71,'品牌::运动伙伴（MOTION PARTNER）')" title="运动伙伴（MOTION PARTNER）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2575/203/1439417772/6332/fc1db14/56e1184dNfa60ed6c.jpg" width="102" height="36">运动伙伴（MOTION PARTNER）						</a>
+					</li>
+					<li id="brand-82094" data-initial="s" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%9C%A3%E6%96%AF%E9%A1%BF%EF%BC%88Senston%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20,71,'品牌::圣斯顿（Senston）')" title="圣斯顿（Senston）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t265/115/382822458/41111/50ce4e94/53ead2c7Nbda6e717.jpg" width="102" height="36">圣斯顿（Senston）						</a>
+					</li>
+					<li id="brand-83060" data-initial="m" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_MVP%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,21,71,'品牌::MVP')" title="MVP">
+							<i></i>MVP						</a>
+					</li>
+					<li id="brand-81506" data-initial="a" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%A5%A5%E5%8C%B9%EF%BC%88AOPI%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,22,71,'品牌::奥匹（AOPI）')" title="奥匹（AOPI）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t205/317/2986448980/22954/cca5981e/53d9e633Ne041ccdf.jpg" width="102" height="36">奥匹（AOPI）						</a>
+					</li>
+					<li id="brand-7837" data-initial="h" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E6%B5%B7%E8%80%81%E5%A4%A7%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,23,71,'品牌::海老大')" title="海老大">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2458/232/1078520511/10504/815c7e59/563d6eb7N09c2890b.jpg" width="102" height="36">海老大						</a>
+					</li>
+					<li id="brand-124151" data-initial="a" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%AE%89%E9%AA%86%E8%BE%BE%EF%BC%88ANLODA%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,24,71,'品牌::安骆达（ANLODA）')" title="安骆达（ANLODA）">
+							<i></i>安骆达（ANLODA）						</a>
+					</li>
+					<li id="brand-145072" data-initial="w" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_wade%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,25,71,'品牌::wade')" title="wade">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2086/353/66734402/51938/b3afb0dd/55ebed08N3629d836.jpg" width="102" height="36">wade						</a>
+					</li>
+					<li id="brand-4109" data-initial="b" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%99%BE%E6%96%AF%E9%94%90%EF%BC%88Bestray%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,26,71,'品牌::百斯锐（Bestray）')" title="百斯锐（Bestray）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2320/183/2526215093/6579/19456457/56e11570Na682008b.jpg" width="102" height="36">百斯锐（Bestray）						</a>
+					</li>
+					<li id="brand-138000" data-initial="m" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_MOLTEN%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,27,71,'品牌::MOLTEN')" title="MOLTEN">
+							<i></i>MOLTEN						</a>
+					</li>
+					<li id="brand-74507" data-initial="d" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E8%BF%AA%E7%A7%91%E6%96%AF%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,28,71,'品牌::迪科斯')" title="迪科斯">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2371/230/2533819320/5496/82805d4e/56e112afNef079151.jpg" width="102" height="36">迪科斯						</a>
+					</li>
+					<li id="brand-128923" data-initial="d" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E8%BF%AA%E5%A3%AB%E5%B0%BC%EF%BC%88Disney%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,29,71,'品牌::迪士尼（Disney）')" title="迪士尼（Disney）">
+							<i></i>迪士尼（Disney）						</a>
+					</li>
+					<li id="brand-11988" data-initial="m" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E9%A9%AC%E5%B8%83%E9%87%8C%EF%BC%88Champcar%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30,71,'品牌::马布里（Champcar）')" title="马布里（Champcar）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2236/279/1541350708/3417/3f5f0bba/565fec2dNec20a22f.jpg" width="102" height="36">马布里（Champcar）						</a>
+					</li>
+					<li id="brand-3552" data-initial="a" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%AE%89%E8%B8%8F%EF%BC%88ANTA%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,31,71,'品牌::安踏（ANTA）')" title="安踏（ANTA）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2929/123/482293347/4166/402a8ce0/575d1934Nb59e3dfd.jpg" width="102" height="36">安踏（ANTA）						</a>
+					</li>
+					<li id="brand-67538" data-initial="m" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E9%BA%A6%E8%92%82%EF%BC%88MAIDI%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,32,71,'品牌::麦蒂（MAIDI）')" title="麦蒂（MAIDI）">
+							<i></i>麦蒂（MAIDI）						</a>
+					</li>
+					<li id="brand-95443" data-initial="k" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%A7%91%E6%AF%94%EF%BC%88KEBI%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,33,71,'品牌::科比（KEBI）')" title="科比（KEBI）">
+							<i></i>科比（KEBI）						</a>
+					</li>
+					<li id="brand-72206" data-initial="w" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_WOLK%20WOOK%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,34,71,'品牌::WOLK WOOK')" title="WOLK WOOK">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2422/294/981953066/17846/ab87d37c/563d6e7dNa7a554fc.jpg" width="102" height="36">WOLK WOOK						</a>
+					</li>
+					<li id="brand-102183" data-initial="n" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E4%B9%83%E5%8A%9B%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,35,71,'品牌::乃力')" title="乃力">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t736/330/460005203/32306/121fe6b9/54b4d24eN184bd517.jpg" width="102" height="36">乃力						</a>
+					</li>
+					<li id="brand-91094" data-initial="d" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%BE%97%E5%8A%9B%EF%BC%88deli%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,36,71,'品牌::得力（deli）')" title="得力（deli）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t322/144/1458499571/15527/8b5540af/543b41e4N12341d3e.jpg" width="102" height="36">得力（deli）						</a>
+					</li>
+					<li id="brand-6041" data-initial="d" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%99%BB%E8%B7%AF%E6%99%AE%EF%BC%88DUNLOP%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,37,71,'品牌::登路普（DUNLOP）')" title="登路普（DUNLOP）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2836/258/2329586426/2935/8c35d47a/57612f0cN4408a9d1.jpg" width="102" height="36">登路普（DUNLOP）						</a>
+					</li>
+					<li id="brand-47467" data-initial="b" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%99%BE%E6%96%AF%E5%8D%A1%EF%BC%88BESKA%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,38,71,'品牌::百斯卡（BESKA）')" title="百斯卡（BESKA）">
+							<i></i><img src="//img30.360buyimg.com/popshop/g13/M05/14/15/rBEhU1J1mhcIAAAAAACg3CnO4TYAAE7iwBbcisAAKD0129.jpg" width="102" height="36">百斯卡（BESKA）						</a>
+					</li>
+					<li id="brand-52765" data-initial="" style="display:block;">
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%87%96%E8%80%85%EF%BC%88RIGORER%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,39,71,'品牌::凖者（RIGORER）')" title="凖者（RIGORER）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2380/144/1498741166/2555/bd2a37a8/565fed86Nb7c9cdbf.jpg" width="102" height="36">凖者（RIGORER）						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="sl-b-selected J_brandSelected"><span class="sl-b-key">已选条件：</span><ul class="sl-v-list brand-selected"></ul></div>
+			<div class="sl-btns">
+				<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+				<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+			</div>
+		</div>
+		<div class="sl-ext">
+			<a class="sl-e-more J_extMore" href="javascript:;" data-url="brand.php?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3">更多<i></i></a>
+			<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+		</div>
+	</div>
+</div>
+<div class="J_selectorLine s-line"><div class="sl-wrap"><div class="sl-key"><span>规格：</span></div><div class="sl-value"><div class="sl-v-list"><ul class="J_valueList"><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=540_639368%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,10000,71,'规格::3号\/儿童')"><i></i>3号/儿童</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=540_639367%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,10001,71,'规格::5号\/青少年')"><i></i>5号/青少年</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=540_639365%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,10002,71,'规格::6号\/女篮')"><i></i>6号/女篮</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=540_639364%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,10003,71,'规格::7号\/标准')"><i></i>7号/标准</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=540_3031%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,10004,71,'规格::其它')"><i></i>其它</a></li></ul></div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+						<div class="sl-ext">
+							<a class="sl-e-more J_extMore" href="javascript:;">更多<i></i></a>
+							<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+					</div>
+				</div><div class="J_selectorLine s-line"><div class="sl-wrap"><div class="sl-key"><span>篮球材质：</span></div><div class="sl-value"><div class="sl-v-list"><ul class="J_valueList"><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=111902_48770%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20000,71,'篮球材质::真皮')"><i></i>真皮</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=111902_24361%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20001,71,'篮球材质::PU')"><i></i>PU</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=111902_98653%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20002,71,'篮球材质::橡胶')"><i></i>橡胶</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=111902_89641%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20003,71,'篮球材质::PVC')"><i></i>PVC</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=111902_3031%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20004,71,'篮球材质::其它')"><i></i>其它</a></li></ul></div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+						<div class="sl-ext">
+							<a class="sl-e-more J_extMore" href="javascript:;">更多<i></i></a>
+							<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+					</div>
+				</div><div id="J_selectorPrice" class="J_selectorLine s-line">
+	<div class="sl-wrap">
+		<div class="sl-key"><span>价格：</span></div>
+		<div class="sl-value">
+			<div class="sl-v-list">
+				<ul class="J_valueList">
+					<li>
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_0-59%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30000,71,'价格::0-59')"><i></i>0-59</a>
+					</li>
+					<li>
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_60-199%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30001,71,'价格::60-199')"><i></i>60-199</a>
+					</li>
+					<li>
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_200-299%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30002,71,'价格::200-299')"><i></i>200-299</a>
+					</li>
+					<li>
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_300-399%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30003,71,'价格::300-399')"><i></i>300-399</a>
+					</li>
+					<li>
+						<a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_400gt%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30004,71,'价格::400以上')"><i></i>400以上</a>
+					</li>
+				</ul>
+				<div class="sl-price">
+					<input type="text" class="input-txt" value=""><em>-</em><input type="text" class="input-txt" value=""><a href="javascript:;" class="btn btn-default" data-url="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_min-max%40&uc=0#J_crumbsBar">确定</a>
+				</div>
+			</div>
+			<div class="sl-btns">
+				<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+				<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+			</div>
+		</div>
+		<div class="sl-ext">
+			<a class="sl-e-more J_extMore" href="javascript:;">更多<i></i></a>
+			<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+		</div>
+	</div>
+</div><div id="J_selectorSenior" class="J_selectorLine s-line s-senior">
+	<div class="sl-wrap">
+		<div class="sl-key"><span>高级选项：</span></div>
+		<div class="sl-value">
+			<div class="sl-v-tab">
+				<div class="sl-tab-trigger clearfix">
+					<a class="trig-item" href="javascript:;"><span class="text">大家说</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">其他分类</span><i class="arrow"></i></a>
+				</div>
+			</div>
+		</div>
+		<div class="sl-tab-cont">
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=536870917_536895322%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40000,71,'大家说::质量不错')"><i></i>质量不错</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=536870917_536895407%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40001,71,'大家说::手感不错')"><i></i>手感不错</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=536870917_536895856%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40002,71,'大家说::弹性很好')"><i></i>弹性很好</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=536870917_536895913%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40003,71,'大家说::老公很喜欢')"><i></i>老公很喜欢</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=536870917_536895190%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40004,71,'大家说::价格便宜')"><i></i>价格便宜</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=536870917_536895197%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40005,71,'大家说::快递很给力')"><i></i>快递很给力</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=536870917_536895285%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40006,71,'大家说::外观不错')"><i></i>外观不错</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=536870917_536902971%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40007,71,'大家说::给孩子买的')"><i></i>给孩子买的</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1466#J_crumbsBar" rel="nofollow" data-v="1466" onclick="searchlog(1,1466,50000,51)"><i></i>体育用品</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=1555#J_crumbsBar" rel="nofollow" data-v="1555" onclick="searchlog(1,1555,50001,51)"><i></i>洗发沐浴</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=9870#J_crumbsBar" rel="nofollow" data-v="9870" onclick="searchlog(1,9870,50002,51)"><i></i>沙发</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=11142#J_crumbsBar" rel="nofollow" data-v="11142" onclick="searchlog(1,11142,50003,51)"><i></i>休闲椅/凳</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=6280#J_crumbsBar" rel="nofollow" data-v="6280" onclick="searchlog(1,6280,50004,51)"><i></i>积木</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=6282#J_crumbsBar" rel="nofollow" data-v="6282" onclick="searchlog(1,6282,50005,51)"><i></i>拼图</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=7017#J_crumbsBar" rel="nofollow" data-v="7017" onclick="searchlog(1,7017,50006,51)"><i></i>猫狗窝</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=12198#J_crumbsBar" rel="nofollow" data-v="12198" onclick="searchlog(1,12198,50007,51)"><i></i>待产护理</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=11922#J_crumbsBar" rel="nofollow" data-v="11922" onclick="searchlog(1,11922,50008,51)"><i></i>洗发</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=4699#J_crumbsBar" rel="nofollow" data-v="4699" onclick="searchlog(1,4699,50009,51)"><i></i>假发</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=6268#J_crumbsBar" rel="nofollow" data-v="6268" onclick="searchlog(1,6268,50010,51)"><i></i>户外玩具</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=6265#J_crumbsBar" rel="nofollow" data-v="6265" onclick="searchlog(1,6265,50011,51)"><i></i>炫舞毯</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=12102#J_crumbsBar" rel="nofollow" data-v="12102" onclick="searchlog(1,12102,50012,51)"><i></i>运动服饰</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=11842#J_crumbsBar" rel="nofollow" data-v="11842" onclick="searchlog(1,11842,50013,51)"><i></i>童装童鞋</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=12099#J_crumbsBar" rel="nofollow" data-v="12099" onclick="searchlog(1,12099,50014,51)"><i></i>运动鞋包</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1463#J_crumbsBar" rel="nofollow" data-v="1463" onclick="searchlog(1,1463,50015,51)"><i></i>健身训练</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=12115#J_crumbsBar" rel="nofollow" data-v="12115" onclick="searchlog(1,12115,50016,51)"><i></i>骑行运动</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1462#J_crumbsBar" rel="nofollow" data-v="1462" onclick="searchlog(1,1462,50017,51)"><i></i>户外装备</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=2628#J_crumbsBar" rel="nofollow" data-v="2628" onclick="searchlog(1,2628,50018,51)"><i></i>户外鞋服</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=12147#J_crumbsBar" rel="nofollow" data-v="12147" onclick="searchlog(1,12147,50019,51)"><i></i>垂钓用品</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=12154#J_crumbsBar" rel="nofollow" data-v="12154" onclick="searchlog(1,12154,50020,51)"><i></i>游泳用品</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1345#J_crumbsBar" rel="nofollow" data-v="1345" onclick="searchlog(1,1345,50021,51)"><i></i>内衣</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1346#J_crumbsBar" rel="nofollow" data-v="1346" onclick="searchlog(1,1346,50022,51)"><i></i>服饰配件</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1342#J_crumbsBar" rel="nofollow" data-v="1342" onclick="searchlog(1,1342,50023,51)"><i></i>男装</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1343#J_crumbsBar" rel="nofollow" data-v="1343" onclick="searchlog(1,1343,50024,51)"><i></i>女装</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6264#J_crumbsBar" rel="nofollow" data-v="6264" onclick="searchlog(1,6264,50025,51)"><i></i>动漫玩具</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6279#J_crumbsBar" rel="nofollow" data-v="6279" onclick="searchlog(1,6279,50026,51)"><i></i>DIY玩具</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6271#J_crumbsBar" rel="nofollow" data-v="6271" onclick="searchlog(1,6271,50027,51)"><i></i>益智玩具</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6234#J_crumbsBar" rel="nofollow" data-v="6234" onclick="searchlog(1,6234,50028,51)"><i></i>适用年龄</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6289#J_crumbsBar" rel="nofollow" data-v="6289" onclick="searchlog(1,6289,50029,51)"><i></i>创意减压</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6253#J_crumbsBar" rel="nofollow" data-v="6253" onclick="searchlog(1,6253,50030,51)"><i></i>模型玩具</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6236#J_crumbsBar" rel="nofollow" data-v="6236" onclick="searchlog(1,6236,50031,51)"><i></i>毛绒布艺</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=11730#J_crumbsBar" rel="nofollow" data-v="11730" onclick="searchlog(1,11730,50032,51)"><i></i>流行男鞋</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=11731#J_crumbsBar" rel="nofollow" data-v="11731" onclick="searchlog(1,11731,50033,51)"><i></i>时尚女鞋</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6313#J_crumbsBar" rel="nofollow" data-v="6313" onclick="searchlog(1,6313,50034,51)"><i></i>寝居服饰</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1528#J_crumbsBar" rel="nofollow" data-v="1528" onclick="searchlog(1,1528,50035,51)"><i></i>童车童床</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1526#J_crumbsBar" rel="nofollow" data-v="1526" onclick="searchlog(1,1526,50036,51)"><i></i>喂养用品</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=2599#J_crumbsBar" rel="nofollow" data-v="2599" onclick="searchlog(1,2599,50037,51)"><i></i>礼品</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=2577#J_crumbsBar" rel="nofollow" data-v="2577" onclick="searchlog(1,2577,50038,51)"><i></i>功能箱包</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=2576#J_crumbsBar" rel="nofollow" data-v="2576" onclick="searchlog(1,2576,50039,51)"><i></i>精品男包</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=2575#J_crumbsBar" rel="nofollow" data-v="2575" onclick="searchlog(1,2575,50040,51)"><i></i>潮流女包</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3288#J_crumbsBar" rel="nofollow" data-v="3288" onclick="searchlog(1,3288,50041,51)"><i></i>体育/运动</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=11047#J_crumbsBar" rel="nofollow" data-v="11047" onclick="searchlog(1,11047,50042,51)"><i></i>大中专教材教辅</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=4758#J_crumbsBar" rel="nofollow" data-v="4758" onclick="searchlog(1,4758,50043,51)"><i></i>杂志/期刊</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3261#J_crumbsBar" rel="nofollow" data-v="3261" onclick="searchlog(1,3261,50044,51)"><i></i>传记</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3263#J_crumbsBar" rel="nofollow" data-v="3263" onclick="searchlog(1,3263,50045,51)"><i></i>少儿</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3272#J_crumbsBar" rel="nofollow" data-v="3272" onclick="searchlog(1,3272,50046,51)"><i></i>动漫</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=4855#J_crumbsBar" rel="nofollow" data-v="4855" onclick="searchlog(1,4855,50047,51)"><i></i>进口原版</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6929#J_crumbsBar" rel="nofollow" data-v="6929" onclick="searchlog(1,6929,50048,51)"><i></i>港台图书</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3269#J_crumbsBar" rel="nofollow" data-v="3269" onclick="searchlog(1,3269,50049,51)"><i></i>健身与保健</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3259#J_crumbsBar" rel="nofollow" data-v="3259" onclick="searchlog(1,3259,50050,51)"><i></i>文学</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3291#J_crumbsBar" rel="nofollow" data-v="3291" onclick="searchlog(1,3291,50051,51)"><i></i>外语学习</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3262#J_crumbsBar" rel="nofollow" data-v="3262" onclick="searchlog(1,3262,50052,51)"><i></i>艺术</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3289#J_crumbsBar" rel="nofollow" data-v="3289" onclick="searchlog(1,3289,50053,51)"><i></i>中小学教辅</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3285#J_crumbsBar" rel="nofollow" data-v="3285" onclick="searchlog(1,3285,50054,51)"><i></i>医学</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3279#J_crumbsBar" rel="nofollow" data-v="3279" onclick="searchlog(1,3279,50055,51)"><i></i>心理学</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3267#J_crumbsBar" rel="nofollow" data-v="3267" onclick="searchlog(1,3267,50056,51)"><i></i>励志与成功</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3265#J_crumbsBar" rel="nofollow" data-v="3265" onclick="searchlog(1,3265,50057,51)"><i></i>金融与投资</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3260#J_crumbsBar" rel="nofollow" data-v="3260" onclick="searchlog(1,3260,50058,51)"><i></i>青春文学</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=11158#J_crumbsBar" rel="nofollow" data-v="11158" onclick="searchlog(1,11158,50059,51)"><i></i>家装软饰</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1624#J_crumbsBar" rel="nofollow" data-v="1624" onclick="searchlog(1,1624,50060,51)"><i></i>生活日用</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1621#J_crumbsBar" rel="nofollow" data-v="1621" onclick="searchlog(1,1621,50061,51)"><i></i>家纺</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1623#J_crumbsBar" rel="nofollow" data-v="1623" onclick="searchlog(1,1623,50062,51)"><i></i>灯具</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1625#J_crumbsBar" rel="nofollow" data-v="1625" onclick="searchlog(1,1625,50063,51)"><i></i>清洁用品</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1381#J_crumbsBar" rel="nofollow" data-v="1381" onclick="searchlog(1,1381,50064,51)"><i></i>面部护肤</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9394#J_crumbsBar" rel="nofollow" data-v="9394" onclick="searchlog(1,9394,50065,51)"><i></i>游戏</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9105#J_crumbsBar" rel="nofollow" data-v="9105" onclick="searchlog(1,9105,50066,51)"><i></i>影视/动漫周边</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=4089#J_crumbsBar" rel="nofollow" data-v="4089" onclick="searchlog(1,4089,50067,51)"><i></i>生活百科</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=4091#J_crumbsBar" rel="nofollow" data-v="4091" onclick="searchlog(1,4091,50068,51)"><i></i>卡通/动画</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=4087#J_crumbsBar" rel="nofollow" data-v="4087" onclick="searchlog(1,4087,50069,51)"><i></i>专题栏目/纪录片</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=4085#J_crumbsBar" rel="nofollow" data-v="4085" onclick="searchlog(1,4085,50070,51)"><i></i>电影</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=830#J_crumbsBar" rel="nofollow" data-v="830" onclick="searchlog(1,830,50071,51)"><i></i>手机配件</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9197#J_crumbsBar" rel="nofollow" data-v="9197" onclick="searchlog(1,9197,50072,51)"><i></i>保健器械</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=12190#J_crumbsBar" rel="nofollow" data-v="12190" onclick="searchlog(1,12190,50073,51)"><i></i>护理护具</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6745#J_crumbsBar" rel="nofollow" data-v="6745" onclick="searchlog(1,6745,50074,51)"><i></i>汽车装饰</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6742#J_crumbsBar" rel="nofollow" data-v="6742" onclick="searchlog(1,6742,50075,51)"><i></i>维修保养</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6747#J_crumbsBar" rel="nofollow" data-v="6747" onclick="searchlog(1,6747,50076,51)"><i></i>安全自驾</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6182#J_crumbsBar" rel="nofollow" data-v="6182" onclick="searchlog(1,6182,50077,51)"><i></i>时尚饰品</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6145#J_crumbsBar" rel="nofollow" data-v="6145" onclick="searchlog(1,6145,50078,51)"><i></i>黄金</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=729#J_crumbsBar" rel="nofollow" data-v="729" onclick="searchlog(1,729,50079,51)"><i></i>文具/耗材</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=12800#J_crumbsBar" rel="nofollow" data-v="12800" onclick="searchlog(1,12800,50080,51)"><i></i>游戏设备</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=686#J_crumbsBar" rel="nofollow" data-v="686" onclick="searchlog(1,686,50081,51)"><i></i>外设产品</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=671#J_crumbsBar" rel="nofollow" data-v="671" onclick="searchlog(1,671,50082,51)"><i></i>电脑整机</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6999#J_crumbsBar" rel="nofollow" data-v="6999" onclick="searchlog(1,6999,50083,51)"><i></i>宠物玩具</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9856#J_crumbsBar" rel="nofollow" data-v="9856" onclick="searchlog(1,9856,50084,51)"><i></i>灯饰照明</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9858#J_crumbsBar" rel="nofollow" data-v="9858" onclick="searchlog(1,9858,50085,51)"><i></i>五金工具</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9860#J_crumbsBar" rel="nofollow" data-v="9860" onclick="searchlog(1,9860,50086,51)"><i></i>墙地面材料</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=5026#J_crumbsBar" rel="nofollow" data-v="5026" onclick="searchlog(1,5026,50087,51)"><i></i>钟表</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6219#J_crumbsBar" rel="nofollow" data-v="6219" onclick="searchlog(1,6219,50088,51)"><i></i>水具酒具</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=5289#J_crumbsBar" rel="nofollow" data-v="5289" onclick="searchlog(1,5289,50089,51)"><i></i>养生保健</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=10941#J_crumbsBar" rel="nofollow" data-v="10941" onclick="searchlog(1,10941,50090,51)"><i></i>网络原创</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=5301#J_crumbsBar" rel="nofollow" data-v="5301" onclick="searchlog(1,5301,50091,51)"><i></i>社会科学</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9852#J_crumbsBar" rel="nofollow" data-v="9852" onclick="searchlog(1,9852,50092,51)"><i></i>储物家具</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9854#J_crumbsBar" rel="nofollow" data-v="9854" onclick="searchlog(1,9854,50093,51)"><i></i>商业办公</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=4103#J_crumbsBar" rel="nofollow" data-v="4103" onclick="searchlog(1,4103,50094,51)"><i></i>亲子幼教</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=4119#J_crumbsBar" rel="nofollow" data-v="4119" onclick="searchlog(1,4119,50095,51)"><i></i>其他</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=4066#J_crumbsBar" rel="nofollow" data-v="4066" onclick="searchlog(1,4066,50096,51)"><i></i>影视音乐</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1583#J_crumbsBar" rel="nofollow" data-v="1583" onclick="searchlog(1,1583,50097,51)"><i></i>休闲食品</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=12202#J_crumbsBar" rel="nofollow" data-v="12202" onclick="searchlog(1,12202,50098,51)"><i></i>茗茶</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=828#J_crumbsBar" rel="nofollow" data-v="828" onclick="searchlog(1,828,50099,51)"><i></i>影音娱乐</a></li><li><a href="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=12479#J_crumbsBar" rel="nofollow" data-v="12479" onclick="searchlog(1,12479,50100,51)"><i></i>园林/农耕</a></li>					</ul>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<div id="J_main" class="g-main2">
+	<div class="m-list">
+		<div class="ml-wrap">
+			<div id="J_filter" class="filter">
+				<div class="f-line top">
+					<div class="f-sort">						<a class="curr" href="javascript:;">综合排序<i></i></a>
+						<a class="" href="javascript:;">销量<i></i></a>
+						<a class="" href="javascript:;">价格<i></i></a>
+						<a class="" href="javascript:;">评论数<i></i></a>
+						<a class="" href="javascript:;">新品<i></i></a>
+					</div>
+					<div class="f-search">
+						<input type="text" value="在结果中搜索" class="input-txt">
+						<a data-type="all" data-field="exp_key" class="btn btn-default" data-url="search?keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&exp_key=" href="javascript:;">确定</a>
+					</div>
+					<div id="J_topPage" class="f-pager">
+						<span class="fp-text">
+							<b>1</b><em>/</em><i>200</i>
+						</span>
+						<a class="fp-prev disabled" href="javascript:;">&lt;</a>
+						<a class="fp-next" href="javascript:;">&gt;</a>
+					</div>
+					<div class="f-result-sum">共<span id="J_resCount" class="num">41.6万</span>件商品</div>
+					<span class="clr"></span>
+				</div>
+				<div class="f-line">
+					<div class="f-store">
+						<div class="fs-cell delivery-location">配送至</div>
+						<div id="store-selector" class="">
+							<div class="text">北京<b></b></div>
+							<div class="content"></div>
+							<div class="close" onclick="$('#store-selector').removeClass('hover')"></div>
+						</div>
+					</div>
+					<div id="J_feature" class="f-feature">
+						<ul>
+							<li><a data-field="wtype" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,43)"><i></i>京东配送</a></li>
+							<li><a data-field="cod" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,34)"><i></i>货到付款</a></li>
+							<li><a data-field="stock" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,41)"><i></i>仅显示有货</a></li>
+						</ul>
+					</div>
+					<div id="J_viewType" class="f-type" data-ref="1">
+						<a class="ft-item shop" href="javascript:;" data-value="3" onclick="searchlog(1,0,0,28)"><i class="i-shop"></i>店铺</a>
+						<a class="ft-item grid selected" href="javascript:;" data-value="2" onclick="searchlog(1,0,0,45)"><i class="i-grid"></i>商品</a>
+					</div>
+					<span class="clr"></span>
+				</div>
+			</div>
+<div id="J_goodsList" class="goods-list-v1 gl-type-1 J-goods-list"><ul class="gl-warp clearfix" data-tpl="1"><li data-sku="1060746" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="Spalding 斯伯丁 74-221/74-604Y PU材质 室内外兼用 比赛用篮球" href="//item.jd.com/1060746.html" onclick="searchlog(1,1060746,0,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img11.360buyimg.com/n7/jfs/t2296/30/1114503806/863408/efee4906/567a44c2Nd5efa718.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000004451" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1060746" data-price="156.00"><em>¥</em><i>156.00</i></strong>						<div class="p-icons" id="J_pro_1060746"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="Spalding 斯伯丁 74-221/74-604Y PU材质 室内外兼用 比赛用篮球" href="//item.jd.com/1060746.html" onclick="searchlog(1,1060746,0,1,'','flagsClk=4194952')">
+							<em>Spalding 斯伯丁 74-221/74-604Y PU材质 室内外兼用 比赛用<font class="skcolor_ljg">篮球</font></em>
+							<i class="promo-words" id="J_AD_1060746"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1060746" target="_blank" href="//item.jd.com/1060746.html#comments-list" onclick="searchlog(1,1060746,0,3,'','flagsClk=4194952')">62661</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1060746" href="javascript:;" onclick="searchlog(1,1060746,0,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1060746" href="javascript:;" onclick="searchlog(1,1060746,0,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1060746" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1060746&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1060746,0,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1205285" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="Spalding 斯伯丁 74-418 PRIME TIME 涂鸦系列 篮球 PU材质" href="//item.jd.com/1205285.html" onclick="searchlog(1,1205285,1,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img10.360buyimg.com/n7/jfs/t1723/204/692144966/346164/ad9a0607/55d6de02Nbe2ef12f.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000004451" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1205285" data-price="114.00"><em>¥</em><i>114.00</i></strong>						<div class="p-icons" id="J_pro_1205285"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="Spalding 斯伯丁 74-418 PRIME TIME 涂鸦系列 篮球 PU材质" href="//item.jd.com/1205285.html" onclick="searchlog(1,1205285,1,1,'','flagsClk=4194952')">
+							<em>Spalding 斯伯丁 74-418 PRIME TIME 涂鸦系列 <font class="skcolor_ljg">篮球</font> PU材质</em>
+							<i class="promo-words" id="J_AD_1205285"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1205285" target="_blank" href="//item.jd.com/1205285.html#comments-list" onclick="searchlog(1,1205285,1,3,'','flagsClk=4194952')">62650</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1205285" href="javascript:;" onclick="searchlog(1,1205285,1,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1205285" href="javascript:;" onclick="searchlog(1,1205285,1,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1205285" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1205285&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1205285,1,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="664768" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="火车头Train7号进口牛皮篮球D950" href="//item.jd.com/664768.html" onclick="searchlog(1,664768,2,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img13.360buyimg.com/n7/jfs/t2242/263/2649895837/480742/d4e17e3a/57103fc0Nf48f8afa.jpg" />
+						</a>
+						<div data-ico="0" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_664768" data-price="145.00"><em>¥</em><i>145.00</i></strong>						<div class="p-icons" id="J_pro_664768"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="火车头Train7号进口牛皮篮球D950" href="//item.jd.com/664768.html" onclick="searchlog(1,664768,2,1,'','flagsClk=4194952')">
+							<em>火车头Train7号进口牛皮<font class="skcolor_ljg">篮球</font>D950</em>
+							<i class="promo-words" id="J_AD_664768"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_664768" target="_blank" href="//item.jd.com/664768.html#comments-list" onclick="searchlog(1,664768,2,3,'','flagsClk=4194952')">4876</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="664768" href="javascript:;" onclick="searchlog(1,664768,2,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="664768" href="javascript:;" onclick="searchlog(1,664768,2,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="664768" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=664768&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,664768,2,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1635308767" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="李宁LI-NING篮球室内外比赛耐磨蓝球lanqiu 054-1球星系列" href="//item.jd.com/1635308767.html" onclick="searchlog(1,1635308767,3,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img12.360buyimg.com/n7/jfs/t2719/16/2488317232/752789/8e04c1e6/5768af54N39695cc6.jpg" />
+						</a>
+						<div data-ico="0" data-venid="155137" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1635308767" data-price="119.00"><em>¥</em><i>119.00</i></strong>						<div class="p-icons" id="J_pro_1635308767"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="李宁LI-NING篮球室内外比赛耐磨蓝球lanqiu 054-1球星系列" href="//item.jd.com/1635308767.html" onclick="searchlog(1,1635308767,3,1,'','flagsClk=4194952')">
+							<em>李宁LI-NING<font class="skcolor_ljg">篮球</font>室内外比赛耐磨蓝球lanqiu 054-1球星系列</em>
+							<i class="promo-words" id="J_AD_1635308767"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1635308767" target="_blank" href="//item.jd.com/1635308767.html#comments-list" onclick="searchlog(1,1635308767,3,3,'','flagsClk=4194952')">6547</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1635308767" href="javascript:;" onclick="searchlog(1,1635308767,3,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1635308767" href="javascript:;" onclick="searchlog(1,1635308767,3,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1635308767" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1635308767&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1635308767,3,4,'','flagsClk=4194952')" data-parallel="1"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2541845" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="红双喜DHS篮球 FB7-1 室内外比赛耐磨7号蓝球套装" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTkzMjg2MzNfMTQ3NiZ0bz1odHRwOi8vaXRlbS5qZC5jb20vMjU0MTg0NS5odG1s&log=INGjKJmLC6LODk8HoF0waq-cyFczW8xtEFWMQpPI6WWF718AVA7Mv-tMioodRRBUwj0xOcto5Y0l51uZQn6k5my24Yq8kj1-NCihJJnZ4CtvMO9-c_GlFAHvZPsbwrc64Fu3Zs78MlVdSY0SaFgaRZgbCAOC5VDQqfRhtfd5BJRyu8y-DzUpuTB2OBA2z8r0djI6zouSb_vctY8AwhQlm0Q0Ci9khyfkHmrcOOqiGUgtbDwBAe78ANf4mptt2HpgukeEYGKV2xbcJvrcyrLSQe2cXij7EOeZnXgYKgTEWv5J44CS53Lb27UmT5WdJtHLmKxyQswkiEwk1Mb9bwslqhTa2eZ_vc8CCc_43AEDY0jIt54fI0fXUUtJMbjUJ-gu&v=404" onclick="searchlog(1,2541845,4,2,'','adwClk=1')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img10.360buyimg.com/n7/jfs/t2713/353/321250128/1002070/fe1c414c/570d3552Na6050972.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000005308" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2541845"></strong>						<div class="p-icons" id="J_pro_2541845"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="红双喜DHS篮球 FB7-1 室内外比赛耐磨7号蓝球套装" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTkzMjg2MzNfMTQ3NiZ0bz1odHRwOi8vaXRlbS5qZC5jb20vMjU0MTg0NS5odG1s&log=INGjKJmLC6LODk8HoF0waq-cyFczW8xtEFWMQpPI6WWF718AVA7Mv-tMioodRRBUwj0xOcto5Y0l51uZQn6k5my24Yq8kj1-NCihJJnZ4CtvMO9-c_GlFAHvZPsbwrc64Fu3Zs78MlVdSY0SaFgaRZgbCAOC5VDQqfRhtfd5BJRyu8y-DzUpuTB2OBA2z8r0djI6zouSb_vctY8AwhQlm0Q0Ci9khyfkHmrcOOqiGUgtbDwBAe78ANf4mptt2HpgukeEYGKV2xbcJvrcyrLSQe2cXij7EOeZnXgYKgTEWv5J44CS53Lb27UmT5WdJtHLmKxyQswkiEwk1Mb9bwslqhTa2eZ_vc8CCc_43AEDY0jIt54fI0fXUUtJMbjUJ-gu&v=404" onclick="searchlog(1,2541845,4,1,'','adwClk=1')">
+							<em>红双喜DHS<font class="skcolor_ljg">篮球</font> FB7-1 室内外比赛耐磨7号蓝球套装</em>
+							<i class="promo-words" id="J_AD_2541845"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2541845" target="_blank" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTkzMjg2MzNfMTQ3NiZ0bz1odHRwOi8vaXRlbS5qZC5jb20vMjU0MTg0NS5odG1s&log=INGjKJmLC6LODk8HoF0waq-cyFczW8xtEFWMQpPI6WWF718AVA7Mv-tMioodRRBUwj0xOcto5Y0l51uZQn6k5my24Yq8kj1-NCihJJnZ4CtvMO9-c_GlFAHvZPsbwrc64Fu3Zs78MlVdSY0SaFgaRZgbCAOC5VDQqfRhtfd5BJRyu8y-DzUpuTB2OBA2z8r0djI6zouSb_vctY8AwhQlm0Q0Ci9khyfkHmrcOOqiGUgtbDwBAe78ANf4mptt2HpgukeEYGKV2xbcJvrcyrLSQe2cXij7EOeZnXgYKgTEWv5J44CS53Lb27UmT5WdJtHLmKxyQswkiEwk1Mb9bwslqhTa2eZ_vc8CCc_43AEDY0jIt54fI0fXUUtJMbjUJ-gu&v=404" onclick="searchlog(1,2541845,4,3,'','adwClk=1')">1683</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2541845" href="javascript:;" onclick="searchlog(1,2541845,4,6,'','adwClk=1')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2541845" href="javascript:;" onclick="searchlog(1,2541845,4,5,'','adwClk=1')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2541845" data-stock-val="-1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2541845&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2541845,4,4,'','adwClk=1')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<span class="p-promo-flag">推广</span>
+					<script src="https://im-x.jd.com/dsp/np?log=INGjKJmLC6LODk8HoF0waq+cyFczW8xtEFWMQpPI6WWF718AVA7Mv+tMioodRRBUwj0xOcto5Y0l51uZQn6k5my24Yq8kj1+NCihJJnZ4CtvMO9+c/GlFAHvZPsbwrc64Fu3Zs78MlVdSY0SaFgaRZgbCAOC5VDQqfRhtfd5BJRbm/a+NcI9wQFapKW4Sek5HkC3pFCXyeukJgk19WpOups2gwCizpimjb9ew+AfxJpRK0Z5UcbZ0GJN2Fxy8Uo1Y+suAQPnpNQudcYRLhpAlVuYV4OO7fvMu0YVBIfJNDE1WBhhMWprvkhVRd0YtVpI9RqUqeXgg1dSnsJkQlypOMmq5MOORu31jiRbRKdbb+SrWQFbyZsWeP1mO8hUJUhAOIge2RQxpbYa0+DtFArFHQ==&v=404"></script>
+	</div>
+</li>
+<li data-sku="1015161474" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="斯伯丁Spalding 蓝球74-221/74-604Y PU材质 室内外兼用比赛篮球" href="//item.jd.com/1015161474.html" onclick="searchlog(1,1015161474,5,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2683/309/391281678/551957/ad9cf5e2/57105794Nc94d432c.jpg" />
+						</a>
+						<div data-ico="0" data-venid="13652" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1015161474" data-price="156.00"><em>¥</em><i>156.00</i></strong>						<div class="p-icons" id="J_pro_1015161474"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="斯伯丁Spalding 蓝球74-221/74-604Y PU材质 室内外兼用比赛篮球" href="//item.jd.com/1015161474.html" onclick="searchlog(1,1015161474,5,1,'','flagsClk=4194952')">
+							<em>斯伯丁Spalding 蓝球74-221/74-604Y PU材质 室内外兼用比赛<font class="skcolor_ljg">篮球</font></em>
+							<i class="promo-words" id="J_AD_1015161474"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1015161474" target="_blank" href="//item.jd.com/1015161474.html#comments-list" onclick="searchlog(1,1015161474,5,3,'','flagsClk=4194952')">38755</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1015161474" href="javascript:;" onclick="searchlog(1,1015161474,5,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1015161474" href="javascript:;" onclick="searchlog(1,1015161474,5,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1015161474" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1015161474&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1015161474,5,4,'','flagsClk=4194952')" data-parallel="1"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1650884252" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="WITESS翻毛软皮篮球加厚牛皮真皮手感 7号室内室外通用蓝球 京东配送 深棕色-送全套赠品" href="//item.jd.com/1650884252.html" onclick="searchlog(1,1650884252,6,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t2917/41/617906184/637464/8d7c9039/57621814N6ceb9fd7.jpg" />
+						</a>
+						<div data-ico="0" data-venid="162427" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1650884252" data-price="118.00"><em>¥</em><i>118.00</i></strong>						<div class="p-icons" id="J_pro_1650884252"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="WITESS翻毛软皮篮球加厚牛皮真皮手感 7号室内室外通用蓝球 京东配送 深棕色-送全套赠品" href="//item.jd.com/1650884252.html" onclick="searchlog(1,1650884252,6,1,'','flagsClk=4194952')">
+							<em>WITESS翻毛软皮<font class="skcolor_ljg">篮球</font>加厚牛皮真皮手感 7号室内室外通用蓝球 京东配送 深棕色-送全套赠品</em>
+							<i class="promo-words" id="J_AD_1650884252"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1650884252" target="_blank" href="//item.jd.com/1650884252.html#comments-list" onclick="searchlog(1,1650884252,6,3,'','flagsClk=4194952')">6444</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1650884252" href="javascript:;" onclick="searchlog(1,1650884252,6,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1650884252" href="javascript:;" onclick="searchlog(1,1650884252,6,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1650884252" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1650884252&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1650884252,6,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1060749" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="Spalding 斯伯丁 64-284/74-606Y NBA金色经典系列 耐磨防滑 室内外兼用 篮球" href="//item.jd.com/1060749.html" onclick="searchlog(1,1060749,7,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t1279/41/1339977768/336120/d7655c61/55c183d3Nbf69fe0b.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000004451" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1060749" data-price="223.00"><em>¥</em><i>223.00</i></strong>						<div class="p-icons" id="J_pro_1060749"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="Spalding 斯伯丁 64-284/74-606Y NBA金色经典系列 耐磨防滑 室内外兼用 篮球" href="//item.jd.com/1060749.html" onclick="searchlog(1,1060749,7,1,'','flagsClk=4194952')">
+							<em>Spalding 斯伯丁 64-284/74-606Y NBA金色经典系列 耐磨防滑 室内外兼用 <font class="skcolor_ljg">篮球</font></em>
+							<i class="promo-words" id="J_AD_1060749"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1060749" target="_blank" href="//item.jd.com/1060749.html#comments-list" onclick="searchlog(1,1060749,7,3,'','flagsClk=4194952')">19099</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1060749" href="javascript:;" onclick="searchlog(1,1060749,7,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1060749" href="javascript:;" onclick="searchlog(1,1060749,7,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1060749" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1060749&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1060749,7,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2897286" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="耐克 NIKE TRUE GRIP 7号 标准篮球 日常活动 室外 篮球 防滑耐磨 BB0509-801" href="//item.jd.com/2897286.html" onclick="searchlog(1,2897286,8,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2635/216/1433435229/620265/a9dff0af/573d68e0Ncb03a7fd.jpg" />
+						</a>
+						<div data-ico="0" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2897286" data-price="159.00"><em>¥</em><i>159.00</i></strong>						<div class="p-icons" id="J_pro_2897286"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="耐克 NIKE TRUE GRIP 7号 标准篮球 日常活动 室外 篮球 防滑耐磨 BB0509-801" href="//item.jd.com/2897286.html" onclick="searchlog(1,2897286,8,1,'','flagsClk=4194952')">
+							<em>耐克 NIKE TRUE GRIP 7号 标准<font class="skcolor_ljg">篮球</font> 日常活动 室外 <font class="skcolor_ljg">篮球</font> 防滑耐磨 BB0509-801</em>
+							<i class="promo-words" id="J_AD_2897286"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2897286" target="_blank" href="//item.jd.com/2897286.html#comments-list" onclick="searchlog(1,2897286,8,3,'','flagsClk=4194952')">46</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2897286" href="javascript:;" onclick="searchlog(1,2897286,8,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2897286" href="javascript:;" onclick="searchlog(1,2897286,8,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2897286" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2897286&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2897286,8,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1031102662" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="耐克 NIKE TRUE GRIP 7号 标准篮球 日常活动 室外 篮球 防滑耐磨 BB0509-801橙色" href="//item.jd.com/1031102662.html" onclick="searchlog(1,1031102662,9,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t2782/123/353498181/541702/5c4b406/570f06e3Nb00e9cad.jpg" />
+						</a>
+						<div data-ico="0" data-venid="25750" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1031102662" data-price="159.00"><em>¥</em><i>159.00</i></strong>						<div class="p-icons" id="J_pro_1031102662"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="耐克 NIKE TRUE GRIP 7号 标准篮球 日常活动 室外 篮球 防滑耐磨 BB0509-801橙色" href="//item.jd.com/1031102662.html" onclick="searchlog(1,1031102662,9,1,'','flagsClk=4194952')">
+							<em>耐克 NIKE TRUE GRIP 7号 标准<font class="skcolor_ljg">篮球</font> 日常活动 室外 <font class="skcolor_ljg">篮球</font> 防滑耐磨 BB0509-801橙色</em>
+							<i class="promo-words" id="J_AD_1031102662"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1031102662" target="_blank" href="//item.jd.com/1031102662.html#comments-list" onclick="searchlog(1,1031102662,9,3,'','flagsClk=4194952')">2628</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1031102662" href="javascript:;" onclick="searchlog(1,1031102662,9,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1031102662" href="javascript:;" onclick="searchlog(1,1031102662,9,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1031102662" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1031102662&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1031102662,9,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1647302639" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="NIKE耐克 篮球 室外蓝球 防滑耐磨lanqiu BB0509-801 7号(标准球)" href="//item.jd.com/1647302639.html" onclick="searchlog(1,1647302639,10,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2917/120/760854313/187223/6d0a8d80/576800b5N73148136.jpg" />
+						</a>
+						<div data-ico="0" data-venid="33239" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1647302639" data-price="149.00"><em>¥</em><i>149.00</i></strong>						<div class="p-icons" id="J_pro_1647302639"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="NIKE耐克 篮球 室外蓝球 防滑耐磨lanqiu BB0509-801 7号(标准球)" href="//item.jd.com/1647302639.html" onclick="searchlog(1,1647302639,10,1,'','flagsClk=4194952')">
+							<em>NIKE耐克 <font class="skcolor_ljg">篮球</font> 室外蓝球 防滑耐磨lanqiu BB0509-801 7号(标准球)</em>
+							<i class="promo-words" id="J_AD_1647302639"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1647302639" target="_blank" href="//item.jd.com/1647302639.html#comments-list" onclick="searchlog(1,1647302639,10,3,'','flagsClk=4194952')">3246</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1647302639" href="javascript:;" onclick="searchlog(1,1647302639,10,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1647302639" href="javascript:;" onclick="searchlog(1,1647302639,10,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1647302639" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1647302639&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1647302639,10,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li class="gl-item" data-type="activity" >
+	<div class="gl-act-v2 gl-act-skin4">
+		<div class="gl-act-img"><a href="//sale.jd.com/act/aQGw0gF3cqDAvnS2.html" title="体育用品返场持续热卖" onclick="searchlog(1,629997,11,2,'','actClk=2')" target="_blank"><img data-img="1" src="//img30.360buyimg.com/mobilecms/jfs/t2644/204/2495435398/25982/5d23cea4/5768a83cN7e611b41.jpg" data-lazy-img="done"/></a></div>
+		<div class="gl-act-main">
+			<div class="gl-act-detail">
+				<div class="gl-act-title"><strong>体育用品返场持续热卖</strong></div>
+				<div class="gl-act-infor">低至29元</div>
+				<div class="gl-act-enter"><a href="//sale.jd.com/act/aQGw0gF3cqDAvnS2.html" onclick="searchlog(1,629997,11,2,'','actClk=2')" class="gl-act-btn" target="_blank">立即开抢</a></div>
+			</div>
+		</div>
+	</div>
+</li><li data-sku="1251013" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="斯伯丁（SPALDING） 74-604Y/211 室内室外篮球 掌控比赛用球" href="//item.jd.com/1251013.html" onclick="searchlog(1,1251013,12,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2038/147/1782107520/438439/c8c11adb/56791a5aN084979f3.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000005656" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1251013" data-price="155.00"><em>¥</em><i>155.00</i></strong>						<div class="p-icons" id="J_pro_1251013"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="斯伯丁（SPALDING） 74-604Y/211 室内室外篮球 掌控比赛用球" href="//item.jd.com/1251013.html" onclick="searchlog(1,1251013,12,1,'','flagsClk=4194952')">
+							<em>斯伯丁（SPALDING） 74-604Y/211 室内室外<font class="skcolor_ljg">篮球</font> 掌控比赛用球</em>
+							<i class="promo-words" id="J_AD_1251013"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1251013" target="_blank" href="//item.jd.com/1251013.html#comments-list" onclick="searchlog(1,1251013,12,3,'','flagsClk=4194952')">14335</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1251013" href="javascript:;" onclick="searchlog(1,1251013,12,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1251013" href="javascript:;" onclick="searchlog(1,1251013,12,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1251013" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1251013&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1251013,12,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1669060827" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="斯伯丁篮球 NBA室外PU掌控蓝球lanqiu（7号篮球） 74-414街头飓风" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTk2NTM0NTVfMTQ3NiZ0bz1odHRwOi8vaXRlbS5qZC5jb20vMTY2OTA2MDgyNy5odG1s&log=INGjKJmLC6LODk8HoF0waq-cyFczW8xtEFWMQpPI6WUYg28SyjfBFJWb1MThvrk564zQuHAoLRovJmNRkud3BAjvulCy8SZbjjjUlstOBVIoLO3P5BL-J1T1IlhdIDlimE_0FIzL8zdohR3XmdOayfmri4dCUo8aumd9BgX2Bt4HJL0usBwGplcu6WFfGPVvWXMl9Y3mSaCvA23iu3Bu-1ipZb5Bi3RarPztTlBs1lQYhF6DEU6fj9Jz91gUB2ALIh7evSkLfDJftDxaxd5z0m1InXp-k1gc5hGN4_AYXjic-0AtxzWN5tcKWau0zX019jO2RIuXJCoK94JDDxBlJ6BaCl8OSa0RolQsPKBiqwgiranMFeeSn0WaqzezRMBE&v=404" onclick="searchlog(1,1669060827,13,2,'','adwClk=1')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t2872/154/2581321095/343753/176b043/5768bb9cN2993237e.jpg" />
+						</a>
+						<div data-ico="0" data-venid="33239" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1669060827"></strong>						<div class="p-icons" id="J_pro_1669060827"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="斯伯丁篮球 NBA室外PU掌控蓝球lanqiu（7号篮球） 74-414街头飓风" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTk2NTM0NTVfMTQ3NiZ0bz1odHRwOi8vaXRlbS5qZC5jb20vMTY2OTA2MDgyNy5odG1s&log=INGjKJmLC6LODk8HoF0waq-cyFczW8xtEFWMQpPI6WUYg28SyjfBFJWb1MThvrk564zQuHAoLRovJmNRkud3BAjvulCy8SZbjjjUlstOBVIoLO3P5BL-J1T1IlhdIDlimE_0FIzL8zdohR3XmdOayfmri4dCUo8aumd9BgX2Bt4HJL0usBwGplcu6WFfGPVvWXMl9Y3mSaCvA23iu3Bu-1ipZb5Bi3RarPztTlBs1lQYhF6DEU6fj9Jz91gUB2ALIh7evSkLfDJftDxaxd5z0m1InXp-k1gc5hGN4_AYXjic-0AtxzWN5tcKWau0zX019jO2RIuXJCoK94JDDxBlJ6BaCl8OSa0RolQsPKBiqwgiranMFeeSn0WaqzezRMBE&v=404" onclick="searchlog(1,1669060827,13,1,'','adwClk=1')">
+							<em>斯伯丁<font class="skcolor_ljg">篮球</font> NBA室外PU掌控蓝球lanqiu（7号<font class="skcolor_ljg">篮球</font>） 74-414街头飓风</em>
+							<i class="promo-words" id="J_AD_1669060827"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1669060827" target="_blank" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTk2NTM0NTVfMTQ3NiZ0bz1odHRwOi8vaXRlbS5qZC5jb20vMTY2OTA2MDgyNy5odG1s&log=INGjKJmLC6LODk8HoF0waq-cyFczW8xtEFWMQpPI6WUYg28SyjfBFJWb1MThvrk564zQuHAoLRovJmNRkud3BAjvulCy8SZbjjjUlstOBVIoLO3P5BL-J1T1IlhdIDlimE_0FIzL8zdohR3XmdOayfmri4dCUo8aumd9BgX2Bt4HJL0usBwGplcu6WFfGPVvWXMl9Y3mSaCvA23iu3Bu-1ipZb5Bi3RarPztTlBs1lQYhF6DEU6fj9Jz91gUB2ALIh7evSkLfDJftDxaxd5z0m1InXp-k1gc5hGN4_AYXjic-0AtxzWN5tcKWau0zX019jO2RIuXJCoK94JDDxBlJ6BaCl8OSa0RolQsPKBiqwgiranMFeeSn0WaqzezRMBE&v=404" onclick="searchlog(1,1669060827,13,3,'','adwClk=1')">1422</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1669060827" href="javascript:;" onclick="searchlog(1,1669060827,13,6,'','adwClk=1')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1669060827" href="javascript:;" onclick="searchlog(1,1669060827,13,5,'','adwClk=1')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1669060827" data-stock-val="-1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1669060827&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1669060827,13,4,'','adwClk=1')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<span class="p-promo-flag">推广</span>
+					<script src="https://im-x.jd.com/dsp/np?log=INGjKJmLC6LODk8HoF0waq+cyFczW8xtEFWMQpPI6WUYg28SyjfBFJWb1MThvrk564zQuHAoLRovJmNRkud3BAjvulCy8SZbjjjUlstOBVIoLO3P5BL+J1T1IlhdIDlimE/0FIzL8zdohR3XmdOayfmri4dCUo8aumd9BgX2Bt5LbAyhM44lYbNw5I8Aotk6Oa9AM+NkW34F8mdKxScj1w129X1uls+YDaWXe9BCCDZxsOxOnqkKEaD3Z9b02/YYVPkAp1kZxNwefvNnrRKt08xtPW+69NID6D1/3JrtfuOjvJcfbJRQChzjUoH3BBhqhhmEmLOMgg/mp6qGMGqPe14+dFdOIBzYK4UhpWuJGTpIlCOni90hAF6IFwGXGtvr2TVshywer99I6I4/OOEUYg==&v=404"></script>
+	</div>
+</li>
+<li data-sku="1420904" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="李宁LI-NING CBA比赛用球PU材质室内外通用比赛篮球 LBQK-043" href="//item.jd.com/1420904.html" onclick="searchlog(1,1420904,14,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2323/100/2696172990/384386/203d743e/56f0a695Nad28dde0.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000010862" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1420904" data-price="119.00"><em>¥</em><i>119.00</i></strong>						<div class="p-icons" id="J_pro_1420904"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="李宁LI-NING CBA比赛用球PU材质室内外通用比赛篮球 LBQK-043" href="//item.jd.com/1420904.html" onclick="searchlog(1,1420904,14,1,'','flagsClk=4194952')">
+							<em>李宁LI-NING CBA比赛用球PU材质室内外通用比赛<font class="skcolor_ljg">篮球</font> LBQK-043</em>
+							<i class="promo-words" id="J_AD_1420904"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1420904" target="_blank" href="//item.jd.com/1420904.html#comments-list" onclick="searchlog(1,1420904,14,3,'','flagsClk=4194952')">7284</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1420904" href="javascript:;" onclick="searchlog(1,1420904,14,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1420904" href="javascript:;" onclick="searchlog(1,1420904,14,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1420904" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1420904&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1420904,14,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1728979" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="斯伯丁（SPALDING）74-655Y 篮球 NBA炫彩PU室内外篮球" href="//item.jd.com/1728979.html" onclick="searchlog(1,1728979,15,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t1549/315/1309049161/221567/29a1fa86/55c2c9a7N5880cdbd.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000005656" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1728979" data-price="155.00"><em>¥</em><i>155.00</i></strong>						<div class="p-icons" id="J_pro_1728979"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="斯伯丁（SPALDING）74-655Y 篮球 NBA炫彩PU室内外篮球" href="//item.jd.com/1728979.html" onclick="searchlog(1,1728979,15,1,'','flagsClk=4194952')">
+							<em>斯伯丁（SPALDING）74-655Y <font class="skcolor_ljg">篮球</font> NBA炫彩PU室内外<font class="skcolor_ljg">篮球</font></em>
+							<i class="promo-words" id="J_AD_1728979"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1728979" target="_blank" href="//item.jd.com/1728979.html#comments-list" onclick="searchlog(1,1728979,15,3,'','flagsClk=4194952')">14333</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1728979" href="javascript:;" onclick="searchlog(1,1728979,15,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1728979" href="javascript:;" onclick="searchlog(1,1728979,15,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1728979" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1728979&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1728979,15,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1250438" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="Spalding 斯伯丁 74-221/74-604Y PU材质 比赛用球 室内外兼用 篮球" href="//item.jd.com/1250438.html" onclick="searchlog(1,1250438,16,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2482/190/2166462182/320602/9922d4d0/56f1f0e0N6fa398a2.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000004786" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1250438" data-price="155.00"><em>¥</em><i>155.00</i></strong>						<div class="p-icons" id="J_pro_1250438"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="Spalding 斯伯丁 74-221/74-604Y PU材质 比赛用球 室内外兼用 篮球" href="//item.jd.com/1250438.html" onclick="searchlog(1,1250438,16,1,'','flagsClk=4194952')">
+							<em>Spalding 斯伯丁 74-221/74-604Y PU材质 比赛用球 室内外兼用 <font class="skcolor_ljg">篮球</font></em>
+							<i class="promo-words" id="J_AD_1250438"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1250438" target="_blank" href="//item.jd.com/1250438.html#comments-list" onclick="searchlog(1,1250438,16,3,'','flagsClk=4194952')">45412</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1250438" href="javascript:;" onclick="searchlog(1,1250438,16,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1250438" href="javascript:;" onclick="searchlog(1,1250438,16,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1250438" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1250438&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1250438,16,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1205291" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="Spalding 斯伯丁 74-414 CYCLONE 涂鸦系列 篮球 PU材质" href="//item.jd.com/1205291.html" onclick="searchlog(1,1205291,17,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2593/87/1868059438/979637/2a3bec5/574bfea7N42377b55.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000004451" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1205291" data-price="114.00"><em>¥</em><i>114.00</i></strong>						<div class="p-icons" id="J_pro_1205291"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="Spalding 斯伯丁 74-414 CYCLONE 涂鸦系列 篮球 PU材质" href="//item.jd.com/1205291.html" onclick="searchlog(1,1205291,17,1,'','flagsClk=4194952')">
+							<em>Spalding 斯伯丁 74-414 CYCLONE 涂鸦系列 <font class="skcolor_ljg">篮球</font> PU材质</em>
+							<i class="promo-words" id="J_AD_1205291"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1205291" target="_blank" href="//item.jd.com/1205291.html#comments-list" onclick="searchlog(1,1205291,17,3,'','flagsClk=4194952')">62646</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1205291" href="javascript:;" onclick="searchlog(1,1205291,17,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1205291" href="javascript:;" onclick="searchlog(1,1205291,17,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1205291" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1205291&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1205291,17,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1315334" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="威尔胜（Wilson） WB309 篮球 校园反应 室内外通用蓝球 PU材质" href="//item.jd.com/1315334.html" onclick="searchlog(1,1315334,18,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t1570/266/1159884505/330961/3c6033aa/55bf1ea0Ne02e9187.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000004425" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1315334" data-price="119.00"><em>¥</em><i>119.00</i></strong>						<div class="p-icons" id="J_pro_1315334"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="威尔胜（Wilson） WB309 篮球 校园反应 室内外通用蓝球 PU材质" href="//item.jd.com/1315334.html" onclick="searchlog(1,1315334,18,1,'','flagsClk=4194952')">
+							<em>威尔胜（Wilson） WB309 <font class="skcolor_ljg">篮球</font> 校园反应 室内外通用蓝球 PU材质</em>
+							<i class="promo-words" id="J_AD_1315334"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1315334" target="_blank" href="//item.jd.com/1315334.html#comments-list" onclick="searchlog(1,1315334,18,3,'','flagsClk=4194952')">3366</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1315334" href="javascript:;" onclick="searchlog(1,1315334,18,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1315334" href="javascript:;" onclick="searchlog(1,1315334,18,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1315334" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1315334&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1315334,18,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="10133976273" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="威尔胜wilson篮球NCAA疯狂三月四强赛经典复刻版PU室内室外7号篮球WTB1233 WTB1233" href="//item.jd.com/10133976273.html" onclick="searchlog(1,10133976273,19,2,'','flagsClk=4194440')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2167/285/2938669276/497034/36f9c1e5/56f6139aNd3e48ff9.jpg" />
+						</a>
+						<div data-ico="0" data-venid="192775" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_10133976273" data-price="129.00"><em>¥</em><i>129.00</i></strong>						<div class="p-icons" id="J_pro_10133976273"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="威尔胜wilson篮球NCAA疯狂三月四强赛经典复刻版PU室内室外7号篮球WTB1233 WTB1233" href="//item.jd.com/10133976273.html" onclick="searchlog(1,10133976273,19,1,'','flagsClk=4194440')">
+							<em>威尔胜wilson<font class="skcolor_ljg">篮球</font>NCAA疯狂三月四强赛经典复刻版PU室内室外7号<font class="skcolor_ljg">篮球</font>WTB1233 WTB1233</em>
+							<i class="promo-words" id="J_AD_10133976273"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_10133976273" target="_blank" href="//item.jd.com/10133976273.html#comments-list" onclick="searchlog(1,10133976273,19,3,'','flagsClk=4194440')">715</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="10133976273" href="javascript:;" onclick="searchlog(1,10133976273,19,6,'','flagsClk=4194440')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="10133976273" href="javascript:;" onclick="searchlog(1,10133976273,19,5,'','flagsClk=4194440')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="10133976273" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=10133976273&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,10133976273,19,4,'','flagsClk=4194440')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="10239670453" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="WITESS 翻毛超纤牛皮手感室内外5号6号篮球水泥地耐磨7号篮球 紫色银人七号成人标准用球丨送礼品" href="//item.jd.com/10239670453.html" onclick="searchlog(1,10239670453,20,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2254/217/2403768700/346188/6e6a0065/57054253Nc88f2212.jpg" />
+						</a>
+						<div data-ico="0" data-venid="163798" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_10239670453" data-price="128.00"><em>¥</em><i>128.00</i></strong>						<div class="p-icons" id="J_pro_10239670453"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="WITESS 翻毛超纤牛皮手感室内外5号6号篮球水泥地耐磨7号篮球 紫色银人七号成人标准用球丨送礼品" href="//item.jd.com/10239670453.html" onclick="searchlog(1,10239670453,20,1,'','flagsClk=4194952')">
+							<em>WITESS 翻毛超纤牛皮手感室内外5号6号<font class="skcolor_ljg">篮球</font>水泥地耐磨7号<font class="skcolor_ljg">篮球</font> 紫色银人七号成人标准用球丨送礼品</em>
+							<i class="promo-words" id="J_AD_10239670453"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_10239670453" target="_blank" href="//item.jd.com/10239670453.html#comments-list" onclick="searchlog(1,10239670453,20,3,'','flagsClk=4194952')">1056</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="10239670453" href="javascript:;" onclick="searchlog(1,10239670453,20,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="10239670453" href="javascript:;" onclick="searchlog(1,10239670453,20,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="10239670453" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=10239670453&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,10239670453,20,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="769955" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="李宁LI-NING 经典款PU材质CBA比赛篮球室内外通用篮球 LBQG044-P" href="//item.jd.com/769955.html" onclick="searchlog(1,769955,21,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t2740/336/624514761/285879/6a813bee/571de4e8Nc204a48d.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000010862" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_769955" data-price="109.00"><em>¥</em><i>109.00</i></strong>						<div class="p-icons" id="J_pro_769955"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="李宁LI-NING 经典款PU材质CBA比赛篮球室内外通用篮球 LBQG044-P" href="//item.jd.com/769955.html" onclick="searchlog(1,769955,21,1,'','flagsClk=4194952')">
+							<em>李宁LI-NING 经典款PU材质CBA比赛<font class="skcolor_ljg">篮球</font>室内外通用<font class="skcolor_ljg">篮球</font> LBQG044-P</em>
+							<i class="promo-words" id="J_AD_769955"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_769955" target="_blank" href="//item.jd.com/769955.html#comments-list" onclick="searchlog(1,769955,21,3,'','flagsClk=4194952')">5893</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="769955" href="javascript:;" onclick="searchlog(1,769955,21,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="769955" href="javascript:;" onclick="searchlog(1,769955,21,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="769955" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=769955&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,769955,21,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1262512" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="威尔胜（Wilson） WB645G 篮球 校园传奇 室内外通用蓝球 PU材质" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTk5NTMwMDdfMTQ3NiZ0bz1odHRwOi8vaXRlbS5qZC5jb20vMTI2MjUxMi5odG1s&log=INGjKJmLC6LODk8HoF0waq-cyFczW8xtEFWMQpPI6WUGYfwlG12fRNvoL0a3_HMs4ABWnUP88Z0F0ttQTQ8RsNFcGbrbwG52Y7pZw-_jCrDBIoOfrA1IRrlVNIDwhozNDBROzuHw_H-gsLJVgKJ0XZLN4U9ynIpXB1kW1jgRDjC9fN4XxKwj9wGRC8QbCe9UzprHaew-_WcqVR3V7PIRPqT7mPvA1W5WbY4hwmbnheypWqV4eJ0qUpsne_jdKpfd_t6lNpPQrFMq9Nr09aF-wkQitL7rhv8gslh4hBNgqtii1cGlKaV7dMGMZawXY0BR_F5T-kVJ5pCclSABSxx1FvSDE3nTnSa-9zs-e-f6zkGCAOraU83NdkMvinoGo5nZ&v=404" onclick="searchlog(1,1262512,22,2,'','adwClk=1')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t1477/57/1187291889/308143/c9f5f189/55bf1e94N75ca8360.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000004425" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1262512"></strong>						<div class="p-icons" id="J_pro_1262512"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="威尔胜（Wilson） WB645G 篮球 校园传奇 室内外通用蓝球 PU材质" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTk5NTMwMDdfMTQ3NiZ0bz1odHRwOi8vaXRlbS5qZC5jb20vMTI2MjUxMi5odG1s&log=INGjKJmLC6LODk8HoF0waq-cyFczW8xtEFWMQpPI6WUGYfwlG12fRNvoL0a3_HMs4ABWnUP88Z0F0ttQTQ8RsNFcGbrbwG52Y7pZw-_jCrDBIoOfrA1IRrlVNIDwhozNDBROzuHw_H-gsLJVgKJ0XZLN4U9ynIpXB1kW1jgRDjC9fN4XxKwj9wGRC8QbCe9UzprHaew-_WcqVR3V7PIRPqT7mPvA1W5WbY4hwmbnheypWqV4eJ0qUpsne_jdKpfd_t6lNpPQrFMq9Nr09aF-wkQitL7rhv8gslh4hBNgqtii1cGlKaV7dMGMZawXY0BR_F5T-kVJ5pCclSABSxx1FvSDE3nTnSa-9zs-e-f6zkGCAOraU83NdkMvinoGo5nZ&v=404" onclick="searchlog(1,1262512,22,1,'','adwClk=1')">
+							<em>威尔胜（Wilson） WB645G <font class="skcolor_ljg">篮球</font> 校园传奇 室内外通用蓝球 PU材质</em>
+							<i class="promo-words" id="J_AD_1262512"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1262512" target="_blank" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTk5NTMwMDdfMTQ3NiZ0bz1odHRwOi8vaXRlbS5qZC5jb20vMTI2MjUxMi5odG1s&log=INGjKJmLC6LODk8HoF0waq-cyFczW8xtEFWMQpPI6WUGYfwlG12fRNvoL0a3_HMs4ABWnUP88Z0F0ttQTQ8RsNFcGbrbwG52Y7pZw-_jCrDBIoOfrA1IRrlVNIDwhozNDBROzuHw_H-gsLJVgKJ0XZLN4U9ynIpXB1kW1jgRDjC9fN4XxKwj9wGRC8QbCe9UzprHaew-_WcqVR3V7PIRPqT7mPvA1W5WbY4hwmbnheypWqV4eJ0qUpsne_jdKpfd_t6lNpPQrFMq9Nr09aF-wkQitL7rhv8gslh4hBNgqtii1cGlKaV7dMGMZawXY0BR_F5T-kVJ5pCclSABSxx1FvSDE3nTnSa-9zs-e-f6zkGCAOraU83NdkMvinoGo5nZ&v=404" onclick="searchlog(1,1262512,22,3,'','adwClk=1')">3535</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1262512" href="javascript:;" onclick="searchlog(1,1262512,22,6,'','adwClk=1')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1262512" href="javascript:;" onclick="searchlog(1,1262512,22,5,'','adwClk=1')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1262512" data-stock-val="-1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1262512&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1262512,22,4,'','adwClk=1')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<span class="p-promo-flag">推广</span>
+					<script src="https://im-x.jd.com/dsp/np?log=INGjKJmLC6LODk8HoF0waq+cyFczW8xtEFWMQpPI6WUGYfwlG12fRNvoL0a3/HMs4ABWnUP88Z0F0ttQTQ8RsNFcGbrbwG52Y7pZw+/jCrDBIoOfrA1IRrlVNIDwhozNDBROzuHw/H+gsLJVgKJ0XZLN4U9ynIpXB1kW1jgRDjByJiRKdxM2RmDziOPjExGJn17a3eMXcvvfSsE25xuRYTA87wAhpc9OxSDckmoJUs9uaRHffPo6dj9YSNJeKtLFwk60wP7MXfE83/Y8lJ4knE1YXTxfbj/619dMzi9SmTymzWZPy3+uG8eFuy7ekc4nUwbi61hzErWXsAq1WjHW5lKf6pVa4W4kJhir11ODS2cD4YRKhB8merWVe7R2uewi8E9moCtxqCCU0n+gpflohQ==&v=404"></script>
+	</div>
+</li>
+<li data-sku="2029517" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="斯伯丁 Spalding 74-655Y 经典 红白蓝三色炫彩 篮球 PU材质 7号球" href="//item.jd.com/2029517.html" onclick="searchlog(1,2029517,23,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t2233/195/645982876/288844/8a3acc99/56206279N749f61ee.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000004451" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2029517" data-price="155.00"><em>¥</em><i>155.00</i></strong>						<div class="p-icons" id="J_pro_2029517"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="斯伯丁 Spalding 74-655Y 经典 红白蓝三色炫彩 篮球 PU材质 7号球" href="//item.jd.com/2029517.html" onclick="searchlog(1,2029517,23,1,'','flagsClk=4194952')">
+							<em>斯伯丁 Spalding 74-655Y 经典 红白蓝三色炫彩 <font class="skcolor_ljg">篮球</font> PU材质 7号球</em>
+							<i class="promo-words" id="J_AD_2029517"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2029517" target="_blank" href="//item.jd.com/2029517.html#comments-list" onclick="searchlog(1,2029517,23,3,'','flagsClk=4194952')">2968</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2029517" href="javascript:;" onclick="searchlog(1,2029517,23,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2029517" href="javascript:;" onclick="searchlog(1,2029517,23,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2029517" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2029517&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2029517,23,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li class="gl-item" data-type="activity" >
+	<div class="gl-act-v2 gl-act-skin5">
+		<div class="gl-act-img"><a href="//sale.jd.com/act/f1643JNy58zE.html" title="足球风云-战火重燃" onclick="searchlog(1,465399,24,2,'','actClk=2')" target="_blank"><img data-img="1" data-lazy-img="//img30.360buyimg.com/mobilecms/jfs/t2797/127/2242941117/46887/5b22ad46/575fb74cN9bbeecd5.jpg" class="err-product"/></a></div>
+		<div class="gl-act-main">
+			<div class="gl-act-detail">
+				<div class="gl-act-title"><strong>足球风云-战火重燃</strong></div>
+				<div class="gl-act-infor">足球低至55元起</div>
+				<div class="gl-act-enter"><a href="//sale.jd.com/act/f1643JNy58zE.html" onclick="searchlog(1,465399,24,2,'','actClk=2')" class="gl-act-btn" target="_blank">立即开抢</a></div>
+			</div>
+		</div>
+	</div>
+</li><li data-sku="1215119" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="Spalding 斯伯丁 74-582Y 青少年用 室内外休闲运动篮球" href="//item.jd.com/1215119.html" onclick="searchlog(1,1215119,25,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t1843/79/944869038/280104/7da7bbc5/563ab727N962e0dec.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000004451" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1215119" data-price="135.00"><em>¥</em><i>135.00</i></strong>						<div class="p-icons" id="J_pro_1215119"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="Spalding 斯伯丁 74-582Y 青少年用 室内外休闲运动篮球" href="//item.jd.com/1215119.html" onclick="searchlog(1,1215119,25,1,'','flagsClk=4194952')">
+							<em>Spalding 斯伯丁 74-582Y 青少年用 室内外休闲运动<font class="skcolor_ljg">篮球</font></em>
+							<i class="promo-words" id="J_AD_1215119"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1215119" target="_blank" href="//item.jd.com/1215119.html#comments-list" onclick="searchlog(1,1215119,25,3,'','flagsClk=4194952')">3556</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1215119" href="javascript:;" onclick="searchlog(1,1215119,25,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1215119" href="javascript:;" onclick="searchlog(1,1215119,25,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1215119" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1215119&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1215119,25,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1327433" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="Spalding 斯伯丁 74-570Y NBA职业比赛用球 室内外兼用 PU材质 篮球" href="//item.jd.com/1327433.html" onclick="searchlog(1,1327433,26,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2440/326/2793480949/379495/2e8cff38/5719be87N865611a5.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000004786" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1327433" data-price="168.00"><em>¥</em><i>168.00</i></strong>						<div class="p-icons" id="J_pro_1327433"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="Spalding 斯伯丁 74-570Y NBA职业比赛用球 室内外兼用 PU材质 篮球" href="//item.jd.com/1327433.html" onclick="searchlog(1,1327433,26,1,'','flagsClk=4194952')">
+							<em>Spalding 斯伯丁 74-570Y NBA职业比赛用球 室内外兼用 PU材质 <font class="skcolor_ljg">篮球</font></em>
+							<i class="promo-words" id="J_AD_1327433"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1327433" target="_blank" href="//item.jd.com/1327433.html#comments-list" onclick="searchlog(1,1327433,26,3,'','flagsClk=4194952')">45407</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1327433" href="javascript:;" onclick="searchlog(1,1327433,26,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1327433" href="javascript:;" onclick="searchlog(1,1327433,26,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1327433" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1327433&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1327433,26,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="10002861065" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="WITESS翻毛软皮篮球加厚牛皮真皮手感 7号室内室外通用蓝球 京东配送 烫金人深棕色-送全套赠品" href="//item.jd.com/10002861065.html" onclick="searchlog(1,10002861065,27,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t2731/177/2427667457/631347/acfb9581/57624e98N43f7ec3b.jpg" />
+						</a>
+						<div data-ico="0" data-venid="162427" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_10002861065" data-price="118.00"><em>¥</em><i>118.00</i></strong>						<div class="p-icons" id="J_pro_10002861065"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="WITESS翻毛软皮篮球加厚牛皮真皮手感 7号室内室外通用蓝球 京东配送 烫金人深棕色-送全套赠品" href="//item.jd.com/10002861065.html" onclick="searchlog(1,10002861065,27,1,'','flagsClk=4194952')">
+							<em>WITESS翻毛软皮<font class="skcolor_ljg">篮球</font>加厚牛皮真皮手感 7号室内室外通用蓝球 京东配送 烫金人深棕色-送全套赠品</em>
+							<i class="promo-words" id="J_AD_10002861065"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_10002861065" target="_blank" href="//item.jd.com/10002861065.html#comments-list" onclick="searchlog(1,10002861065,27,3,'','flagsClk=4194952')">6442</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="10002861065" href="javascript:;" onclick="searchlog(1,10002861065,27,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="10002861065" href="javascript:;" onclick="searchlog(1,10002861065,27,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="10002861065" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=10002861065&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,10002861065,27,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="664745" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="火车头Train7号  PU篮球D850" href="//item.jd.com/664745.html" onclick="searchlog(1,664745,28,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t2686/127/312280649/493379/6a8791f2/570e678cNf1cb0810.jpg" />
+						</a>
+						<div data-ico="0" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_664745" data-price="129.00"><em>¥</em><i>129.00</i></strong>						<div class="p-icons" id="J_pro_664745"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="火车头Train7号  PU篮球D850" href="//item.jd.com/664745.html" onclick="searchlog(1,664745,28,1,'','flagsClk=4194952')">
+							<em>火车头Train7号  PU<font class="skcolor_ljg">篮球</font>D850</em>
+							<i class="promo-words" id="J_AD_664745"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_664745" target="_blank" href="//item.jd.com/664745.html#comments-list" onclick="searchlog(1,664745,28,3,'','flagsClk=4194952')">370</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="664745" href="javascript:;" onclick="searchlog(1,664745,28,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="664745" href="javascript:;" onclick="searchlog(1,664745,28,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="664745" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=664745&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,664745,28,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1060745" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="Spalding 斯伯丁 64-288/74-602Y NBA彩色运球人 PU材质 比赛用篮球" href="//item.jd.com/1060745.html" onclick="searchlog(1,1060745,29,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t1309/279/818101586/350035/7fdfee13/55a71d62Nc3db5568.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000004451" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1060745" data-price="182.00"><em>¥</em><i>182.00</i></strong>						<div class="p-icons" id="J_pro_1060745"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="Spalding 斯伯丁 64-288/74-602Y NBA彩色运球人 PU材质 比赛用篮球" href="//item.jd.com/1060745.html" onclick="searchlog(1,1060745,29,1,'','flagsClk=4194952')">
+							<em>Spalding 斯伯丁 64-288/74-602Y NBA彩色运球人 PU材质 比赛用<font class="skcolor_ljg">篮球</font></em>
+							<i class="promo-words" id="J_AD_1060745"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1060745" target="_blank" href="//item.jd.com/1060745.html#comments-list" onclick="searchlog(1,1060745,29,3,'','flagsClk=4194952')">19083</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1060745" href="javascript:;" onclick="searchlog(1,1060745,29,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1060745" href="javascript:;" onclick="searchlog(1,1060745,29,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1060745" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1060745&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1060745,29,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+</ul><span class="clr"></span></div><div id="J_scroll_loading" class="notice-loading-more" data-pos="30" data-log-id="1466762606.83933"><span>正在加载中，请稍后~~</span></div><div class="page clearfix"><div id="J_bottomPage" class="p-wrap"></div></div>		</div>
+	</div>
+	<div class="m-aside">
+		<div class="aside-bar">
+			<div id="J_promGoodsWrap_6" class="ab-goods"><div class="mt"><h3>推广商品</h3></div><div class="mc"></div></div>
+			<div id="J_recommendGoods" class="ab-goods"><div class="mt"><h3>精品推荐</h3></div><div class="mc"></div></div>
+			<div class="promo-pic-adbox"><h5 class="hd">商家精选</h5><div class="bd"><div id="J_promWrap_576"><div class="mc"></div></div></div></div>
+			<div id="miaozhen8148" class="ab-pic"></div>
+		</div>
+	</div>
+	<span class="clr"></span>
+</div>
+<script>
+LogParm = {
+	result_count:'415655',
+	ab:'0500',
+	front_cost:'253',
+	back_cost:'221',
+	ip:'70.95',
+	cid:'',
+	psort:'',
+	page:'1',
+	ekey:'',
+	ev:'0',
+	rec_type:'0',
+	rel_cat2:'1466',
+	rel_cat3:'1698',
+	log_id:'1466762606.83933',
+	expand:'actShow=1$adwShow=1$double=1',
+	mtest:'',
+	sig:'n1kxsWps2QRJGfVyX7ldx3MTmhFjk8vIZqCe3UalIOlql4ZeR/CfiZ/PKniy4pv99gkBbV8dVGm03jDj2MWXULYP9rrHfR88cylzc0aP44y9AZKmUnS/9Cb2dra8S8NVt5ILQK/DLxM2ghdXI07dfuuYq+ncCvSJHaN40pKEYVc='
+};
+SEARCH.is_shop=0;
+SEARCH.is_promotion=0;
+SEARCH.item_count=60;
+SEARCH.click=0;
+SEARCH.adv_param={page:"1",page_count:"100",psort:"",cid1:"",cid2:"",cid3:""};
+SEARCH.base_url='keyword=%E7%AF%AE%E7%90%83&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3';
+SEARCH.brand_ids='28_54_2234_4_1084_148_557_1932_1796_494_437_1916_1_162_337_285_519_215_1756_192_225_1537_207_217_1023_43_646_1822_229_513_631_1123_7073_532_248_3_115_39_54_2_306_6740_848_922_344_2079_2085_948_2762_617_4681_5954_4171_4648_1488_127_759_2294_952_1349_675_678_1703_977_2966_120_468_713_253_193_1470_167_3699_2505_1960_193_1087_1109_4798_1942_102_2979_7409_1389_1754_625_1547_817_5346_1419_3353_793_1833_1037_2047_709_2658_1530_743_1057_2473_4_5_1260_146_1791_2335_1702_1801_437_1561_887_1241_78_1_3552_1810_3189_556_2452_409_5908_2248_4653_11019_396_';
+setTimeout(function(){var b={};b.i="1466762606.83933";b.h="1466";b.k="篮球";b.c="";b.m="d7074871179db00497f06e95e36eec18";var a=[];$("#J_crumbsBar").find("a.crumb-select-item").each(function(){a.push($(this).find("b").html().replace("：","::")+$(this).attr("title").replace(/、/g,"||"))});b.s=a.join(";;")+(a.length?";;":"");var c=[];$("#J_selector").find(".J_selectorLine").each(function(){var f=$(this),e=f.find(".sl-key").text().replace("：","::"),d=[];if(e=="高级选项::"){f.find("a.trig-item").each(function(g){e=$(this).text()+"::";d=[];f.find(".J_valueList").eq(g).find("a").each(function(){d.push(e=="颜色::"?$(this).attr("title"):e=="其他分类::"?$(this).attr("data-v"):$(this).text())});c.push(e+d.join(",,"))})}else{if(e=="品牌::"){f.find(".J_valueList li").each(function(){d.push(this.id.replace("brand-",""))})}else{if(e=="颜色::"){f.find(".J_valueList a").each(function(){d.push($(this).attr("title"))})}else{if(f.hasClass("s-category")){f.find(".J_valueList a").each(function(){d.push($(this).attr("data-v"))})}else{f.find(".J_valueList a").each(function(){d.push($(this).text())})}}}c.push(e+d.join(",,"))}});b.u=c.join(";;")+(c.length?";;":"");$.post("attrlog.php",b,function(){})},500);
+</script>
+<script>$.get("im.php?r=1318170725&t=1466762606.2666&cs=12ef95b29a201b752cb7a8e796f50867");</script></div>
+</div>
+<div class="w">
+	<div class="m-box-s1 rec-goods-chosen hide" id="J_promGoodsWrap_292">
+		<div class="mt"><strong class="mt-title">商品精选</strong></div>
+		<div class="mc"></div>
+	</div>
+</div>
+<div class="w">
+	<div class="bottom-search">
+		<div class="form-group">
+			<div class="fg-line search-ext">
+				<div class="fg-line-key"><span>您是不是要找：</span></div>
+				<div class="fg-line-value" clstag="search|keycount|search|qpsearch"></div>
+			</div>
+			<div class="fg-line re-search">
+				<div class="fg-line-key"><b>重新搜索：</b></div>
+				<div class="fg-line-value">
+					<input id="key-re-search" class="input-txt input-XL" type="text" placeholder="搜索" value="篮球" onkeydown="javascript:if(event.keyCode==13){searchlog(1,0,0,60);search('key-re-search');}">
+					<a class="btn btn-primary btn-XL" href="javascript:search('key-re-search')" onclick="searchlog(1,0,0,60)">搜索</a>
+					<a class="link" href="javascript:surveyShow()">说说我使用搜索的感受</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="w">
+	<div id="footmark" class="footmark" data-lazyload-fn="done"></div>
+</div>
+<div id="service-2014">
+	<div class="slogen">
+		<span class="item fore1">
+			<i></i><b>多</b>品类齐全，轻松购物
+		</span>
+		<span class="item fore2">
+			<i></i><b>快</b>多仓直发，极速配送
+		</span>
+		<span class="item fore3">
+			<i></i><b>好</b>正品行货，精致服务
+		</span>
+		<span class="item fore4">
+			<i></i><b>省</b>天天低价，畅选无忧
+		</span>
+	</div>
+	<div class="w">
+		<dl class="fore1">
+			<dt>购物指南</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-29.html">购物流程</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-151.html">会员介绍</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-297.html">生活旅行/团购</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue.html">常见问题</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-136.html">大家电</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/index.html">联系客服</a></div>
+			</dd>
+		</dl>
+		<dl class="fore2">		
+			<dt>配送方式</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81-100.html">上门自提</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81.html">211限时达</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/103-983.html">配送服务查询</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/109-188.html">配送费收取标准</a></div>				
+				<div><a target="_blank" href="//en.jd.com/chinese.html">海外配送</a></div>
+			</dd>
+		</dl>
+		<dl class="fore3">
+			<dt>支付方式</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-172.html">货到付款</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-173.html">在线支付</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-176.html">分期付款</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-174.html">邮局汇款</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-175.html">公司转账</a></div>
+			</dd>
+		</dl>
+		<dl class="fore4">		
+			<dt>售后服务</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/321-981.html">售后政策</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-132.html">价格保护</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/130-978.html">退款说明</a></div>
+				<div><a rel="nofollow" target="_blank" href="//myjd.jd.com/repair/repairs.action">返修/退换货</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-50.html">取消订单</a></div>
+			</dd>
+		</dl>
+		<dl class="fore5">
+			<dt>特色服务</dt>
+			<dd>		
+				<div><a target="_blank" href="//help.jd.com/user/issue/list-133.html">夺宝岛</a></div>
+				<div><a target="_blank" href="//help.jd.com/user/issue/list-134.html">DIY装机</a></div>
+				<div><a rel="nofollow" target="_blank" href="//fuwu.jd.com/">延保服务</a></div>
+				<div><a rel="nofollow" target="_blank" href="//o.jd.com/market/index.action">京东E卡</a></div>				
+				<div><a rel="nofollow" target="_blank" href="//mobile.jd.com/">京东通信</a></div>
+				<div><a rel="nofollow" target="_blank" href="//s.jd.com/">京东JD+</a></div>
+			</dd>
+		</dl>
+		<span class="clr"></span>
+	</div>
+</div><div class="w">
+	<div id="footer-2014">
+		<div class="links"><a rel="nofollow" target="_blank" href="//www.jd.com/intro/about.aspx">关于我们</a>|<a rel="nofollow" target="_blank" href="//www.jd.com/contact/">联系我们</a>|<a rel="nofollow" target="_blank" href="//www.jd.com/contact/joinin.aspx">商家入驻</a>|<a rel="nofollow" target="_blank" href="//jzt.jd.com">营销中心</a>|<a rel="nofollow" target="_blank" href="//app.jd.com/">手机京东</a>|<a target="_blank" href="//club.jd.com/links.aspx">友情链接</a>|<a target="_blank" href="//media.jd.com/">销售联盟</a>|<a href="//club.jd.com/" target="_blank">京东社区</a>|<a href="//gongyi.jd.com" target="_blank">京东公益</a>|<a href="//en.jd.com/" target="_blank">English Site</a>|<a href="//en.jd.com/help/question-58.html" target="_blank">Contact Us</a></div>
+		<div class="copyright"><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088"><img src="//img13.360buyimg.com/cms/jfs/t2293/321/1377257360/19256/c267b386/56a0a994Nf1b662dc.png" /> 京公网安备 11000002000088号</a>&nbsp;&nbsp;|&nbsp;&nbsp;京ICP证070359号&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_blank" href="//img14.360buyimg.com/da/jfs/t256/349/769670066/270505/3b03e0bb/53f16c24N7c04d9e9.jpg">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a>&nbsp;&nbsp;|&nbsp;&nbsp;新出发京零&nbsp;字第大120007号<br>互联网出版许可证编号新出网证(京)字150号&nbsp;&nbsp;|&nbsp;&nbsp;<a rel="nofollow" href="//img30.360buyimg.com/uba/jfs/t1036/328/1487467280/1405104/ea57ab94/5732f60aN53b01d06.jpg" target="_blank">出版物经营许可证</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="//misc.360buyimg.com/wz/wlwhjyxkz.jpg" target="_blank">网络文化经营许可证京网文[2014]2148-348号</a>&nbsp;&nbsp;|&nbsp;&nbsp;违法和不良信息举报电话：4006561155<br>Copyright&nbsp;&copy;&nbsp;2004-2016&nbsp;&nbsp;京东JD.com&nbsp;版权所有&nbsp;&nbsp;|&nbsp;&nbsp;消费者维权热线：4006067733<br>京东旗下网站：<a href="https://www.jdpay.com/" target="_blank">京东钱包</a>
+		</div>		
+		<div class="authentication">
+			<a rel="nofollow" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007080200026">
+				<img width="103" height="32" alt="经营性网站备案中心" src="//img12.360buyimg.com/da/jfs/t535/349/1185317137/2350/7fc5b9e4/54b8871eNa9a7067e.png" class="err-product" />
+			</a>
+			<script type="text/JavaScript">function CNNIC_change(eleId){var str= document.getElementById(eleId).href;var str1 =str.substring(0,(str.length-6));str1+=CNNIC_RndNum(6); document.getElementById(eleId).href=str1;}function CNNIC_RndNum(k){var rnd=""; for (var i=0;i < k;i++) rnd+=Math.floor(Math.random()*10); return rnd;}</script>
+			<a rel="nofollow" target="_blank" id="urlknet" tabindex="-1" href="https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ct=df&pa=294005">
+				<img border="true" width="103" height="32" onclick="CNNIC_change('urlknet')" oncontextmenu="return false;" name="CNNIC_seal" alt="可信网站" src="//img11.360buyimg.com/da/jfs/t643/61/1174624553/2576/4037eb5f/54b8872dNe37a9860.png" class="err-product" />
+			</a>
+			<a rel="nofollow" target="_blank" href="http://www.bj.cyberpolice.cn/index.do">
+				<img width="103" height="32" alt="网络警察" src="//img12.360buyimg.com/cms/jfs/t2050/256/1470027660/4336/2a2c74bd/56a89b8fNfbaade9a.jpg" class="err-product" />
+			</a>
+			<a rel="nofollow" target="_blank" href="https://search.szfw.org/cert/l/CX20120111001803001836">
+				<img width="103" height="32" src="//img11.360buyimg.com/da/jfs/t451/173/1189513923/1992/ec69b14a/54b8875fNad1e0c4c.png" class="err-product" />
+			</a>
+			<a target="_blank" href="http://www.12377.cn"><img width="103" height="32" src="//img30.360buyimg.com/da/jfs/t1915/215/1329999964/2996/d7ff13f0/5698dc03N23f2e3b8.jpg"></a>
+			<a target="_blank" href="http://www.12377.cn/node_548446.htm"><img width="103" height="32" src="//img14.360buyimg.com/da/jfs/t2026/221/2097811452/2816/8eb35b4b/5698dc16Nb2ab99df.jpg"></a>
+		</div>
+	</div>
+</div><script>
+seajs.use('product/search/0.0.17/js/main.js').config({alias:{'search_new':'./script/search_new.js?226.js'}}).use('search_new', function(s){
+	s.init(1,200,415655,"",1,0,26,1,0,20);
+});
+</script>
+<script type="text/javascript">
+(function(){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=("https:"==document.location.protocol?"https://wlssl":"//wl")+".jd.com/wl.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();
+window.surveyShow=function(){window.open('//surveys.jd.com/index.php?r=survey/index/sid/393283/lang/zh-Hans/search_version/'+(readCookie((readCookie('mx')||'').indexOf('_M')>-1?'mtest':'xtest')||''))};
+</script>
+<div id="J-global-toolbar"></div>
+<script>
+(function(win) {
+    seajs.use('//static.360buyimg.com/devfe/toolbar/1.0.0/js/main', function(Toolbar) {
+var adConfig = {};
+var actName = null;
+if (window.pageConfig && window.pageConfig.actName) {
+    actName = window.pageConfig.actName;
+}
+
+
+        pageConfig.toolbar = new Toolbar({
+            pType: 'search',
+            bars: {
+                jimi: {
+                    enabled: true
+                },
+                cart: {
+                    enabled: true
+                }
+            },
+            links: {
+                feedback: {
+                    anchor: 'javascript:surveyShow();'
+                },
+                top:{
+                  anchor:"javascript:window.scrollTo(0,0);"
+                }
+            }
+        });
+    });
+
+})(window);
+</script></body>
+</html>

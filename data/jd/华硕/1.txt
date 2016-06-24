@@ -1,0 +1,1473 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="renderer" content="webkit">
+<meta http-equiv="Cache-Control" content="max-age=300" />
+<link rel="dns-prefetch" href="//search.jd.com" /><link rel="dns-prefetch" href="//item.jd.com" /><link rel="dns-prefetch" href="//list.jd.com" /><link rel="dns-prefetch" href="//p.3.cn" /><link rel="dns-prefetch" href="//misc.360buyimg.com" /><link rel="dns-prefetch" href="//nfa.jd.com" /><link rel="dns-prefetch" href="//d.jd.com" /><link rel="dns-prefetch" href="//img12.360buyimg.com" /><link rel="dns-prefetch" href="//img13.360buyimg.com" /><link rel="dns-prefetch" href="//static.360buyimg.com" /><link rel="dns-prefetch" href="//csc.jd.com" /><link rel="dns-prefetch" href="//mercury.jd.com" /><link rel="dns-prefetch" href="//x.jd.com" /><link rel="dns-prefetch" href="//wl.jd.com" /><title>华硕 - 商品搜索 - 京东</title><meta name="Keywords" content="华硕,京东华硕" /><meta name="description" content="在京东中找到了8022件华硕的类似商品，其中包含了“电脑整机”，“电脑配件”，“手机配件”，“办公设备”等类型的华硕的商品。" /><script>
+window.jdpts={};jdpts._st=new Date().getTime();window.pageConfig={
+	compatible: false,
+	searchType: 0,
+	floatnav: 1,
+	price_pdos_off: 0,
+	actName: '',
+	queryParam: {
+		c1: '',
+		c2: '',
+		c3: '',
+		brand: '8551',
+		price: '',
+		keyword: '华硕',
+		page: '1'
+	}
+};
+window.searchUnit={
+	resizeOnebox: function(g,f,j){var g=parseInt(g),i=typeof f,h=typeof j;if(!isNaN(g)){if("string"==i&&f!=""&&g>0){$("#J_oneBoxFrame_"+f).css("height",g+10);h=="function"&&j()}else{if(i=="undefined"||i=="function"){$("#virtualWareIFrame").css("height",g>0?g+10:0);i=="function"&&f()}}}},
+	resizeShopbox: function(e,d){var f=0;switch(e){case 1:case 2:f=145;break;case 3:f=75;break;case 4:f=80;break;default:break}f&&$("#shopboxIFrame").css("height",f).show();typeof(d)=="string"&&(new Image().src=d)},
+	coupon: {}};
+window.QUERY_KEYWORD='华硕';
+window.REAL_KEYWORD='华硕';
+</script>
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/jdf/1.0.0/unit/??ui-base/1.0.0/ui-base.css,shortcut/2.0.0/shortcut.css,global-header/1.0.0/global-header.css,myjd/2.0.0/myjd.css,nav/2.0.0/nav.css,shoppingcart/2.0.0/shoppingcart.css,global-footer/1.0.0/global-footer.css,service/1.0.0/service.css,basePatch/1.0.0/basePatch.css" />
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/product/search/0.0.17/css/search.css" />
+<script type="text/javascript" src="//misc.360buyimg.com/??jdf/lib/jquery-1.6.4.js,jdf/1.0.0/unit/base/1.0.0/base.js"></script>
+<script>
+window.SEARCH = {
+	cid: 672,
+	ui_ver: '0.0.17',
+	c_category: 0,
+	p_category: 0,
+	activity_id: 0,
+	enable_adv: 1,
+	enable_presale: 1,
+	enable_prom_adwords: 1,
+	enable_prom_flag: 1,
+	enable_price: 1,
+	enable_stock: 1,
+	enable_yyk: 0,
+	is_correct_hash: function(e){var a=["keyword","brand_id","activity_id","coupon_batch"];for(var c=0,b=a.length;c<b;c++){var d=new RegExp("(^|\\?|&)"+a[c]+"=([^&]*)(\\s|&|$)");if(d.test(e)){return true}}return false},
+	get_real_hash: function(){var a=window.location.hash.substr(1);if(a&&$.browser.mozilla){return location.href.substr(location.href.indexOf("#")+1)}else{return a}}
+};
+(function(a,b){var c=b.get_real_hash();if(b.is_correct_hash(c)){a.location.href=a.location.pathname+"?"+c;return false}else{if(a.self!=a.top||$.browser.msie&&$.browser.version<=9){var f=null,e=function(){var d=$(a).width();return 1210>d?$("html").removeClass():$("html").removeClass().addClass(d>=1210&&1390>d?"resp01":"resp02"),true};e();$(a).resize(function(){clearTimeout(f),f=setTimeout(e,20)})}}})(window,SEARCH);
+</script>
+</head>
+<body>
+<div id="shortcut-2014">
+	<div class="w">
+    	<ul class="fl" clstag="shangpin|keycount|toplist1|a01">
+    		<li class="dorpdown" id="ttbar-mycity"></li>
+    	</ul>
+    	<ul class="fr">
+			<li class="fore1" id="ttbar-login" clstag="shangpin|keycount|toplist1|a02">
+				<a target="_blank" href="javascript:login();" class="link-login">你好，请登录</a>&nbsp;&nbsp;<a href="javascript:regist();" class="link-regist style-red">免费注册</a>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore2" clstag="shangpin|keycount|toplist1|a03">
+				<div class="dt">
+					<a target="_blank" href="//order.jd.com/center/list.action">我的订单</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore3 dorpdown" id="ttbar-myjd" clstag="shangpin|keycount|toplist1|a04">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>
+					<a target="_blank" href="//home.jd.com/">我的京东</a>
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore4" clstag="shangpin|keycount|toplist1|a05">
+				<div class="dt">
+					<a target="_blank" href="//vip.jd.com/">京东会员</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore5" clstag="shangpin|keycount|toplist1|a06">
+				<div class="dt">
+					<a target="_blank" href="//b.jd.com/">企业采购</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore6 dorpdown" id="ttbar-apps" clstag="shangpin|keycount|toplist1|a07">
+				<div class="dt cw-icon">
+					<i class="ci-left"></i>
+					<i class="ci-right"><s>◇</s></i>
+					<a target="_blank" href="//app.jd.com/">手机京东</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore7 dorpdown" id="ttbar-atte" clstag="shangpin|keycount|toplist1|a08">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>关注京东
+				</div>	
+			</li>
+			<li class="spacer"></li>
+			<li class="fore8 dorpdown" id="ttbar-serv" clstag="shangpin|keycount|toplist1|a09">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>客户服务
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore9 dorpdown" id="ttbar-navs" clstag="shangpin|keycount|toplist1|a10">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>网站导航
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+    	</ul>
+		<span class="clr"></span>
+    </div>
+</div>
+<div id="o-header-2013"><div id="header-2013" style="display:none;"></div></div><div class="w">
+    <div id="logo-2014">
+    	<a href="//www.jd.com/" class="logo" clstag="shangpin|keycount|toplist1|b01">京东</a>
+    </div>
+    <div id="search-2014" >
+		<ul id="shelper" class="hide"></ul>
+		<div class="form">
+			<input type="text" onkeydown="javascript:if(event.keyCode==13) search('key');" autocomplete="off" id="key" accesskey="s" class="text" clstag="shangpin|keycount|toplist1|b02" />
+			<button onclick="search('key');return false;" class="button cw-icon" clstag="shangpin|keycount|toplist1|b03"><i></i>搜索</button>
+		</div>
+    </div>
+    <div id="settleup-2014" class="dorpdown">
+		<div class="cw-icon">
+			<i class="ci-left"></i>
+			<i class="ci-right">&gt;</i>
+			<a target="_blank" href="//cart.jd.com/cart.action" clstag="shangpin|keycount|toplist1|b05">我的购物车</a>
+		</div>
+		<div class="dorpdown-layer">
+			<div class="spacer"></div>
+			<div id="settleup-content">
+				<span class="loading"></span>
+			</div>
+		</div>
+	</div>
+    <div id="hotwords" clstag="shangpin|keycount|toplist1|b04"></div>
+    <span class="clr"></span>
+</div>
+<div id="nav-2014">
+    <div class="w">
+        <div class="w-spacer"></div>
+		<div id="categorys-2014" class="dorpdown" data-type="default">
+			<div class="dt" clstag="shangpin|keycount|toplist1|c01">
+				<a target="_blank" href="//www.jd.com/allSort.aspx">全部商品分类</a>
+			</div>
+		</div>
+		<div id="navitems-2014">
+			<ul id="navitems-group1">
+				<li id="nav-home" class="fore1" clstag="shangpin|keycount|toplist1|c02">
+					<a target="_blank" href="//www.jd.com/">首页</a>
+				</li>
+				<li id="nav-fashion" class="fore2" clstag="shangpin|keycount|toplist1|c03">
+					<a target="_blank" href="//fashion.jd.com/">服装城</a>
+				</li>
+				<li id="nav-beauty" class="fore3" clstag="shangpin|keycount|toplist1|c04">
+					<a target="_blank" href="//channel.jd.com/beautysale.html">美妆馆</a>
+				</li>
+				<li id="nav-chaoshi" class="fore4" clstag="shangpin|keycount|toplist1|c05">
+					<a target="_blank" href="//channel.jd.com/chaoshi.html">超市</a>
+				</li>
+				<li id="nav-jdww" class="fore5" clstag="shangpin|keycount|toplist1|c06">
+					<a target="_blank" href="//www.jd.hk/">全球购</a>
+				</li>
+			</ul>
+			<div class="spacer"></div>
+			<ul id="navitems-group2">
+				<li id="nav-red" class="fore6" clstag="shangpin|keycount|toplist1|c07">
+					<a target="_blank" href="//red.jd.com/">闪购</a>
+				</li>
+				<li id="nav-tuan" class="fore7" clstag="shangpin|keycount|toplist1|c08">
+					<a target="_blank" href="//tuan.jd.com/">团购</a>
+				</li>
+				<li id="nav-auction" class="fore8" clstag="shangpin|keycount|toplist1|c09">
+					<a target="_blank" href="//paimai.jd.com/">拍卖</a>
+				</li>
+				<li id="nav-jr" class="fore9" clstag="shangpin|keycount|toplist1|c010">
+					<a target="_blank" href="//jr.jd.com/">金融</a>
+				</li>
+			</ul>
+		</div>
+        <div id="treasure"></div>
+        <span class="clr"></span>
+    </div>
+</div><div id="J_searchWrap" class="w">
+<div id="J_crumbsBar" class="crumbs-bar">
+	<div id="J_giftBox" class="cb-gift">
+		<div class="cb-gift-trigger"><i class="ico-gift"></i><span class="txt"><a href="//gift.jd.com" target="_blank">京东帮您选礼物</a></span></div>
+		<div class="cb-gift-main">
+			<div class="cb-gift-filter"><div class="title">送给谁：</div><ul class="cb-gift-filter-list clearfix"></ul></div>
+			<div class="cb-gift-filter"><div class="title">啥时送：</div><ul class="cb-gift-filter-list clearfix"></ul></div>
+			<div class="gift-btnbox"><a href="javascript:;" class="btn btn-primary btn-XL">搜索</a></div>
+		</div>
+	</div>
+	<div class="crumbs-nav">
+		<div class="crumbs-nav-main clearfix">
+			<div class="crumbs-nav-item">
+				<div class="crumbs-first"><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1">全部结果</a></div>
+			</div>
+			<i class="crumbs-arrow">&gt;</i>
+<a class="crumb-select-item" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&uc=0#J_crumbsBar" rel="nofollow" title="华硕（ASUS）"><b>品牌：</b><em>华硕（ASUS）</em><i></i></a><i class="crumbs-arrow">&gt;</i>
+			<div class="crumbs-nav-item">
+				<strong class="search-key">"华硕"</strong>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="J_boxSearch" style="display:none;"></div>
+<div class="flagshop3"><div class="shop-bd"><div class="shop-logo">
+	<a href="//mall.jd.com/index-1000000182.html" onclick="searchlog(1,1000000182,0,58,'','shopClk=1')" target="_blank">
+		<img data-img="1" width="180" height="60" data-lazy-img="done" src="//misc.360buyimg.com/lib/img/e/blank.gif" class="err-product">
+	</a>
+</div>
+<div class="sl-i-main">
+	<div class="shop-name">
+		<a href="//mall.jd.com/index-1000000182.html" onclick="searchlog(1,1000000182,0,58,'','shopClk=1')" target="_blank" class="title"></a>
+	</div>
+	<div class="shop-infor"></div>
+	<div class="shop-infor"></div>
+</div>
+<div class="sl-i-ext">
+	<dl class="shop-score2" style="visibility:hidden;">
+		<dd class="score-infor">
+			<div class="sum"><span class="tit">综合评分</span><em class="num J_total_score"></em></div>
+			<div class="part"><span class="tit">商品评价</span><em class="num J_ware_score"></em></div>
+			<div class="part"><span class="tit">服务态度</span><em class="num J_service_score"></em></div>
+			<div class="part"><span class="tit">物流速度</span><em class="num J_effective_score"></em></div>
+		</dd>
+	</dl>
+	<div class="shop-btn">
+		<span class="m-focus" id="J_shop_focus_1000000182" data-shopid="1000000182">
+			<a href="javascript:;" class="u-focus">
+				<i class="btnico"></i><em class="btntxt">加关注</em>
+			</a>
+		</span>
+		<a href="//mall.jd.com/index-1000000182.html" onclick="searchlog(1,1000000182,0,58,'','shopClk=1')" target="_blank" class="shop-enter">进入店铺</a>
+	</div>
+</div></div></div>
+<div id="J_container" class="container">
+<div id="J_selector" class="selector">
+<div class="J_selectorLine s-category">
+	<div class="sl-wrap">
+		<div class="sl-key"><strong>电脑整机：</strong></div>
+		<div class="sl-value">
+			<div class="sl-v-list">
+				<ul class="J_valueList">
+					<li>
+						<a title="笔记本" data-v="672" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=672#J_crumbsBar" onclick="searchlog(1,672,0,51)"><i></i>笔记本</a>
+					</li>
+					<li>
+						<a title="游戏本" data-v="1105" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=1105#J_crumbsBar" onclick="searchlog(1,1105,1,51)"><i></i>游戏本</a>
+					</li>
+					<li>
+						<a title="台式机" data-v="673" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=673#J_crumbsBar" onclick="searchlog(1,673,2,51)"><i></i>台式机</a>
+					</li>
+					<li>
+						<a title="平板电脑" data-v="2694" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=2694#J_crumbsBar" onclick="searchlog(1,2694,3,51)"><i></i>平板电脑</a>
+					</li>
+					<li>
+						<a title="超极本" data-v="6864" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=6864#J_crumbsBar" onclick="searchlog(1,6864,4,51)"><i></i>超极本</a>
+					</li>
+					<li>
+						<a title="一体机" data-v="12798" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=12798#J_crumbsBar" onclick="searchlog(1,12798,5,51)"><i></i>一体机</a>
+					</li>
+					<li>
+						<a title="笔记本配件" data-v="675" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=675#J_crumbsBar" onclick="searchlog(1,675,6,51)"><i></i>笔记本配件</a>
+					</li>
+					<li class="no-relate-cat">
+						<a title="服务器/工作站" data-v="674" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=674#J_crumbsBar" onclick="searchlog(1,674,7,51)"><i></i>服务器/工作站</a>
+					</li>
+					<li class="no-relate-cat">
+						<a title="平板电脑配件" data-v="5146" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=5146#J_crumbsBar" onclick="searchlog(1,5146,8,51)"><i></i>平板电脑配件</a>
+					</li>
+				</ul>
+			</div>
+			<div class="sl-btns">
+				<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+				<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+			</div>
+		</div>
+		<div class="sl-ext">
+			<a class="sl-e-more J_extMore" href="javascript:;" style="visibility: visible;">更多<i></i></a>
+			<a class="sl-e-multiple J_extMultiple" href="javascript:;" style="visibility: hidden;">多选<i></i></a>
+		</div>
+	</div>
+</div>
+<div class="J_selectorLine s-category">
+	<div class="sl-wrap">
+		<div class="sl-key"><strong>电脑配件：</strong></div>
+		<div class="sl-value">
+			<div class="sl-v-list">
+				<ul class="J_valueList">
+					<li>
+						<a title="主板" data-v="681" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=681#J_crumbsBar" onclick="searchlog(1,681,10000,51)"><i></i>主板</a>
+					</li>
+					<li>
+						<a title="显示器" data-v="688" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=688#J_crumbsBar" onclick="searchlog(1,688,10001,51)"><i></i>显示器</a>
+					</li>
+					<li>
+						<a title="显卡" data-v="679" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=679#J_crumbsBar" onclick="searchlog(1,679,10002,51)"><i></i>显卡</a>
+					</li>
+					<li>
+						<a title="声卡/扩展卡" data-v="5008" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=5008#J_crumbsBar" onclick="searchlog(1,5008,10003,51)"><i></i>声卡/扩展卡</a>
+					</li>
+					<li>
+						<a title="刻录机/光驱" data-v="684" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=684#J_crumbsBar" onclick="searchlog(1,684,10004,51)"><i></i>刻录机/光驱</a>
+					</li>
+					<li>
+						<a title="组装电脑" data-v="11762" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=11762#J_crumbsBar" onclick="searchlog(1,11762,10005,51)"><i></i>组装电脑</a>
+					</li>
+					<li>
+						<a title="机箱" data-v="687" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=687#J_crumbsBar" onclick="searchlog(1,687,10006,51)"><i></i>机箱</a>
+					</li>
+					<li class="no-relate-cat">
+						<a title="装机配件" data-v="5009" href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=5009#J_crumbsBar" onclick="searchlog(1,5009,10007,51)"><i></i>装机配件</a>
+					</li>
+				</ul>
+			</div>
+			<div class="sl-btns">
+				<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+				<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+			</div>
+		</div>
+		<div class="sl-ext">
+			<a class="sl-e-more J_extMore" href="javascript:;" style="visibility: visible;">更多<i></i></a>
+			<a class="sl-e-multiple J_extMultiple" href="javascript:;" style="visibility: hidden;">多选<i></i></a>
+		</div>
+	</div>
+</div>
+<div class="J_selectorLine s-line"><div class="sl-wrap"><div class="sl-key"><span>适用CPU接口：</span></div><div class="sl-value"><div class="sl-v-list"><ul class="J_valueList"><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40553_491477%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20000,71,'适用CPU接口::AMD FM2＋')"><i></i>AMD FM2＋</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40553_62303%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20001,71,'适用CPU接口::AMD AM3＋')"><i></i>AMD AM3＋</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40553_396161%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20002,71,'适用CPU接口::INTEL 1150')"><i></i>INTEL 1150</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40553_593810%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20003,71,'适用CPU接口::INTEL 1151首发')"><i></i>INTEL 1151首发</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40553_9748%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20004,71,'适用CPU接口::INTEL 1155')"><i></i>INTEL 1155</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40553_593802%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20005,71,'适用CPU接口::INTEL 2011V3')"><i></i>INTEL 2011V3</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40553_73247%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20006,71,'适用CPU接口::整合CPU主板')"><i></i>整合CPU主板</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40553_593818%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20007,71,'适用CPU接口::INTEL其他')"><i></i>INTEL其他</a></li></ul></div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+						<div class="sl-ext">
+							<a class="sl-e-more J_extMore" href="javascript:;">更多<i></i></a>
+							<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+					</div>
+				</div><div class="J_selectorLine s-line"><div class="sl-wrap"><div class="sl-key"><span>尺寸：</span></div><div class="sl-value"><div class="sl-v-list"><ul class="J_valueList"><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_509695%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30000,71,'尺寸::7英寸及以下')"><i></i>7英寸及以下</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_631977%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30001,71,'尺寸::7.1英寸-9英寸')"><i></i>7.1英寸-9英寸</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_8580%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30002,71,'尺寸::10.1英寸及以下')"><i></i>10.1英寸及以下</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_653162%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30003,71,'尺寸::10.1英寸-12英寸')"><i></i>10.1英寸-12英寸</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_583619%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30004,71,'尺寸::11.6英寸')"><i></i>11.6英寸</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_583620%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30005,71,'尺寸::12.5英寸')"><i></i>12.5英寸</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_583621%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30006,71,'尺寸::13.3英寸')"><i></i>13.3英寸</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_609662%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30007,71,'尺寸::14.0英寸')"><i></i>14.0英寸</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_583623%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30008,71,'尺寸::15.6英寸')"><i></i>15.6英寸</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_583622%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30009,71,'尺寸::17.3英寸')"><i></i>17.3英寸</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_632782%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30010,71,'尺寸::21英寸及以下')"><i></i>21英寸及以下</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_3293%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30011,71,'尺寸::21.5英寸')"><i></i>21.5英寸</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_632784%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30012,71,'尺寸::23-25英寸')"><i></i>23-25英寸</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_1549%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30013,71,'尺寸::27-29英寸')"><i></i>27-29英寸</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_47583%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30014,71,'尺寸::30英寸以上')"><i></i>30英寸以上</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40458_3%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30015,71,'尺寸::其他')"><i></i>其他</a></li></ul></div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+						<div class="sl-ext">
+							<a class="sl-e-more J_extMore" href="javascript:;">更多<i></i></a>
+							<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+					</div>
+				</div><div id="J_selectorSenior" class="J_selectorLine s-line s-senior">
+	<div class="sl-wrap">
+		<div class="sl-key"><span>高级选项：</span></div>
+		<div class="sl-value">
+			<div class="sl-v-tab">
+				<div class="sl-tab-trigger clearfix">
+					<a class="trig-item" href="javascript:;"><span class="text">处理器</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">显卡</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">电脑类别</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">适用人群</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">内存容量</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">价格</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">重量</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">硬盘容量</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">其他分类</span><i class="arrow"></i></a>
+				</div>
+			</div>
+		</div>
+		<div class="sl-tab-cont">
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_309145%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40000,71,'处理器::Intel i3')"><i></i>Intel i3</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_609766%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40001,71,'处理器::Intel i5标压')"><i></i>Intel i5标压</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_309146%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40002,71,'处理器::Intel i5')"><i></i>Intel i5</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_309149%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40003,71,'处理器::AMD A6')"><i></i>AMD A6</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_609764%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40004,71,'处理器::Intel i7标压')"><i></i>Intel i7标压</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_309147%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40005,71,'处理器::Intel i7')"><i></i>Intel i7</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_309153%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40006,71,'处理器::AMD A10')"><i></i>AMD A10</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_526735%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40007,71,'处理器::AMD FX')"><i></i>AMD FX</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_622827%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40008,71,'处理器::Intel奔腾')"><i></i>Intel奔腾</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_622828%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40009,71,'处理器::Intel赛扬')"><i></i>Intel赛扬</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_1312%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40010,71,'处理器::AMD')"><i></i>AMD</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_593819%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40011,71,'处理器::AMD其他')"><i></i>AMD其他</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_632154%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40012,71,'处理器::Intel 其他')"><i></i>Intel 其他</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_609670%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40013,71,'处理器::Intel 其它')"><i></i>Intel 其它</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_622831%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40014,71,'处理器::intel其它')"><i></i>intel其它</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%4011925_3%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40015,71,'处理器::其他')"><i></i>其他</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_654713%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50000,71,'显卡::1G独立显卡')"><i></i>1G独立显卡</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_654714%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50001,71,'显卡::2G独立显卡')"><i></i>2G独立显卡</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_584425%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50002,71,'显卡::GTX860M')"><i></i>GTX860M</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_584420%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50003,71,'显卡::GTX880M')"><i></i>GTX880M</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_584426%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50004,71,'显卡::GTX950M')"><i></i>GTX950M</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_584424%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50005,71,'显卡::GTX960M')"><i></i>GTX960M</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_584421%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50006,71,'显卡::GTX965M')"><i></i>GTX965M</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_584418%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50007,71,'显卡::GTX970M')"><i></i>GTX970M</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_584417%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50008,71,'显卡::GTX980M')"><i></i>GTX980M</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_609675%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50009,71,'显卡::入门级独显')"><i></i>入门级独显</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_101050%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50010,71,'显卡::核芯显卡')"><i></i>核芯显卡</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_609673%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50011,71,'显卡::游戏显卡')"><i></i>游戏显卡</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_101051%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50012,71,'显卡::独立显卡')"><i></i>独立显卡</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_8657%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50013,71,'显卡::集成显卡')"><i></i>集成显卡</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_609674%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50014,71,'显卡::高性能独显')"><i></i>高性能独显</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401464_3%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50015,71,'显卡::其他')"><i></i>其他</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40804_3642%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60000,71,'电脑类别::家用电脑')"><i></i>家用电脑</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40804_5492%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60001,71,'电脑类别::一体机')"><i></i>一体机</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40804_3641%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60002,71,'电脑类别::商用电脑')"><i></i>商用电脑</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40804_622797%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60003,71,'电脑类别::游戏电脑')"><i></i>游戏电脑</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40804_622803%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60004,71,'电脑类别::电脑主机')"><i></i>电脑主机</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40804_622807%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60005,71,'电脑类别::迷你机')"><i></i>迷你机</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%407437_609659%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70000,71,'适用人群::商务办公')"><i></i>商务办公</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%407437_609657%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70001,71,'适用人群::校园学生')"><i></i>校园学生</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%407437_609812%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70002,71,'适用人群::游戏达人')"><i></i>游戏达人</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%407437_632091%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70003,71,'适用人群::时尚超薄')"><i></i>时尚超薄</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%407437_611896%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70004,71,'适用人群::高清影音')"><i></i>高清影音</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%407437_3%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70005,71,'适用人群::其他')"><i></i>其他</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104861_2958%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80000,71,'内存容量::2G')"><i></i>2G</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104861_2963%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80001,71,'内存容量::4G')"><i></i>4G</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104861_1828%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80002,71,'内存容量::8G')"><i></i>8G</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104861_1829%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80003,71,'内存容量::16G')"><i></i>16G</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104861_3%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80004,71,'内存容量::其他')"><i></i>其他</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104861_3031%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80005,71,'内存容量::其它')"><i></i>其它</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40exprice_0-499%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90000,71,'价格::0-499')"><i></i>0-499</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40exprice_500-1599%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90001,71,'价格::500-1599')"><i></i>500-1599</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40exprice_1600-3599%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90002,71,'价格::1600-3599')"><i></i>1600-3599</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40exprice_3600-5199%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90003,71,'价格::3600-5199')"><i></i>3600-5199</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40exprice_5200-7299%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90004,71,'价格::5200-7299')"><i></i>5200-7299</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40exprice_7300-10699%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90005,71,'价格::7300-10699')"><i></i>7300-10699</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40exprice_10700gt%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90006,71,'价格::10700以上')"><i></i>10700以上</a></li>					</ul>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401354_632102%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,100000,71,'重量::1.5kg-2kg')"><i></i>1.5kg-2kg</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401354_632101%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,100001,71,'重量::小于1.5KG')"><i></i>小于1.5KG</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401354_632103%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,100002,71,'重量::2KG-2.5KG')"><i></i>2KG-2.5KG</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%401354_632104%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,100003,71,'重量::大于2.5KG')"><i></i>大于2.5KG</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104862_1823%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110000,71,'硬盘容量::1T')"><i></i>1T</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104862_526748%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110001,71,'硬盘容量::2T')"><i></i>2T</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104862_609685%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110002,71,'硬盘容量::含64G SSD')"><i></i>含64G SSD</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104862_609686%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110003,71,'硬盘容量::含128G SSD')"><i></i>含128G SSD</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104862_609687%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110004,71,'硬盘容量::含256G SSD')"><i></i>含256G SSD</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104862_526746%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110005,71,'硬盘容量::500G')"><i></i>500G</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104862_609688%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110006,71,'硬盘容量::含512G SSD')"><i></i>含512G SSD</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104862_609684%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110007,71,'硬盘容量::混合硬盘')"><i></i>混合硬盘</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40104862_3%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110008,71,'硬盘容量::其他')"><i></i>其他</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=1099#J_crumbsBar" rel="nofollow" data-v="1099" onclick="searchlog(1,1099,120000,51)"><i></i>手机存储卡</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=722#J_crumbsBar" rel="nofollow" data-v="722" onclick="searchlog(1,722,120001,51)"><i></i>投影机</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=5010#J_crumbsBar" rel="nofollow" data-v="5010" onclick="searchlog(1,5010,120002,51)"><i></i>投影配件</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid2=686#J_crumbsBar" rel="nofollow" data-v="686" onclick="searchlog(1,686,120003,51)"><i></i>外设产品</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=4838#J_crumbsBar" rel="nofollow" data-v="4838" onclick="searchlog(1,4838,120004,51)"><i></i>刻录碟片/附件</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=700#J_crumbsBar" rel="nofollow" data-v="700" onclick="searchlog(1,700,120005,51)"><i></i>路由器</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=701#J_crumbsBar" rel="nofollow" data-v="701" onclick="searchlog(1,701,120006,51)"><i></i>网卡</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=655#J_crumbsBar" rel="nofollow" data-v="655" onclick="searchlog(1,655,120007,51)"><i></i>手机</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=12802#J_crumbsBar" rel="nofollow" data-v="12802" onclick="searchlog(1,12802,120008,51)"><i></i>游戏耳机</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid3=6964#J_crumbsBar" rel="nofollow" data-v="6964" onclick="searchlog(1,6964,120009,51)"><i></i>行车记录仪</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid2=12345#J_crumbsBar" rel="nofollow" data-v="12345" onclick="searchlog(1,12345,120010,51)"><i></i>智能设备</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid2=828#J_crumbsBar" rel="nofollow" data-v="828" onclick="searchlog(1,828,120011,51)"><i></i>影音娱乐</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid2=654#J_crumbsBar" rel="nofollow" data-v="654" onclick="searchlog(1,654,120012,51)"><i></i>摄影摄像</a></li><li><a href="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&cid2=1342#J_crumbsBar" rel="nofollow" data-v="1342" onclick="searchlog(1,1342,120013,51)"><i></i>男装</a></li>					</ul>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<div id="J_main" class="g-main2">
+	<div class="m-list">
+		<div class="ml-wrap">
+			<div id="J_filter" class="filter">
+				<div class="f-line top">
+					<div class="f-sort">						<a class="curr" href="javascript:;">综合排序<i></i></a>
+						<a class="" href="javascript:;">销量<i></i></a>
+						<a class="" href="javascript:;">价格<i></i></a>
+						<a class="" href="javascript:;">评论数<i></i></a>
+						<a class="" href="javascript:;">新品<i></i></a>
+					</div>
+					<div class="f-search">
+						<input type="text" value="在结果中搜索" class="input-txt">
+						<a data-type="all" data-field="exp_key" class="btn btn-default" data-url="search?keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&exp_key=" href="javascript:;">确定</a>
+					</div>
+					<div id="J_topPage" class="f-pager">
+						<span class="fp-text">
+							<b>1</b><em>/</em><i>200</i>
+						</span>
+						<a class="fp-prev disabled" href="javascript:;">&lt;</a>
+						<a class="fp-next" href="javascript:;">&gt;</a>
+					</div>
+					<div class="f-result-sum">共<span id="J_resCount" class="num">8022</span>件商品</div>
+					<span class="clr"></span>
+				</div>
+				<div class="f-line">
+					<div class="f-store">
+						<div class="fs-cell delivery-location">配送至</div>
+						<div id="store-selector" class="">
+							<div class="text">北京<b></b></div>
+							<div class="content"></div>
+							<div class="close" onclick="$('#store-selector').removeClass('hover')"></div>
+						</div>
+					</div>
+					<div id="J_feature" class="f-feature">
+						<ul>
+							<li><a data-field="wtype" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,43)"><i></i>京东配送</a></li>
+							<li><a data-field="cod" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,34)"><i></i>货到付款</a></li>
+							<li><a data-field="stock" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,41)"><i></i>仅显示有货</a></li>
+						</ul>
+					</div>
+					<span class="clr"></span>
+				</div>
+			</div>
+<div id="J_goodsList" class="goods-list-v1 gl-type-1 J-goods-list"><ul class="gl-warp clearfix" data-tpl="1"><li data-sku="2783426" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) 顽石四代尊享版 15.6英寸笔记本电脑(i7-6500U 8G 1TB NVIDIA GEFORCE 940M 2G独显 深蓝 LED)" href="//item.jd.com/2783426.html" onclick="searchlog(1,2783426,0,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img11.360buyimg.com/n7/jfs/t2872/222/1965245385/197481/c0b3b690/57511e67Nee79553a.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2783426" data-price="4599.00"><em>¥</em><i>4599.00</i></strong>						<div class="p-icons" id="J_pro_2783426"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) 顽石四代尊享版 15.6英寸笔记本电脑(i7-6500U 8G 1TB NVIDIA GEFORCE 940M 2G独显 深蓝 LED)" href="//item.jd.com/2783426.html" onclick="searchlog(1,2783426,0,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) 顽石四代尊享版 15.6英寸笔记本电脑(i7-6500U 8G 1TB NVIDIA GEFORCE 940M 2G独显 深蓝 LED)</em>
+							<i class="promo-words" id="J_AD_2783426"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2783426" target="_blank" href="//item.jd.com/2783426.html#comments-list" onclick="searchlog(1,2783426,0,3,'','flagsClk=4194952')">892</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2783426" href="javascript:;" onclick="searchlog(1,2783426,0,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2783426" href="javascript:;" onclick="searchlog(1,2783426,0,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2783426" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2783426&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2783426,0,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1852827" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) R557LI 15.6英寸笔记本电脑(i5-5200U 4G 500G 2G独显 黑 LED)" href="//item.jd.com/1852827.html" onclick="searchlog(1,1852827,1,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img12.360buyimg.com/n7/jfs/t2224/77/2054385394/320272/14b86260/56a5bff9Nf5d5a0b9.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1852827" data-price="3199.00"><em>¥</em><i>3199.00</i></strong>						<div class="p-icons" id="J_pro_1852827"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) R557LI 15.6英寸笔记本电脑(i5-5200U 4G 500G 2G独显 黑 LED)" href="//item.jd.com/1852827.html" onclick="searchlog(1,1852827,1,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) R557LI 15.6英寸笔记本电脑(i5-5200U 4G 500G 2G独显 黑 LED)</em>
+							<i class="promo-words" id="J_AD_1852827"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1852827" target="_blank" href="//item.jd.com/1852827.html#comments-list" onclick="searchlog(1,1852827,1,3,'','flagsClk=4194952')">8505</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1852827" href="javascript:;" onclick="searchlog(1,1852827,1,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1852827" href="javascript:;" onclick="searchlog(1,1852827,1,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1852827" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1852827&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1852827,1,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1664592" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) FL5600LI 15.6英寸笔记本(i7-5500U 4G 1TB 2G独显 黑 FHD)" href="//item.jd.com/1664592.html" onclick="searchlog(1,1664592,2,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img12.360buyimg.com/n7/jfs/t2323/162/1990926922/138438/e68b593d/56a08f23N4989bc99.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1664592" data-price="4299.00"><em>¥</em><i>4299.00</i></strong>						<div class="p-icons" id="J_pro_1664592"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) FL5600LI 15.6英寸笔记本(i7-5500U 4G 1TB 2G独显 黑 FHD)" href="//item.jd.com/1664592.html" onclick="searchlog(1,1664592,2,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) FL5600LI 15.6英寸笔记本(i7-5500U 4G 1TB 2G独显 黑 FHD)</em>
+							<i class="promo-words" id="J_AD_1664592"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1664592" target="_blank" href="//item.jd.com/1664592.html#comments-list" onclick="searchlog(1,1664592,2,3,'','flagsClk=4194952')">18637</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1664592" href="javascript:;" onclick="searchlog(1,1664592,2,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1664592" href="javascript:;" onclick="searchlog(1,1664592,2,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1664592" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1664592&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1664592,2,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1852822" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) X450JB 14英寸笔记本电脑(i5-4200H 4G 1TB GT940M 2G独显 蓝牙4.0 黑 HD)" href="//item.jd.com/1852822.html" onclick="searchlog(1,1852822,3,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img12.360buyimg.com/n7/jfs/t2371/355/2020180202/215438/6a46d569/56a09767N0866cfcf.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1852822" data-price="3999.00"><em>¥</em><i>3999.00</i></strong>						<div class="p-icons" id="J_pro_1852822"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) X450JB 14英寸笔记本电脑(i5-4200H 4G 1TB GT940M 2G独显 蓝牙4.0 黑 HD)" href="//item.jd.com/1852822.html" onclick="searchlog(1,1852822,3,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) X450JB 14英寸笔记本电脑(i5-4200H 4G 1TB GT940M 2G独显 蓝牙4.0 黑 HD)</em>
+							<i class="promo-words" id="J_AD_1852822"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1852822" target="_blank" href="//item.jd.com/1852822.html#comments-list" onclick="searchlog(1,1852822,3,3,'','flagsClk=4194952')">10440</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1852822" href="javascript:;" onclick="searchlog(1,1852822,3,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1852822" href="javascript:;" onclick="searchlog(1,1852822,3,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1852822" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1852822&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1852822,3,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2201629" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) 经典系列 R454LJ 14英寸笔记本(i5-5200U 4G 500G GT920M 2G独显 Win10黑 LED)" href="//item.jd.com/2201629.html" onclick="searchlog(1,2201629,4,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img14.360buyimg.com/n7/jfs/t2467/183/1796401902/215380/573ed7c4/56825136N846d3323.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2201629" data-price="3299.00"><em>¥</em><i>3299.00</i></strong>						<div class="p-icons" id="J_pro_2201629"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) 经典系列 R454LJ 14英寸笔记本(i5-5200U 4G 500G GT920M 2G独显 Win10黑 LED)" href="//item.jd.com/2201629.html" onclick="searchlog(1,2201629,4,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) 经典系列 R454LJ 14英寸笔记本(i5-5200U 4G 500G GT920M 2G独显 Win10黑 LED)</em>
+							<i class="promo-words" id="J_AD_2201629"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2201629" target="_blank" href="//item.jd.com/2201629.html#comments-list" onclick="searchlog(1,2201629,4,3,'','flagsClk=4194952')">3783</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2201629" href="javascript:;" onclick="searchlog(1,2201629,4,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2201629" href="javascript:;" onclick="searchlog(1,2201629,4,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2201629" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2201629&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2201629,4,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2239794" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) 商务便携系列U303UB 13.3英寸超轻薄笔记本电脑(i5-6200U 4G 500G GT940M 2G独显玫瑰金Full HD)" href="//item.jd.com/2239794.html" onclick="searchlog(1,2239794,5,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2614/124/1720854381/143732/971e29c1/5747f1f0N131142fb.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2239794" data-price="5499.00"><em>¥</em><i>5499.00</i></strong>						<div class="p-icons" id="J_pro_2239794"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) 商务便携系列U303UB 13.3英寸超轻薄笔记本电脑(i5-6200U 4G 500G GT940M 2G独显玫瑰金Full HD)" href="//item.jd.com/2239794.html" onclick="searchlog(1,2239794,5,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) 商务便携系列U303UB 13.3英寸超轻薄笔记本电脑(i5-6200U 4G 500G GT940M 2G独显玫瑰金Full HD)</em>
+							<i class="promo-words" id="J_AD_2239794"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2239794" target="_blank" href="//item.jd.com/2239794.html#comments-list" onclick="searchlog(1,2239794,5,3,'','flagsClk=4194952')">1330</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2239794" href="javascript:;" onclick="searchlog(1,2239794,5,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2239794" href="javascript:;" onclick="searchlog(1,2239794,5,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2239794" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2239794&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2239794,5,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="3039654" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕（ASUS）灵耀 U3000 13.3英寸超轻薄笔记本电脑（i7-6500U 8G 512GB SSD 烟棕色 LED雾面防炫目屏）" href="//item.jd.com/3039654.html" onclick="searchlog(1,3039654,6,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2962/42/4440629/68787/b8f123fa/5747b0a6Ne0a1411b.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_3039654" data-price="6499.00"><em>¥</em><i>6499.00</i></strong>						<div class="p-icons" id="J_pro_3039654"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕（ASUS）灵耀 U3000 13.3英寸超轻薄笔记本电脑（i7-6500U 8G 512GB SSD 烟棕色 LED雾面防炫目屏）" href="//item.jd.com/3039654.html" onclick="searchlog(1,3039654,6,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>（ASUS）灵耀 U3000 13.3英寸超轻薄笔记本电脑（i7-6500U 8G 512GB SSD 烟棕色 LED雾面防炫目屏）</em>
+							<i class="promo-words" id="J_AD_3039654"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_3039654" target="_blank" href="//item.jd.com/3039654.html#comments-list" onclick="searchlog(1,3039654,6,3,'','flagsClk=4194952')">461</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="3039654" href="javascript:;" onclick="searchlog(1,3039654,6,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="3039654" href="javascript:;" onclick="searchlog(1,3039654,6,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="3039654" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=3039654&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,3039654,6,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1883149" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) R557LI 15.6英寸笔记本电脑(i5-5200U 8G 500G 2G独显 黑 LED)" href="//item.jd.com/1883149.html" onclick="searchlog(1,1883149,7,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2104/94/1421400810/320272/14b86260/56a19b1dN46e5b544.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1883149" data-price="3699.00"><em>¥</em><i>3699.00</i></strong>						<div class="p-icons" id="J_pro_1883149"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) R557LI 15.6英寸笔记本电脑(i5-5200U 8G 500G 2G独显 黑 LED)" href="//item.jd.com/1883149.html" onclick="searchlog(1,1883149,7,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) R557LI 15.6英寸笔记本电脑(i5-5200U 8G 500G 2G独显 黑 LED)</em>
+							<i class="promo-words" id="J_AD_1883149"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1883149" target="_blank" href="//item.jd.com/1883149.html#comments-list" onclick="searchlog(1,1883149,7,3,'','flagsClk=4194952')">3461</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1883149" href="javascript:;" onclick="searchlog(1,1883149,7,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1883149" href="javascript:;" onclick="searchlog(1,1883149,7,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1883149" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1883149&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1883149,7,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2783428" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕（ASUS）VM510LJ 15.6英寸笔记本 （i7-5500U 4G 1TB GT920M 2G独显 FHD屏 蓝牙 Win10 黑色）" href="//item.jd.com/2783428.html" onclick="searchlog(1,2783428,8,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2398/97/2806955686/207721/4bb99e7d/57187a67N1881034a.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2783428" data-price="3999.00"><em>¥</em><i>3999.00</i></strong>						<div class="p-icons" id="J_pro_2783428"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕（ASUS）VM510LJ 15.6英寸笔记本 （i7-5500U 4G 1TB GT920M 2G独显 FHD屏 蓝牙 Win10 黑色）" href="//item.jd.com/2783428.html" onclick="searchlog(1,2783428,8,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>（ASUS）VM510LJ 15.6英寸笔记本 （i7-5500U 4G 1TB GT920M 2G独显 FHD屏 蓝牙 Win10 黑色）</em>
+							<i class="promo-words" id="J_AD_2783428"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2783428" target="_blank" href="//item.jd.com/2783428.html#comments-list" onclick="searchlog(1,2783428,8,3,'','flagsClk=4194952')">632</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2783428" href="javascript:;" onclick="searchlog(1,2783428,8,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2783428" href="javascript:;" onclick="searchlog(1,2783428,8,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2783428" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2783428&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2783428,8,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1852894" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) Vivobook 4000 15.6英寸笔记本电脑(i7-5500U 8G 1TB 2G独显 蓝牙 Win10黑 UHD IPS屏)" href="//item.jd.com/1852894.html" onclick="searchlog(1,1852894,9,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2542/87/1293240361/142327/ccd0ef44/56a19520N6edf934f.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1852894" data-price="4999.00"><em>¥</em><i>4999.00</i></strong>						<div class="p-icons" id="J_pro_1852894"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) Vivobook 4000 15.6英寸笔记本电脑(i7-5500U 8G 1TB 2G独显 蓝牙 Win10黑 UHD IPS屏)" href="//item.jd.com/1852894.html" onclick="searchlog(1,1852894,9,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) Vivobook 4000 15.6英寸笔记本电脑(i7-5500U 8G 1TB 2G独显 蓝牙 Win10黑 UHD IPS屏)</em>
+							<i class="promo-words" id="J_AD_1852894"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1852894" target="_blank" href="//item.jd.com/1852894.html#comments-list" onclick="searchlog(1,1852894,9,3,'','flagsClk=4194952')">1489</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1852894" href="javascript:;" onclick="searchlog(1,1852894,9,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1852894" href="javascript:;" onclick="searchlog(1,1852894,9,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1852894" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1852894&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1852894,9,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="10024489268" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) FL5900UB6500顽石4代15.6英寸i7独显游戏笔记本电脑超薄本 FL5900UB6500 蓝黑色" href="//item.jd.com/10024489268.html" onclick="searchlog(1,10024489268,10,2,'','flagsClk=4194440')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2716/2/2571681617/170584/3a5a796/5768ea6bN78e47108.jpg" />
+						</a>
+						<div data-ico="0" data-venid="184808" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_10024489268" data-price="4699.00"><em>¥</em><i>4699.00</i></strong>						<div class="p-icons" id="J_pro_10024489268"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) FL5900UB6500顽石4代15.6英寸i7独显游戏笔记本电脑超薄本 FL5900UB6500 蓝黑色" href="//item.jd.com/10024489268.html" onclick="searchlog(1,10024489268,10,1,'','flagsClk=4194440')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) FL5900UB6500顽石4代15.6英寸i7独显游戏笔记本电脑超薄本 FL5900UB6500 蓝黑色</em>
+							<i class="promo-words" id="J_AD_10024489268"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_10024489268" target="_blank" href="//item.jd.com/10024489268.html#comments-list" onclick="searchlog(1,10024489268,10,3,'','flagsClk=4194440')">716</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="10024489268" href="javascript:;" onclick="searchlog(1,10024489268,10,6,'','flagsClk=4194440')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="10024489268" href="javascript:;" onclick="searchlog(1,10024489268,10,5,'','flagsClk=4194440')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="10024489268" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=10024489268&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,10024489268,10,4,'','flagsClk=4194440')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1338059" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) 思聪本 X205 11.6英寸笔记本(Baytrail四核 2G 128G 雪山白 LED)" href="//item.jd.com/1338059.html" onclick="searchlog(1,1338059,11,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t1669/32/686083153/122913/7cdfa1f8/55da700eNbef73bb9.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1338059" data-price="1999.00"><em>¥</em><i>1999.00</i></strong>						<div class="p-icons" id="J_pro_1338059"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) 思聪本 X205 11.6英寸笔记本(Baytrail四核 2G 128G 雪山白 LED)" href="//item.jd.com/1338059.html" onclick="searchlog(1,1338059,11,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) 思聪本 X205 11.6英寸笔记本(Baytrail四核 2G 128G 雪山白 LED)</em>
+							<i class="promo-words" id="J_AD_1338059"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1338059" target="_blank" href="//item.jd.com/1338059.html#comments-list" onclick="searchlog(1,1338059,11,3,'','flagsClk=4194952')">4257</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1338059" href="javascript:;" onclick="searchlog(1,1338059,11,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1338059" href="javascript:;" onclick="searchlog(1,1338059,11,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1338059" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1338059&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1338059,11,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1981672" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) FL5800 15.6英寸笔记本电脑(i7-5500U 4G 128GSSD+1TB 2G独显 蓝牙 Win10黑 FHD)" href="//item.jd.com/1981672.html" onclick="searchlog(1,1981672,12,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t2338/331/1477365513/117704/2ffd4edd/56a1fe49N92fd95df.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1981672" data-price="4799.00"><em>¥</em><i>4799.00</i></strong>						<div class="p-icons" id="J_pro_1981672"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) FL5800 15.6英寸笔记本电脑(i7-5500U 4G 128GSSD+1TB 2G独显 蓝牙 Win10黑 FHD)" href="//item.jd.com/1981672.html" onclick="searchlog(1,1981672,12,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) FL5800 15.6英寸笔记本电脑(i7-5500U 4G 128GSSD+1TB 2G独显 蓝牙 Win10黑 FHD)</em>
+							<i class="promo-words" id="J_AD_1981672"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1981672" target="_blank" href="//item.jd.com/1981672.html#comments-list" onclick="searchlog(1,1981672,12,3,'','flagsClk=4194952')">3271</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1981672" href="javascript:;" onclick="searchlog(1,1981672,12,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1981672" href="javascript:;" onclick="searchlog(1,1981672,12,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1981672" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1981672&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1981672,12,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1338058" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) 思聪本 X205 11.6英寸笔记本(Baytrail四核 2G 128G 宾利蓝 LED)" href="//item.jd.com/1338058.html" onclick="searchlog(1,1338058,13,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t1324/296/446212311/133584/c1271e9b/55da7003N1c977bb3.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1338058" data-price="1999.00"><em>¥</em><i>1999.00</i></strong>						<div class="p-icons" id="J_pro_1338058"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) 思聪本 X205 11.6英寸笔记本(Baytrail四核 2G 128G 宾利蓝 LED)" href="//item.jd.com/1338058.html" onclick="searchlog(1,1338058,13,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) 思聪本 X205 11.6英寸笔记本(Baytrail四核 2G 128G 宾利蓝 LED)</em>
+							<i class="promo-words" id="J_AD_1338058"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1338058" target="_blank" href="//item.jd.com/1338058.html#comments-list" onclick="searchlog(1,1338058,13,3,'','flagsClk=4194952')">4557</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1338058" href="javascript:;" onclick="searchlog(1,1338058,13,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1338058" href="javascript:;" onclick="searchlog(1,1338058,13,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1338058" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1338058&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1338058,13,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2239796" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) 商务便携系列U303UB 13.3英寸超轻薄笔记本电脑(i5-6200U 4G 500G GT940M 2G独显 烟棕Full HD)" href="//item.jd.com/2239796.html" onclick="searchlog(1,2239796,14,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2863/91/1729935654/87591/5f615dd1/5747f289N5e3a10fb.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2239796" data-price="5499.00"><em>¥</em><i>5499.00</i></strong>						<div class="p-icons" id="J_pro_2239796"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) 商务便携系列U303UB 13.3英寸超轻薄笔记本电脑(i5-6200U 4G 500G GT940M 2G独显 烟棕Full HD)" href="//item.jd.com/2239796.html" onclick="searchlog(1,2239796,14,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) 商务便携系列U303UB 13.3英寸超轻薄笔记本电脑(i5-6200U 4G 500G GT940M 2G独显 烟棕Full HD)</em>
+							<i class="promo-words" id="J_AD_2239796"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2239796" target="_blank" href="//item.jd.com/2239796.html#comments-list" onclick="searchlog(1,2239796,14,3,'','flagsClk=4194952')">804</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2239796" href="javascript:;" onclick="searchlog(1,2239796,14,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2239796" href="javascript:;" onclick="searchlog(1,2239796,14,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2239796" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2239796&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2239796,14,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2843340" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) 灵耀 U305UA 13.3英寸超轻薄笔记本电脑(i5-6200 8G 512G SSD FHD 全高清 金)" href="//item.jd.com/2843340.html" onclick="searchlog(1,2843340,15,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t2977/233/12510893/150033/bc8bbbff/5747f86dN8b63529c.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2843340" data-price="5999.00"><em>¥</em><i>5999.00</i></strong>						<div class="p-icons" id="J_pro_2843340"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) 灵耀 U305UA 13.3英寸超轻薄笔记本电脑(i5-6200 8G 512G SSD FHD 全高清 金)" href="//item.jd.com/2843340.html" onclick="searchlog(1,2843340,15,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) 灵耀 U305UA 13.3英寸超轻薄笔记本电脑(i5-6200 8G 512G SSD FHD 全高清 金)</em>
+							<i class="promo-words" id="J_AD_2843340"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2843340" target="_blank" href="//item.jd.com/2843340.html#comments-list" onclick="searchlog(1,2843340,15,3,'','flagsClk=4194952')">208</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2843340" href="javascript:;" onclick="searchlog(1,2843340,15,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2843340" href="javascript:;" onclick="searchlog(1,2843340,15,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2843340" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2843340&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2843340,15,4,'','flagsClk=4194952')" data-parallel="1"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2721731" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) VM590LB 15.6英寸笔记本(i7-5500U 4G 1TB GT940M 2G独显 蓝牙 Win10黑)" href="//item.jd.com/2721731.html" onclick="searchlog(1,2721731,16,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2728/127/610306189/87607/c5af4f4f/571dc310Nfc199a58.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2721731" data-price="4199.00"><em>¥</em><i>4199.00</i></strong>						<div class="p-icons" id="J_pro_2721731"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) VM590LB 15.6英寸笔记本(i7-5500U 4G 1TB GT940M 2G独显 蓝牙 Win10黑)" href="//item.jd.com/2721731.html" onclick="searchlog(1,2721731,16,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) VM590LB 15.6英寸笔记本(i7-5500U 4G 1TB GT940M 2G独显 蓝牙 Win10黑)</em>
+							<i class="promo-words" id="J_AD_2721731"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2721731" target="_blank" href="//item.jd.com/2721731.html#comments-list" onclick="searchlog(1,2721731,16,3,'','flagsClk=4194952')">141</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2721731" href="javascript:;" onclick="searchlog(1,2721731,16,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2721731" href="javascript:;" onclick="searchlog(1,2721731,16,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2721731" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2721731&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2721731,16,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2986824" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) 顽石四代旗舰版 15.6英寸笔记本电脑(i7-6500U 4G 1TB+128GB SSD GT940M 2G独显 深蓝 LED)" href="//item.jd.com/2986824.html" onclick="searchlog(1,2986824,17,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2788/52/1958268823/197481/c0b3b690/57511e01N71da2a0c.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2986824" data-price="4999.00"><em>¥</em><i>4999.00</i></strong>						<div class="p-icons" id="J_pro_2986824"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) 顽石四代旗舰版 15.6英寸笔记本电脑(i7-6500U 4G 1TB+128GB SSD GT940M 2G独显 深蓝 LED)" href="//item.jd.com/2986824.html" onclick="searchlog(1,2986824,17,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) 顽石四代旗舰版 15.6英寸笔记本电脑(i7-6500U 4G 1TB+128GB SSD GT940M 2G独显 深蓝 LED)</em>
+							<i class="promo-words" id="J_AD_2986824"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2986824" target="_blank" href="//item.jd.com/2986824.html#comments-list" onclick="searchlog(1,2986824,17,3,'','flagsClk=4194952')">111</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2986824" href="javascript:;" onclick="searchlog(1,2986824,17,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2986824" href="javascript:;" onclick="searchlog(1,2986824,17,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2986824" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2986824&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2986824,17,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li class="gl-item" data-type="activity" >
+	<div class="gl-shop">
+		<div class="shop-img">
+			<a href="//mall.jd.com/index-118925.html" title="华硕硕怡捷专卖店" onclick="searchlog(1,118925,18,2,'','shopClk=1')" target="_blank">
+				<img width="220" height="360" data-img="1" data-lazy-img="http://img11.360buyimg.com/cms/jfs/t1243/341/1061497925/18432/26d6738a/55715dcaNcae21113.jpg" class="err-product" />
+			</a>
+		</div>
+		<div class="shop-detail">
+			<div class="shop-detail-hd"><strong>华硕（ASUS）</strong></div>
+			<div class="shop-detail-bd">
+				<div class="shop-name"><a href="//mall.jd.com/index-118925.html" onclick="searchlog(1,118925,18,1,'','shopClk=1')" target="_blank">华硕硕怡捷专卖店</a></div>
+				<div class="shop-promo">华硕品质，坚若磐石</div>   
+				<div class="shop-type"><em class="u-jd" style="background:#cc45e5;color:#fffd78;">钻石服务</em></div>
+			</div>
+		</div>
+	</div>
+</li><li data-sku="1722560" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) 轻薄便携系列 思聪本 X205 11.6英寸笔记本电脑(Baytrail四核 2G 128G 红 HD)" href="//item.jd.com/1722560.html" onclick="searchlog(1,1722560,19,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t1639/307/893742557/137350/7d9071eb/55da7026Nbe12910d.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1722560" data-price="1888.00"><em>¥</em><i>1888.00</i></strong>						<div class="p-icons" id="J_pro_1722560"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) 轻薄便携系列 思聪本 X205 11.6英寸笔记本电脑(Baytrail四核 2G 128G 红 HD)" href="//item.jd.com/1722560.html" onclick="searchlog(1,1722560,19,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) 轻薄便携系列 思聪本 X205 11.6英寸笔记本电脑(Baytrail四核 2G 128G 红 HD)</em>
+							<i class="promo-words" id="J_AD_1722560"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1722560" target="_blank" href="//item.jd.com/1722560.html#comments-list" onclick="searchlog(1,1722560,19,3,'','flagsClk=4194952')">1322</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1722560" href="javascript:;" onclick="searchlog(1,1722560,19,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1722560" href="javascript:;" onclick="searchlog(1,1722560,19,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1722560" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1722560&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1722560,19,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="10090759100" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕（ASUS）PRO453UJ6500 14英寸商用办公学习笔记本电脑六代酷睿处理器 银灰色" href="//item.jd.com/10090759100.html" onclick="searchlog(1,10090759100,20,2,'','flagsClk=4194440')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t2989/335/805858706/177573/d1e3001e/5767d4f0N53380ae3.jpg" />
+						</a>
+						<div data-ico="0" data-venid="184808" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_10090759100" data-price="5399.00"><em>¥</em><i>5399.00</i></strong>						<div class="p-icons" id="J_pro_10090759100"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕（ASUS）PRO453UJ6500 14英寸商用办公学习笔记本电脑六代酷睿处理器 银灰色" href="//item.jd.com/10090759100.html" onclick="searchlog(1,10090759100,20,1,'','flagsClk=4194440')">
+							<em><font class="skcolor_ljg">华硕</font>（ASUS）PRO453UJ6500 14英寸商用办公学习笔记本电脑六代酷睿处理器 银灰色</em>
+							<i class="promo-words" id="J_AD_10090759100"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_10090759100" target="_blank" href="//item.jd.com/10090759100.html#comments-list" onclick="searchlog(1,10090759100,20,3,'','flagsClk=4194440')">124</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="10090759100" href="javascript:;" onclick="searchlog(1,10090759100,20,6,'','flagsClk=4194440')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="10090759100" href="javascript:;" onclick="searchlog(1,10090759100,20,5,'','flagsClk=4194440')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="10090759100" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=10090759100&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,10090759100,20,4,'','flagsClk=4194440')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2843344" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) 灵耀 U305UA 13.3英寸超轻薄笔记本电脑(i5-6200 8G 512G SSD FHD 全高清 灰黑)" href="//item.jd.com/2843344.html" onclick="searchlog(1,2843344,21,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2716/214/1756277314/135259/864933fb/5747f81bN0705047e.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2843344" data-price="5999.00"><em>¥</em><i>5999.00</i></strong>						<div class="p-icons" id="J_pro_2843344"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) 灵耀 U305UA 13.3英寸超轻薄笔记本电脑(i5-6200 8G 512G SSD FHD 全高清 灰黑)" href="//item.jd.com/2843344.html" onclick="searchlog(1,2843344,21,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) 灵耀 U305UA 13.3英寸超轻薄笔记本电脑(i5-6200 8G 512G SSD FHD 全高清 灰黑)</em>
+							<i class="promo-words" id="J_AD_2843344"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2843344" target="_blank" href="//item.jd.com/2843344.html#comments-list" onclick="searchlog(1,2843344,21,3,'','flagsClk=4194952')">214</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2843344" href="javascript:;" onclick="searchlog(1,2843344,21,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2843344" href="javascript:;" onclick="searchlog(1,2843344,21,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2843344" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2843344&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2843344,21,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="10123435706" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕（ASUS）X455YI7310 14英寸学生办公游戏笔记本电脑独显超薄本4G内存独显 黑色" href="//item.jd.com/10123435706.html" onclick="searchlog(1,10123435706,22,2,'','flagsClk=4194440')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2995/163/724684422/244229/fefcb997/57657233Nebaeb2af.jpg" />
+						</a>
+						<div data-ico="0" data-venid="184808" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_10123435706" data-price="2799.00"><em>¥</em><i>2799.00</i></strong>						<div class="p-icons" id="J_pro_10123435706"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕（ASUS）X455YI7310 14英寸学生办公游戏笔记本电脑独显超薄本4G内存独显 黑色" href="//item.jd.com/10123435706.html" onclick="searchlog(1,10123435706,22,1,'','flagsClk=4194440')">
+							<em><font class="skcolor_ljg">华硕</font>（ASUS）X455YI7310 14英寸学生办公游戏笔记本电脑独显超薄本4G内存独显 黑色</em>
+							<i class="promo-words" id="J_AD_10123435706"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_10123435706" target="_blank" href="//item.jd.com/10123435706.html#comments-list" onclick="searchlog(1,10123435706,22,3,'','flagsClk=4194440')">263</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="10123435706" href="javascript:;" onclick="searchlog(1,10123435706,22,6,'','flagsClk=4194440')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="10123435706" href="javascript:;" onclick="searchlog(1,10123435706,22,5,'','flagsClk=4194440')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="10123435706" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=10123435706&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,10123435706,22,4,'','flagsClk=4194440')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="10020149303" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕（ASUS）A456UF6200 14英寸学生超薄办公游戏笔记本电脑六代处理器独显 金色" href="//item.jd.com/10020149303.html" onclick="searchlog(1,10020149303,23,2,'','flagsClk=4194440')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2599/74/2536288165/142711/b1f5af5/5767d47eNf1665ce3.jpg" />
+						</a>
+						<div data-ico="0" data-venid="184808" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_10020149303" data-price="4199.00"><em>¥</em><i>4199.00</i></strong>						<div class="p-icons" id="J_pro_10020149303"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕（ASUS）A456UF6200 14英寸学生超薄办公游戏笔记本电脑六代处理器独显 金色" href="//item.jd.com/10020149303.html" onclick="searchlog(1,10020149303,23,1,'','flagsClk=4194440')">
+							<em><font class="skcolor_ljg">华硕</font>（ASUS）A456UF6200 14英寸学生超薄办公游戏笔记本电脑六代处理器独显 金色</em>
+							<i class="promo-words" id="J_AD_10020149303"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_10020149303" target="_blank" href="//item.jd.com/10020149303.html#comments-list" onclick="searchlog(1,10020149303,23,3,'','flagsClk=4194440')">370</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="10020149303" href="javascript:;" onclick="searchlog(1,10020149303,23,6,'','flagsClk=4194440')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="10020149303" href="javascript:;" onclick="searchlog(1,10020149303,23,5,'','flagsClk=4194440')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="10020149303" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=10020149303&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,10020149303,23,4,'','flagsClk=4194440')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1622447" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) 商务便携系列U305FA 13.3英寸超轻薄笔记本电脑(酷睿M-5Y71 8G 512G SSD FHD广视角高清屏 金)" href="//item.jd.com/1622447.html" onclick="searchlog(1,1622447,24,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t2611/12/1735078240/150033/bc8bbbff/5747fa74N243fb722.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1622447" data-price="5799.00"><em>¥</em><i>5799.00</i></strong>						<div class="p-icons" id="J_pro_1622447"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) 商务便携系列U305FA 13.3英寸超轻薄笔记本电脑(酷睿M-5Y71 8G 512G SSD FHD广视角高清屏 金)" href="//item.jd.com/1622447.html" onclick="searchlog(1,1622447,24,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) 商务便携系列U305FA 13.3英寸超轻薄笔记本电脑(酷睿M-5Y71 8G 512G SSD FHD广视角高清屏 金)</em>
+							<i class="promo-words" id="J_AD_1622447"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1622447" target="_blank" href="//item.jd.com/1622447.html#comments-list" onclick="searchlog(1,1622447,24,3,'','flagsClk=4194952')">651</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1622447" href="javascript:;" onclick="searchlog(1,1622447,24,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1622447" href="javascript:;" onclick="searchlog(1,1622447,24,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1622447" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1622447&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1622447,24,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1604340458" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕（ASUS）ZX50JX/VW 15.6英寸游戏笔记本电脑 支持私人定制，背光键盘 JX4200 4G1TB经典套装" href="//item.jd.com/1604340458.html" onclick="searchlog(1,1604340458,25,2,'','flagsClk=4194440')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2278/123/2863573684/279516/2d538a33/56f9f8faN006a2388.jpg" />
+						</a>
+						<div data-ico="0" data-venid="122135" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1604340458" data-price="4899.00"><em>¥</em><i>4899.00</i></strong>						<div class="p-icons" id="J_pro_1604340458"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕（ASUS）ZX50JX/VW 15.6英寸游戏笔记本电脑 支持私人定制，背光键盘 JX4200 4G1TB经典套装" href="//item.jd.com/1604340458.html" onclick="searchlog(1,1604340458,25,1,'','flagsClk=4194440')">
+							<em><font class="skcolor_ljg">华硕</font>（ASUS）ZX50JX/VW 15.6英寸游戏笔记本电脑 支持私人定制，背光键盘 JX4200 4G1TB经典套装</em>
+							<i class="promo-words" id="J_AD_1604340458"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1604340458" target="_blank" href="//item.jd.com/1604340458.html#comments-list" onclick="searchlog(1,1604340458,25,3,'','flagsClk=4194440')">1380</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1604340458" href="javascript:;" onclick="searchlog(1,1604340458,25,6,'','flagsClk=4194440')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1604340458" href="javascript:;" onclick="searchlog(1,1604340458,25,5,'','flagsClk=4194440')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1604340458" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1604340458&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1604340458,25,4,'','flagsClk=4194440')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="10124923131" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕（ASUS) 飞行堡垒 FX-PRO6700 15.6英寸i7游戏笔记本电脑独显 黑色" href="//item.jd.com/10124923131.html" onclick="searchlog(1,10124923131,26,2,'','flagsClk=4194440')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2755/36/2505237272/328124/53e95980/5767d2d5Nc0083333.jpg" />
+						</a>
+						<div data-ico="0" data-venid="184808" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_10124923131" data-price="7199.00"><em>¥</em><i>7199.00</i></strong>						<div class="p-icons" id="J_pro_10124923131"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕（ASUS) 飞行堡垒 FX-PRO6700 15.6英寸i7游戏笔记本电脑独显 黑色" href="//item.jd.com/10124923131.html" onclick="searchlog(1,10124923131,26,1,'','flagsClk=4194440')">
+							<em><font class="skcolor_ljg">华硕</font>（ASUS) 飞行堡垒 FX-PRO6700 15.6英寸i7游戏笔记本电脑独显 黑色</em>
+							<i class="promo-words" id="J_AD_10124923131"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_10124923131" target="_blank" href="//item.jd.com/10124923131.html#comments-list" onclick="searchlog(1,10124923131,26,3,'','flagsClk=4194440')">74</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="10124923131" href="javascript:;" onclick="searchlog(1,10124923131,26,6,'','flagsClk=4194440')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="10124923131" href="javascript:;" onclick="searchlog(1,10124923131,26,5,'','flagsClk=4194440')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="10124923131" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=10124923131&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,10124923131,26,4,'','flagsClk=4194440')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1424034" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕(ASUS) 青春真彩 R455LJ 14英寸笔记本电脑(i5-5200U 4G 500GB GT920M 2G独显 红 LED)" href="//item.jd.com/1424034.html" onclick="searchlog(1,1424034,27,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t1915/123/393014655/115135/b26899ea/5604ae8eN9fdf525d.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1424034" data-price="3699.00"><em>¥</em><i>3699.00</i></strong>						<div class="p-icons" id="J_pro_1424034"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕(ASUS) 青春真彩 R455LJ 14英寸笔记本电脑(i5-5200U 4G 500GB GT920M 2G独显 红 LED)" href="//item.jd.com/1424034.html" onclick="searchlog(1,1424034,27,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>(ASUS) 青春真彩 R455LJ 14英寸笔记本电脑(i5-5200U 4G 500GB GT920M 2G独显 红 LED)</em>
+							<i class="promo-words" id="J_AD_1424034"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1424034" target="_blank" href="//item.jd.com/1424034.html#comments-list" onclick="searchlog(1,1424034,27,3,'','flagsClk=4194952')">652</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1424034" href="javascript:;" onclick="searchlog(1,1424034,27,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1424034" href="javascript:;" onclick="searchlog(1,1424034,27,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1424034" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1424034&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1424034,27,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="10120029457" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕（ASUS) F555LJ5200 15.6英寸i5影音娱乐笔记本电脑 黑色 F554LI R5-320 2G独显" href="//item.jd.com/10120029457.html" onclick="searchlog(1,10120029457,28,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t1810/359/1027460419/135612/f843720c/55dff21eN3e681504.jpg" />
+						</a>
+						<div data-ico="0" data-venid="170662" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_10120029457" data-price="3299.00"><em>¥</em><i>3299.00</i></strong>						<div class="p-icons" id="J_pro_10120029457"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕（ASUS) F555LJ5200 15.6英寸i5影音娱乐笔记本电脑 黑色 F554LI R5-320 2G独显" href="//item.jd.com/10120029457.html" onclick="searchlog(1,10120029457,28,1,'','flagsClk=4194952')">
+							<em><font class="skcolor_ljg">华硕</font>（ASUS) F555LJ5200 15.6英寸i5影音娱乐笔记本电脑 黑色 F554LI R5-320 2G独显</em>
+							<i class="promo-words" id="J_AD_10120029457"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_10120029457" target="_blank" href="//item.jd.com/10120029457.html#comments-list" onclick="searchlog(1,10120029457,28,3,'','flagsClk=4194952')">1158</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="10120029457" href="javascript:;" onclick="searchlog(1,10120029457,28,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="10120029457" href="javascript:;" onclick="searchlog(1,10120029457,28,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="10120029457" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=10120029457&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,10120029457,28,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1660714386" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕（ASUS）A401/K401 LB5200 14英寸笔记本电脑 I5 5200U A401 4G+500G机械硬盘" href="//item.jd.com/1660714386.html" onclick="searchlog(1,1660714386,29,2,'','flagsClk=4194440')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2749/274/995894/245845/5696e15c/56fa2822Ne93166e1.jpg" />
+						</a>
+						<div data-ico="0" data-venid="122135" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1660714386" data-price="4199.00"><em>¥</em><i>4199.00</i></strong>						<div class="p-icons" id="J_pro_1660714386"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕（ASUS）A401/K401 LB5200 14英寸笔记本电脑 I5 5200U A401 4G+500G机械硬盘" href="//item.jd.com/1660714386.html" onclick="searchlog(1,1660714386,29,1,'','flagsClk=4194440')">
+							<em><font class="skcolor_ljg">华硕</font>（ASUS）A401/K401 LB5200 14英寸笔记本电脑 I5 5200U A401 4G+500G机械硬盘</em>
+							<i class="promo-words" id="J_AD_1660714386"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1660714386" target="_blank" href="//item.jd.com/1660714386.html#comments-list" onclick="searchlog(1,1660714386,29,3,'','flagsClk=4194440')">566</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1660714386" href="javascript:;" onclick="searchlog(1,1660714386,29,6,'','flagsClk=4194440')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1660714386" href="javascript:;" onclick="searchlog(1,1660714386,29,5,'','flagsClk=4194440')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1660714386" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1660714386&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1660714386,29,4,'','flagsClk=4194440')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+</ul><span class="clr"></span></div><div id="J_scroll_loading" class="notice-loading-more" data-pos="30" data-log-id="1466664489.58098"><span>正在加载中，请稍后~~</span></div><div class="page clearfix"><div id="J_bottomPage" class="p-wrap"></div></div>		</div>
+	</div>
+	<div class="m-aside">
+		<div class="aside-bar">
+			<div id="J_promGoodsWrap_6" class="ab-goods"><div class="mt"><h3>推广商品</h3></div><div class="mc"></div></div>
+			<div id="J_recommendGoods" class="ab-goods"><div class="mt"><h3>精品推荐</h3></div><div class="mc"></div></div>
+			<div class="promo-pic-adbox"><h5 class="hd">商家精选</h5><div class="bd"><div id="J_promWrap_576"><div class="mc"></div></div></div></div>
+			<div id="miaozhen8148" class="ab-pic"></div>
+		</div>
+	</div>
+	<span class="clr"></span>
+</div>
+<script>
+LogParm = {
+	result_count:'8022',
+	ab:'0011',
+	front_cost:'83',
+	back_cost:'50',
+	ip:'68.145',
+	cid:'',
+	psort:'',
+	page:'1',
+	ekey:'',
+	ev:'1',
+	rec_type:'0',
+	rel_cat2:'671,677',
+	rel_cat3:'672,1105,673,681,5008,684,679,6864,2694,688',
+	log_id:'1466664489.58098',
+	expand:'shopShow=1$double=1$bs=1',
+	mtest:'',
+	sig:'wo+MoGX6Q9kGwhYkU571+55MwGaKPj50C/OSyDLeoiT2pmdj/1U7ppo96SYCTHtdL/gzo1xFq0bYuea9QHC26hcqekWUonoyw9ONlAHZWX2lK+Npm+Q8FsaeBcC9P7WWHemnonO3GDBMzPJnv/x9jB2/xIbwz9atVk+jcqD/Zmg='
+};
+SEARCH.is_shop=0;
+SEARCH.is_promotion=0;
+SEARCH.item_count=60;
+SEARCH.click=0;
+SEARCH.adv_param={page:"1",page_count:"100",psort:"",cid1:"",cid2:"",cid3:""};
+SEARCH.base_url='keyword=%E5%8D%8E%E7%A1%95&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&bs=1&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40';
+SEARCH.brand_ids='';
+setTimeout(function(){var b={};b.i="1466664489.58098";b.h="671,677";b.k="华硕";b.c="";b.m="48b3872bdbd5a0d035b3dd5e7816e825";var a=[];$("#J_crumbsBar").find("a.crumb-select-item").each(function(){a.push($(this).find("b").html().replace("：","::")+$(this).attr("title").replace(/、/g,"||"))});b.s=a.join(";;")+(a.length?";;":"");var c=[];$("#J_selector").find(".J_selectorLine").each(function(){var f=$(this),e=f.find(".sl-key").text().replace("：","::"),d=[];if(e=="高级选项::"){f.find("a.trig-item").each(function(g){e=$(this).text()+"::";d=[];f.find(".J_valueList").eq(g).find("a").each(function(){d.push(e=="颜色::"?$(this).attr("title"):e=="其他分类::"?$(this).attr("data-v"):$(this).text())});c.push(e+d.join(",,"))})}else{if(e=="品牌::"){f.find(".J_valueList li").each(function(){d.push(this.id.replace("brand-",""))})}else{if(e=="颜色::"){f.find(".J_valueList a").each(function(){d.push($(this).attr("title"))})}else{if(f.hasClass("s-category")){f.find(".J_valueList a").each(function(){d.push($(this).attr("data-v"))})}else{f.find(".J_valueList a").each(function(){d.push($(this).text())})}}}c.push(e+d.join(",,"))}});b.u=c.join(";;")+(c.length?";;":"");$.post("attrlog.php",b,function(){})},500);
+</script>
+<script>$.get("im.php?r=751368853&t=1466664489.3564&cs=b23d53a4ddacd39bd44d65a2aaddfc84");</script></div>
+</div>
+<div class="w">
+	<div class="m-box-s1 rec-goods-chosen hide" id="J_promGoodsWrap_292">
+		<div class="mt"><strong class="mt-title">商品精选</strong></div>
+		<div class="mc"></div>
+	</div>
+</div>
+<div class="w">
+	<div class="bottom-search">
+		<div class="form-group">
+			<div class="fg-line search-ext">
+				<div class="fg-line-key"><span>您是不是要找：</span></div>
+				<div class="fg-line-value" clstag="search|keycount|search|qpsearch"></div>
+			</div>
+			<div class="fg-line re-search">
+				<div class="fg-line-key"><b>重新搜索：</b></div>
+				<div class="fg-line-value">
+					<input id="key-re-search" class="input-txt input-XL" type="text" placeholder="搜索" value="华硕" onkeydown="javascript:if(event.keyCode==13){searchlog(1,0,0,60);search('key-re-search');}">
+					<a class="btn btn-primary btn-XL" href="javascript:search('key-re-search')" onclick="searchlog(1,0,0,60)">搜索</a>
+					<a class="link" href="javascript:surveyShow()">说说我使用搜索的感受</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="w">
+	<div id="footmark" class="footmark" data-lazyload-fn="done"></div>
+</div>
+<div id="service-2014">
+	<div class="slogen">
+		<span class="item fore1">
+			<i></i><b>多</b>品类齐全，轻松购物
+		</span>
+		<span class="item fore2">
+			<i></i><b>快</b>多仓直发，极速配送
+		</span>
+		<span class="item fore3">
+			<i></i><b>好</b>正品行货，精致服务
+		</span>
+		<span class="item fore4">
+			<i></i><b>省</b>天天低价，畅选无忧
+		</span>
+	</div>
+	<div class="w">
+		<dl class="fore1">
+			<dt>购物指南</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-29.html">购物流程</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-151.html">会员介绍</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-297.html">生活旅行/团购</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue.html">常见问题</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-136.html">大家电</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/index.html">联系客服</a></div>
+			</dd>
+		</dl>
+		<dl class="fore2">		
+			<dt>配送方式</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81-100.html">上门自提</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81.html">211限时达</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/103-983.html">配送服务查询</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/109-188.html">配送费收取标准</a></div>				
+				<div><a target="_blank" href="//en.jd.com/chinese.html">海外配送</a></div>
+			</dd>
+		</dl>
+		<dl class="fore3">
+			<dt>支付方式</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-172.html">货到付款</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-173.html">在线支付</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-176.html">分期付款</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-174.html">邮局汇款</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-175.html">公司转账</a></div>
+			</dd>
+		</dl>
+		<dl class="fore4">		
+			<dt>售后服务</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/321-981.html">售后政策</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-132.html">价格保护</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/130-978.html">退款说明</a></div>
+				<div><a rel="nofollow" target="_blank" href="//myjd.jd.com/repair/repairs.action">返修/退换货</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-50.html">取消订单</a></div>
+			</dd>
+		</dl>
+		<dl class="fore5">
+			<dt>特色服务</dt>
+			<dd>		
+				<div><a target="_blank" href="//help.jd.com/user/issue/list-133.html">夺宝岛</a></div>
+				<div><a target="_blank" href="//help.jd.com/user/issue/list-134.html">DIY装机</a></div>
+				<div><a rel="nofollow" target="_blank" href="//fuwu.jd.com/">延保服务</a></div>
+				<div><a rel="nofollow" target="_blank" href="//o.jd.com/market/index.action">京东E卡</a></div>				
+				<div><a rel="nofollow" target="_blank" href="//mobile.jd.com/">京东通信</a></div>
+				<div><a rel="nofollow" target="_blank" href="//s.jd.com/">京东JD+</a></div>
+			</dd>
+		</dl>
+		<span class="clr"></span>
+	</div>
+</div><div class="w">
+	<div id="footer-2014">
+		<div class="links"><a rel="nofollow" target="_blank" href="//www.jd.com/intro/about.aspx">关于我们</a>|<a rel="nofollow" target="_blank" href="//www.jd.com/contact/">联系我们</a>|<a rel="nofollow" target="_blank" href="//www.jd.com/contact/joinin.aspx">商家入驻</a>|<a rel="nofollow" target="_blank" href="//jzt.jd.com">营销中心</a>|<a rel="nofollow" target="_blank" href="//app.jd.com/">手机京东</a>|<a target="_blank" href="//club.jd.com/links.aspx">友情链接</a>|<a target="_blank" href="//media.jd.com/">销售联盟</a>|<a href="//club.jd.com/" target="_blank">京东社区</a>|<a href="//gongyi.jd.com" target="_blank">京东公益</a>|<a href="//en.jd.com/" target="_blank">English Site</a>|<a href="//en.jd.com/help/question-58.html" target="_blank">Contact Us</a></div>
+		<div class="copyright"><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088"><img src="//img13.360buyimg.com/cms/jfs/t2293/321/1377257360/19256/c267b386/56a0a994Nf1b662dc.png" /> 京公网安备 11000002000088号</a>&nbsp;&nbsp;|&nbsp;&nbsp;京ICP证070359号&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_blank" href="//img14.360buyimg.com/da/jfs/t256/349/769670066/270505/3b03e0bb/53f16c24N7c04d9e9.jpg">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a>&nbsp;&nbsp;|&nbsp;&nbsp;新出发京零&nbsp;字第大120007号<br>互联网出版许可证编号新出网证(京)字150号&nbsp;&nbsp;|&nbsp;&nbsp;<a rel="nofollow" href="//img30.360buyimg.com/uba/jfs/t1036/328/1487467280/1405104/ea57ab94/5732f60aN53b01d06.jpg" target="_blank">出版物经营许可证</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="//misc.360buyimg.com/wz/wlwhjyxkz.jpg" target="_blank">网络文化经营许可证京网文[2014]2148-348号</a>&nbsp;&nbsp;|&nbsp;&nbsp;违法和不良信息举报电话：4006561155<br>Copyright&nbsp;&copy;&nbsp;2004-2016&nbsp;&nbsp;京东JD.com&nbsp;版权所有&nbsp;&nbsp;|&nbsp;&nbsp;消费者维权热线：4006067733<br>京东旗下网站：<a href="https://www.jdpay.com/" target="_blank">京东钱包</a>
+		</div>		
+		<div class="authentication">
+			<a rel="nofollow" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007080200026">
+				<img width="103" height="32" alt="经营性网站备案中心" src="//img12.360buyimg.com/da/jfs/t535/349/1185317137/2350/7fc5b9e4/54b8871eNa9a7067e.png" class="err-product" />
+			</a>
+			<script type="text/JavaScript">function CNNIC_change(eleId){var str= document.getElementById(eleId).href;var str1 =str.substring(0,(str.length-6));str1+=CNNIC_RndNum(6); document.getElementById(eleId).href=str1;}function CNNIC_RndNum(k){var rnd=""; for (var i=0;i < k;i++) rnd+=Math.floor(Math.random()*10); return rnd;}</script>
+			<a rel="nofollow" target="_blank" id="urlknet" tabindex="-1" href="https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ct=df&pa=294005">
+				<img border="true" width="103" height="32" onclick="CNNIC_change('urlknet')" oncontextmenu="return false;" name="CNNIC_seal" alt="可信网站" src="//img11.360buyimg.com/da/jfs/t643/61/1174624553/2576/4037eb5f/54b8872dNe37a9860.png" class="err-product" />
+			</a>
+			<a rel="nofollow" target="_blank" href="http://www.bj.cyberpolice.cn/index.do">
+				<img width="103" height="32" alt="网络警察" src="//img12.360buyimg.com/cms/jfs/t2050/256/1470027660/4336/2a2c74bd/56a89b8fNfbaade9a.jpg" class="err-product" />
+			</a>
+			<a rel="nofollow" target="_blank" href="https://search.szfw.org/cert/l/CX20120111001803001836">
+				<img width="103" height="32" src="//img11.360buyimg.com/da/jfs/t451/173/1189513923/1992/ec69b14a/54b8875fNad1e0c4c.png" class="err-product" />
+			</a>
+			<a target="_blank" href="http://www.12377.cn"><img width="103" height="32" src="//img30.360buyimg.com/da/jfs/t1915/215/1329999964/2996/d7ff13f0/5698dc03N23f2e3b8.jpg"></a>
+			<a target="_blank" href="http://www.12377.cn/node_548446.htm"><img width="103" height="32" src="//img14.360buyimg.com/da/jfs/t2026/221/2097811452/2816/8eb35b4b/5698dc16Nb2ab99df.jpg"></a>
+		</div>
+	</div>
+</div><script>
+seajs.use('product/search/0.0.17/js/main.js').config({alias:{'search_new':'./script/search_new.js?226.js'}}).use('search_new', function(s){
+	s.init(1,200,8022,"",1,0,30,1,2,0);
+});
+</script>
+<script type="text/javascript">
+(function(){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=("https:"==document.location.protocol?"https://wlssl":"//wl")+".jd.com/wl.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();
+window.surveyShow=function(){window.open('//surveys.jd.com/index.php?r=survey/index/sid/393283/lang/zh-Hans/search_version/'+(readCookie((readCookie('mx')||'').indexOf('_M')>-1?'mtest':'xtest')||''))};
+</script>
+<div id="J-global-toolbar"></div>
+<script>
+(function(win) {
+    seajs.use('//static.360buyimg.com/devfe/toolbar/1.0.0/js/main', function(Toolbar) {
+var adConfig = {};
+var actName = null;
+if (window.pageConfig && window.pageConfig.actName) {
+    actName = window.pageConfig.actName;
+}
+
+
+        pageConfig.toolbar = new Toolbar({
+            pType: 'search',
+            bars: {
+                jimi: {
+                    enabled: true
+                },
+                cart: {
+                    enabled: true
+                }
+            },
+            links: {
+                feedback: {
+                    anchor: 'javascript:surveyShow();'
+                },
+                top:{
+                  anchor:"javascript:window.scrollTo(0,0);"
+                }
+            }
+        });
+    });
+
+})(window);
+</script></body>
+</html>

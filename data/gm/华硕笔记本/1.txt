@@ -1,0 +1,2400 @@
+
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>华硕笔记本-商品搜索 -国美在线</title>
+    <meta http-equiv="Cache-Control" content="no-siteapp"/>
+    <meta http-equiv="Cache-Control" content="no-transform"/>
+    <meta name="applicable-device" content="pc">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="expires" content="0">
+    <meta name="description" content="您在国美在线(Gome.com.cn)中找到了1724件华硕笔记本的类似商品。">
+    <meta name="Keywords" content="华硕笔记本">
+    <meta property="qc:admins" content="2500556177677556375636"/>
+    <link rel="shortcut icon" href="http://www.gome.com.cn/ec/homeus/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href='http://css.gomein.net.cn/??gmlib/reset/1.1.0/reset.css,gmpro/1.0.0/public/1.0.0/css/aside.min.css,gmpro/1.0.0/public/1.0.0/css/category.min.css,gmpro/1.0.0/public/1.0.0/css/topad.min.css,gmpro/1.0.0/public/1.0.0/css/top.min.css,gmpro/1.0.0/public/1.0.0/css/head.min.css,gmpro/1.0.0/public/1.0.0/css/foot.min.css?v=201605031758'>
+    <link rel="stylesheet" href="http://css.gomein.net.cn/??/css/n/detail/gCity.min.css,/search/search2016/css/search2015.min.css,/f2ecss/stage/overseasbuy/overseas-basic.min.css?v003">
+    <script type="text/javascript">var dynSite='http://g.gome.com.cn',staSite='http://www.gome.com.cn',contextPath='/ec/homeus',imgServer='http://img.gomein.net.cn/images',secureURL='https://g.gome.com.cn:443',pictureserver='http://img.gomein.net.cn/image',cookieDomain='.gome.com.cn',stageJsServer='http://js.gomein.net.cn',stageImageServer='http://img.gomein.net.cn',stageCssServer='http://css.gomein.net.cn',cssserver='http://css.gomein.net.cn/css',jsserver='http://js.gomein.net.cn/js',versionData='1605030804';</script>
+    <script type="text/javascript">
+        var apiSite='',cloudSite="http://search.gome.com.cn",contextPath='/ec/homeus';
+        var productSite="http://item.gome.com.cn";
+        var isHyg = false//0;
+        var isSearch=false
+            isSearch=true;
+        var searchSite = isHyg?'http://search.gomehigo.hk':'http://search.gome.com.cn';
+    </script>
+    <script type="text/javascript">
+        var dsp_gome_catid = "cat10000092";
+        var dsp_gome_catname = "电脑整机";
+        var dsp_gome_c1name = "电脑 办公打印 文仪";
+        var dsp_gome_c2name = "电脑整机";
+        var dsp_gome_c3name = "笔记本";
+        var dsp_gome_c1id = "cat10000001";
+        var dsp_gome_c3id = "cat10000092";
+        var searchkey = "华硕笔记本";
+    </script>
+    <script type="text/javascript">
+        var pageCurrentPage = 1
+        var pageTotalPage = 36
+        var pageSort = "0";
+
+        var loggerData = {
+            "t4":"cat10000092",
+            "t5":"华硕笔记本",
+            "t7":"15KP",
+            "t8":"1724",
+            "t19":"0",
+            "t20":"0",
+            "t21":"0",
+            "t22_s":"",
+            "t22_r":"",
+            "t23":"1"
+        }
+    </script>
+    <script>
+        var isResult=false;
+         isResult = true
+    </script>
+</head>
+
+<body>
+<div id="delscript">
+    <script type="text/javascript">
+        var winWidth = window.screen.width,objb = document.body;if (winWidth<=1024) {objb.className += " " +"w990"; }else {objb.className=objb.className.replace("w990", '');};
+    </script>
+</div>
+<div style="display:none" id="severInfolist">
+    server:10.58.47.140,455<br/>
+    from:<br/>
+    thread:<br/>
+    job:<br/>
+    time:<br/>
+</div>
+<div class="gome-top">
+    <div id="gome-top-body" class="wbox">
+        <ul>
+            <li id="gome-user" data-load="user">
+                <b id="loginDiv-name"><a data-code="public01053" href="http://v.gome.com.cn" target="_blank">国美会员</a><i></i></b>
+                <div class="public-dropdown"></div>
+            </li>
+            <li id="loginDiv-link" class="gome-link">
+                <a data-code="public01002" href="https://login.gome.com.cn/login">登录</a><a data-code="public01003" href="https://reg.gome.com.cn/register/index/person">注册</a>
+            </li>
+        </ul>
+        <ul id="gome-top-right">
+            <li class="gome-link"><a data-code="public01004" href="http://g.gome.com.cn/ec/homeus/myaccount/myOrders.jsp?flag=a0">我的订单</a></li>
+            <li id="gome-mygome" data-load="mygome">
+                <b><a data-code="public01050" href="http://g.gome.com.cn/ec/homeus/myaccount/gome/profileHome.jsp?flag=a" target="_blank">我的国美</a><i></i></b>
+                <div class="public-dropdown"></div>
+            </li>
+            <li class="gome-spacer"></li>
+            <li id="gome-service" class="drop" data-load="service">
+                <b><em class="gm-icon">&#x0066;</em><a data-code="public01052" href="http://help.gome.com.cn/" target="_blank">服务中心</a><i></i></b>
+                <div class="public-dropdown"></div>
+            </li>
+            <li id="gome-sitemap" class="drop" data-type="default" data-load="sitemap">
+                <b>网站导航<i></i></b>
+                <div class="public-dropdown"></div>
+            </li>
+            <li class="gome-spacer"></li>
+            <li id="gome-phone" class="drop">
+                <b><em class="gm-icon">&#x00E1;</em><a data-code="public01049" href="http://shouji.gome.com.cn/" target="_blank">手机国美</a><i></i></b>
+                <div class="public-dropdown"><a data-code="public01005" href="http://shouji.gome.com.cn/" target="_blank"></a></div>
+            </li>
+        </ul>
+    </div>
+</div>
+<!--gome_top-->
+<script>
+var Topad_Data = {"size":2,"data":[
+	{"href":"http://prom.gome.com.cn/html/prodhtml/topics/201604/26/Guomei2016426.html","src":"http://img12.gomein.net.cn/image/prodimg/promotion_image/promoImg/201604/20160429/0503顶通1.jpg","code":"public02001"},
+	{"href":"http://prom.gome.com.cn/html/prodhtml/topics/201604/22/maydayzs.html","src":"http://img12.gomein.net.cn/image/prodimg/promotion_image/promoImg/201604/20160429/0503顶通2.jpg","code":"public02002"}
+]}
+</script>
+<div id="gome-topad-sm" class="gome-topad wbox">
+	<a id="gome-topad-sm-pic" rel="nofollow" target="_blank"><img src="http://img.gomein.net.cn/images/grey.gif"></a>
+	<a class="close-gome-topad" href="javascript:void(0)"><i>关闭</i></a>
+</div>
+<!--gome_topad-->
+<div id="gome-topad-bg" class="gome-topad wbox">
+	<a data-code="public05001" rel="nofollow" href="http://prom.gome.com.cn/html/prodhtml/topics/201604/22/maydayzs.html" target="_blank"><img src="http://img.gomein.net.cn/images/grey.gif" gome-src="http://img10.gomein.net.cn/image/prodimg/promotion_image/promoImg/201604/20160429/494122631082838143.png"></a>
+</div>
+<!--gome_topad_layer-->
+<div id="gome-head" class="wbox">
+    <div id="logo"><a data-code="public03001" href="http://www.gome.com.cn/">国美在线</a></div>
+    <div id="logo-gif"><a data-code="public03002" rel="nofollow" target="_blank" href="http://prom.gome.com.cn/html/prodhtml/topics/201604/26/sz51ktgo.html"><img width="100" height="50" src="http://img10.gomein.net.cn/image/prodimg/promotion_image/promoImg/201604/20160429/0429海尔右侧.gif"></a></div>
+    <div id="topSearch" class="topsearch">
+        <div id="topSearchHover" class="searchbox" data-visitor="hover">
+            <form id="searchForm" method="get" action="http://search.gome.com.cn/search" onsubmit="return keyCheck();">
+                <label id="keyLabel" default="五一直击低价，买家电3C贵就赔300,1;小米,1;4K高清电视,1;变频空调,1"></label>
+                <input type="text" id="searchInput" name="question" value="" autocomplete="off" onpropertychange="if(this.value.length>200){this.value=this.value.slice(0,199)}">
+                <button class="search-btn" onclick="doSearch();">搜索</button>
+            </form>
+        </div>
+        <div class="hotkeyword">
+            <a data-code="1000043098-0" class="highlight" rel="nofollow" target="_blank" href="http://prom.gome.com.cn/html/prodhtml/topics/201604/22/maydayzs.html">家电5折</a>
+            <a data-code="1000043098-1"  rel="nofollow" target="_blank" href="http://prom.gome.com.cn/html/prodhtml/topics/201604/22/4241523033.html">白拿iphone</a>
+            <a data-code="1000043098-2"  rel="nofollow" target="_blank" href="http://prom.gome.com.cn/html/prodhtml/topics/201604/26/Guomei2016426.html">百货0.1元</a>
+            <a data-code="1000043098-3"  rel="nofollow" target="_blank" href="http://prom.gome.com.cn/html/prodhtml/topics/201604/26/sz51ktgo.html">空调满减</a>
+            <a data-code="1000043098-4"  rel="nofollow" target="_blank" href="http://prom.gome.com.cn/html/prodhtml/topics/201604/20/6017716933.html">买2付1</a>
+            <a data-code="1000043098-5"  rel="nofollow" target="_blank" href="http://prom.gome.com.cn/html/prodhtml/topics/201604/8/jdcdnbg0408.html">Surface</a>
+            <a data-code="1000043098-6"  rel="nofollow" target="_blank" href="http://prom.gome.com.cn/html/prodhtml/topics/201604/29/6247173027.html">满199减50</a>
+            <a data-code="1000043098-7"  rel="nofollow" target="_blank" href="http://prom.gome.com.cn/html/prodhtml/topics/201604/22/6604631437.html">卫浴499</a>
+            <a data-code="public03003" href="http://www.gome.com.cn/top10/" target="_blank">商品排行榜</a>
+        </div>
+        <div id="searchTips" class="searchtips">
+            <div id="his_title" class="hisTitle">
+                <p><span>最近搜索</span><a id="hisClear" href="javascript:void(0)">全部清空</a></p>
+            </div>
+            <ul id="searchTipsList" class="searchabout clearfix">
+            </ul>
+        </div>
+        <script type="text/javascript">
+            var environment = 'commerce',targetType ='Production',contentLabels = 'Catalog',language = 'chinese' ;
+        </script>
+    </div>
+    <div class="mygome-side" data-cart="mincart">
+        <ul class="topmenu clearfix">
+            <li class="shopcartbox"><span class="cartlinkbox"><a data-code="public03004" rel="nofollow" class="menulink cartlink" href="http://g.gome.com.cn/ec/homeus/cart/cart.jsp"><em class="i-cart"><span class="shopnum"><span id="commerceItemQuantityId">0</span><i></i></span></em><span id="hdrcarttext">购物车空了</span><b></b></a></span>
+                <div class="menuhide j-overflowy" id="miniShoppingcartLoadId">
+                    <div id="csLoading" class="loding-layer"><span class="g-loading"></span><span class="loading-text">正在加载中…</span></div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+<!--gome_head -->
+<div class="category-box">
+<div class="category wbox">
+	<div class="sidecategory">
+		<h2><span></span><a data-code="1000036957" href="http://list.gome.com.cn/" target="_blank">全部商品分类</a></h2>
+        <div id="navBox" class='lisnav'>
+            <div class="lisbg"></div>
+            <ul class="lisnav-ul" id="lisnav">
+                <li class="first edit-mode nav-item" data-index="0" modelType="4" modelId="1000036959">
+                    <h3>
+                        <a data-code="1000036959-0" href="http://electronic.gome.com.cn/" target="_blank">电视 影音</a>
+                        <a data-code="1000036959-1" href="http://smart.gome.com.cn/" target="_blank">智能家居</a>
+                    </h3>
+                </li>
+                <li class="edit-mode nav-item" data-index="1" modelType="4" modelId="1000036986">
+                    <h3>
+                        <a data-code="1000036986-0" href="http://bx.gome.com.cn/" target="_blank">冰箱</a>
+                        <a data-code="1000036986-1" href="http://xyj.gome.com.cn/" target="_blank">洗衣机</a>
+                        <a data-code="1000036986-2" href="http://kt.gome.com.cn/" target="_blank">空调</a>
+                    </h3>
+                </li>
+                <li class="edit-mode nav-item" data-index="2" modelType="4" modelId="1000037013">
+                    <h3>
+                        <a data-code="1000037013-0" href="http://life.gome.com.cn/" target="_blank">厨卫 生活电器</a>
+                        <a data-code="1000037013-1" href="http://list.gome.com.cn/cat10000230.html" target="_blank">净化器</a>
+                    </h3>
+                </li>
+                <li class="edit-mode nav-item" data-index="3" modelType="4" modelId="1000037040">
+                    <h3>
+                        <a data-code="1000037040-0" href="http://tongxun.gome.com.cn/" target="_blank">手机</a>
+                        <a data-code="1000037040-1" href="http://digital.gome.com.cn/" target="_blank">数码</a>
+                        <a data-code="1000037040-2" href="http://www.gomehigo.hk/" target="_blank">海外购</a>
+                    </h3>
+                </li>
+                <li class="edit-mode nav-item" data-index="4" modelType="4" modelId="1000037067">
+                    <h3>
+                        <a data-code="1000037067-0" href="http://computer.gome.com.cn/" target="_blank">电脑办公</a>
+                        <a data-code="1000037067-1" href="http://peijian.gome.com.cn/" target="_blank">精品配件</a>
+                    </h3>
+                </li>
+                <li class="edit-mode nav-item" data-index="5" modelType="4" modelId="1000037094">
+                    <h3>
+                        <a data-code="1000037094-0" href="http://furnit.gome.com.cn/" target="_blank">住宅家具</a>
+                        <a data-code="1000037094-1" href="http://decoration.gome.com.cn/" target="_blank">家装建材</a>
+                        <p class="line"></p>
+                    </h3>
+                </li>
+                <li class="edit-mode nav-item" data-index="6" modelType="4" modelId="1000037121">
+                    <h3>
+                        <a data-code="1000037121-0" href="http://jiafang.gome.com.cn/" target="_blank">床品家纺</a>
+                        <a data-code="1000037121-1" href="http://jiaju.gome.com.cn/" target="_blank">家居日用</a>
+                    </h3>
+                </li>
+                <li class="edit-mode nav-item" data-index="7" modelType="4" modelId="1000037148">
+                    <h3>
+                        <a data-code="1000037148-0" href="http://alcohol.gome.com.cn/" target="_blank">食品酒水</a>
+                        <a data-code="1000037148-1" href="http://health.gome.com.cn/" target="_blank">医疗保健</a>
+                        <p class="line"></p>
+                    </h3>
+                </li>
+                <li class="edit-mode nav-item" data-index="8" modelType="4" modelId="1000037175">
+                    <h3>
+                        <a data-code="1000037175-0" href="http://baby.gome.com.cn/" target="_blank">母婴玩具</a>
+                        <a data-code="1000037175-1" href="http://beauty.gome.com.cn/" target="_blank">美妆个护</a>
+                    </h3>
+                </li>
+                <li class="edit-mode nav-item" data-index="9" modelType="4" modelId="1000037202">
+                    <h3>
+                        <a data-code="1000037202-0" href="http://clothing.gome.com.cn/" target="_blank">服饰鞋帽</a>
+                        <a data-code="1000037202-1" href="http://luxury.gome.com.cn/" target="_blank">箱包奢品</a>
+                        <p class="line"></p>
+                    </h3>
+                </li>
+                <li class="edit-mode nav-item" data-index="10" modelType="4" modelId="1000037229">
+                    <h3>
+                        <a data-code="1000037229-0" href="http://toysgifts.gome.com.cn/" target="_blank">运动户外</a>
+                        <a data-code="1000037229-1" href="http://watch.gome.com.cn/" target="_blank">钟表首饰</a>
+                    </h3>
+                </li>
+                <li class="edit-mode nav-item" data-index="11" modelType="4" modelId="1000037256">
+                    <h3>
+                        <a data-code="1000037256-0" href="http://auto.gome.com.cn/" target="_blank">汽车整车 保养 配件</a>
+                        <p class="line"></p>
+                    </h3>
+                </li>
+                <li class="edit-mode nav-item" data-index="12" modelType="4" modelId="1000037283">
+                    <h3>
+                        <a data-code="1000037283-0" href="http://gold.gome.com.cn" target="_blank">黄金收藏</a>
+                        <a data-code="1000037283-1" href="http://art.gome.com.cn/" target="_blank">文化艺术</a>
+                        <a data-code="1000037283-2" href="http://mgold.gome.com.cn/" target="_blank">国美金</a>
+                    </h3>
+                </li>
+                <li class="edit-mode nav-item" data-index="13" modelType="4" modelId="1000037310">
+                    <h3>
+                        <a data-code="1000037310-0" href="http://jr.gome.com.cn/" target="_blank">金融</a>
+                        <a data-code="1000037310-1" href="http://lvxing.gome.com.cn/" target="_blank">旅行</a>
+                        <a data-code="1000037310-2" href="http://piao.gome.com.cn/" target="_blank">票务</a>
+                        <a data-code="1000037310-3" href="http://prom.gome.com.cn/html/prodhtml/topics/201505/20150504042507_topics.html" target="_blank">众筹</a>
+                    </h3>
+                </li>
+                <li class="lst edit-mode nav-item" data-index="14" modelType="4" modelId="1000037337">
+                    <h3>
+                        <a data-code="1000037337-0" href="http://chongzhi.gome.com.cn/" target="_blank">充值</a>
+                        <a data-code="1000037337-1" href="http://caipiao.gome.com.cn/" target="_blank">彩票</a>
+                        <a data-code="1000037337-2" href="http://game.gome.com.cn/" target="_blank">游戏</a>
+                    </h3>
+                </li>
+            </ul>
+		    <div class="subnav" id="subnav" flag="0">
+                <div class="loading1-sync" id="loading1-sync">
+                    <p></p>
+                </div>
+		    </div>
+        </div>
+	</div>
+	<ul class="mainnav">
+	    	<li><a data-code="public04001" href="http://www.gome.com.cn/" target="_blank"><span>首页</span></a></li>
+	        <li><a data-code="1000000378-1" href="http://tuan.gome.com.cn" target="_blank"><span>真划算</span></a><span class ="tag_hot"></span></li>
+	        <li><a data-code="1000000378-2" href="http://fashion.gome.com.cn/" target="_blank"><span>服装城</span></a></li>
+	        <li><a data-code="1000000378-3" href="http://market.gome.com.cn/" target="_blank"><span>超市</span></a></li>
+	        <li><a data-code="1000000378-4" href="http://jiadian.gome.com.cn/" target="_blank"><span>电器城</span></a></li>
+	        <li><a data-code="1000000378-5" href="http://smart.gome.com.cn/" target="_blank"><span>智能</span></a></li>
+	        <li><a data-code="1000000378-6" href="http://enterprise.gome.com.cn/" target="_blank"><span>企业采购</span></a></li>
+	        <li><a data-code="1000000378-7" href="http://www.gomehome.com/" target="_blank"><span>国美家装</span></a></li>
+	        <li><a data-code="1000000378-8" href="http://www.gomehigo.hk/" target="_blank"><span>海外购</span></a><span class ="tag_new"></span></li>
+	        <li><a data-code="1000000378-9" href="http://jr.gome.com.cn/" target="_blank"><span>金融</span></a></li>
+	</ul>
+	<!--nav-->
+	<div class="hdrsideRoll">
+	    <div class="adnavside" data-roll="hdrSideUp">
+	        <ul class="hd-clickscroll js-tads-clsul">
+	            <li><a data-code="1000000378-a0" rel="nofollow" target="_blank" href="http://prom.gome.com.cn/html/prodhtml/topics/201604/26/9978195173.html" title=""><img alt="" width="160" height="40" src="http://img10.gomein.net.cn/image/prodimg/promotion_image/promoImg/201604/20160429/购物车下电脑5.3.jpg" /></a></li>
+	            <li><a data-code="1000000378-a1" rel="nofollow" target="_blank" href="http://prom.gome.com.cn/html/prodhtml/topics/201604/18/qcwyzjcyg.html" title=""><img alt="" width="160" height="40" src="http://img.gomein.net.cn/images/grey.gif" gome-src="http://img10.gomein.net.cn/image/prodimg/promotion_image/promoImg/201604/20160428/购物车下汽车4.29-4.30.jpg" /></a></li>
+	            <li><a data-code="1000000378-a2" rel="nofollow" target="_blank" href="http://prom.gome.com.cn/html/prodhtml/topics/201604/22/jjjz51go.html" title=""><img alt="" width="160" height="40" src="http://img.gomein.net.cn/images/grey.gif" gome-src="http://img10.gomein.net.cn/image/prodimg/promotion_image/promoImg/201604/20160428/购物车下家居家装5.3.jpg" /></a></li>
+	        </ul>
+	    </div>
+	    <div class="hdrsRollbtn">
+	        <a class="j-hdrbtn-up" href="javascript:;" data-btn="goUp"><i></i></a>
+	        <a class="j-hdrbtn-down" href="javascript:;" data-btn="goDown"><i></i></a>
+	    </div>
+	</div>
+	<!--scroll-->
+</div>
+</div>
+<script id="test" type="text/html">
+	<%if (navDat){%>
+	<% var nav=navDat%>
+	<%for(var i = 0; i < nav.length; i ++) {%>
+	<%if (nav[i].ch.fc.te){%>
+	<% var tmp=(nav[i].ch.fc.te)%>
+	<%for(var m = 0;m < tmp.length; m ++) {%>
+	<div class="fullcategory">
+	    <div class='fullcategory-left'>
+	        <div class='fullcategory-title'>
+	            <%if (tmp[m].ch.fct.cl){%>
+	            <%var titleList=(tmp[m].ch.fct.cl)%>
+	            <%for(var k = 0; k < titleList.length; k ++) {%>
+	            <a href="<%= titleList[k].h%>" target="_blank"
+	               title="<%= titleList[k].t%>"  data-code="<%= tmp[m].ch.fct.mi%>-<%= k%>"><%= titleList[k].te%><i></i></a>
+	            <%}%>
+	            <%}%>
+	        </div>
+	        <%if (tmp[m].ch.tcb.te){%>
+	        <% var cat=tmp[m].ch.tcb.te%>
+	        <%for (var n = 0; n < cat.length; n ++){%>
+	        <div class='fullcategory-content-box' id="fullcategory-content-box">
+	            <% var two=(cat[n].ch.tc.te)%>
+	            <%for(var j = 0; j < two.length; j ++) {%>
+	            <div class='fullcategory-content' data-code="<%='b' + (n + 1) + '_' + (j + 1)%>">
+	                <h4><%= (two[j].mn)%></h4>
+	                <ul class='fullcategory-list'>
+	                    <%if (two[j].ch.tc.cl){%>
+	                    <% var threetemp=(two[j].ch.tc.cl)%>
+	                    <%for(var l = 0; l < threetemp.length; l ++) {%>
+	                    <%if (threetemp[l].ir){%>
+	                    <a class="<%= (threetemp[l].ir)%>" href="<%= threetemp[l].h%>" target="_blank" title="<%= threetemp[l].t%>" data-code="<%= two[j].mi%>-<%= l%>"><%= threetemp[l].te%></a>
+	                    <%}else{%>
+	                    <a href="<%= threetemp[l].h%>" target="_blank" title="<%= threetemp[l].t%>" data-code="<%= two[j].mi%>-<%= l%>"><%= threetemp[l].te%></a>
+	                    <%}%>
+	                    <%}%>
+	                    <%}%>
+	                </ul>
+	            </div>
+	            <%}%>
+	        </div>
+	        <%}%>
+	        <%}%>
+	    </div>
+	    <div class='fullcategory-right'>
+	        <div class='recommend'>
+	            <%if (tmp[m].ch.fctj){%>
+	            <h4><%= (tmp[m].ch.fctj.na)%></h4>
+	            <%if (tmp[m].ch.fctj.ll){%>
+	            <% var tuijian=(tmp[m].ch.fctj.ll)%>
+	            <ul class='recond-box'>
+	                <%for(var v = 0; v < tuijian.length; v ++) {%>
+	                <a href="<%= tuijian[v].h%>" target="_blank"
+	                   title="<%= tuijian[v].t%>" data-code="<%= tmp[m].ch.fctj.mi%>-<%= v%>"><%= tuijian[v].te%></a>
+	                <%}%>
+	            </ul>
+	            <%}%>
+	            <%}%>
+	        </div>
+	        <div class='brand'>
+	            <%if (tmp[m].ch.fcb.il){%>
+	            <%var brandlist=(tmp[m].ch.fcb.il)%>
+	            <ul class='brand-box'>
+	                <%for (var i=0; i< brandlist.length; i++){%>
+	                <a href="<%= brandlist[i].h%>" target="_blank" title="<%= brandlist[i].t%>" data-code="<%= tmp[m].ch.fcb.mi%>-<%= i%>"><img
+	                        alt="<%= brandlist[i].a%>" src="<%= brandlist[i].s%>" ></a>
+	                <%}%>
+	            </ul>
+	            <%}%>
+	        </div>
+	        <%if (tmp[m].ch.fcbp.il){%>
+	        <% var BigPiclist=(tmp[m].ch.fcbp.il)%>
+	        <%for(var i = 0; i < BigPiclist.length; i ++) {%>
+	        <a class="category-img" href="<%= BigPiclist[i].h%>" target="_blank" title="<%= BigPiclist[i].t%>" data-code="<%= tmp[m].ch.fcbp.mi%>"><img
+	                alt="<%= BigPiclist[i].a%>" src="<%= BigPiclist[i].s%>"></a>
+	        <%}%>
+	        <%}%>
+	    </div>
+	</div>
+	<%}%>
+	<%}%>
+	<%}%>
+	<%}%>
+</script>
+<!--category-->
+<!--head-->
+<div class="nSearchWarp">
+<div class="nSearch-crumb nSearch-crumb-search clearfix">
+
+    <a id="clearallfacts" class="nSearch-crumb-clearFacets" href="http://search.gome.com.cn/search?question=华硕笔记本">全部清空</a>
+    <span class="nSearch-crumb-keyWord" id="nSearch-crumb-keyWord"><b class="nFont14">华硕笔记本</b></span>
+    <span class="nSearch-crumb-searchNum" id="nSearch-crumb-searchNum">共 <em id="searchTotalNumber">1724</em> 个商品</span>
+    <div class="nSearch-crumb-facetsCurrent-warp" id="nSearch-crumb-facetsCurrent-warp">
+        <ul class="nSearch-crumb-facetsCurrent">
+<li><a href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&pzpq=0&pzin=v3"><i>×</i><em>品牌：</em>华硕（ASUS）</a></li>
+
+
+
+        </ul>
+        <a href="javascript:void(0)" class="facetsCurrent-prev fc-btn"></a>
+        <a href="javascript:void(0)" class="facetsCurrent-next fc-btn"></a>
+    </div>
+        <script>
+            var keyLabelVal = "华硕笔记本";
+            keyLabelVal = keyLabelVal.replace(/\"/g,"'");
+            document.getElementById("keyLabel").setAttribute("default",keyLabelVal+",1",1);
+            document.getElementById("keyLabel").innerHTML = keyLabelVal;
+            document.getElementById("keyLabel").style.top = "-50px";
+            document.getElementById("searchInput").value = keyLabelVal;
+        </script>
+</div></div>
+
+
+    <div class="nSearchWarp search-brand">
+        <div class="brand-info clearfix">
+            <div class="brand-info-logo">
+                                    <a href="http://pinpai.gome.com.cn/SI_159/index.html" target="_blank">
+                            <img src="http://img.gomein.net.cn/image/prodimg/brandLogo_image/logo/10000154/10000154.jpg">
+                    </a>
+            </div>
+            <div class="brand-info-main">
+                <div class="shop-name" style="margin-top:10px;">
+                    <a href="http://pinpai.gome.com.cn/SI_159/index.html" class="title" target="_blank">华硕电脑官方旗舰店</a>
+                        <span class="gome-zy">国美自营</span>
+                </div>
+                <!-- <div class="shop-info">
+                    <span class="shop-info-l">主营品牌：</span>
+                    <span class="shop-info-m">海尔（Hairer）</span>
+                </div> -->
+            </div>
+            <div class="brand-info-pj">
+                <dl class="pj-score">
+                    <dt class="score-titl">
+                        <span>综合评分</span>
+                        <span>商品</span>
+                        <span>服务</span>
+                        <span>时效</span>
+                    </dt>
+                    <dd class="score-cont">
+                        <span>
+                            <em class="color-r">5.0</em>
+                            <i></i>
+                        </span>
+                        <span >
+                            <!-- <i class="score-img score-down"></i> -->
+                            <em class="color-r">5.0</em>
+                        </span>
+                        <span>
+                            <!-- <i class="score-img score-down"></i> -->
+                            <em class="color-r">5.0</em>
+                        </span>
+                        <span>
+                            <!-- <i class="score-img score-up"></i> -->
+                            <em class="color-r">5.0</em>
+                        </span>
+                    </dd>
+                </dl>
+                <div class="shop-enter">
+                        <a target="_blank" href="http://pinpai.gome.com.cn/SI_159/index.html">进入店铺</a>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="nSearchWarp nSearch-facets" id="nSearch-facets-search">
+        <div class="facets-category facets-category-common clearfix">
+            <div class="fc-option">
+                <span class="fc-option-multiple fc-visiable">多选</span>
+                <span class="fc-option-more"><i></i>更多</span>
+            </div>
+            <span class="fc-key"><b>分类：</b></span>
+            <div class="fc-content">
+                <div class="category-normal">
+                    <ul class="clearfix">
+                            <li><a class="emcodeProp17" track="分类:笔记本" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&catId=cat10000092&facets=15KP&pzpq=0&pzin=v3" facetsId="cat10000092"><i></i>笔记本</a></li>
+                            <li><a class="emcodeProp17" track="分类:游戏本" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&catId=cat32385590&facets=15KP&pzpq=0&pzin=v3" facetsId="cat32385590"><i></i>游戏本</a></li>
+                            <li><a class="emcodeProp17" track="分类:超极本" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&catId=cat10005442&facets=15KP&pzpq=0&pzin=v3" facetsId="cat10005442"><i></i>超极本</a></li>
+                    </ul>
+                </div>
+                <div class="fc-btn-box">
+                    <a class="fc-btn-ok fc-disable" href="javascript:void(0)">确定</a>
+                    <a class="fc-btn-cancel" href="javascript:void(0)">取消</a>
+                </div>
+            </div>
+        </div>
+
+    <div class="facets-category facets-category-common clearfix">
+        <div class="fc-option">
+            <span class="fc-option-multiple">多选</span>
+            <span class="fc-option-more"><i></i>更多</span>
+        </div>
+        <span class="fc-key">适用人群：</span>
+        <div class="fc-content">
+            <div class="category-normal">
+                <ul class="clearfix">
+                        <li><a class="emcodeProp17" track="适用人群:游戏达人" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2dNT&pzpq=0&pzin=v3" facetsId="2dNT"><i></i>游戏达人</a></li>
+                        <li><a class="emcodeProp17" track="适用人群:校园学生" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2dNU&pzpq=0&pzin=v3" facetsId="2dNU"><i></i>校园学生</a></li>
+                        <li><a class="emcodeProp17" track="适用人群:时尚轻薄" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2dNV&pzpq=0&pzin=v3" facetsId="2dNV"><i></i>时尚轻薄</a></li>
+                        <li><a class="emcodeProp17" track="适用人群:商务办公" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2dNW&pzpq=0&pzin=v3" facetsId="2dNW"><i></i>商务办公</a></li>
+                        <li><a class="emcodeProp17" track="适用人群:高清影音" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2dNX&pzpq=0&pzin=v3" facetsId="2dNX"><i></i>高清影音</a></li>
+                        <li><a class="emcodeProp17" track="适用人群:移动工作站" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2dNY&pzpq=0&pzin=v3" facetsId="2dNY"><i></i>移动工作站</a></li>
+                </ul>
+            </div>
+            <div class="fc-btn-box">
+                <a class="fc-btn-ok fc-disable" href="javascript:void(0)">确定</a>
+                <a class="fc-btn-cancel" href="javascript:void(0)">取消</a>
+            </div>
+        </div>
+    </div>
+    <div class="facets-category facets-category-common clearfix">
+        <div class="fc-option">
+            <span class="fc-option-multiple">多选</span>
+            <span class="fc-option-more"><i></i>更多</span>
+        </div>
+        <span class="fc-key">处理器描述：</span>
+        <div class="fc-content">
+            <div class="category-normal">
+                <ul class="clearfix">
+                        <li><a class="emcodeProp17" track="处理器描述:AMD A10" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2dNB&pzpq=0&pzin=v3" facetsId="2dNB"><i></i>AMD A10</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:AMD FX" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2dNA&pzpq=0&pzin=v3" facetsId="2dNA"><i></i>AMD FX</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:Intel i5" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2eEZ&pzpq=0&pzin=v3" facetsId="2eEZ"><i></i>Intel i5</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:Intel i7" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2eEY&pzpq=0&pzin=v3" facetsId="2eEY"><i></i>Intel i7</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:Intel i3" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2eF0&pzpq=0&pzin=v3" facetsId="2eF0"><i></i>Intel i3</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:Intel酷睿M" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2dNE&pzpq=0&pzin=v3" facetsId="2dNE"><i></i>Intel酷睿M</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:Intel其它" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP18C9&pzpq=0&pzin=v3" facetsId="18C9"><i></i>Intel其它</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:Intel奔腾" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP1dxh&pzpq=0&pzin=v3" facetsId="1dxh"><i></i>Intel奔腾</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:Intel赛扬" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP1dxi&pzpq=0&pzin=v3" facetsId="1dxi"><i></i>Intel赛扬</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:AMD A8" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2dNC&pzpq=0&pzin=v3" facetsId="2dNC"><i></i>AMD A8</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:AMD A6" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2dND&pzpq=0&pzin=v3" facetsId="2dND"><i></i>AMD A6</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:AMD其它" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP18Cc&pzpq=0&pzin=v3" facetsId="18Cc"><i></i>AMD其它</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:Intel i7标压" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2ezL&pzpq=0&pzin=v3" facetsId="2ezL"><i></i>Intel i7标压</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:Intel i7低压" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2ezM&pzpq=0&pzin=v3" facetsId="2ezM"><i></i>Intel i7低压</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:Intel i5标压" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2ezN&pzpq=0&pzin=v3" facetsId="2ezN"><i></i>Intel i5标压</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:Intel i5低压" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2ezO&pzpq=0&pzin=v3" facetsId="2ezO"><i></i>Intel i5低压</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:桌面级处理器" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2ezP&pzpq=0&pzin=v3" facetsId="2ezP"><i></i>桌面级处理器</a></li>
+                        <li><a class="emcodeProp17" track="处理器描述:其他" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP2dNF&pzpq=0&pzin=v3" facetsId="2dNF"><i></i>其他</a></li>
+                </ul>
+            </div>
+            <div class="fc-btn-box">
+                <a class="fc-btn-ok fc-disable" href="javascript:void(0)">确定</a>
+                <a class="fc-btn-cancel" href="javascript:void(0)">取消</a>
+            </div>
+        </div>
+    </div>
+    <div class="facets-category facets-category-common clearfix">
+        <div class="fc-option">
+            <span class="fc-option-multiple">多选</span>
+            <span class="fc-option-more"><i></i>更多</span>
+        </div>
+        <span class="fc-key">操作系统：</span>
+        <div class="fc-content">
+            <div class="category-normal">
+                <ul class="clearfix">
+                        <li><a class="emcodeProp17" track="操作系统:Windows10" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP1dpM&pzpq=0&pzin=v3" facetsId="1dpM"><i></i>Windows10</a></li>
+                        <li><a class="emcodeProp17" track="操作系统:Windows8/8.1" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP1dpN&pzpq=0&pzin=v3" facetsId="1dpN"><i></i>Windows8/8.1</a></li>
+                        <li><a class="emcodeProp17" track="操作系统:Windows7" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP1dpO&pzpq=0&pzin=v3" facetsId="1dpO"><i></i>Windows7</a></li>
+                        <li><a class="emcodeProp17" track="操作系统:MAC" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP1dpP&pzpq=0&pzin=v3" facetsId="1dpP"><i></i>MAC</a></li>
+                        <li><a class="emcodeProp17" track="操作系统:DOS/Linux" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP1dpQ&pzpq=0&pzin=v3" facetsId="1dpQ"><i></i>DOS/Linux</a></li>
+                        <li><a class="emcodeProp17" track="操作系统:windows" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP18DD&pzpq=0&pzin=v3" facetsId="18DD"><i></i>windows</a></li>
+                        <li><a class="emcodeProp17" track="操作系统:其它" href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&facets=15KP18DF&pzpq=0&pzin=v3" facetsId="18DF"><i></i>其它</a></li>
+                </ul>
+            </div>
+            <div class="fc-btn-box">
+                <a class="fc-btn-ok fc-disable" href="javascript:void(0)">确定</a>
+                <a class="fc-btn-cancel" href="javascript:void(0)">取消</a>
+            </div>
+        </div>
+    </div>
+<div class="facets-category-syn clearfix">
+    <span class="fc-key">高级筛选：</span>
+    <div class="fc-content">
+        <dl class="category-syn">
+            <dt class="category-syn-tit">屏幕分辨率<i></i></dt>
+            <dd class="category-syn-con">
+                <ul class="category-syn-list clearfix">
+                        <li facetsid ="1ehk" class="emcodeProp17" track="屏幕分辨率:全高清屏（1920×1080）"><i></i>全高清屏（1920×1080）</li>
+                        <li facetsid ="1ehl" class="emcodeProp17" track="屏幕分辨率:普通屏（1366×768）"><i></i>普通屏（1366×768）</li>
+                        <li facetsid ="1ehm" class="emcodeProp17" track="屏幕分辨率:高分屏（1600×900）"><i></i>高分屏（1600×900）</li>
+                        <li facetsid ="1ehn" class="emcodeProp17" track="屏幕分辨率:超高清屏（2K/3k/4K)"><i></i>超高清屏（2K/3k/4K)</li>
+                        <li facetsid ="1eh0" class="emcodeProp17" track="屏幕分辨率:其它"><i></i>其它</li>
+                </ul>
+                <p class="category-syn-btn">
+                    <a href="javascript:void(0)" class="fc-btn-ok  fc-disable">确定</a>
+                    <a href="javascript:void(0)" class="fc-btn-cancel">取消</a>
+                </p>
+            </dd>
+        </dl>
+        <dl class="category-syn">
+            <dt class="category-syn-tit">显存容量<i></i></dt>
+            <dd class="category-syn-con">
+                <ul class="category-syn-list clearfix">
+                        <li facetsid ="18HG" class="emcodeProp17" track="显存容量:2G"><i></i>2G</li>
+                        <li facetsid ="18HF" class="emcodeProp17" track="显存容量:3G"><i></i>3G</li>
+                        <li facetsid ="1bgH" class="emcodeProp17" track="显存容量:4G"><i></i>4G</li>
+                        <li facetsid ="1bgI" class="emcodeProp17" track="显存容量:6G"><i></i>6G</li>
+                        <li facetsid ="1exH" class="emcodeProp17" track="显存容量:8G"><i></i>8G</li>
+                </ul>
+                <p class="category-syn-btn">
+                    <a href="javascript:void(0)" class="fc-btn-ok  fc-disable">确定</a>
+                    <a href="javascript:void(0)" class="fc-btn-cancel">取消</a>
+                </p>
+            </dd>
+        </dl>
+        <dl class="category-syn">
+            <dt class="category-syn-tit">内存容量<i></i></dt>
+            <dd class="category-syn-con">
+                <ul class="category-syn-list clearfix">
+                        <li facetsid ="18oD" class="emcodeProp17" track="内存容量:2G"><i></i>2G</li>
+                        <li facetsid ="18oE" class="emcodeProp17" track="内存容量:4G"><i></i>4G</li>
+                        <li facetsid ="18oF" class="emcodeProp17" track="内存容量:8G"><i></i>8G</li>
+                        <li facetsid ="18Js" class="emcodeProp17" track="内存容量:16G"><i></i>16G</li>
+                        <li facetsid ="1eds" class="emcodeProp17" track="内存容量:32G"><i></i>32G</li>
+                        <li facetsid ="18Ju" class="emcodeProp17" track="内存容量:其它"><i></i>其它</li>
+                </ul>
+                <p class="category-syn-btn">
+                    <a href="javascript:void(0)" class="fc-btn-ok  fc-disable">确定</a>
+                    <a href="javascript:void(0)" class="fc-btn-cancel">取消</a>
+                </p>
+            </dd>
+        </dl>
+        <dl class="category-syn">
+            <dt class="category-syn-tit">显示屏<i></i></dt>
+            <dd class="category-syn-con">
+                <ul class="category-syn-list clearfix">
+                        <li facetsid ="1eyN" class="emcodeProp17" track="显示屏:触摸"><i></i>触摸</li>
+                        <li facetsid ="1eyO" class="emcodeProp17" track="显示屏:非触摸"><i></i>非触摸</li>
+                </ul>
+                <p class="category-syn-btn">
+                    <a href="javascript:void(0)" class="fc-btn-ok  fc-disable">确定</a>
+                    <a href="javascript:void(0)" class="fc-btn-cancel">取消</a>
+                </p>
+            </dd>
+        </dl>
+        <dl class="category-syn">
+            <dt class="category-syn-tit">厚度<i></i></dt>
+            <dd class="category-syn-con">
+                <ul class="category-syn-list clearfix">
+                        <li facetsid ="1dQS" class="emcodeProp17" track="厚度:15mm以下"><i></i>15mm以下</li>
+                        <li facetsid ="1dQT" class="emcodeProp17" track="厚度:15.0-16.9mm"><i></i>15.0-16.9mm</li>
+                        <li facetsid ="1dQU" class="emcodeProp17" track="厚度:17.0-19.9mm"><i></i>17.0-19.9mm</li>
+                        <li facetsid ="1dQV" class="emcodeProp17" track="厚度:20.0-22.0mm"><i></i>20.0-22.0mm</li>
+                        <li facetsid ="17nw" class="emcodeProp17" track="厚度:其它"><i></i>其它</li>
+                </ul>
+                <p class="category-syn-btn">
+                    <a href="javascript:void(0)" class="fc-btn-ok  fc-disable">确定</a>
+                    <a href="javascript:void(0)" class="fc-btn-cancel">取消</a>
+                </p>
+            </dd>
+        </dl>
+        <dl class="category-syn">
+            <dt class="category-syn-tit">其他分类<i></i></dt>
+            <dd class="category-syn-con clearfix">
+                    <a href="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=10&catId=cat18388430&facets=15KP&pzpq=0&pzin=v3" class="emcodeProp17 category-syn-list-rel" track="相关分类:笔记本配件">笔记本配件</a>
+            </dd>
+        </dl>
+    </div>
+</div>
+</div>
+<div class="nSearchWarp">
+    <div class="nSearchWarp-main clearfix">
+        <div class="product-right-box">
+<div class="prd-right-normal" style="display: none">
+    <h3 class="hd">推广商品</h3>
+    <ul class="bd" id="dsp_tuiguang"></ul>
+</div>
+    <div class="prd-right-normal" style="display: none">
+        <h3 class="hd">热销推荐</h3>
+        <ul class="bd" id="bigD_rexiao"></ul>
+    </div>
+
+<div id="personrecommend-warp"><div class="personrecommend prd-right-normal" id="personrecommend"></div></div>
+
+
+        </div>
+        <div class="product-left-list" id="product-left">
+<div style="height:74px">
+<div id="filter-box">
+    <div id="filter-top" class="filter-top clearfix">
+        <ul class="filter-order-box" id="filter-order-box">
+            <li class="cur emcodeProp17" data-sort="00" track="筛选条件:综合"><a href="javascript:void(0)">综合</a></li>
+            <li class=" emcodeProp17" data-sort="10" track="筛选条件:销量"><a href="javascript:void(0)">销量</a></li>
+            <li class=" emcodeProp17" data-sort="30" track="筛选条件:新品"><a href="javascript:void(0)">新品</a></li>
+            <li class=" emcodeProp17" data-sort="50" track="筛选条件:评价"><a href="javascript:void(0)">评价</a>
+        	 <li class=" emcodeProp17" data-sort="21" track="筛选条件:价格"><a href="javascript:void(0)">价格</a><i class="icon-up-down"></i></li>        	
+        </ul>
+        <ul class="filter-priceRange-box clearfix">
+            <li class="priceRange-input"><input id="fc-lowPrice" type="text" value="¥" /></li>
+            <li class="priceRange-link">-</li>
+            <li class="priceRange-input"><input id="fc-highPrice" type="text" value="¥" /></li>
+            <li class="priceRange-btn"><a id="fc-btn-cancel" class="fc-btn-cancel" href="javascript:void(0)">清除</a></li>
+            <li class="priceRange-btn"><a id="fc-btn-ok" class="fc-btn-ok" href="javascript:void(0)">确定</a></li>
+        </ul>
+        <div class="filter-resultSearch-box">
+                <input type="text" value="在结果中搜索"  class="filter-resultSearch-input" />
+
+            <a href="javascript:void(0)" class="filter-resultSearch-btn">确定</a>
+        </div>
+        <div class="min-pager-box">
+            <a href="javascript:void(0)" class="min-pager-next " id="mp-next">&gt;</a>
+            <a href="javascript:void(0)" class="min-pager-prev mp-disable" id="mp-prev">&lt;</a>
+            <span class="min-pager-number" id="min-pager-number">1/36</span>
+        </div>
+    </div>
+    <div id="filter-bottom" class="filter-bottom">
+        <div class="filter-adress-box">
+            <span class="filter-adress-tit">送至：</span>
+            <span id="address" class="filter-adress-stock">
+                <a id="stockaddress" class="emcodeProp17"  track="筛选条件:地区修改" href="javascript:void(0);">请选择</a>
+                <i class="filter-adress-icon"></i>
+                <em class="space"></em>
+            </span>
+
+            <div class="gCity clearfix"></div>
+        </div>
+        <div class="filter-label-box">
+                <label class="gmform-label emcodeProp17 " id="deliv" track="筛选条件:国美配送" url="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=1&sort=00&market=10&facets=15KP&pzpq=0&pzin=v3"><i class="iic"></i>国美配送</label>
+
+            <label class="gmform-label emcodeProp17 " id="instock" track="筛选条件:是否有货" url="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&instock=1&market=10&facets=15KP&pzpq=0&pzin=v3"><i class="iic"></i>仅显示有货</label>
+
+                <label class="gmform-label emcodeProp17 " id="discountPromo" track="筛选条件:促销" url="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&sale=001&market=10&facets=15KP&pzpq=0&pzin=v3"><i class="iic"></i>促销商品</label>
+
+                <label class="gmform-label emcodeProp17 " id="discountQiang" track="筛选条件:真划算" url="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&sale=010&market=10&facets=15KP&pzpq=0&pzin=v3"><i class="iic"></i>真划算</label>
+
+                    <label class="gmform-label emcodeProp17 " id="market" track="筛选条件:海外购" url="http://search.gome.com.cn/search?question=%E5%8D%8E%E7%A1%95%E7%AC%94%E8%AE%B0%E6%9C%AC&deliv=0&sort=00&market=11&facets=15KP&pzpq=0&pzin=v3"><i class="iic"></i>海外购</label>
+
+        </div>
+    </div>
+</div>
+</div><div class="product-box">
+<div class="product-waiting" id="product-waiting"></div>
+<ul class="product-lists clearfix" id="product-box">
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="0" pId="9134115792" sId="1123060743" skuNo="100392652" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)F454LJ5200 14英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（i5-5200U 4G内存 500G硬盘 2G独显 win8或win10随机配送  黑色）" price="3299.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123060743" pid="9134115792">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134115792-1123060743.html"  title="华硕(ASUS)F454LJ5200 14英寸笔记本电脑（i5-5200U 4G内存 500G硬盘 2G独显 win8或win10随机配送  黑色）【国美自营 售后保证】开机关机速度快，图文处理功能强，娱乐办公轻松玩转"><img gome-src="http://img2.gomein.net.cn/image/prodimg/production_image/201511/03/1123060743/1000832033_210.jpg" alt="华硕(ASUS)F454LJ5200 14英寸笔记本电脑（i5-5200U 4G内存 500G硬盘 2G独显 win8或win10随机配送  黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥3299.00</span>
+            <span class="promotion-normal">真划算</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134115792-1123060743.html" title="华硕(ASUS)F454LJ5200 14英寸笔记本电脑（i5-5200U 4G内存 500G硬盘 2G独显 win8或win10随机配送  黑色）【国美自营 售后保证】开机关机速度快，图文处理功能强，娱乐办公轻松玩转" target="_blank"><label style='color:red;'>华硕</label>(ASUS)F454LJ5200 14英寸<label style='color:red;'>笔记本</label>电脑（i5-5200U 4G内存 500G硬盘 2G独显 win8或win10随机配送  黑色）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】开机关机速度快，图文处理功能强，娱乐办公轻松玩转">
+                <!--
+                    【成交价3199元】
+                -->
+                【国美自营 售后保证】开机关机速度快，图文处理功能强，娱乐办公轻松玩转
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134115792-1123060743.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">203</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <a href="http://tuan.gome.com.cn/deal/T8800008935.html" target="_blank" class="add-cart emcodeItem" track="产品列表立即抢购">立即疯抢</a>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="1" pId="9133990269" sId="1123000076" skuNo="100382582" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）飞行堡垒FX战争雷霆典藏版 15.6英寸1920*1080高分屏游戏本电脑（I7-4720HQ 8G 128GSSD+1T硬盘 GTX-950M 4G独显 黑色 win8或win10随机配送）" price="6399.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123000076" pid="9133990269">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133990269-1123000076.html"  title="华硕（ASUS）飞行堡垒FX战争雷霆典藏版 15.6英寸1920*1080高分屏游戏本电脑（I7-4720HQ 8G 128GSSD+1T硬盘 GTX-950M 4G独显 黑色 win8或win10随机配送）【国美自营 售后保证】以游戏为主题的电脑，显卡GTX950很牛逼，键盘清晰带背光，续航给力，颜色好看，做工精美； 散热好，玩大型游戏温度也控制得很好，散热快；双卡双待，支持语音3G通话，高清屏幕。请点击跳转         自营商品全攻略，好本推荐区 "><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201508/20/1123000076/1000807960_210.jpg" alt="华硕（ASUS）飞行堡垒FX战争雷霆典藏版 15.6英寸1920*1080高分屏游戏本电脑（I7-4720HQ 8G 128GSSD+1T硬盘 GTX-950M 4G独显 黑色 win8或win10随机配送）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥6399.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133990269-1123000076.html" title="华硕（ASUS）飞行堡垒FX战争雷霆典藏版 15.6英寸1920*1080高分屏游戏本电脑（I7-4720HQ 8G 128GSSD+1T硬盘 GTX-950M 4G独显 黑色 win8或win10随机配送）【国美自营 售后保证】以游戏为主题的电脑，显卡GTX950很牛逼，键盘清晰带背光，续航给力，颜色好看，做工精美； 散热好，玩大型游戏温度也控制得很好，散热快；双卡双待，支持语音3G通话，高清屏幕。请点击跳转         自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label>（ASUS）飞行堡垒FX战争雷霆典藏版 15.6英寸1920*1080高分屏游戏本电脑（I7-4720HQ 8G 128GSSD+1T硬盘 GTX-950M 4G独显 黑色 win8或win10随机配送）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】以游戏为主题的电脑，显卡GTX950很牛逼，键盘清晰带背光，续航给力，颜色好看，做工精美； 散热好，玩大型游戏温度也控制得很好，散热快；双卡双待，支持语音3G通话，高清屏幕。请点击跳转         自营商品全攻略，好本推荐区 ">
+                <!---->
+                【国美自营 售后保证】以游戏为主题的电脑，显卡GTX950很牛逼，键盘清晰带背光，续航给力，颜色好看，做工精美； 散热好，玩大型游戏温度也控制得很好，散热快；双卡双待，支持语音3G通话，高清屏幕。请点击跳转         自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133990269-1123000076.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">48</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="2" pId="9134117964" sId="1123080488" skuNo="100393350" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）飞行堡垒FX50JX4200 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（ I5-4200H 4G 1TB GTX950M 2G独显 win10）黑" price="4699.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123080488" pid="9134117964">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134117964-1123080488.html"  title="华硕（ASUS）飞行堡垒FX50JX4200 15.6英寸笔记本电脑（ I5-4200H 4G 1TB GTX950M 2G独显 win10）黑FX飞行堡垒，热血升级，再战游戏江湖，实用，美观，性价比高，性能均衡，游戏办公都可，1080P屏幕，外观炫丽"><img gome-src="http://img3.gomein.net.cn/image/prodimg/production_image/201511/05/1123080488/1000833152_210.jpg" alt="华硕（ASUS）飞行堡垒FX50JX4200 15.6英寸笔记本电脑（ I5-4200H 4G 1TB GTX950M 2G独显 win10）黑" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥4699.00</span>
+            <span class="promotion-normal">真划算</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134117964-1123080488.html" title="华硕（ASUS）飞行堡垒FX50JX4200 15.6英寸笔记本电脑（ I5-4200H 4G 1TB GTX950M 2G独显 win10）黑FX飞行堡垒，热血升级，再战游戏江湖，实用，美观，性价比高，性能均衡，游戏办公都可，1080P屏幕，外观炫丽" target="_blank"><label style='color:red;'>华硕</label>（ASUS）飞行堡垒FX50JX4200 15.6英寸<label style='color:red;'>笔记本</label>电脑（ I5-4200H 4G 1TB GTX950M 2G独显 win10）黑</a></p>
+            <p class="item-promotional-language" title="FX飞行堡垒，热血升级，再战游戏江湖，实用，美观，性价比高，性能均衡，游戏办公都可，1080P屏幕，外观炫丽">
+                <!--
+                    【成交价4649元】
+                -->
+                FX飞行堡垒，热血升级，再战游戏江湖，实用，美观，性价比高，性能均衡，游戏办公都可，1080P屏幕，外观炫丽
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134117964-1123080488.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">380</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <a href="http://tuan.gome.com.cn/deal/T8800007907.html" target="_blank" class="add-cart emcodeItem" track="产品列表立即抢购">立即疯抢</a>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="3" pId="9134047267" sId="1123040363" skuNo="1000414183" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）F554LI5200 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-5200U 4G 500G M320-2G独显  Win8或WIN10随机发货 黑色）" price="3199.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123040363" pid="9134047267">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134047267-1123040363.html"  title="华硕（ASUS）F554LI5200 15.6英寸笔记本电脑（I5-5200U 4G 500G M320-2G独显  Win8或WIN10随机发货 黑色）【国美自营】后置散热  双USB3.0 2G独显I5轻薄时尚本；开机关机速度快，图文处理功能强，娱乐办公轻松玩转"><img gome-src="http://img2.gomein.net.cn/image/prodimg/production_image/201509/22/1123040363/1000818010_210.jpg" alt="华硕（ASUS）F554LI5200 15.6英寸笔记本电脑（I5-5200U 4G 500G M320-2G独显  Win8或WIN10随机发货 黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥3199.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134047267-1123040363.html" title="华硕（ASUS）F554LI5200 15.6英寸笔记本电脑（I5-5200U 4G 500G M320-2G独显  Win8或WIN10随机发货 黑色）【国美自营】后置散热  双USB3.0 2G独显I5轻薄时尚本；开机关机速度快，图文处理功能强，娱乐办公轻松玩转" target="_blank"><label style='color:red;'>华硕</label>（ASUS）F554LI5200 15.6英寸<label style='color:red;'>笔记本</label>电脑（I5-5200U 4G 500G M320-2G独显  Win8或WIN10随机发货 黑色）</a></p>
+            <p class="item-promotional-language" title="【国美自营】后置散热  双USB3.0 2G独显I5轻薄时尚本；开机关机速度快，图文处理功能强，娱乐办公轻松玩转">
+                <!---->
+                【国美自营】后置散热  双USB3.0 2G独显I5轻薄时尚本；开机关机速度快，图文处理功能强，娱乐办公轻松玩转
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134047267-1123040363.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">515</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="4" pId="9133990270" sId="1123000075" skuNo="100382583" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）飞行堡垒FX战争雷霆典藏版 15.6英寸1920*1080高分屏游戏本电脑（I5-4200HQ 8G 1T硬盘 GTX950M-4G独显 黑色 win8或win10随机配送）" price="5299.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123000075" pid="9133990270">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133990270-1123000075.html"  title="华硕（ASUS）飞行堡垒FX战争雷霆典藏版 15.6英寸1920*1080高分屏游戏本电脑（I5-4200HQ 8G 1T硬盘 GTX950M-4G独显 黑色 win8或win10随机配送）【国美自营 售后保证】以游戏为主题的电脑，显卡GTX950很牛逼，键盘清晰带背光，续航给力，颜色好看，做工精美； 散热好，玩大型游戏温度也控制得很好，散热快；开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 "><img gome-src="http://img.gomein.net.cn/image/prodimg/production_image/201508/20/1123000075/1000807965_210.jpg" alt="华硕（ASUS）飞行堡垒FX战争雷霆典藏版 15.6英寸1920*1080高分屏游戏本电脑（I5-4200HQ 8G 1T硬盘 GTX950M-4G独显 黑色 win8或win10随机配送）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥5299.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133990270-1123000075.html" title="华硕（ASUS）飞行堡垒FX战争雷霆典藏版 15.6英寸1920*1080高分屏游戏本电脑（I5-4200HQ 8G 1T硬盘 GTX950M-4G独显 黑色 win8或win10随机配送）【国美自营 售后保证】以游戏为主题的电脑，显卡GTX950很牛逼，键盘清晰带背光，续航给力，颜色好看，做工精美； 散热好，玩大型游戏温度也控制得很好，散热快；开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label>（ASUS）飞行堡垒FX战争雷霆典藏版 15.6英寸1920*1080高分屏游戏本电脑（I5-4200HQ 8G 1T硬盘 GTX950M-4G独显 黑色 win8或win10随机配送）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】以游戏为主题的电脑，显卡GTX950很牛逼，键盘清晰带背光，续航给力，颜色好看，做工精美； 散热好，玩大型游戏温度也控制得很好，散热快；开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 ">
+                <!---->
+                【国美自营 售后保证】以游戏为主题的电脑，显卡GTX950很牛逼，键盘清晰带背光，续航给力，颜色好看，做工精美； 散热好，玩大型游戏温度也控制得很好，散热快；开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133990270-1123000075.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">158</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="5" pId="9134127111" sId="1123080794" skuNo="100394153" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)FL5600LI5500 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I7-5500U 4G内存 1T  2G独显  黑色）" price="4299.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123080794" pid="9134127111">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134127111-1123080794.html"  title="华硕(ASUS)FL5600LI5500 15.6英寸笔记本电脑（I7-5500U 4G内存 1T  2G独显  黑色）【赠礼！国美自营】FL5500升级版，I7-5500 4G内存 1T硬盘 2G独显，高清屏，速速入手，下单送华硕包鼠和鼠标垫14英寸笔记本，实惠之选不容错过! "><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201511/17/1123080794/1000836354_210.jpg" alt="华硕(ASUS)FL5600LI5500 15.6英寸笔记本电脑（I7-5500U 4G内存 1T  2G独显  黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥4299.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134127111-1123080794.html" title="华硕(ASUS)FL5600LI5500 15.6英寸笔记本电脑（I7-5500U 4G内存 1T  2G独显  黑色）【赠礼！国美自营】FL5500升级版，I7-5500 4G内存 1T硬盘 2G独显，高清屏，速速入手，下单送华硕包鼠和鼠标垫14英寸笔记本，实惠之选不容错过! " target="_blank"><label style='color:red;'>华硕</label>(ASUS)FL5600LI5500 15.6英寸<label style='color:red;'>笔记本</label>电脑（I7-5500U 4G内存 1T  2G独显  黑色）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】FL5500升级版，I7-5500 4G内存 1T硬盘 2G独显，高清屏，速速入手，下单送华硕包鼠和鼠标垫14英寸笔记本，实惠之选不容错过! ">
+                <!---->
+                【赠礼！国美自营】FL5500升级版，I7-5500 4G内存 1T硬盘 2G独显，高清屏，速速入手，下单送华硕包鼠和鼠标垫14英寸笔记本，实惠之选不容错过! 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134127111-1123080794.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">42</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="6" pId="9134181576" sId="1123130057" skuNo="100395957" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）飞行堡垒系列FX50JX4720 15.6英寸高清屏游戏本（I7-4720HQ 4G内存 1T硬盘 GTX950-2G独显 Win10或Win8随机配送）" price="5299.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123130057" pid="9134181576">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134181576-1123130057.html"  title="华硕（ASUS）飞行堡垒系列FX50JX4720 15.6英寸高清屏游戏本（I7-4720HQ 4G内存 1T硬盘 GTX950-2G独显 Win10或Win8随机配送）"><img gome-src="http://img2.gomein.net.cn/image/prodimg/production_image/201512/09/1123130057/1000842692_210.jpg" alt="华硕（ASUS）飞行堡垒系列FX50JX4720 15.6英寸高清屏游戏本（I7-4720HQ 4G内存 1T硬盘 GTX950-2G独显 Win10或Win8随机配送）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price item-price-smart">
+            <span class="price">¥5299.00</span>
+            <div class="item-smart">
+                <div class="item-smart-hd">比价</div>
+                <ul class="item-smart-bd">
+                    <li class="fds">比苏宁低<b>200</b>元<a target="_blank" class="help-link" href="http://help.gome.com.cn/question/71.html">?</a></li>
+                    <li>苏宁价：¥5499</li>
+                    <li>比价时间：2016-05-03 22:20:02</li>
+                </ul>
+            </div>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134181576-1123130057.html" title="华硕（ASUS）飞行堡垒系列FX50JX4720 15.6英寸高清屏游戏本（I7-4720HQ 4G内存 1T硬盘 GTX950-2G独显 Win10或Win8随机配送）" target="_blank"><label style='color:red;'>华硕</label>（ASUS）飞行堡垒系列FX50JX4720 15.6英寸高清屏游戏本（I7-4720HQ 4G内存 1T硬盘 GTX950-2G独显 Win10或Win8随机配送）</a></p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134181576-1123130057.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">17</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="7" pId="9134002908" sId="1123010042" skuNo="100382989" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)K455LJ5200 14英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-5200U 4G内存 500G硬盘 GT920M-2G独显 WIN8 黑色）" price="3699.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123010042" pid="9134002908">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134002908-1123010042.html"  title="华硕(ASUS)K455LJ5200 14英寸笔记本电脑（I5-5200U 4G内存 500G硬盘 GT920M-2G独显 WIN8 黑色）【赠礼！国美自营】酷睿i5-5200U ,GT920M+2G独显 ,正版WIN8，14英寸游戏本,能文能武就是辣么拉轰,下单送包和鼠标、鼠标垫15英寸笔记本，同价格同配置，实惠之选不容错过! "><img gome-src="http://img3.gomein.net.cn/image/prodimg/production_image/201508/24/1123010042/1000808508_210.jpg" alt="华硕(ASUS)K455LJ5200 14英寸笔记本电脑（I5-5200U 4G内存 500G硬盘 GT920M-2G独显 WIN8 黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥3699.00</span>
+            <span class="promotion-normal">真划算</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134002908-1123010042.html" title="华硕(ASUS)K455LJ5200 14英寸笔记本电脑（I5-5200U 4G内存 500G硬盘 GT920M-2G独显 WIN8 黑色）【赠礼！国美自营】酷睿i5-5200U ,GT920M+2G独显 ,正版WIN8，14英寸游戏本,能文能武就是辣么拉轰,下单送包和鼠标、鼠标垫15英寸笔记本，同价格同配置，实惠之选不容错过! " target="_blank"><label style='color:red;'>华硕</label>(ASUS)K455LJ5200 14英寸<label style='color:red;'>笔记本</label>电脑（I5-5200U 4G内存 500G硬盘 GT920M-2G独显 WIN8 黑色）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】酷睿i5-5200U ,GT920M+2G独显 ,正版WIN8，14英寸游戏本,能文能武就是辣么拉轰,下单送包和鼠标、鼠标垫15英寸笔记本，同价格同配置，实惠之选不容错过! ">
+                <!--
+                    【成交价3599元】
+                -->
+                【赠礼！国美自营】酷睿i5-5200U ,GT920M+2G独显 ,正版WIN8，14英寸游戏本,能文能武就是辣么拉轰,下单送包和鼠标、鼠标垫15英寸笔记本，同价格同配置，实惠之选不容错过! 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134002908-1123010042.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">68</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <a href="http://tuan.gome.com.cn/deal/T8800007906.html" target="_blank" class="add-cart emcodeItem" track="产品列表立即抢购">立即疯抢</a>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="8" pId="9134250393" sId="1123181404" skuNo="100401286" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;FX-PRO6300 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-6300HQ 4G 1T GTX 960M-2G独显 Win10）" price="6699.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123181404" pid="9134250393">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134250393-1123181404.html"  title="华硕FX-PRO6300 15.6英寸笔记本电脑（I5-6300HQ 4G 1T GTX 960M-2G独显 Win10）【国美自营 品质保证】战争雷霆典藏版，新升级更逆天、全高清屏幕、背光键盘"><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201603/18/1123181404/1000861757_210.jpg" alt="华硕FX-PRO6300 15.6英寸笔记本电脑（I5-6300HQ 4G 1T GTX 960M-2G独显 Win10）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥6699.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134250393-1123181404.html" title="华硕FX-PRO6300 15.6英寸笔记本电脑（I5-6300HQ 4G 1T GTX 960M-2G独显 Win10）【国美自营 品质保证】战争雷霆典藏版，新升级更逆天、全高清屏幕、背光键盘" target="_blank"><label style='color:red;'>华硕</label>FX-PRO6300 15.6英寸<label style='color:red;'>笔记本</label>电脑（I5-6300HQ 4G 1T GTX 960M-2G独显 Win10）</a></p>
+            <p class="item-promotional-language" title="【国美自营 品质保证】战争雷霆典藏版，新升级更逆天、全高清屏幕、背光键盘">
+                <!---->
+                【国美自营 品质保证】战争雷霆典藏版，新升级更逆天、全高清屏幕、背光键盘
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134250393-1123181404.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">0</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="9" pId="9133637397" sId="1122420359" skuNo="100324440" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）K455LD4210-154BSC52X10 14英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-4210 4G 1T 2G独显 WIN8 黑色）" price="3099.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122420359" pid="9133637397">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133637397-1122420359.html"  title="华硕（ASUS）K455LD4210-154BSC52X10 14英寸笔记本电脑（I5-4210 4G 1T 2G独显 WIN8 黑色）【国美自营】cpu显卡搭配合适，i5-4210和 2g独显，已经可以驾驭现阶段的大部分网游和单机，轻薄方便携带，分辨率高，很适合玩家用和游戏"><img gome-src="http://img4.gomein.net.cn/image/prodimg/production_image/201504/09/1122420359/1000767086_210.jpg" alt="华硕（ASUS）K455LD4210-154BSC52X10 14英寸笔记本电脑（I5-4210 4G 1T 2G独显 WIN8 黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥3099.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133637397-1122420359.html" title="华硕（ASUS）K455LD4210-154BSC52X10 14英寸笔记本电脑（I5-4210 4G 1T 2G独显 WIN8 黑色）【国美自营】cpu显卡搭配合适，i5-4210和 2g独显，已经可以驾驭现阶段的大部分网游和单机，轻薄方便携带，分辨率高，很适合玩家用和游戏" target="_blank"><label style='color:red;'>华硕</label>（ASUS）K455LD4210-154BSC52X10 14英寸<label style='color:red;'>笔记本</label>电脑（I5-4210 4G 1T 2G独显 WIN8 黑色）</a></p>
+            <p class="item-promotional-language" title="【国美自营】cpu显卡搭配合适，i5-4210和 2g独显，已经可以驾驭现阶段的大部分网游和单机，轻薄方便携带，分辨率高，很适合玩家用和游戏">
+                <!---->
+                【国美自营】cpu显卡搭配合适，i5-4210和 2g独显，已经可以驾驭现阶段的大部分网游和单机，轻薄方便携带，分辨率高，很适合玩家用和游戏
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133637397-1122420359.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">575</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="10" pId="9134047263" sId="1123040242" skuNo="100384586" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）F554LI5010 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I3-5010U 4G 500G M320-2G独显  Win8 黑色）" price="2799.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123040242" pid="9134047263">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134047263-1123040242.html"  title="华硕（ASUS）F554LI5010 15.6英寸笔记本电脑（I3-5010U 4G 500G M320-2G独显  Win8 黑色）【国美自营 售后保证】开机关机速度快，图文处理功能强，娱乐办公轻松玩转！小编力荐I5处理器2G独显本，请点击跳转 自营商品全攻略，好本推荐区 "><img gome-src="http://img3.gomein.net.cn/image/prodimg/production_image/201510/12/1123040242/1000822972_210.jpg" alt="华硕（ASUS）F554LI5010 15.6英寸笔记本电脑（I3-5010U 4G 500G M320-2G独显  Win8 黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥2799.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134047263-1123040242.html" title="华硕（ASUS）F554LI5010 15.6英寸笔记本电脑（I3-5010U 4G 500G M320-2G独显  Win8 黑色）【国美自营 售后保证】开机关机速度快，图文处理功能强，娱乐办公轻松玩转！小编力荐I5处理器2G独显本，请点击跳转 自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label>（ASUS）F554LI5010 15.6英寸<label style='color:red;'>笔记本</label>电脑（I3-5010U 4G 500G M320-2G独显  Win8 黑色）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】开机关机速度快，图文处理功能强，娱乐办公轻松玩转！小编力荐I5处理器2G独显本，请点击跳转 自营商品全攻略，好本推荐区 ">
+                <!---->
+                【国美自营 售后保证】开机关机速度快，图文处理功能强，娱乐办公轻松玩转！小编力荐I5处理器2G独显本，请点击跳转 自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134047263-1123040242.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">24</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="11" pId="9133650187" sId="1122420938" skuNo="1000410832" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）ZX50JX4200-154ASC52X10&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（i5-4200H 4G内存 1TB硬盘 GT950M-2G 独显 win8系统 黑色）" price="4699.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122420938" pid="9133650187">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133650187-1122420938.html"  title="华硕（ASUS）ZX50JX4200-154ASC52X10笔记本电脑（i5-4200H 4G内存 1TB硬盘 GT950M-2G 独显 win8系统 黑色）【国美自营】高频处理器，i5-4200H，是的！H！配上第九代N卡中的战斗显卡GTX950M ,背光键盘,高清屏，暗夜版游戏机，价格优惠，详情请点击 "><img gome-src="http://img3.gomein.net.cn/image/prodimg/production_image/201504/13/1122420938/1000768537_210.jpg" alt="华硕（ASUS）ZX50JX4200-154ASC52X10笔记本电脑（i5-4200H 4G内存 1TB硬盘 GT950M-2G 独显 win8系统 黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price item-price-smart">
+            <span class="price">¥4699.00</span>
+            <div class="item-smart">
+                <div class="item-smart-hd">比价</div>
+                <ul class="item-smart-bd">
+                    <li class="fds">比苏宁低<b>89</b>元<a target="_blank" class="help-link" href="http://help.gome.com.cn/question/71.html">?</a></li>
+                    <li>苏宁价：¥4788</li>
+                    <li>比价时间：2016-05-03 21:50:23</li>
+                </ul>
+            </div>
+            <span class="promotion-normal">真划算</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133650187-1122420938.html" title="华硕（ASUS）ZX50JX4200-154ASC52X10笔记本电脑（i5-4200H 4G内存 1TB硬盘 GT950M-2G 独显 win8系统 黑色）【国美自营】高频处理器，i5-4200H，是的！H！配上第九代N卡中的战斗显卡GTX950M ,背光键盘,高清屏，暗夜版游戏机，价格优惠，详情请点击 " target="_blank"><label style='color:red;'>华硕</label>（ASUS）ZX50JX4200-154ASC52X10<label style='color:red;'>笔记本</label>电脑（i5-4200H 4G内存 1TB硬盘 GT950M-2G 独显 win8系统 黑色）</a></p>
+            <p class="item-promotional-language" title="【国美自营】高频处理器，i5-4200H，是的！H！配上第九代N卡中的战斗显卡GTX950M ,背光键盘,高清屏，暗夜版游戏机，价格优惠，详情请点击 ">
+                <!--
+                    【成交价4649元】
+                -->
+                【国美自营】高频处理器，i5-4200H，是的！H！配上第九代N卡中的战斗显卡GTX950M ,背光键盘,高清屏，暗夜版游戏机，价格优惠，详情请点击 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133650187-1122420938.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">211</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <a href="http://tuan.gome.com.cn/deal/T8800007905.html" target="_blank" class="add-cart emcodeItem" track="产品列表立即抢购">立即疯抢</a>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="12" pId="9134280190" sId="1123220215" skuNo="100404607" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(Asus)X455LF4005 14英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I3-4005U/4G内存/500G硬盘/GT930-2G独显/win10/黑色）" price="2699.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123220215" pid="9134280190">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134280190-1123220215.html"  title="华硕(Asus)X455LF4005 14英寸笔记本电脑（I3-4005U/4G内存/500G硬盘/GT930-2G独显/win10/黑色）【国美自营】出色显示性能，丰富的扩展选择，HDMI等丰富接口，GT930-2G独显，良心机型值得拥有"><img gome-src="http://img.gomein.net.cn/image/prodimg/production_image/201604/12/1123220215/1000867004_210.jpg" alt="华硕(Asus)X455LF4005 14英寸笔记本电脑（I3-4005U/4G内存/500G硬盘/GT930-2G独显/win10/黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥2699.00</span>
+            <span class="promotion-normal">真划算</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134280190-1123220215.html" title="华硕(Asus)X455LF4005 14英寸笔记本电脑（I3-4005U/4G内存/500G硬盘/GT930-2G独显/win10/黑色）【国美自营】出色显示性能，丰富的扩展选择，HDMI等丰富接口，GT930-2G独显，良心机型值得拥有" target="_blank"><label style='color:red;'>华硕</label>(Asus)X455LF4005 14英寸<label style='color:red;'>笔记本</label>电脑（I3-4005U/4G内存/500G硬盘/GT930-2G独显/win10/黑色）</a></p>
+            <p class="item-promotional-language" title="【国美自营】出色显示性能，丰富的扩展选择，HDMI等丰富接口，GT930-2G独显，良心机型值得拥有">
+                <!--
+                    【成交价2649元】
+                -->
+                【国美自营】出色显示性能，丰富的扩展选择，HDMI等丰富接口，GT930-2G独显，良心机型值得拥有
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134280190-1123220215.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">27</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <a href="http://tuan.gome.com.cn/deal/T8800008934.html" target="_blank" class="add-cart emcodeItem" track="产品列表立即抢购">立即疯抢</a>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="13" pId="9134195593" sId="1123140246" skuNo="1000414389" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）U303UB6200 13.3英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-6200U 4G内存 500G GT940M显存2G WIN10 1920*1080 烟棕色）" price="5049.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123140246" pid="9134195593">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134195593-1123140246.html"  title="华硕（ASUS）U303UB6200 13.3英寸笔记本电脑（I5-6200U 4G内存 500G GT940M显存2G WIN10 1920*1080 烟棕色）"><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201601/05/1123140246/1000849751_210.jpg" alt="华硕（ASUS）U303UB6200 13.3英寸笔记本电脑（I5-6200U 4G内存 500G GT940M显存2G WIN10 1920*1080 烟棕色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price item-price-smart">
+            <span class="price">¥5049.00</span>
+            <div class="item-smart">
+                <div class="item-smart-hd">比价</div>
+                <ul class="item-smart-bd">
+                    <li class="fds">比苏宁低<b>250</b>元<a target="_blank" class="help-link" href="http://help.gome.com.cn/question/71.html">?</a></li>
+                    <li>苏宁价：¥5299</li>
+                    <li>比价时间：2016-05-03 22:07:02</li>
+                </ul>
+            </div>
+            <span class="promotion-normal">真划算</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134195593-1123140246.html" title="华硕（ASUS）U303UB6200 13.3英寸笔记本电脑（I5-6200U 4G内存 500G GT940M显存2G WIN10 1920*1080 烟棕色）" target="_blank"><label style='color:red;'>华硕</label>（ASUS）U303UB6200 13.3英寸<label style='color:red;'>笔记本</label>电脑（I5-6200U 4G内存 500G GT940M显存2G WIN10 1920*1080 烟棕色）</a></p>
+                    <!--<p class="item-promotional-language">【成交价4988元】</p>-->
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134195593-1123140246.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">5</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <a href="http://tuan.gome.com.cn/deal/T8800008936.html" target="_blank" class="add-cart emcodeItem" track="产品列表立即抢购">立即疯抢</a>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="14" pId="9134210817" sId="1123150022" skuNo="100396066" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）U303UB6200 13.3英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-6200U 4G内存 500G GT940M显存2G WIN10 1920*1080 玫瑰金）" price="5099.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123150022" pid="9134210817">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134210817-1123150022.html"  title="华硕（ASUS）U303UB6200 13.3英寸笔记本电脑（I5-6200U 4G内存 500G GT940M显存2G WIN10 1920*1080 玫瑰金）"><img gome-src="http://img3.gomein.net.cn/image/prodimg/production_image/201601/05/1123150022/1000849736_210.jpg" alt="华硕（ASUS）U303UB6200 13.3英寸笔记本电脑（I5-6200U 4G内存 500G GT940M显存2G WIN10 1920*1080 玫瑰金）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥5099.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134210817-1123150022.html" title="华硕（ASUS）U303UB6200 13.3英寸笔记本电脑（I5-6200U 4G内存 500G GT940M显存2G WIN10 1920*1080 玫瑰金）" target="_blank"><label style='color:red;'>华硕</label>（ASUS）U303UB6200 13.3英寸<label style='color:red;'>笔记本</label>电脑（I5-6200U 4G内存 500G GT940M显存2G WIN10 1920*1080 玫瑰金）</a></p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134210817-1123150022.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">5</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="15" pId="9133724627" sId="1122470537" skuNo="1000412502" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）K555LJ5200 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-5200U 4GB内存 1TB硬盘 GT920M 2G独显 WIN8）" price="3749.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122470537" pid="9133724627">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133724627-1122470537.html"  title="华硕（ASUS）K555LJ5200 15.6英寸笔记本电脑（I5-5200U 4GB内存 1TB硬盘 GT920M 2G独显 WIN8）【赠礼！国美自营】第五代酷睿I5-5200U GT920M  内置摄像头 正版WIN8.1系统 高端大气上档次 低调奢华有内涵，下单送包和鼠标、鼠标垫15英寸笔记本，同价格同配置，实惠之选不容错过! "><img gome-src="http://img2.gomein.net.cn/image/prodimg/production_image/201505/20/1122470537/1000784259_210.jpg" alt="华硕（ASUS）K555LJ5200 15.6英寸笔记本电脑（I5-5200U 4GB内存 1TB硬盘 GT920M 2G独显 WIN8）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥3749.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133724627-1122470537.html" title="华硕（ASUS）K555LJ5200 15.6英寸笔记本电脑（I5-5200U 4GB内存 1TB硬盘 GT920M 2G独显 WIN8）【赠礼！国美自营】第五代酷睿I5-5200U GT920M  内置摄像头 正版WIN8.1系统 高端大气上档次 低调奢华有内涵，下单送包和鼠标、鼠标垫15英寸笔记本，同价格同配置，实惠之选不容错过! " target="_blank"><label style='color:red;'>华硕</label>（ASUS）K555LJ5200 15.6英寸<label style='color:red;'>笔记本</label>电脑（I5-5200U 4GB内存 1TB硬盘 GT920M 2G独显 WIN8）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】第五代酷睿I5-5200U GT920M  内置摄像头 正版WIN8.1系统 高端大气上档次 低调奢华有内涵，下单送包和鼠标、鼠标垫15英寸笔记本，同价格同配置，实惠之选不容错过! ">
+                <!---->
+                【赠礼！国美自营】第五代酷睿I5-5200U GT920M  内置摄像头 正版WIN8.1系统 高端大气上档次 低调奢华有内涵，下单送包和鼠标、鼠标垫15英寸笔记本，同价格同配置，实惠之选不容错过! 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133724627-1122470537.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">104</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="16" pId="9134123627" sId="1123080192" skuNo="1000414292" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)V505LX5200 15.6英寸高清超薄游戏本（I5-5200 4G内存 500G硬盘 GTX950M 2G WIN8 蓝色）" price="4799.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123080192" pid="9134123627">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134123627-1123080192.html"  title="华硕(ASUS)V505LX5200 15.6英寸高清超薄游戏本（I5-5200 4G内存 500G硬盘 GTX950M 2G WIN8 蓝色）【赠礼！国美自营】酷睿五代I5-5200U 睿频2.7GHz，4G内存，500G硬盘，NVGTX950M，可升级固态硬盘速度提升10%，下单送华硕包鼠和鼠标垫15.6英寸大屏，点击查看 "><img gome-src="http://img3.gomein.net.cn/image/prodimg/production_image/201511/10/1123080192/1000835116_210.jpg" alt="华硕(ASUS)V505LX5200 15.6英寸高清超薄游戏本（I5-5200 4G内存 500G硬盘 GTX950M 2G WIN8 蓝色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥4799.00</span>
+            <span class="promotion-normal">真划算</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134123627-1123080192.html" title="华硕(ASUS)V505LX5200 15.6英寸高清超薄游戏本（I5-5200 4G内存 500G硬盘 GTX950M 2G WIN8 蓝色）【赠礼！国美自营】酷睿五代I5-5200U 睿频2.7GHz，4G内存，500G硬盘，NVGTX950M，可升级固态硬盘速度提升10%，下单送华硕包鼠和鼠标垫15.6英寸大屏，点击查看 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)V505LX5200 15.6英寸高清超薄游戏本（I5-5200 4G内存 500G硬盘 GTX950M 2G WIN8 蓝色）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】酷睿五代I5-5200U 睿频2.7GHz，4G内存，500G硬盘，NVGTX950M，可升级固态硬盘速度提升10%，下单送华硕包鼠和鼠标垫15.6英寸大屏，点击查看 ">
+                <!--
+                    【成交价4699元】
+                -->
+                【赠礼！国美自营】酷睿五代I5-5200U 睿频2.7GHz，4G内存，500G硬盘，NVGTX950M，可升级固态硬盘速度提升10%，下单送华硕包鼠和鼠标垫15.6英寸大屏，点击查看 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134123627-1123080192.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">37</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <a href="http://tuan.gome.com.cn/deal/T8800007908.html" target="_blank" class="add-cart emcodeItem" track="产品列表立即抢购">立即疯抢</a>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="17" pId="9134047265" sId="1123040245" skuNo="100384588" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）X454LJ5010 14英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I3-5010U 4G 500G GT920M-2G独显 win8或win10随机配送 黑色）" price="2799.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123040245" pid="9134047265">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134047265-1123040245.html"  title="华硕（ASUS）X454LJ5010 14英寸笔记本电脑（I3-5010U 4G 500G GT920M-2G独显 win8或win10随机配送 黑色）【国美自营 售后保证】做工精细，大屏很爽，电池内置，学生家用标配，性价比很高cpu显卡更强兼容，i5-4200u和GTX820 2g独显1T大硬盘。请点击跳转         自营商品全攻略，好本推荐区 "><img gome-src="http://img.gomein.net.cn/image/prodimg/production_image/201510/12/1123040245/1000822996_210.jpg" alt="华硕（ASUS）X454LJ5010 14英寸笔记本电脑（I3-5010U 4G 500G GT920M-2G独显 win8或win10随机配送 黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥2799.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134047265-1123040245.html" title="华硕（ASUS）X454LJ5010 14英寸笔记本电脑（I3-5010U 4G 500G GT920M-2G独显 win8或win10随机配送 黑色）【国美自营 售后保证】做工精细，大屏很爽，电池内置，学生家用标配，性价比很高cpu显卡更强兼容，i5-4200u和GTX820 2g独显1T大硬盘。请点击跳转         自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label>（ASUS）X454LJ5010 14英寸<label style='color:red;'>笔记本</label>电脑（I3-5010U 4G 500G GT920M-2G独显 win8或win10随机配送 黑色）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】做工精细，大屏很爽，电池内置，学生家用标配，性价比很高cpu显卡更强兼容，i5-4200u和GTX820 2g独显1T大硬盘。请点击跳转         自营商品全攻略，好本推荐区 ">
+                <!---->
+                【国美自营 售后保证】做工精细，大屏很爽，电池内置，学生家用标配，性价比很高cpu显卡更强兼容，i5-4200u和GTX820 2g独显1T大硬盘。请点击跳转         自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134047265-1123040245.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">69</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="18" pId="9133961549" sId="1122980064" skuNo="100381545" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)A501LB5200 15.6英寸超薄&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-5200 4G内存 500G硬盘 GT940M 2GB独显 无光驱 WIN8 1920*1080P全高清屏 蓝色）" price="4499.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122980064" pid="9133961549">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133961549-1122980064.html"  title="华硕(ASUS)A501LB5200 15.6英寸超薄笔记本电脑（I5-5200 4G内存 500G硬盘 GT940M 2GB独显 无光驱 WIN8 1920*1080P全高清屏 蓝色）【赠礼！国美自营】1920*1080P全高清屏/蓝牙4.0/正版Win8.1系统/2.0KG超轻便，下单送华硕包鼠和鼠标垫15.6英寸爆款，非常适合您 "><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201508/05/1122980064/1000805715_210.jpg" alt="华硕(ASUS)A501LB5200 15.6英寸超薄笔记本电脑（I5-5200 4G内存 500G硬盘 GT940M 2GB独显 无光驱 WIN8 1920*1080P全高清屏 蓝色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥4499.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133961549-1122980064.html" title="华硕(ASUS)A501LB5200 15.6英寸超薄笔记本电脑（I5-5200 4G内存 500G硬盘 GT940M 2GB独显 无光驱 WIN8 1920*1080P全高清屏 蓝色）【赠礼！国美自营】1920*1080P全高清屏/蓝牙4.0/正版Win8.1系统/2.0KG超轻便，下单送华硕包鼠和鼠标垫15.6英寸爆款，非常适合您 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)A501LB5200 15.6英寸超薄<label style='color:red;'>笔记本</label>电脑（I5-5200 4G内存 500G硬盘 GT940M 2GB独显 无光驱 WIN8 1920*1080P全高清屏 蓝色）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】1920*1080P全高清屏/蓝牙4.0/正版Win8.1系统/2.0KG超轻便，下单送华硕包鼠和鼠标垫15.6英寸爆款，非常适合您 ">
+                <!---->
+                【赠礼！国美自营】1920*1080P全高清屏/蓝牙4.0/正版Win8.1系统/2.0KG超轻便，下单送华硕包鼠和鼠标垫15.6英寸爆款，非常适合您 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133961549-1122980064.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">57</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="19" pId="9134181647" sId="1123130121" skuNo="100395619" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)N551VW6700 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I7-6700HQ 8G内存 1T硬盘 GT960M-4G独显 高清屏高转速 WIN10 银色）" price="7788.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123130121" pid="9134181647">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134181647-1123130121.html"  title="华硕(ASUS)N551VW6700 15.6英寸笔记本电脑（I7-6700HQ 8G内存 1T硬盘 GT960M-4G独显 高清屏高转速 WIN10 银色）【赠礼！国美自营】四核i7搭载GTX960M 4G独显 高速硬盘 游戏影音神器，下单送华硕包鼠和鼠标垫超高性价比，超多促销活动产品，超乎您的想象 "><img gome-src="http://img4.gomein.net.cn/image/prodimg/production_image/201512/09/1123130121/1000842677_210.jpg" alt="华硕(ASUS)N551VW6700 15.6英寸笔记本电脑（I7-6700HQ 8G内存 1T硬盘 GT960M-4G独显 高清屏高转速 WIN10 银色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥7788.00</span>
+            <span class="promotion-normal">真划算</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134181647-1123130121.html" title="华硕(ASUS)N551VW6700 15.6英寸笔记本电脑（I7-6700HQ 8G内存 1T硬盘 GT960M-4G独显 高清屏高转速 WIN10 银色）【赠礼！国美自营】四核i7搭载GTX960M 4G独显 高速硬盘 游戏影音神器，下单送华硕包鼠和鼠标垫超高性价比，超多促销活动产品，超乎您的想象 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)N551VW6700 15.6英寸<label style='color:red;'>笔记本</label>电脑（I7-6700HQ 8G内存 1T硬盘 GT960M-4G独显 高清屏高转速 WIN10 银色）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】四核i7搭载GTX960M 4G独显 高速硬盘 游戏影音神器，下单送华硕包鼠和鼠标垫超高性价比，超多促销活动产品，超乎您的想象 ">
+                <!--
+                    【成交价4688元】
+                -->
+                【赠礼！国美自营】四核i7搭载GTX960M 4G独显 高速硬盘 游戏影音神器，下单送华硕包鼠和鼠标垫超高性价比，超多促销活动产品，超乎您的想象 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134181647-1123130121.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">42</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <a href="http://tuan.gome.com.cn/deal/T8800007909.html" target="_blank" class="add-cart emcodeItem" track="产品列表立即抢购">立即疯抢</a>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="20" pId="9133621926" sId="1122410363" skuNo="1000409477" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)F555LJ5200  15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑(i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统 红色)" price="3699.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122410363" pid="9133621926">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133621926-1122410363.html"  title="华硕(ASUS)F555LJ5200  15.6英寸笔记本电脑(i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统 红色)【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子FX飞行堡垒，热血升级，再战游戏江湖。请点击跳转         自营商品全攻略，好本推荐区 "><img gome-src="http://img2.gomein.net.cn/image/prodimg/production_image/201504/03/1122410363/1000765417_210.jpg" alt="华硕(ASUS)F555LJ5200  15.6英寸笔记本电脑(i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统 红色)" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥3699.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133621926-1122410363.html" title="华硕(ASUS)F555LJ5200  15.6英寸笔记本电脑(i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统 红色)【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子FX飞行堡垒，热血升级，再战游戏江湖。请点击跳转         自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)F555LJ5200  15.6英寸<label style='color:red;'>笔记本</label>电脑(i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统 红色)</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子FX飞行堡垒，热血升级，再战游戏江湖。请点击跳转         自营商品全攻略，好本推荐区 ">
+                <!---->
+                【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子FX飞行堡垒，热血升级，再战游戏江湖。请点击跳转         自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133621926-1122410363.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">22</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="21" pId="9134123628" sId="1123080223" skuNo="100393255" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)N551JW4200 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑(I5-4200H 4G 1T GTX960M-2G win8 银色)" price="5899.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123080223" pid="9134123628">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134123628-1123080223.html"  title="华硕(ASUS)N551JW4200 15.6英寸笔记本电脑(I5-4200H 4G 1T GTX960M-2G win8 银色)【赠礼！国美自营】GTX960M闪亮登场，1920高清+高频版i5处理器，令游戏对手胆寒的配置！下单送包和鼠标、鼠标垫同款不同色游戏本，大爆款，欢迎点击 "><img gome-src="http://img2.gomein.net.cn/image/prodimg/production_image/201511/10/1123080223/1000835108_210.jpg" alt="华硕(ASUS)N551JW4200 15.6英寸笔记本电脑(I5-4200H 4G 1T GTX960M-2G win8 银色)" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥5899.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134123628-1123080223.html" title="华硕(ASUS)N551JW4200 15.6英寸笔记本电脑(I5-4200H 4G 1T GTX960M-2G win8 银色)【赠礼！国美自营】GTX960M闪亮登场，1920高清+高频版i5处理器，令游戏对手胆寒的配置！下单送包和鼠标、鼠标垫同款不同色游戏本，大爆款，欢迎点击 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)N551JW4200 15.6英寸<label style='color:red;'>笔记本</label>电脑(I5-4200H 4G 1T GTX960M-2G win8 银色)</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】GTX960M闪亮登场，1920高清+高频版i5处理器，令游戏对手胆寒的配置！下单送包和鼠标、鼠标垫同款不同色游戏本，大爆款，欢迎点击 ">
+                <!---->
+                【赠礼！国美自营】GTX960M闪亮登场，1920高清+高频版i5处理器，令游戏对手胆寒的配置！下单送包和鼠标、鼠标垫同款不同色游戏本，大爆款，欢迎点击 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134123628-1123080223.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">29</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="22" pId="9134181648" sId="1123130120" skuNo="100395620" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)K550JX4200 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（酷睿I5-4200H 4G内存 1T硬盘 GTX950 2G独显 高分屏 WIN10 黑色）" price="4799.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123130120" pid="9134181648">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134181648-1123130120.html"  title="华硕(ASUS)K550JX4200 15.6英寸笔记本电脑（酷睿I5-4200H 4G内存 1T硬盘 GTX950 2G独显 高分屏 WIN10 黑色）【赠礼！国美自营】全新W10系统，GTX950显卡升级，配合高分屏，游戏流程运行，下单送华硕包鼠和鼠标垫高分屏游戏本，15.6英寸笔记本，点进去看看 "><img gome-src="http://img.gomein.net.cn/image/prodimg/production_image/201512/09/1123130120/1000842682_210.jpg" alt="华硕(ASUS)K550JX4200 15.6英寸笔记本电脑（酷睿I5-4200H 4G内存 1T硬盘 GTX950 2G独显 高分屏 WIN10 黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥4799.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134181648-1123130120.html" title="华硕(ASUS)K550JX4200 15.6英寸笔记本电脑（酷睿I5-4200H 4G内存 1T硬盘 GTX950 2G独显 高分屏 WIN10 黑色）【赠礼！国美自营】全新W10系统，GTX950显卡升级，配合高分屏，游戏流程运行，下单送华硕包鼠和鼠标垫高分屏游戏本，15.6英寸笔记本，点进去看看 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)K550JX4200 15.6英寸<label style='color:red;'>笔记本</label>电脑（酷睿I5-4200H 4G内存 1T硬盘 GTX950 2G独显 高分屏 WIN10 黑色）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】全新W10系统，GTX950显卡升级，配合高分屏，游戏流程运行，下单送华硕包鼠和鼠标垫高分屏游戏本，15.6英寸笔记本，点进去看看 ">
+                <!---->
+                【赠礼！国美自营】全新W10系统，GTX950显卡升级，配合高分屏，游戏流程运行，下单送华硕包鼠和鼠标垫高分屏游戏本，15.6英寸笔记本，点进去看看 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134181648-1123130120.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">27</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="23" pId="9134181649" sId="1123130109" skuNo="1000414334" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)E502MA2940 15.6英寸多彩超薄本（四核赛扬N2940 4G内存 500G硬盘 集成显卡 WIN8 蓝黑色）" price="2549.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123130109" pid="9134181649">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134181649-1123130109.html"  title="华硕(ASUS)E502MA2940 15.6英寸多彩超薄本（四核赛扬N2940 4G内存 500G硬盘 集成显卡 WIN8 蓝黑色）【赠礼！国美自营】四核赛扬N2940，15寸笔记本，多彩办公娱乐，分享心动每一刻，下单送华硕包鼠和鼠标垫"><img gome-src="http://img4.gomein.net.cn/image/prodimg/production_image/201512/10/1123130109/1000843144_210.jpg" alt="华硕(ASUS)E502MA2940 15.6英寸多彩超薄本（四核赛扬N2940 4G内存 500G硬盘 集成显卡 WIN8 蓝黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥2549.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134181649-1123130109.html" title="华硕(ASUS)E502MA2940 15.6英寸多彩超薄本（四核赛扬N2940 4G内存 500G硬盘 集成显卡 WIN8 蓝黑色）【赠礼！国美自营】四核赛扬N2940，15寸笔记本，多彩办公娱乐，分享心动每一刻，下单送华硕包鼠和鼠标垫" target="_blank"><label style='color:red;'>华硕</label>(ASUS)E502MA2940 15.6英寸多彩超薄本（四核赛扬N2940 4G内存 500G硬盘 集成显卡 WIN8 蓝黑色）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】四核赛扬N2940，15寸笔记本，多彩办公娱乐，分享心动每一刻，下单送华硕包鼠和鼠标垫">
+                <!---->
+                【赠礼！国美自营】四核赛扬N2940，15寸笔记本，多彩办公娱乐，分享心动每一刻，下单送华硕包鼠和鼠标垫
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134181649-1123130109.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">23</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="24" pId="9134122516" sId="1123080226" skuNo="100393252" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)A751LX5500 17.3英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I7-5500U 4G内存 1T硬盘 2G独显  WIN8 黑色）" price="6199.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123080226" pid="9134122516">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134122516-1123080226.html"  title="华硕(ASUS)A751LX5500 17.3英寸笔记本电脑（I7-5500U 4G内存 1T硬盘 2G独显  WIN8 黑色）【赠礼！国美自营】4G 1TB 1080P全高清 GTX950M 2G独显 17.3英寸大屏，不大不爽不开心，下单送华硕包鼠和鼠标垫17.3英寸高清屏笔记本，请猛击 "><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201511/10/1123080226/1000835102_210.jpg" alt="华硕(ASUS)A751LX5500 17.3英寸笔记本电脑（I7-5500U 4G内存 1T硬盘 2G独显  WIN8 黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥6199.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134122516-1123080226.html" title="华硕(ASUS)A751LX5500 17.3英寸笔记本电脑（I7-5500U 4G内存 1T硬盘 2G独显  WIN8 黑色）【赠礼！国美自营】4G 1TB 1080P全高清 GTX950M 2G独显 17.3英寸大屏，不大不爽不开心，下单送华硕包鼠和鼠标垫17.3英寸高清屏笔记本，请猛击 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)A751LX5500 17.3英寸<label style='color:red;'>笔记本</label>电脑（I7-5500U 4G内存 1T硬盘 2G独显  WIN8 黑色）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】4G 1TB 1080P全高清 GTX950M 2G独显 17.3英寸大屏，不大不爽不开心，下单送华硕包鼠和鼠标垫17.3英寸高清屏笔记本，请猛击 ">
+                <!---->
+                【赠礼！国美自营】4G 1TB 1080P全高清 GTX950M 2G独显 17.3英寸大屏，不大不爽不开心，下单送华硕包鼠和鼠标垫17.3英寸高清屏笔记本，请猛击 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134122516-1123080226.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">21</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="25" pId="9134181652" sId="1123130119" skuNo="100395621" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)V555LB5200 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-5200U 4G内存500G硬盘 GT940M 2G独显 DVD WIN10 青蓝色）" price="4199.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123130119" pid="9134181652">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134181652-1123130119.html"  title="华硕(ASUS)V555LB5200 15.6英寸笔记本电脑（I5-5200U 4G内存500G硬盘 GT940M 2G独显 DVD WIN10 青蓝色）【赠礼！国美自营】华硕V5开山之作 I5-5200U 940M 2G独显 4G 500G机械硬盘，下单送华硕包鼠和鼠标垫不同型号同款配置，总有一款适合您 "><img gome-src="http://img4.gomein.net.cn/image/prodimg/production_image/201512/09/1123130119/1000842687_210.jpg" alt="华硕(ASUS)V555LB5200 15.6英寸笔记本电脑（I5-5200U 4G内存500G硬盘 GT940M 2G独显 DVD WIN10 青蓝色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥4199.00</span>
+            <span class="promotion-normal">真划算</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134181652-1123130119.html" title="华硕(ASUS)V555LB5200 15.6英寸笔记本电脑（I5-5200U 4G内存500G硬盘 GT940M 2G独显 DVD WIN10 青蓝色）【赠礼！国美自营】华硕V5开山之作 I5-5200U 940M 2G独显 4G 500G机械硬盘，下单送华硕包鼠和鼠标垫不同型号同款配置，总有一款适合您 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)V555LB5200 15.6英寸<label style='color:red;'>笔记本</label>电脑（I5-5200U 4G内存500G硬盘 GT940M 2G独显 DVD WIN10 青蓝色）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】华硕V5开山之作 I5-5200U 940M 2G独显 4G 500G机械硬盘，下单送华硕包鼠和鼠标垫不同型号同款配置，总有一款适合您 ">
+                <!--
+                    【成交价4099元】
+                -->
+                【赠礼！国美自营】华硕V5开山之作 I5-5200U 940M 2G独显 4G 500G机械硬盘，下单送华硕包鼠和鼠标垫不同型号同款配置，总有一款适合您 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134181652-1123130119.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">61</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <a href="http://tuan.gome.com.cn/deal/T8800007914.html" target="_blank" class="add-cart emcodeItem" track="产品列表立即抢购">立即疯抢</a>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="26" pId="9134064710" sId="1123040483" skuNo="1000414202" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）FX50J4200 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-4200H 4G内存 GTX950独显2G 1TB 1920*1080 黑 Win10或Win8版随机配送）" price="4649.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123040483" pid="9134064710">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134064710-1123040483.html"  title="华硕（ASUS）FX50J4200 15.6英寸笔记本电脑（I5-4200H 4G内存 GTX950独显2G 1TB 1920*1080 黑 Win10或Win8版随机配送）"><img gome-src="http://img2.gomein.net.cn/image/prodimg/production_image/201510/21/1123040483/1000827515_210.jpg" alt="华硕（ASUS）FX50J4200 15.6英寸笔记本电脑（I5-4200H 4G内存 GTX950独显2G 1TB 1920*1080 黑 Win10或Win8版随机配送）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥4649.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134064710-1123040483.html" title="华硕（ASUS）FX50J4200 15.6英寸笔记本电脑（I5-4200H 4G内存 GTX950独显2G 1TB 1920*1080 黑 Win10或Win8版随机配送）" target="_blank"><label style='color:red;'>华硕</label>（ASUS）FX50J4200 15.6英寸<label style='color:red;'>笔记本</label>电脑（I5-4200H 4G内存 GTX950独显2G 1TB 1920*1080 黑 Win10或Win8版随机配送）</a></p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134064710-1123040483.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">41</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="27" pId="9134032719" sId="1123030324" skuNo="100384132" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）ZX50JX4200 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-4200H 4G内存 1TB GTX950 2G 1920*1080 WIN8 黑）" price="5099.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123030324" pid="9134032719">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134032719-1123030324.html"  title="华硕（ASUS）ZX50JX4200 15.6英寸笔记本电脑（I5-4200H 4G内存 1TB GTX950 2G 1920*1080 WIN8 黑）"><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201509/08/1123030324/1000812922_210.jpg" alt="华硕（ASUS）ZX50JX4200 15.6英寸笔记本电脑（I5-4200H 4G内存 1TB GTX950 2G 1920*1080 WIN8 黑）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥5099.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134032719-1123030324.html" title="华硕（ASUS）ZX50JX4200 15.6英寸笔记本电脑（I5-4200H 4G内存 1TB GTX950 2G 1920*1080 WIN8 黑）" target="_blank"><label style='color:red;'>华硕</label>（ASUS）ZX50JX4200 15.6英寸<label style='color:red;'>笔记本</label>电脑（I5-4200H 4G内存 1TB GTX950 2G 1920*1080 WIN8 黑）</a></p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134032719-1123030324.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">27</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="28" pId="9134181653" sId="1123130107" skuNo="1000414336" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS) ZENBOOK U303UB6200 13.3英寸高清屏超级本电脑（I5-6200U 4G内存 500G硬盘 GT940M 2G独显 1080P WIN10  玫瑰金）" price="5399.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123130107" pid="9134181653">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134181653-1123130107.html"  title="华硕(ASUS) ZENBOOK U303UB6200 13.3英寸高清屏超级本电脑（I5-6200U 4G内存 500G硬盘 GT940M 2G独显 1080P WIN10  玫瑰金）【赠礼！国美自营】ZENBOOK 家族力作 U303UB6200,超级本中的机皇 Intel第六代酷睿i5搭载Nvidia GT940M 2G高端独显 ,全高清屏幕，下单送华硕包鼠和鼠标垫U系列机器，超极本，还等什么，赶快点击吧 "><img gome-src="http://img2.gomein.net.cn/image/prodimg/production_image/201512/23/1123130107/1000847553_210.jpg" alt="华硕(ASUS) ZENBOOK U303UB6200 13.3英寸高清屏超级本电脑（I5-6200U 4G内存 500G硬盘 GT940M 2G独显 1080P WIN10  玫瑰金）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥5399.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134181653-1123130107.html" title="华硕(ASUS) ZENBOOK U303UB6200 13.3英寸高清屏超级本电脑（I5-6200U 4G内存 500G硬盘 GT940M 2G独显 1080P WIN10  玫瑰金）【赠礼！国美自营】ZENBOOK 家族力作 U303UB6200,超级本中的机皇 Intel第六代酷睿i5搭载Nvidia GT940M 2G高端独显 ,全高清屏幕，下单送华硕包鼠和鼠标垫U系列机器，超极本，还等什么，赶快点击吧 " target="_blank"><label style='color:red;'>华硕</label>(ASUS) ZENBOOK U303UB6200 13.3英寸高清屏超级本电脑（I5-6200U 4G内存 500G硬盘 GT940M 2G独显 1080P WIN10  玫瑰金）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】ZENBOOK 家族力作 U303UB6200,超级本中的机皇 Intel第六代酷睿i5搭载Nvidia GT940M 2G高端独显 ,全高清屏幕，下单送华硕包鼠和鼠标垫U系列机器，超极本，还等什么，赶快点击吧 ">
+                <!---->
+                【赠礼！国美自营】ZENBOOK 家族力作 U303UB6200,超级本中的机皇 Intel第六代酷睿i5搭载Nvidia GT940M 2G高端独显 ,全高清屏幕，下单送华硕包鼠和鼠标垫U系列机器，超极本，还等什么，赶快点击吧 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134181653-1123130107.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">30</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="29" pId="9133621916" sId="1122410366" skuNo="1000409474" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)F455LJ5200  14英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  红色）" price="3849.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122410366" pid="9133621916">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133621916-1122410366.html"  title="华硕(ASUS)F455LJ5200  14英寸笔记本电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  红色）【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子双卡双待，支持语音3G通话，高清屏幕。请点击跳转         自营商品全攻略，好本推荐区 "><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201504/03/1122410366/1000765367_210.jpg" alt="华硕(ASUS)F455LJ5200  14英寸笔记本电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  红色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥3849.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133621916-1122410366.html" title="华硕(ASUS)F455LJ5200  14英寸笔记本电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  红色）【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子双卡双待，支持语音3G通话，高清屏幕。请点击跳转         自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)F455LJ5200  14英寸<label style='color:red;'>笔记本</label>电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  红色）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子双卡双待，支持语音3G通话，高清屏幕。请点击跳转         自营商品全攻略，好本推荐区 ">
+                <!---->
+                【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子双卡双待，支持语音3G通话，高清屏幕。请点击跳转         自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133621916-1122410366.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">26</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="30" pId="9133621945" sId="1122410358" skuNo="1000409482" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)X554LP4030  15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）" price="2999.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122410358" pid="9133621945">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133621945-1122410358.html"  title="华硕(ASUS)X554LP4030  15.6英寸笔记本电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）【国美自营 售后保证】做工精细，大屏很爽，电池内置，学生家用标配，性价比很高小编力荐I5处理器2G独显本，请点击跳转         自营商品全攻略，好本推荐区 "><img gome-src="http://img3.gomein.net.cn/image/prodimg/production_image/201504/03/1122410358/1000765381_210.jpg" alt="华硕(ASUS)X554LP4030  15.6英寸笔记本电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥2999.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133621945-1122410358.html" title="华硕(ASUS)X554LP4030  15.6英寸笔记本电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）【国美自营 售后保证】做工精细，大屏很爽，电池内置，学生家用标配，性价比很高小编力荐I5处理器2G独显本，请点击跳转         自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)X554LP4030  15.6英寸<label style='color:red;'>笔记本</label>电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】做工精细，大屏很爽，电池内置，学生家用标配，性价比很高小编力荐I5处理器2G独显本，请点击跳转         自营商品全攻略，好本推荐区 ">
+                <!---->
+                【国美自营 售后保证】做工精细，大屏很爽，电池内置，学生家用标配，性价比很高小编力荐I5处理器2G独显本，请点击跳转         自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133621945-1122410358.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">33</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="31" pId="9133621938" sId="1122410360" skuNo="1000409480" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)F555LJ5200  15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统 黄色）" price="3649.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122410360" pid="9133621938">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133621938-1122410360.html"  title="华硕(ASUS)F555LJ5200  15.6英寸笔记本电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统 黄色）【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 "><img gome-src="http://img.gomein.net.cn/image/prodimg/production_image/201504/03/1122410360/1000765454_210.jpg" alt="华硕(ASUS)F555LJ5200  15.6英寸笔记本电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统 黄色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥3649.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133621938-1122410360.html" title="华硕(ASUS)F555LJ5200  15.6英寸笔记本电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统 黄色）【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)F555LJ5200  15.6英寸<label style='color:red;'>笔记本</label>电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统 黄色）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 ">
+                <!---->
+                【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133621938-1122410360.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">22</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="32" pId="9133531311" sId="1122340216" skuNo="1000407904" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）W508MD3540-554LSF52XC0  15.6英寸（Intel N3540 4G 500G  2G独显  珍珠白）" price="2899.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122340216" pid="9133531311">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133531311-1122340216.html"  title="华硕（ASUS）W508MD3540-554LSF52XC0  15.6英寸（Intel N3540 4G 500G  2G独显  珍珠白）【国美自营 售后保证】散热好，可玩3D游戏，笔记本外观和运行速度都可以，建议购买后自行更换WIN10或WIN7系统FX飞行堡垒，热血升级，再战游戏江湖。请点击跳转         自营商品全攻略，好本推荐区 "><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201503/18/1122340216/1000756519_210.jpg" alt="华硕（ASUS）W508MD3540-554LSF52XC0  15.6英寸（Intel N3540 4G 500G  2G独显  珍珠白）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥2899.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133531311-1122340216.html" title="华硕（ASUS）W508MD3540-554LSF52XC0  15.6英寸（Intel N3540 4G 500G  2G独显  珍珠白）【国美自营 售后保证】散热好，可玩3D游戏，笔记本外观和运行速度都可以，建议购买后自行更换WIN10或WIN7系统FX飞行堡垒，热血升级，再战游戏江湖。请点击跳转         自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label>（ASUS）W508MD3540-554LSF52XC0  15.6英寸（Intel N3540 4G 500G  2G独显  珍珠白）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】散热好，可玩3D游戏，笔记本外观和运行速度都可以，建议购买后自行更换WIN10或WIN7系统FX飞行堡垒，热血升级，再战游戏江湖。请点击跳转         自营商品全攻略，好本推荐区 ">
+                <!---->
+                【国美自营 售后保证】散热好，可玩3D游戏，笔记本外观和运行速度都可以，建议购买后自行更换WIN10或WIN7系统FX飞行堡垒，热血升级，再战游戏江湖。请点击跳转         自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133531311-1122340216.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">20</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="33" pId="9134032700" sId="1123030367" skuNo="100384084" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）V505LX5200 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-5200U 4G内存 500G GTX950 2G  1920*1080 藏蓝）" price="4799.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123030367" pid="9134032700">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134032700-1123030367.html"  title="华硕（ASUS）V505LX5200 15.6英寸笔记本电脑（I5-5200U 4G内存 500G GTX950 2G  1920*1080 藏蓝）"><img gome-src="http://img2.gomein.net.cn/image/prodimg/production_image/201509/08/1123030367/1000812786_210.jpg" alt="华硕（ASUS）V505LX5200 15.6英寸笔记本电脑（I5-5200U 4G内存 500G GTX950 2G  1920*1080 藏蓝）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥4799.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134032700-1123030367.html" title="华硕（ASUS）V505LX5200 15.6英寸笔记本电脑（I5-5200U 4G内存 500G GTX950 2G  1920*1080 藏蓝）" target="_blank"><label style='color:red;'>华硕</label>（ASUS）V505LX5200 15.6英寸<label style='color:red;'>笔记本</label>电脑（I5-5200U 4G内存 500G GTX950 2G  1920*1080 藏蓝）</a></p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134032700-1123030367.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">12</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="34" pId="9134181654" sId="1123130106" skuNo="1000414337" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)E202SA3050 11.6英寸思聪&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（赛扬N3050双核 4G内存 500G硬盘 集显 WIN10 白色）" price="2249.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123130106" pid="9134181654">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134181654-1123130106.html"  title="华硕(ASUS)E202SA3050 11.6英寸思聪笔记本电脑（赛扬N3050双核 4G内存 500G硬盘 集显 WIN10 白色）【赠礼！国美自营】新款华硕思聪本X205升级版E202SA3050惊艳上市啦！下单送内胆包和鼠标同款机器不同颜色，总有一款适合您 "><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201512/09/1123130106/1000842616_210.jpg" alt="华硕(ASUS)E202SA3050 11.6英寸思聪笔记本电脑（赛扬N3050双核 4G内存 500G硬盘 集显 WIN10 白色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥2249.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134181654-1123130106.html" title="华硕(ASUS)E202SA3050 11.6英寸思聪笔记本电脑（赛扬N3050双核 4G内存 500G硬盘 集显 WIN10 白色）【赠礼！国美自营】新款华硕思聪本X205升级版E202SA3050惊艳上市啦！下单送内胆包和鼠标同款机器不同颜色，总有一款适合您 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)E202SA3050 11.6英寸思聪<label style='color:red;'>笔记本</label>电脑（赛扬N3050双核 4G内存 500G硬盘 集显 WIN10 白色）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】新款华硕思聪本X205升级版E202SA3050惊艳上市啦！下单送内胆包和鼠标同款机器不同颜色，总有一款适合您 ">
+                <!---->
+                【赠礼！国美自营】新款华硕思聪本X205升级版E202SA3050惊艳上市啦！下单送内胆包和鼠标同款机器不同颜色，总有一款适合您 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134181654-1123130106.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">27</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="35" pId="9133621920" sId="1122410365" skuNo="1000409475" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)F455LJ5200  14英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  蓝色）" price="3849.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122410365" pid="9133621920">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133621920-1122410365.html"  title="华硕(ASUS)F455LJ5200  14英寸笔记本电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  蓝色）【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 "><img gome-src="http://img.gomein.net.cn/image/prodimg/production_image/201504/21/1122410365/1000771911_210.jpg" alt="华硕(ASUS)F455LJ5200  14英寸笔记本电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  蓝色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥3849.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133621920-1122410365.html" title="华硕(ASUS)F455LJ5200  14英寸笔记本电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  蓝色）【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)F455LJ5200  14英寸<label style='color:red;'>笔记本</label>电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  蓝色）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 ">
+                <!---->
+                【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133621920-1122410365.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">20</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="36" pId="9133621923" sId="1122410364" skuNo="1000409476" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)F455LJ5200  14英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  黄色）" price="3549.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122410364" pid="9133621923">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133621923-1122410364.html"  title="华硕(ASUS)F455LJ5200  14英寸笔记本电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  黄色）【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子cpu显卡更强兼容，i5-4200u和GTX820 2g独显1T大硬盘。请点击跳转         自营商品全攻略，好本推荐区 "><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201504/03/1122410364/1000765403_210.jpg" alt="华硕(ASUS)F455LJ5200  14英寸笔记本电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  黄色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥3549.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133621923-1122410364.html" title="华硕(ASUS)F455LJ5200  14英寸笔记本电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  黄色）【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子cpu显卡更强兼容，i5-4200u和GTX820 2g独显1T大硬盘。请点击跳转         自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)F455LJ5200  14英寸<label style='color:red;'>笔记本</label>电脑（i5-5200U 4GB内存 500G硬盘 2GB显卡 win8系统  黄色）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子cpu显卡更强兼容，i5-4200u和GTX820 2g独显1T大硬盘。请点击跳转         自营商品全攻略，好本推荐区 ">
+                <!---->
+                【国美自营 售后保证】LOL之类的完全没有问题，非常轻巧，是个高性价比的机子，适合学生族用，如果想要在这个价格享受贵宾的待遇那就转向别处，起码瞄瞄4300以上的本子cpu显卡更强兼容，i5-4200u和GTX820 2g独显1T大硬盘。请点击跳转         自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133621923-1122410364.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">16</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="37" pId="9133113360" sId="1122050246" skuNo="1000402517" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS）TP500LN4510 360度旋转触控本 I7-4510U 1TB硬盘 4G内存 2G独显 WIN8 黑色(下单即送包鼠)" price="5599.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122050246" pid="9133113360">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133113360-1122050246.html"  title="华硕(ASUS）TP500LN4510 360度旋转触控本 I7-4510U 1TB硬盘 4G内存 2G独显 WIN8 黑色(下单即送包鼠)【赠礼！国美自营】华硕全高清360度旋转触摸屏笔记本，外观配置均高大上，倍有面!下单送包和鼠标、鼠标垫 笔记本电脑二合一高清PC超极本，请猛戳 "><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201410/17/1122050246/1000698513_210.jpg" alt="华硕(ASUS）TP500LN4510 360度旋转触控本 I7-4510U 1TB硬盘 4G内存 2G独显 WIN8 黑色(下单即送包鼠)" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥5599.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133113360-1122050246.html" title="华硕(ASUS）TP500LN4510 360度旋转触控本 I7-4510U 1TB硬盘 4G内存 2G独显 WIN8 黑色(下单即送包鼠)【赠礼！国美自营】华硕全高清360度旋转触摸屏笔记本，外观配置均高大上，倍有面!下单送包和鼠标、鼠标垫 笔记本电脑二合一高清PC超极本，请猛戳 " target="_blank"><label style='color:red;'>华硕</label>(ASUS）TP500LN4510 360度旋转触控本 I7-4510U 1TB硬盘 4G内存 2G独显 WIN8 黑色(下单即送包鼠)</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】华硕全高清360度旋转触摸屏笔记本，外观配置均高大上，倍有面!下单送包和鼠标、鼠标垫 笔记本电脑二合一高清PC超极本，请猛戳 ">
+                <!---->
+                【赠礼！国美自营】华硕全高清360度旋转触摸屏笔记本，外观配置均高大上，倍有面!下单送包和鼠标、鼠标垫 笔记本电脑二合一高清PC超极本，请猛戳 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133113360-1122050246.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">764</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="38" pId="9134182597" sId="1123130339" skuNo="100396541" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)Zenpad 10(Z300C) 白色平板电脑（ZenPad 10 2G内存 16G容量 WIFI 双摄像头 蓝牙4.0 Android 10.1英寸）" price="1299.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123130339" pid="9134182597">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134182597-1123130339.html"  title="华硕(ASUS)Zenpad 10(Z300C) 白色平板电脑（ZenPad 10 2G内存 16G容量 WIFI 双摄像头 蓝牙4.0 Android 10.1英寸）【赠礼！国美自营】四核处理器搭载强悍GPU 2G运行内存 16G存储 8小时续航 支持GPS 蓝牙。下单即送时尚商务皮套、高清屏幕膜和入耳式耳机 多款通话平板点进去看看 "><img gome-src="http://img4.gomein.net.cn/image/prodimg/production_image/201512/11/1123130339/1000844815_210.jpg" alt="华硕(ASUS)Zenpad 10(Z300C) 白色平板电脑（ZenPad 10 2G内存 16G容量 WIFI 双摄像头 蓝牙4.0 Android 10.1英寸）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥1299.00</span>
+            <span class="promotion-normal">真划算</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134182597-1123130339.html" title="华硕(ASUS)Zenpad 10(Z300C) 白色平板电脑（ZenPad 10 2G内存 16G容量 WIFI 双摄像头 蓝牙4.0 Android 10.1英寸）【赠礼！国美自营】四核处理器搭载强悍GPU 2G运行内存 16G存储 8小时续航 支持GPS 蓝牙。下单即送时尚商务皮套、高清屏幕膜和入耳式耳机 多款通话平板点进去看看 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)Zenpad 10(Z300C) 白色平板电脑（ZenPad 10 2G内存 16G容量 WIFI 双摄像头 蓝牙4.0 Android 10.1英寸）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】四核处理器搭载强悍GPU 2G运行内存 16G存储 8小时续航 支持GPS 蓝牙。下单即送时尚商务皮套、高清屏幕膜和入耳式耳机 多款通话平板点进去看看 ">
+                <!--
+                    【成交价1288元】
+                -->
+                【赠礼！国美自营】四核处理器搭载强悍GPU 2G运行内存 16G存储 8小时续航 支持GPS 蓝牙。下单即送时尚商务皮套、高清屏幕膜和入耳式耳机 多款通话平板点进去看看 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134182597-1123130339.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">26</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <a href="http://tuan.gome.com.cn/deal/T8800007910.html" target="_blank" class="add-cart emcodeItem" track="产品列表立即抢购">立即疯抢</a>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="39" pId="9134080905" sId="1123060053" skuNo="1000414251" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)X550ZE7600 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（AMD四核 FX7600P 500G硬盘 4G内存 R7+2G独显 WIN8 黑色）" price="3799.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123060053" pid="9134080905">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134080905-1123060053.html"  title="华硕(ASUS)X550ZE7600 15.6英寸笔记本电脑（AMD四核 FX7600P 500G硬盘 4G内存 R7+2G独显 WIN8 黑色）【赠礼！国美自营】影音游戏震撼 APU FX-7600P 四核2.7GHZ睿频3.6GHZ,2G独显 4G内存,500GB硬盘 DVD刻录光驱,游戏本R5+R7双显卡，内置摄像头 15.6寸镜面大屏 正版WIN8.1系统 高端大气上档次 低调奢华有内涵，下单送包和鼠标、鼠标垫15英寸笔记本，实惠之选不容错过! "><img gome-src="http://img2.gomein.net.cn/image/prodimg/production_image/201510/22/1123060053/1000828009_210.jpg" alt="华硕(ASUS)X550ZE7600 15.6英寸笔记本电脑（AMD四核 FX7600P 500G硬盘 4G内存 R7+2G独显 WIN8 黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥3799.00</span>
+            <span class="promotion-normal">真划算</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134080905-1123060053.html" title="华硕(ASUS)X550ZE7600 15.6英寸笔记本电脑（AMD四核 FX7600P 500G硬盘 4G内存 R7+2G独显 WIN8 黑色）【赠礼！国美自营】影音游戏震撼 APU FX-7600P 四核2.7GHZ睿频3.6GHZ,2G独显 4G内存,500GB硬盘 DVD刻录光驱,游戏本R5+R7双显卡，内置摄像头 15.6寸镜面大屏 正版WIN8.1系统 高端大气上档次 低调奢华有内涵，下单送包和鼠标、鼠标垫15英寸笔记本，实惠之选不容错过! " target="_blank"><label style='color:red;'>华硕</label>(ASUS)X550ZE7600 15.6英寸<label style='color:red;'>笔记本</label>电脑（AMD四核 FX7600P 500G硬盘 4G内存 R7+2G独显 WIN8 黑色）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】影音游戏震撼 APU FX-7600P 四核2.7GHZ睿频3.6GHZ,2G独显 4G内存,500GB硬盘 DVD刻录光驱,游戏本R5+R7双显卡，内置摄像头 15.6寸镜面大屏 正版WIN8.1系统 高端大气上档次 低调奢华有内涵，下单送包和鼠标、鼠标垫15英寸笔记本，实惠之选不容错过! ">
+                <!--
+                    【成交价3649元】
+                -->
+                【赠礼！国美自营】影音游戏震撼 APU FX-7600P 四核2.7GHZ睿频3.6GHZ,2G独显 4G内存,500GB硬盘 DVD刻录光驱,游戏本R5+R7双显卡，内置摄像头 15.6寸镜面大屏 正版WIN8.1系统 高端大气上档次 低调奢华有内涵，下单送包和鼠标、鼠标垫15英寸笔记本，实惠之选不容错过! 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134080905-1123060053.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">26</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <a href="http://tuan.gome.com.cn/deal/T8800008937.html" target="_blank" class="add-cart emcodeItem" track="产品列表立即抢购">立即疯抢</a>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="40" pId="9134117966" sId="1123080486" skuNo="100393351" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑F454LJ4005-554MXFA2X10（I3-4005U  4G  500G  2G独显 黑色）" price="2749.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123080486" pid="9134117966">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134117966-1123080486.html"  title="华硕笔记本电脑F454LJ4005-554MXFA2X10（I3-4005U  4G  500G  2G独显 黑色）【国美自营 售后保证】开机关机速度快，图文处理功能强，娱乐办公轻松玩转！双卡双待，支持语音3G通话，高清屏幕。请点击跳转         自营商品全攻略，好本推荐区 "><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201512/09/1123080486/1000842644_210.jpg" alt="华硕笔记本电脑F454LJ4005-554MXFA2X10（I3-4005U  4G  500G  2G独显 黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥2749.00</span>
+            <span class="promotion-normal">真划算</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134117966-1123080486.html" title="华硕笔记本电脑F454LJ4005-554MXFA2X10（I3-4005U  4G  500G  2G独显 黑色）【国美自营 售后保证】开机关机速度快，图文处理功能强，娱乐办公轻松玩转！双卡双待，支持语音3G通话，高清屏幕。请点击跳转         自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label><label style='color:red;'>笔记本</label>电脑F454LJ4005-554MXFA2X10（I3-4005U  4G  500G  2G独显 黑色）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】开机关机速度快，图文处理功能强，娱乐办公轻松玩转！双卡双待，支持语音3G通话，高清屏幕。请点击跳转         自营商品全攻略，好本推荐区 ">
+                <!--
+                    【成交价2739元】
+                -->
+                【国美自营 售后保证】开机关机速度快，图文处理功能强，娱乐办公轻松玩转！双卡双待，支持语音3G通话，高清屏幕。请点击跳转         自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134117966-1123080486.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">26</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <a href="http://tuan.gome.com.cn/deal/T8800007903.html" target="_blank" class="add-cart emcodeItem" track="产品列表立即抢购">立即疯抢</a>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="41" pId="9133621946" sId="1122410357" skuNo="1000409483" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)F554LP4030  15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）" price="2699.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122410357" pid="9133621946">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133621946-1122410357.html"  title="华硕(ASUS)F554LP4030  15.6英寸笔记本电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）【国美自营 售后保证】智能手势技术的大面积触控板，搭配独家Ice Cool酷凉散热技术，保障全天候清凉操控体验开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 "><img gome-src="http://img2.gomein.net.cn/image/prodimg/production_image/201505/15/1122410357/1000782732_210.jpg" alt="华硕(ASUS)F554LP4030  15.6英寸笔记本电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥2699.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133621946-1122410357.html" title="华硕(ASUS)F554LP4030  15.6英寸笔记本电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）【国美自营 售后保证】智能手势技术的大面积触控板，搭配独家Ice Cool酷凉散热技术，保障全天候清凉操控体验开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)F554LP4030  15.6英寸<label style='color:red;'>笔记本</label>电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】智能手势技术的大面积触控板，搭配独家Ice Cool酷凉散热技术，保障全天候清凉操控体验开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 ">
+                <!---->
+                【国美自营 售后保证】智能手势技术的大面积触控板，搭配独家Ice Cool酷凉散热技术，保障全天候清凉操控体验开机关机速度快，图文处理功能更强。请点击跳转         自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133621946-1122410357.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">48</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="42" pId="9133621943" sId="1122410359" skuNo="1000409481" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUSX454LD4030  14英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）" price="2699.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1122410359" pid="9133621943">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9133621943-1122410359.html"  title="华硕(ASUSX454LD4030  14英寸笔记本电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）【国美自营 售后保证】做工精细，大屏很爽，电池内置，学生家用标配，性价比很高cpu显卡更强兼容，i5-4200u和GTX820 2g独显1T大硬盘。请点击跳转         自营商品全攻略，好本推荐区 "><img gome-src="http://img4.gomein.net.cn/image/prodimg/production_image/201509/14/1122410359/1000814534_210.jpg" alt="华硕(ASUSX454LD4030  14英寸笔记本电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥2699.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9133621943-1122410359.html" title="华硕(ASUSX454LD4030  14英寸笔记本电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）【国美自营 售后保证】做工精细，大屏很爽，电池内置，学生家用标配，性价比很高cpu显卡更强兼容，i5-4200u和GTX820 2g独显1T大硬盘。请点击跳转         自营商品全攻略，好本推荐区 " target="_blank"><label style='color:red;'>华硕</label>(ASUSX454LD4030  14英寸<label style='color:red;'>笔记本</label>电脑（i3-4030U 4GB内存 500G硬盘 2GB显卡 win8系统 黑色）</a></p>
+            <p class="item-promotional-language" title="【国美自营 售后保证】做工精细，大屏很爽，电池内置，学生家用标配，性价比很高cpu显卡更强兼容，i5-4200u和GTX820 2g独显1T大硬盘。请点击跳转         自营商品全攻略，好本推荐区 ">
+                <!---->
+                【国美自营 售后保证】做工精细，大屏很爽，电池内置，学生家用标配，性价比很高cpu显卡更强兼容，i5-4200u和GTX820 2g独显1T大硬盘。请点击跳转         自营商品全攻略，好本推荐区 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9133621943-1122410359.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">34</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="43" pId="9134002905" sId="1123010070" skuNo="100382877" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)ZX50JX4720 15.6英寸高清屏游戏本（I7-4720H 8G内存 1TB硬盘 GT950M-2G 独显 win8系统  黑色）" price="6199.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123010070" pid="9134002905">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134002905-1123010070.html"  title="华硕(ASUS)ZX50JX4720 15.6英寸高清屏游戏本（I7-4720H 8G内存 1TB硬盘 GT950M-2G 独显 win8系统  黑色）【赠礼！国美自营】全高清雾面屏1920*1080的分辨率 ，第四代酷睿四核I7-4720HQ 红黑色背光键盘 双铜质散热导管模块+高密度超大涡轮风扇，下单送华硕包鼠和鼠标垫暗夜版游戏机，价格优惠，详情请点击 "><img gome-src="http://img.gomein.net.cn/image/prodimg/production_image/201508/24/1123010070/1000808493_210.jpg" alt="华硕(ASUS)ZX50JX4720 15.6英寸高清屏游戏本（I7-4720H 8G内存 1TB硬盘 GT950M-2G 独显 win8系统  黑色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥6199.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134002905-1123010070.html" title="华硕(ASUS)ZX50JX4720 15.6英寸高清屏游戏本（I7-4720H 8G内存 1TB硬盘 GT950M-2G 独显 win8系统  黑色）【赠礼！国美自营】全高清雾面屏1920*1080的分辨率 ，第四代酷睿四核I7-4720HQ 红黑色背光键盘 双铜质散热导管模块+高密度超大涡轮风扇，下单送华硕包鼠和鼠标垫暗夜版游戏机，价格优惠，详情请点击 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)ZX50JX4720 15.6英寸高清屏游戏本（I7-4720H 8G内存 1TB硬盘 GT950M-2G 独显 win8系统  黑色）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】全高清雾面屏1920*1080的分辨率 ，第四代酷睿四核I7-4720HQ 红黑色背光键盘 双铜质散热导管模块+高密度超大涡轮风扇，下单送华硕包鼠和鼠标垫暗夜版游戏机，价格优惠，详情请点击 ">
+                <!---->
+                【赠礼！国美自营】全高清雾面屏1920*1080的分辨率 ，第四代酷睿四核I7-4720HQ 红黑色背光键盘 双铜质散热导管模块+高密度超大涡轮风扇，下单送华硕包鼠和鼠标垫暗夜版游戏机，价格优惠，详情请点击 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134002905-1123010070.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">26</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="44" pId="9134064380" sId="1123040474" skuNo="1000414195" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）F555LJ5200 15.6英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-5200U 4G内存 500G GT920M独显2G WIN8.1 1366*768 蓝）" price="3599.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123040474" pid="9134064380">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134064380-1123040474.html"  title="华硕（ASUS）F555LJ5200 15.6英寸笔记本电脑（I5-5200U 4G内存 500G GT920M独显2G WIN8.1 1366*768 蓝）"><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201510/21/1123040474/1000827644_210.jpg" alt="华硕（ASUS）F555LJ5200 15.6英寸笔记本电脑（I5-5200U 4G内存 500G GT920M独显2G WIN8.1 1366*768 蓝）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥3599.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134064380-1123040474.html" title="华硕（ASUS）F555LJ5200 15.6英寸笔记本电脑（I5-5200U 4G内存 500G GT920M独显2G WIN8.1 1366*768 蓝）" target="_blank"><label style='color:red;'>华硕</label>（ASUS）F555LJ5200 15.6英寸<label style='color:red;'>笔记本</label>电脑（I5-5200U 4G内存 500G GT920M独显2G WIN8.1 1366*768 蓝）</a></p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134064380-1123040474.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">7</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="45" pId="9134181656" sId="1123130105" skuNo="1000414338" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;(ASUS)E202SA3050 11.6英寸思聪&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（赛扬N3050双核 4G内存 500G硬盘 集显 WIN10 红色）" price="2249.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123130105" pid="9134181656">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134181656-1123130105.html"  title="华硕(ASUS)E202SA3050 11.6英寸思聪笔记本电脑（赛扬N3050双核 4G内存 500G硬盘 集显 WIN10 红色）【赠礼！国美自营】新款华硕思聪本X205升级版E202SA3050惊艳上市啦！下单送内胆包和鼠标同款机器不同颜色，总有一款适合您 "><img gome-src="http://img.gomein.net.cn/image/prodimg/production_image/201512/09/1123130105/1000842627_210.jpg" alt="华硕(ASUS)E202SA3050 11.6英寸思聪笔记本电脑（赛扬N3050双核 4G内存 500G硬盘 集显 WIN10 红色）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥2249.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134181656-1123130105.html" title="华硕(ASUS)E202SA3050 11.6英寸思聪笔记本电脑（赛扬N3050双核 4G内存 500G硬盘 集显 WIN10 红色）【赠礼！国美自营】新款华硕思聪本X205升级版E202SA3050惊艳上市啦！下单送内胆包和鼠标同款机器不同颜色，总有一款适合您 " target="_blank"><label style='color:red;'>华硕</label>(ASUS)E202SA3050 11.6英寸思聪<label style='color:red;'>笔记本</label>电脑（赛扬N3050双核 4G内存 500G硬盘 集显 WIN10 红色）</a></p>
+            <p class="item-promotional-language" title="【赠礼！国美自营】新款华硕思聪本X205升级版E202SA3050惊艳上市啦！下单送内胆包和鼠标同款机器不同颜色，总有一款适合您 ">
+                <!---->
+                【赠礼！国美自营】新款华硕思聪本X205升级版E202SA3050惊艳上市啦！下单送内胆包和鼠标同款机器不同颜色，总有一款适合您 
+            </p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134181656-1123130105.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">23</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="46" pId="9134220143" sId="1123170091" skuNo="1000414407" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）U303UB6200 13.3英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-6200U 4G内存 500G GT940M 2G WIN10 1920*1080 玫瑰金）" price="5399.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123170091" pid="9134220143">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134220143-1123170091.html"  title="华硕（ASUS）U303UB6200 13.3英寸笔记本电脑（I5-6200U 4G内存 500G GT940M 2G WIN10 1920*1080 玫瑰金）"><img gome-src="http://img4.gomein.net.cn/image/prodimg/production_image/201601/11/1123170091/1000851011_210.jpg" alt="华硕（ASUS）U303UB6200 13.3英寸笔记本电脑（I5-6200U 4G内存 500G GT940M 2G WIN10 1920*1080 玫瑰金）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price item-price-smart">
+            <span class="price">¥5399.00</span>
+            <div class="item-smart">
+                <div class="item-smart-hd">比价</div>
+                <ul class="item-smart-bd">
+                    <li class="fds">比苏宁低<b>167</b>元<a target="_blank" class="help-link" href="http://help.gome.com.cn/question/71.html">?</a></li>
+                    <li>苏宁价：¥5566</li>
+                    <li>比价时间：2016-05-03 22:07:07</li>
+                </ul>
+            </div>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134220143-1123170091.html" title="华硕（ASUS）U303UB6200 13.3英寸笔记本电脑（I5-6200U 4G内存 500G GT940M 2G WIN10 1920*1080 玫瑰金）" target="_blank"><label style='color:red;'>华硕</label>（ASUS）U303UB6200 13.3英寸<label style='color:red;'>笔记本</label>电脑（I5-6200U 4G内存 500G GT940M 2G WIN10 1920*1080 玫瑰金）</a></p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134220143-1123170091.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">0</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+    <li class="product-item" >
+    <input class="productInfo" type="hidden" gomeert="false" prd-index="47" pId="9134220148" sId="1123170026" skuNo="100398655" pName="&lt;label style=&#39;color:red;&#39;&gt;华硕&lt;/label&gt;（ASUS）V455LB5200 14英寸&lt;label style=&#39;color:red;&#39;&gt;笔记本&lt;/label&gt;电脑（I5-5200U 4G内存 500G GT940M 2G WIN10 蓝）" price="4199.00" saleCount="0" marketTag="0"/>
+    <ul class="arbitrage clearfix ">
+    </ul>
+    <div class="item-tab-warp" sid="1123170026" pid="9134220148">
+            <p class="item-pic"><a class="emcodeItem item-link" target="_blank" track="产品列表图片" href="http://item.gome.com.cn/9134220148-1123170026.html"  title="华硕（ASUS）V455LB5200 14英寸笔记本电脑（I5-5200U 4G内存 500G GT940M 2G WIN10 蓝）"><img gome-src="http://img1.gomein.net.cn/image/prodimg/production_image/201601/11/1123170026/1000851016_210.jpg" alt="华硕（ASUS）V455LB5200 14英寸笔记本电脑（I5-5200U 4G内存 500G GT940M 2G WIN10 蓝）" src="http://img.gomein.net.cn/images/grey.gif"></a></p>
+        <div class="item-price ">
+            <span class="price">¥4199.00</span>
+        </div>
+        <p class="item-name"><a class="emcodeItem item-link" track="产品列表名称"  href="http://item.gome.com.cn/9134220148-1123170026.html" title="华硕（ASUS）V455LB5200 14英寸笔记本电脑（I5-5200U 4G内存 500G GT940M 2G WIN10 蓝）" target="_blank"><label style='color:red;'>华硕</label>（ASUS）V455LB5200 14英寸<label style='color:red;'>笔记本</label>电脑（I5-5200U 4G内存 500G GT940M 2G WIN10 蓝）</a></p>
+        <p class="item-comment-dispatching">
+                <span class="dispatching">北京市有货</span>
+            <a href="http://item.gome.com.cn/9134220148-1123170026.html#j-comment-section" target="_blank" class="comment emcodeItem" track="产品列表评论数">1</a>
+        </p>
+        <p class="item-option clearfix">
+            <span class="add-contrast display-page-compare-checkbox emcodeProp17" track="搜索结果页:对比"></span>
+            <span class="add-collection emcodeProp17" track="搜索结果页:收藏">收藏</span>
+                        <span class="add-cart addTo-cart emcodeProp17" track="搜索结果页:添加购物车">加入购物车</span>
+        </p>
+        <p class="item-shop">
+                <span class="nname">国美自营</span>
+        </p>
+    </div>
+    </li>
+</ul>
+<div class="clearfix" id="product-pager">
+    <div class="pager" id="j-page"></div>
+</div>
+</div>
+<div class="compare-bar" style="display: none;">
+    <div id="errorCompare" class="error" style="display: none;"></div>
+    <div class="hd">
+        <ul class="title clearfix">
+            <li class="compare_li hover">对比栏<em id="pCount">（0）</em>
+            </li>
+            <li class="compare_lesat">最近浏览</li>
+        </ul>
+        <a class="more" href="javascript:void(0);">隐藏</a>
+    </div>
+
+    <div class="bd clearfix">
+        <div class="items compare-bd" id="compare">
+            <ul class="clearfix">
+                <li class="compare-items">
+                    <p class="pic">1</p>
+                    <p class="txt">您还可以继续添加</p> <s></s></li>
+                <li class="compare-items">
+                    <p class="pic">2</p>
+                    <p class="txt">您还可以继续添加</p> <s></s></li>
+                <li class="compare-items">
+                    <p class="pic">3</p>
+                    <p class="txt">您还可以继续添加</p> <s></s></li>
+                <li class="compare-items">
+                    <p class="pic">4</p>
+                    <p class="txt">您还可以继续添加</p> <s></s></li>
+                <li class="compare-items last">
+                    <p class="btn-wrap">
+                        <a class="btn disable" href="javascript:void(0);">对比</a> <a class="btn-clear" onclick='javascript:clearCompare();return false;' href="javascript:void(0);">清空对比栏</a>
+                    </p></li>
+            </ul>
+        </div>
+
+        <div style="display:none" class="items newly-bd js-cbox">
+            <a track="对比栏:left" href="javascript:void(0);" class="icon icon-prev js-cprev"><i class="prev"></i></a>
+            <a track="对比栏:right" href="javascript:void(0);" class="icon icon-next js-cnext"><i class="next"></i></a>
+            <div class="newly-cont" id="history">
+            </div>
+            <p class="noItem" style="display:none;">您最近没有查看过商品！</p>
+        </div>
+    </div>
+</div>        </div>
+    </div>
+<div class="searchBox-bottom">
+    <ul class="related-list clearfix" id="related-list"></ul>
+    <div class="search-box clearfix">
+        <input type="text" class="search-box-input" id="search-box-input" value="华硕笔记本" defaultVal="华硕笔记本">
+        <a href="javascript:void(0)" class="search-box-btn emcodeProp17" id="search-box-btn" track="搜索结果页:底部搜索栏对话框">搜索</a>
+    </div>
+</div></div>
+<div class="nSearchWarp">
+<dl class="nSearch-bottomTuiGuang" style="display:none">
+    <dt class="hd">推广商品</dt>
+    <dd class="bd">
+        <ul class="clearfix" id="dsp_bottomTuiGuang">
+        </ul>
+    </dd>
+</dl><dl class="nSearch-bottom-advertisement" id="nSearch-quessYouLike">
+    <dt class="hd"><span id="quessYouLike-refresh" class="bottom-advertisement-refresh" curp="0">换一组</span>根据浏览猜你喜欢</dt>
+    <dd class="bd">
+        <ul class="bottom-advertisement-lists clearfix" id="bigD_quessLike"></ul>
+    </dd>
+</dl><dl class="nSearch-recentVisit">
+    <dt class="hd">最近浏览</dt>
+    <dd class="bd">
+        <ul class="recentVisit-lists clearfix" id="recentVisit-lists">
+        </ul>
+    </dd>
+</dl></div>
+<div id="search_info_box"  style="display:none">
+    <div id="searchReq">{ "mobile" : false , "catId" : "" , "catalog" : "coo8Store" , "siteId" : "coo8Site" , "shopId" : "" , "regionId" : "11011400" , "pageName" : "search" , "et" : "" , "XSearch" : true , "startDate" : 0 , "endDate" : 0 , "pageSize" : 48 , "state" : 4 , "weight" : 0 , "promoFlag" : 0 , "instock" : 0 , "sale" : "0" , "filterReqFacets" :  null  , "rewriteTag" : false , "market" : 10 , "question" : "华硕笔记本" , "productTag" : 0 , "sorts" : [ ] , "priceTag" : 0 , "tuanFlag" : "0" , "qiangFlag" : "0" , "saleFlag" : "0" , "pzin" : "v3" , "fakeCatId" : "cat10000092" , "facets" : "15KP"}</div>
+    <div id="pageType">search</div>
+</div>
+<div id="gome-bar">
+    <div class="gome-aside">
+        <ul>
+            <li id="gome-aside-coupon">
+                <b></b><a href="javascript:void(0)"><i></i></a>
+                <div><a>我的优惠券</a></div>
+            </li>
+            <li id="gome-aside-app">
+                <b></b><a data-code="1000043134" href="http://prom.gome.com.cn/html/prodhtml/topics/201506/cuxiao.html" target="_blank"><i></i></a>
+                <div></div>
+            </li>
+            <li id="gome-aside-survey">
+                <b></b><a data-code="1000043132" href="http://www.gome.com.cn/ec/homeus/survey/surveyPage.jsp?key=gome001" target="_blank"><i></i></a>
+                <div><p><a data-code="1000043132" href="http://www.gome.com.cn/ec/homeus/survey/surveyPage.jsp?key=gome001" target="_blank">首页调研</a></p></div>
+            </li>
+            <li id="gome-aside-service">
+                <b></b><a class="live800-service"><i></i></a>
+                <div><p><a class="live800-service">在线客服</a></p></div>
+            </li>
+            <li id="gome-aside-backtop">
+                <b></b><a href="javascript:void(0)"><i></i></a>
+                <div><p><a>返回顶部</a></p></div>
+            </li>
+        </ul>
+    </div>
+    <!-- gome-aside -->
+    <div id="gome-aside-app-code">
+        <a data-code="1000043134" href="http://prom.gome.com.cn/html/prodhtml/topics/201506/cuxiao.html" target="_blank"><img src="http://img.gomein.net.cn/images/grey.gif" gome-src="http://img11.gomein.net.cn/image/prodimg/topics/qiaolu/201605/3/20160503143022.png"><strong>moren</strong></a>
+    </div>
+    <!-- gome-aside-app-code -->
+    <div id="gome-bar-border">
+        <ul id="gome-bar-border-tab">
+            <li class="gome-bar-btn-coupon" data-open="coupon"><b></b><i></i></li>
+        </ul>
+    </div>
+    <!-- gome-bar-border -->
+    <div id="gome-bar-box">
+        <div id="gome-bar-coupon" class="gome-bar-box-wrap">
+            <h3><span class="gome-bar-close"></span></h3>
+            <div id="coupon-body" class="gome-bar-box-body">
+                <div class="gome-bar-box-loading">
+                    <img src="http://img.gomein.net.cn/images/grey.gif" gome-src="http://img.gomein.net.cn/gmlib/ui/loading/1.0.0/loading.gif">
+                </div>
+            </div>
+        </div>
+        <!-- gome-bar-coupon -->
+    </div>
+    <!-- gome-bar-box -->
+</div>
+<!--aside-->
+<div id="gome-help">
+    <ul>
+        <li><a data-code="1000043126-0" href="http://help.gome.com.cn/question/10.html" target="_blank" rel="nofollow"><i class="moren"></i>七天退换</a></li>
+        <li><a data-code="1000043126-1" href="http://weixiu.gome.com.cn/" target="_blank" rel="nofollow"><i class="icon-zywx"></i>专业维修</a></li>
+        <li><a data-code="1000043126-2" href="http://prom.gome.com.cn/html/prodhtml/topics/201408/chb/qxg_gm.html" target="_blank" rel="nofollow"><i class="icon-ybfw"></i>延保服务</a></li>
+        <li><a data-code="1000043126-3" href="http://huishou.gome.com.cn/" target="_blank" rel="nofollow"><i class="icon-jdhs"></i>家电回收</a></li>
+        <li><a data-code="1000043126-4" href="http://help.gome.com.cn/" target="_blank" rel="nofollow"><i class="icon-fwzx"></i>服务中心</a></li>
+    </ul>
+    <div class="gome-help-box">
+        <dl>
+            <dt>物流配送</dt>
+            <dd><ul>
+                <li><a data-code="1000043252-0" href="http://help.gome.com.cn/question/9.html" target="_blank" rel="nofollow">配送查询</a></li>
+                <li><a data-code="1000043252-1" href="http://help.gome.com.cn/question/28.html" target="_blank" rel="nofollow">配送说明</a></li>
+                <li><a data-code="1000043252-2" href="http://help.gome.com.cn/question/8.html" target="_blank" rel="nofollow">配送费用</a></li>
+                <li><a data-code="1000043252-3" href="http://help.gome.com.cn/question/38.html" target="_blank" rel="nofollow">签收与验货</a></li>
+            </ul></dd>
+        </dl>
+        <dl>
+            <dt>支付方式</dt>
+            <dd><ul>
+                <li><a data-code="1000043266-0" href="http://help.gome.com.cn/question/33.html" target="_blank" rel="nofollow">在线支付</a></li>
+                <li><a data-code="1000043266-1" href="http://help.gome.com.cn/question/32.html" target="_blank" rel="nofollow">货到付款</a></li>
+                <li><a data-code="1000043266-2" href="http://help.gome.com.cn/question/34.html" target="_blank" rel="nofollow">分期付款</a></li>
+                <li><a data-code="1000043266-3" href="http://help.gome.com.cn/question/110.html" target="_blank" rel="nofollow">门店支付</a></li>
+                <li><a data-code="1000043266-4" href="http://help.gome.com.cn/question/36.html" target="_blank" rel="nofollow">发票制度</a></li>
+            </ul></dd>
+        </dl>
+        <dl>
+            <dt>售后服务</dt>
+            <dd><ul>
+                <li><a data-code="1000043269-0" href="http://help.gome.com.cn/question/10.html" target="_blank" rel="nofollow">退换货服务</a></li>
+                <li><a data-code="1000043269-1" href="http://help.gome.com.cn/question/39.html" target="_blank" rel="nofollow">退款说明</a></li>
+                <li><a data-code="1000043269-2" href="http://help.gome.com.cn/question/25.html" target="_blank" rel="nofollow">上门安装</a></li>
+                <li><a data-code="1000043269-3" href="http://help.gome.com.cn/question/24.html" target="_blank" rel="nofollow">家电维修</a></li>
+                <li><a data-code="1000043269-4" href="http://help.gome.com.cn/question/22.html" target="_blank" rel="nofollow">家电回收</a></li>
+            </ul></dd>
+        </dl>
+        <dl>
+            <dt>会员专区</dt>
+            <dd><ul>
+                <li><a data-code="1000043272-0" href="http://help.gome.com.cn/question/26.html" target="_blank" rel="nofollow">会员介绍</a></li>
+                <li><a data-code="1000043272-1" href="http://help.gome.com.cn/question/27.html" target="_blank" rel="nofollow">优惠券说明</a></li>
+                <li><a data-code="1000043272-2" href="http://help.gome.com.cn/question/23.html" target="_blank" rel="nofollow">积分说明</a></li>
+                <li><a data-code="1000043272-3" href="http://help.gome.com.cn/question/42.html" target="_blank" rel="nofollow">国美社区</a></li>
+                <li><a data-code="1000043272-4" href="http://help.gome.com.cn/question/2.html" target="_blank" rel="nofollow">账户安全</a></li>
+            </ul></dd>
+        </dl>
+        <dl>
+            <dt>购物帮助</dt>
+            <dd><ul>
+                <li><a data-code="1000043275-0" href="http://help.gome.com.cn/question/29.html" target="_blank" rel="nofollow">购物流程</a></li>
+                <li><a data-code="1000043275-1" href="http://help.gome.com.cn/question/1.html" target="_blank" rel="nofollow">常见问题</a></li>
+                <li><a data-code="1000043275-2" href="http://help.gome.com.cn/question/21.html" target="_blank" rel="nofollow">联系我们</a></li>
+            </ul></dd>
+        </dl>
+    </div>
+</div>
+<div id="gome-foot">
+    <div id="gome-foot-box">
+        <span class="">
+            <i></i>
+            <p><strong>门店服务</strong><a data-code="1000043114-0" href="http://help.gome.com.cn/question/37.html" target="_blank">国美门店全国共计2000余家</a></p>
+        </span>
+        <span class="ued">
+            <i></i>
+            <p><strong>用户体验</strong><a data-code="1000043114-1" href="http://help.gome.com.cn/question/79.html" target="_blank">参与用户体验改进计划</a>　<a data-code="1000043114-1" href="http://www.gome.com.cn/ec/homeus/survey/surveyPage.jsp?intcmp=sy-1000043114-1&key=gome014" target="_blank">用户反馈调查</a></p>
+        </span>
+        <em class="code-sm code-sm-0 wx">
+            <i></i>
+            <p>公众号</p>
+            <div><i><img src="http://img.gomein.net.cn/images/grey.gif" gome-src="http://img12.gomein.net.cn/image/prodimg/topics/eu271/201512/21/20151221145829.png"></i><span>扫码关注国美在线<b>官方微信</b></span></div>
+        </em>
+        <em class="code-sm code-sm-1 wap">
+            <i></i>
+            <p>手机站点</p>
+            <div><i><img src="http://img.gomein.net.cn/images/grey.gif" gome-src="http://img14.gomein.net.cn/image/prodimg/topics/eu271/201512/21/20151221145849.png"></i><span>手机逛国美<b>购物更便捷</b></span></div>
+        </em>
+        <em class="code-bg code-bg-0 app">
+            <i><a data-code="1000043112-0" href="http://shouji.gome.com.cn/" target="_blank"></a></i>
+            <p>扫码下载客户端</p>
+        </em>
+        <ul>
+            <li><a data-code="1000043124-0" href="http://igome.com/" target="_blank" rel="nofollow">国美集团</a></li>
+            <li><a data-code="1000043124-1" href="http://www.multigold.com.cn/" target="_blank" rel="nofollow">多边金都</a></li>
+            <li><a data-code="1000043124-2" href="http://www.gomehome.com/" target="_blank" rel="nofollow">国美家装</a></li>
+            <li><a data-code="1000043124-3" href="http://www.gomeart.com/?utm_source=gome&utm_medium=zuoshang/" target="_blank" rel="nofollow">国之美</a></li>
+            <li><a data-code="1000043124-4" href="http://help.gome.com.cn/about/company.html" target="_blank" rel="nofollow">关于国美在线</a></li>
+            <li><a data-code="1000043124-5" href="http://job.gome.com.cn/job_choose.html" target="_blank" rel="nofollow">加入我们</a></li><li>|</li>
+            <li><a data-code="1000043124-6" href="http://brand.gome.com.cn/" target="_blank" rel="nofollow">品牌大全</a></li>
+            <li><a data-code="1000043124-7" href="http://www.gome.com.cn/topic/" target="_blank" rel="nofollow">商品专题</a></li>
+            <li><a data-code="1000043124-8" href="http://www.gome.com.cn/keywords/" target="_blank" rel="nofollow">热门搜索</a></li>
+            <li><a data-code="1000043124-9" href="http://www.gome.com.cn/links/" target="_blank" rel="nofollow">友情链接</a></li><li>|</li>
+            <li><a data-code="1000043124-10" href="http://cps.gome.com.cn/" target="_blank" rel="nofollow">销售联盟</a></li>
+            <li><a data-code="1000043124-11" href="http://www.gome.com.cn/join/" target="_blank" rel="nofollow">商家入驻</a></li>
+        </ul>
+        <p>©2000-2016&nbsp;&nbsp;国美在线电子商务有限公司版权所有&nbsp;&nbsp;京公安网备11010502027062&nbsp;&nbsp;沪ICP备11009419号&nbsp;&nbsp;沪B2-20120004号</p>
+        <div class="gome-foot-credit">
+            <a class="credit-baxx" href="https://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=dov73ne26zbqpugb8ivnfez35upwknav4n" target="_blank" rel="nofollow"><i></i><b>经营性网站备案信息</b></a>
+            <a class="credit-xypj" href="https://ss.knet.cn/verifyseal.dll?sn=2011071100100011373&comefrom=trust" target="_blank" rel="nofollow"><i></i><b>可信网站信用评价</b></a>
+            <a class="credit-cxwz" href="http://search.cxwz.org/cert/l/CX20111018000607000618" target="_blank" rel="nofollow"><i></i><b>诚信网站</b></a>
+            <a class="credit-hdjc" href="http://www.bj.cyberpolice.cn/index.do" target="_blank" rel="nofollow"><i></i><b>朝阳网络警察</b></a>
+            <a class="credit-wgdj" href="http://shwg.dianping.com/index.html" target="_blank" rel="nofollow"><i></i><b>网购大家评</b></a>
+        </div>
+        <em class="turst-gome"></em>
+    </div>
+</div>
+<!--foot-->
+
+<script>
+    var productId_list = "";
+    var keyword = "";
+    var order = [];
+    var orderby=""
+    var catid="";
+</script>
+<script src='http://js.gomein.net.cn/??gmlib/jq/1.7.1/jquery.js,gmpro/1.0.0/public/1.0.0/js/signtop.min.js,gmpro/1.0.0/public/1.0.0/js/aside.min.js,gmpro/1.0.0/public/1.0.0/js/category.min.js,gmlib/ui/gscroll/1.0.0/gscroll.min.js,gmlib/ui/dropdown/1.0.0/dropdown.min.js,gmpro/1.0.0/public/1.0.0/js/topad.min.js,gmlib/cookie/1.0.0/cookie.js,gmlib/unit/bigcode/1.0.0/bigcode.min.js,gmlib/ui/json3/3.3.2/json3.js,gmpro/1.0.0/public/1.0.0/js/autopoint.min.js,gmpro/1.0.0/public/1.0.0/js/search.min.js,gmlib/ui/arttemplate/2.0.1/template.min.js,gmpro/1.0.0/public/1.0.0/js/cart.min.js,gmpro/1.0.0/public/1.0.0/js/foot.min.js?v=201605031758,/f2ejs/stage/prddesc/g.min.js,/gmlib/unit/cart/1.0.0/addCart.js'></script>
+<script src="http://js.gomein.net.cn/??/js/g/unit/gLoad.min.js,/js/g/ui/gCity.min.js,/f2ejs/myaccount/component/pager.min.js,/search/search2016/js/searchBase.min.js"></script>
+<script src="http://js.gomein.net.cn/??/search/search2016/js/compare.min.js,/search/search2016/js/searchInit.min.js,/search/search2016/js/searchProductGet.min.js,/search/search2016/js/searchProductDSP.min.js,/search/search2016/js/searchProductEvent.min.js,/search/search2016/js/searchFacet.min.js,/search/search2016/js/searchRelevant.min.js,/search/search2016/js/searchLazyLoad.min.js?v1.2"></script>
+<script src="http://js.gomein.net.cn/??/js/gz/adobe/s_code-gz.min.js,/f2ejs/common/bigData.min.js,/f2ejs/common/sCodeCommon.min.js"></script>
+<script>
+    $(function(){
+        //getRelevant_search.init();
+
+        window.setTimeout(function(){
+                var pageCur = $(".page-nav .num em").html();
+                s.pageName = "站内搜索:搜索结果页:华硕笔记本";
+                s.channel = s.pageName.split(':')[0];
+                s.prop1 = s.pageName;
+                s.prop2 = s.pageName;
+                s.prop3 = s.pageName;
+                s.prop4 = "站内搜索成功页面";
+                s.prop23 = "站内搜索:华硕笔记本:全部";
+                s.prop24 = "综合:1";
+                s.eVar1 = "一般搜索:华硕笔记本";
+                s.eVar1 = "一般搜索:华硕笔记本";
+                s.eVar7 =1724;
+                s.eVar3 = "站内搜索";
+                s.eVar30 = "站内搜索";
+                s.eVar41 = "站内搜索B";
+                var url = window.location.search;
+                var arr = url.split("&");
+                for (var i = 0, j = arr.length; i < j; i++) {
+                    if (arr[i] == "promoFlag=1") {
+                        s.eVar35 ="搜索结果页:活动筛选";
+                        break;
+                    }
+                }
+                var s_code = s.t();
+                if (s_code)document.write(s_code);
+        },2000);
+    })
+</script>
+</body>
+</html>

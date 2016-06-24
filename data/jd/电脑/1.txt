@@ -1,0 +1,1627 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="renderer" content="webkit">
+<meta http-equiv="Cache-Control" content="max-age=300" />
+<link rel="dns-prefetch" href="//search.jd.com" /><link rel="dns-prefetch" href="//item.jd.com" /><link rel="dns-prefetch" href="//list.jd.com" /><link rel="dns-prefetch" href="//p.3.cn" /><link rel="dns-prefetch" href="//misc.360buyimg.com" /><link rel="dns-prefetch" href="//nfa.jd.com" /><link rel="dns-prefetch" href="//d.jd.com" /><link rel="dns-prefetch" href="//img12.360buyimg.com" /><link rel="dns-prefetch" href="//img13.360buyimg.com" /><link rel="dns-prefetch" href="//static.360buyimg.com" /><link rel="dns-prefetch" href="//csc.jd.com" /><link rel="dns-prefetch" href="//mercury.jd.com" /><link rel="dns-prefetch" href="//x.jd.com" /><link rel="dns-prefetch" href="//wl.jd.com" /><title>电脑 - 商品搜索 - 京东</title><meta name="Keywords" content="电脑,京东电脑" /><meta name="description" content="在京东中找到了999843件电脑的类似商品，其中包含了“电脑整机”，“电脑配件”，“健身玩具”，“潮流女包”等类型的电脑的商品。" /><script>
+window.jdpts={};jdpts._st=new Date().getTime();window.pageConfig={
+	compatible: false,
+	searchType: 0,
+	floatnav: 1,
+	price_pdos_off: 0,
+	actName: '',
+	queryParam: {
+		c1: '',
+		c2: '',
+		c3: '',
+		brand: '',
+		price: '',
+		keyword: '电脑',
+		page: '1'
+	}
+};
+window.searchUnit={
+	resizeOnebox: function(g,f,j){var g=parseInt(g),i=typeof f,h=typeof j;if(!isNaN(g)){if("string"==i&&f!=""&&g>0){$("#J_oneBoxFrame_"+f).css("height",g+10);h=="function"&&j()}else{if(i=="undefined"||i=="function"){$("#virtualWareIFrame").css("height",g>0?g+10:0);i=="function"&&f()}}}},
+	resizeShopbox: function(e,d){var f=0;switch(e){case 1:case 2:f=145;break;case 3:f=75;break;case 4:f=80;break;default:break}f&&$("#shopboxIFrame").css("height",f).show();typeof(d)=="string"&&(new Image().src=d)},
+	coupon: {}};
+window.QUERY_KEYWORD='电脑';
+window.REAL_KEYWORD='电脑';
+</script>
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/jdf/1.0.0/unit/??ui-base/1.0.0/ui-base.css,shortcut/2.0.0/shortcut.css,global-header/1.0.0/global-header.css,myjd/2.0.0/myjd.css,nav/2.0.0/nav.css,shoppingcart/2.0.0/shoppingcart.css,global-footer/1.0.0/global-footer.css,service/1.0.0/service.css,basePatch/1.0.0/basePatch.css" />
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/product/search/0.0.17/css/search.css" />
+<script type="text/javascript" src="//misc.360buyimg.com/??jdf/lib/jquery-1.6.4.js,jdf/1.0.0/unit/base/1.0.0/base.js"></script>
+<script>
+window.SEARCH = {
+	cid: 673,
+	ui_ver: '0.0.17',
+	c_category: 0,
+	p_category: 0,
+	activity_id: 0,
+	enable_adv: 1,
+	enable_presale: 1,
+	enable_prom_adwords: 1,
+	enable_prom_flag: 1,
+	enable_price: 1,
+	enable_stock: 1,
+	enable_yyk: 0,
+	is_correct_hash: function(e){var a=["keyword","brand_id","activity_id","coupon_batch"];for(var c=0,b=a.length;c<b;c++){var d=new RegExp("(^|\\?|&)"+a[c]+"=([^&]*)(\\s|&|$)");if(d.test(e)){return true}}return false},
+	get_real_hash: function(){var a=window.location.hash.substr(1);if(a&&$.browser.mozilla){return location.href.substr(location.href.indexOf("#")+1)}else{return a}}
+};
+(function(a,b){var c=b.get_real_hash();if(b.is_correct_hash(c)){a.location.href=a.location.pathname+"?"+c;return false}else{if(a.self!=a.top||$.browser.msie&&$.browser.version<=9){var f=null,e=function(){var d=$(a).width();return 1210>d?$("html").removeClass():$("html").removeClass().addClass(d>=1210&&1390>d?"resp01":"resp02"),true};e();$(a).resize(function(){clearTimeout(f),f=setTimeout(e,20)})}}})(window,SEARCH);
+</script>
+</head>
+<body>
+<div id="shortcut-2014">
+	<div class="w">
+    	<ul class="fl" clstag="shangpin|keycount|toplist1|a01">
+    		<li class="dorpdown" id="ttbar-mycity"></li>
+    	</ul>
+    	<ul class="fr">
+			<li class="fore1" id="ttbar-login" clstag="shangpin|keycount|toplist1|a02">
+				<a target="_blank" href="javascript:login();" class="link-login">你好，请登录</a>&nbsp;&nbsp;<a href="javascript:regist();" class="link-regist style-red">免费注册</a>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore2" clstag="shangpin|keycount|toplist1|a03">
+				<div class="dt">
+					<a target="_blank" href="//order.jd.com/center/list.action">我的订单</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore3 dorpdown" id="ttbar-myjd" clstag="shangpin|keycount|toplist1|a04">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>
+					<a target="_blank" href="//home.jd.com/">我的京东</a>
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore4" clstag="shangpin|keycount|toplist1|a05">
+				<div class="dt">
+					<a target="_blank" href="//vip.jd.com/">京东会员</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore5" clstag="shangpin|keycount|toplist1|a06">
+				<div class="dt">
+					<a target="_blank" href="//b.jd.com/">企业采购</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore6 dorpdown" id="ttbar-apps" clstag="shangpin|keycount|toplist1|a07">
+				<div class="dt cw-icon">
+					<i class="ci-left"></i>
+					<i class="ci-right"><s>◇</s></i>
+					<a target="_blank" href="//app.jd.com/">手机京东</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore7 dorpdown" id="ttbar-atte" clstag="shangpin|keycount|toplist1|a08">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>关注京东
+				</div>	
+			</li>
+			<li class="spacer"></li>
+			<li class="fore8 dorpdown" id="ttbar-serv" clstag="shangpin|keycount|toplist1|a09">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>客户服务
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore9 dorpdown" id="ttbar-navs" clstag="shangpin|keycount|toplist1|a10">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>网站导航
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+    	</ul>
+		<span class="clr"></span>
+    </div>
+</div>
+<div id="o-header-2013"><div id="header-2013" style="display:none;"></div></div><div class="w">
+    <div id="logo-2014">
+    	<a href="//www.jd.com/" class="logo" clstag="shangpin|keycount|toplist1|b01">京东</a>
+    </div>
+    <div id="search-2014" >
+		<ul id="shelper" class="hide"></ul>
+		<div class="form">
+			<input type="text" onkeydown="javascript:if(event.keyCode==13) search('key');" autocomplete="off" id="key" accesskey="s" class="text" clstag="shangpin|keycount|toplist1|b02" />
+			<button onclick="search('key');return false;" class="button cw-icon" clstag="shangpin|keycount|toplist1|b03"><i></i>搜索</button>
+		</div>
+    </div>
+    <div id="settleup-2014" class="dorpdown">
+		<div class="cw-icon">
+			<i class="ci-left"></i>
+			<i class="ci-right">&gt;</i>
+			<a target="_blank" href="//cart.jd.com/cart.action" clstag="shangpin|keycount|toplist1|b05">我的购物车</a>
+		</div>
+		<div class="dorpdown-layer">
+			<div class="spacer"></div>
+			<div id="settleup-content">
+				<span class="loading"></span>
+			</div>
+		</div>
+	</div>
+    <div id="hotwords" clstag="shangpin|keycount|toplist1|b04"></div>
+    <span class="clr"></span>
+</div>
+<div id="nav-2014">
+    <div class="w">
+        <div class="w-spacer"></div>
+		<div id="categorys-2014" class="dorpdown" data-type="default">
+			<div class="dt" clstag="shangpin|keycount|toplist1|c01">
+				<a target="_blank" href="//www.jd.com/allSort.aspx">全部商品分类</a>
+			</div>
+		</div>
+		<div id="navitems-2014">
+			<ul id="navitems-group1">
+				<li id="nav-home" class="fore1" clstag="shangpin|keycount|toplist1|c02">
+					<a target="_blank" href="//www.jd.com/">首页</a>
+				</li>
+				<li id="nav-fashion" class="fore2" clstag="shangpin|keycount|toplist1|c03">
+					<a target="_blank" href="//fashion.jd.com/">服装城</a>
+				</li>
+				<li id="nav-beauty" class="fore3" clstag="shangpin|keycount|toplist1|c04">
+					<a target="_blank" href="//channel.jd.com/beautysale.html">美妆馆</a>
+				</li>
+				<li id="nav-chaoshi" class="fore4" clstag="shangpin|keycount|toplist1|c05">
+					<a target="_blank" href="//channel.jd.com/chaoshi.html">超市</a>
+				</li>
+				<li id="nav-jdww" class="fore5" clstag="shangpin|keycount|toplist1|c06">
+					<a target="_blank" href="//www.jd.hk/">全球购</a>
+				</li>
+			</ul>
+			<div class="spacer"></div>
+			<ul id="navitems-group2">
+				<li id="nav-red" class="fore6" clstag="shangpin|keycount|toplist1|c07">
+					<a target="_blank" href="//red.jd.com/">闪购</a>
+				</li>
+				<li id="nav-tuan" class="fore7" clstag="shangpin|keycount|toplist1|c08">
+					<a target="_blank" href="//tuan.jd.com/">团购</a>
+				</li>
+				<li id="nav-auction" class="fore8" clstag="shangpin|keycount|toplist1|c09">
+					<a target="_blank" href="//paimai.jd.com/">拍卖</a>
+				</li>
+				<li id="nav-jr" class="fore9" clstag="shangpin|keycount|toplist1|c010">
+					<a target="_blank" href="//jr.jd.com/">金融</a>
+				</li>
+			</ul>
+		</div>
+        <div id="treasure"></div>
+        <span class="clr"></span>
+    </div>
+</div><div id="J_searchWrap" class="w">
+<div id="J_crumbsBar" class="crumbs-bar">
+	<div id="J_giftBox" class="cb-gift">
+		<div class="cb-gift-trigger"><i class="ico-gift"></i><span class="txt"><a href="//gift.jd.com" target="_blank">京东帮您选礼物</a></span></div>
+		<div class="cb-gift-main">
+			<div class="cb-gift-filter"><div class="title">送给谁：</div><ul class="cb-gift-filter-list clearfix"></ul></div>
+			<div class="cb-gift-filter"><div class="title">啥时送：</div><ul class="cb-gift-filter-list clearfix"></ul></div>
+			<div class="gift-btnbox"><a href="javascript:;" class="btn btn-primary btn-XL">搜索</a></div>
+		</div>
+	</div>
+	<div class="crumbs-nav">
+		<div class="crumbs-nav-main clearfix">
+			<div class="crumbs-nav-item">
+				<div class="crumbs-first"><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2">全部结果</a></div>
+			</div>
+			<i class="crumbs-arrow">&gt;</i>
+			<div class="crumbs-nav-item">
+				<strong class="search-key">"电脑"</strong>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="onebox-imgbanner"><a href="//sale.jd.com/act/KQnPVkIEHZ.html" target="_blank" onclick="searchlog(1,0,0,2,'','actClk=1')"><img src="//img11.360buyimg.com/cms/jfs/t2752/160/2237504637/47370/547721c3/575d40b2Nadd611db.jpg" class="err-product"></a></div>
+<div id="J_container" class="container">
+<div id="J_selector" class="selector">
+<div class="J_selectorLine s-brand">
+	<div class="sl-wrap">
+		<div class="sl-key"><strong>品牌：</strong></div>
+		<div class="sl-value">
+			<ul class="sl-b-letter J_brandLetter" onclick="searchlog(1,0,0,48)"><li data-initial="0" class="curr">所有品牌</li><li data-initial="a">A</li><li data-initial="b">B</li><li data-initial="c">C</li><li data-initial="d">D</li><li data-initial="e">E</li><li data-initial="f">F</li><li data-initial="h">H</li><li data-initial="j">J</li><li data-initial="k">K</li><li data-initial="l">L</li><li data-initial="m">M</li><li data-initial="n">N</li><li data-initial="o">O</li><li data-initial="p">P</li><li data-initial="q">Q</li><li data-initial="s">S</li><li data-initial="t">T</li><li data-initial="w">W</li><li data-initial="x">X</li><li data-initial="y">Y</li><li data-initial="z">Z</li><li data-initial="other">其它</li></ul>			<div class="sl-b-search J_brandSearch">
+				<i></i><input type="text" class="input-txt placehoder" data-placehoder="可输入拼音、汉字查找品牌">
+			</div>
+			<div class="clr"></div>
+			<div class="sl-v-logos">
+				<ul class="J_valueList v-fixed">
+					<li id="brand-151748" data-initial="l" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E8%81%94%E6%83%B3%EF%BC%88Lenovo%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,0,71,'品牌::联想（Lenovo）')" title="联想（Lenovo）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1906/230/2725969268/4198/a91477c9/57184597N7d2ef6b1.jpg" width="102" height="36">联想（Lenovo）						</a>
+					</li>
+					<li id="brand-5821" data-initial="d" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E6%88%B4%E5%B0%94%EF%BC%88DELL%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,1,71,'品牌::戴尔（DELL）')" title="戴尔（DELL）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2821/310/38900209/6075/4c69eda3/56fc9d73N9b713ada.png" width="102" height="36">戴尔（DELL）						</a>
+					</li>
+					<li id="brand-8740" data-initial="h" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E6%83%A0%E6%99%AE%EF%BC%88HP%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,2,71,'品牌::惠普（HP）')" title="惠普（HP）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2152/326/1448773299/5431/5e53744e/56ab1f40Nbb5889cb.jpg" width="102" height="36">惠普（HP）						</a>
+					</li>
+					<li id="brand-11517" data-initial="l" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E8%81%94%E6%83%B3%EF%BC%88ThinkCentre%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,3,71,'品牌::联想（ThinkCentre）')" title="联想（ThinkCentre）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1267/33/597438706/20823/62c1d65d/5534b947Na4502fe8.jpg" width="102" height="36">联想（ThinkCentre）						</a>
+					</li>
+					<li id="brand-8551" data-initial="h" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E5%8D%8E%E7%A1%95%EF%BC%88ASUS%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,4,71,'品牌::华硕（ASUS）')" title="华硕（ASUS）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1900/258/2026328240/5545/2b3a4bea/569f5c7fN9aa54d0a.jpg" width="102" height="36">华硕（ASUS）						</a>
+					</li>
+					<li id="brand-14026" data-initial="a" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_Apple%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,5,71,'品牌::Apple')" title="Apple">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2989/240/151377693/3895/30ad9044/574d36dbN262ef26d.jpg" width="102" height="36">Apple						</a>
+					</li>
+					<li id="brand-8354" data-initial="h" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E5%AE%8F%E7%A2%81%EF%BC%88acer%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,6,71,'品牌::宏碁（acer）')" title="宏碁（acer）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2092/46/2121751562/4086/c57f3b5/56ab1f83N5bcc41b7.jpg" width="102" height="36">宏碁（acer）						</a>
+					</li>
+					<li id="brand-17193" data-initial="w" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E5%A4%96%E6%98%9F%E4%BA%BA%EF%BC%88Alienware%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,7,71,'品牌::外星人（Alienware）')" title="外星人（Alienware）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t616/227/1460539799/2609/68794690/54daf836N393128ad.jpg" width="102" height="36">外星人（Alienware）						</a>
+					</li>
+					<li id="brand-14523" data-initial="q" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E6%B8%85%E5%8D%8E%E5%90%8C%E6%96%B9%EF%BC%88THTF%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,8,71,'品牌::清华同方（THTF）')" title="清华同方（THTF）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1849/215/2423235152/3001/9318c172/56d94e3bNb0fd50e0.jpg" width="102" height="36">清华同方（THTF）						</a>
+					</li>
+					<li id="brand-7817" data-initial="h" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E6%B5%B7%E5%B0%94%EF%BC%88Haier%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,9,71,'品牌::海尔（Haier）')" title="海尔（Haier）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2392/39/1253635426/3710/f69767cf/568f49d8N10cf556a.jpg" width="102" height="36">海尔（Haier）						</a>
+					</li>
+					<li id="brand-69196" data-initial="j" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E6%9E%81%E9%99%90%E7%9F%A9%E9%98%B5%EF%BC%88matrimax%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,10,71,'品牌::极限矩阵（matrimax）')" title="极限矩阵（matrimax）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2527/64/1416080626/6363/e1dde0eb/56ca803dNbbee44b8.jpg" width="102" height="36">极限矩阵（matrimax）						</a>
+					</li>
+					<li id="brand-54605" data-initial="j" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E6%9C%BA%E6%A2%B0%E9%9D%A9%E5%91%BD%EF%BC%88MECHREVO%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,11,71,'品牌::机械革命（MECHREVO）')" title="机械革命（MECHREVO）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2959/78/643744927/6529/9ee80213/57625007N6da2714f.png" width="102" height="36">机械革命（MECHREVO）						</a>
+					</li>
+					<li id="brand-15539" data-initial="s" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E7%A5%9E%E8%88%9F%EF%BC%88HASEE%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,12,71,'品牌::神舟（HASEE）')" title="神舟（HASEE）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1990/207/862910554/6280/4bb07d2a/5631c39cN8479e107.jpg" width="102" height="36">神舟（HASEE）						</a>
+					</li>
+					<li id="brand-17443" data-initial="w" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E5%BE%AE%E6%98%9F%EF%BC%88MSI%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,13,71,'品牌::微星（MSI）')" title="微星（MSI）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1051/334/1208010481/16259/a39f0a5c/5590daaaNa9b9e77f.jpg" width="102" height="36">微星（MSI）						</a>
+					</li>
+					<li id="brand-14125" data-initial="q" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E4%B8%83%E5%96%9C%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,14,71,'品牌::七喜')" title="七喜">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t505/168/1466445868/14469/6ecaedee/54f69bbfNd7b9414a.jpg" width="102" height="36">七喜						</a>
+					</li>
+					<li id="brand-6742" data-initial="f" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E9%A3%9E%E5%88%A9%E6%B5%A6%EF%BC%88PHILIPS%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,15,71,'品牌::飞利浦（PHILIPS）')" title="飞利浦（PHILIPS）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2194/222/1495033175/5230/23048250/56ab202bN913e5453.jpg" width="102" height="36">飞利浦（PHILIPS）						</a>
+					</li>
+					<li id="brand-88631" data-initial="d" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E5%85%B8%E7%B1%8D%EF%BC%88DIANJI%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,16,71,'品牌::典籍（DIANJI）')" title="典籍（DIANJI）">
+							<i></i>典籍（DIANJI）						</a>
+					</li>
+					<li id="brand-98527" data-initial="f" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E6%A2%B5%E6%B3%B0%EF%BC%88FOTEN%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,17,71,'品牌::梵泰（FOTEN）')" title="梵泰（FOTEN）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t508/266/465946875/31953/ed757ac5/5469ac38N955e0d2a.png" width="102" height="36">梵泰（FOTEN）						</a>
+					</li>
+					<li id="brand-44014" data-initial="t" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E5%A4%A9%E8%99%B9%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,18,71,'品牌::天虹')" title="天虹">
+							<i></i>天虹						</a>
+					</li>
+					<li id="brand-121760" data-initial="y" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E5%BE%A1%E9%BE%99%E8%80%85%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,19,71,'品牌::御龙者')" title="御龙者">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2323/357/1845899118/13404/17b62802/568c6d4aNe52d233c.jpg" width="102" height="36">御龙者						</a>
+					</li>
+					<li id="brand-174062" data-initial="y" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E7%9B%88%E9%A9%B0%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20,71,'品牌::盈驰')" title="盈驰">
+							<i></i>盈驰						</a>
+					</li>
+					<li id="brand-75819" data-initial="x" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E7%8E%B0%E4%BB%A3e%E6%B4%BE%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,21,71,'品牌::现代e派')" title="现代e派">
+							<i></i>现代e派						</a>
+					</li>
+					<li id="brand-127040" data-initial="d" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E7%8B%84%E6%B4%BE%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,22,71,'品牌::狄派')" title="狄派">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1621/8/129230149/120851/3bd4a494/555d744bN404a881a.jpg" width="102" height="36">狄派						</a>
+					</li>
+					<li id="brand-113068" data-initial="j" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E6%8A%80%E8%AE%AF%EF%BC%88GVNXUHI%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,23,71,'品牌::技讯（GVNXUHI）')" title="技讯（GVNXUHI）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2839/250/656835422/4196/8559614c/571f045fNad06a0f3.jpg" width="102" height="36">技讯（GVNXUHI）						</a>
+					</li>
+					<li id="brand-105810" data-initial="k" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E9%85%B7%E7%88%B1%EF%BC%88COOAV%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,24,71,'品牌::酷爱（COOAV）')" title="酷爱（COOAV）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t616/113/1443586398/15518/ec3ea67c/54dace8cN712fee0b.png" width="102" height="36">酷爱（COOAV）						</a>
+					</li>
+					<li id="brand-112709" data-initial="j" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E6%9E%81%E5%A4%9C%EF%BC%88topfeel%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,25,71,'品牌::极夜（topfeel）')" title="极夜（topfeel）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1144/340/276916653/8655/79a2864b/55129664Nb7395e5a.jpg" width="102" height="36">极夜（topfeel）						</a>
+					</li>
+					<li id="brand-163488" data-initial="t" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_ThinkPad%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,26,71,'品牌::ThinkPad')" title="ThinkPad">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2575/339/1168421115/5097/ec93bd23/56ca5bdcN6943bd5e.png" width="102" height="36">ThinkPad						</a>
+					</li>
+					<li id="brand-123796" data-initial="x" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E5%B0%8F%E9%85%B7%E9%B8%9F%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,27,71,'品牌::小酷鸟')" title="小酷鸟">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1594/220/162130684/32458/49cc8389/555e94a0Nc84d3523.jpg" width="102" height="36">小酷鸟						</a>
+					</li>
+					<li id="brand-65712" data-initial="m" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_MEEGOPAD%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,28,71,'品牌::MEEGOPAD')" title="MEEGOPAD">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1039/283/52001590/17511/b6861711/54f69b2aNb07432b3.png" width="102" height="36">MEEGOPAD						</a>
+					</li>
+					<li id="brand-149279" data-initial="t" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E6%8B%93%E6%B5%A6%EF%BC%88TUOPU%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,29,71,'品牌::拓浦（TUOPU）')" title="拓浦（TUOPU）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2263/41/158114354/34156/8a4b52dd/55f28ca2Nb8606b56.jpg" width="102" height="36">拓浦（TUOPU）						</a>
+					</li>
+					<li id="brand-123913" data-initial="j" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_JIALAIBAO%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30,71,'品牌::JIALAIBAO')" title="JIALAIBAO">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1609/301/38460553/31303/c650bb69/5550b2cfNf48a2019.jpg" width="102" height="36">JIALAIBAO						</a>
+					</li>
+					<li id="brand-137636" data-initial="a" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E8%89%BE%E5%B0%94%E8%91%B3%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,31,71,'品牌::艾尔葳')" title="艾尔葳">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1561/34/528947268/16297/119ab3f5/55910265N35d8be0d.jpg" width="102" height="36">艾尔葳						</a>
+					</li>
+					<li id="brand-178928" data-initial="h" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E6%B5%B7%E6%B4%9B%E4%BA%91%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,32,71,'品牌::海洛云')" title="海洛云">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2275/232/1310246156/57793/b24a7243/5652dc2dN78f5677b.jpg" width="102" height="36">海洛云						</a>
+					</li>
+					<li id="brand-142204" data-initial="s" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E4%B8%89%E6%98%9F%EF%BC%88SAMSUNG%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,33,71,'品牌::三星（SAMSUNG）')" title="三星（SAMSUNG）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t859/328/1192150014/33180/80bf94e4/55837e1dN546edb65.jpg" width="102" height="36">三星（SAMSUNG）						</a>
+					</li>
+					<li id="brand-154758" data-initial="w" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E7%BB%B4%E6%B4%BE%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,34,71,'品牌::维派')" title="维派">
+							<i></i>维派						</a>
+					</li>
+					<li id="brand-176147" data-initial="l" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_lawei%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,35,71,'品牌::lawei')" title="lawei">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2182/15/2402697955/39210/d71175c8/56dd3e6bN3ce90295.jpg" width="102" height="36">lawei						</a>
+					</li>
+					<li id="brand-187775" data-initial="c" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E5%BD%A9%E5%86%A0%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,36,71,'品牌::彩冠')" title="彩冠">
+							<i></i>彩冠						</a>
+					</li>
+					<li id="brand-133929" data-initial="w" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_Wibtek%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,37,71,'品牌::Wibtek')" title="Wibtek">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1123/273/1409173874/50119/9d9ae2b9/559f7fa3N07f89bcc.jpg" width="102" height="36">Wibtek						</a>
+					</li>
+					<li id="brand-112063" data-initial="x" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E7%82%AB%E9%BE%99%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,38,71,'品牌::炫龙')" title="炫龙">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t2632/170/1390086703/8630/8e586782/573d597fNcd0014c8.jpg" width="102" height="36">炫龙						</a>
+					</li>
+					<li id="brand-113850" data-initial="d" style="display:block;">
+						<a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exbrand_%E6%88%B4%E7%9D%BF%EF%BC%88dere%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,39,71,'品牌::戴睿（dere）')" title="戴睿（dere）">
+							<i></i><img src="//img30.360buyimg.com/popshop/jfs/t1192/246/423958806/33259/43e70597/55238ba9Na82daaf3.jpg" width="102" height="36">戴睿（dere）						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="sl-b-selected J_brandSelected"><span class="sl-b-key">已选条件：</span><ul class="sl-v-list brand-selected"></ul></div>
+			<div class="sl-btns">
+				<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+				<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+			</div>
+		</div>
+		<div class="sl-ext">
+			<a class="sl-e-more J_extMore" href="javascript:;" data-url="brand.php?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2">更多<i></i></a>
+			<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+		</div>
+	</div>
+</div>
+<div class="J_selectorLine s-category">
+	<div class="sl-wrap">
+		<div class="sl-key"><strong>电脑整机：</strong></div>
+		<div class="sl-value">
+			<div class="sl-v-list">
+				<ul class="J_valueList">
+					<li>
+						<a title="台式机" data-v="673" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=673#J_crumbsBar" onclick="searchlog(1,673,10000,51)"><i></i>台式机</a>
+					</li>
+					<li>
+						<a title="笔记本" data-v="672" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=672#J_crumbsBar" onclick="searchlog(1,672,10001,51)"><i></i>笔记本</a>
+					</li>
+					<li>
+						<a title="一体机" data-v="12798" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=12798#J_crumbsBar" onclick="searchlog(1,12798,10002,51)"><i></i>一体机</a>
+					</li>
+					<li>
+						<a title="游戏本" data-v="1105" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=1105#J_crumbsBar" onclick="searchlog(1,1105,10003,51)"><i></i>游戏本</a>
+					</li>
+					<li>
+						<a title="超极本" data-v="6864" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=6864#J_crumbsBar" onclick="searchlog(1,6864,10004,51)"><i></i>超极本</a>
+					</li>
+					<li>
+						<a title="平板电脑" data-v="2694" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=2694#J_crumbsBar" onclick="searchlog(1,2694,10005,51)"><i></i>平板电脑</a>
+					</li>
+					<li>
+						<a title="服务器/工作站" data-v="674" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=674#J_crumbsBar" onclick="searchlog(1,674,10006,51)"><i></i>服务器/工作站</a>
+					</li>
+					<li class="no-relate-cat">
+						<a title="笔记本配件" data-v="675" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=675#J_crumbsBar" onclick="searchlog(1,675,10007,51)"><i></i>笔记本配件</a>
+					</li>
+					<li class="no-relate-cat">
+						<a title="平板电脑配件" data-v="5146" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=5146#J_crumbsBar" onclick="searchlog(1,5146,10008,51)"><i></i>平板电脑配件</a>
+					</li>
+				</ul>
+			</div>
+			<div class="sl-btns">
+				<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+				<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+			</div>
+		</div>
+		<div class="sl-ext">
+			<a class="sl-e-more J_extMore" href="javascript:;" style="visibility: visible;">更多<i></i></a>
+			<a class="sl-e-multiple J_extMultiple" href="javascript:;" style="visibility: hidden;">多选<i></i></a>
+		</div>
+	</div>
+</div>
+<div class="J_selectorLine s-category">
+	<div class="sl-wrap">
+		<div class="sl-key"><strong>电脑配件：</strong></div>
+		<div class="sl-value">
+			<div class="sl-v-list">
+				<ul class="J_valueList">
+					<li>
+						<a title="组装电脑" data-v="11762" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=11762#J_crumbsBar" onclick="searchlog(1,11762,20000,51)"><i></i>组装电脑</a>
+					</li>
+					<li>
+						<a title="显示器" data-v="688" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=688#J_crumbsBar" onclick="searchlog(1,688,20001,51)"><i></i>显示器</a>
+					</li>
+					<li>
+						<a title="CPU" data-v="678" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=678#J_crumbsBar" onclick="searchlog(1,678,20002,51)"><i></i>CPU</a>
+					</li>
+					<li>
+						<a title="显卡" data-v="679" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=679#J_crumbsBar" onclick="searchlog(1,679,20003,51)"><i></i>显卡</a>
+					</li>
+					<li>
+						<a title="机箱" data-v="687" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=687#J_crumbsBar" onclick="searchlog(1,687,20004,51)"><i></i>机箱</a>
+					</li>
+					<li>
+						<a title="主板" data-v="681" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=681#J_crumbsBar" onclick="searchlog(1,681,20005,51)"><i></i>主板</a>
+					</li>
+					<li>
+						<a title="内存" data-v="680" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=680#J_crumbsBar" onclick="searchlog(1,680,20006,51)"><i></i>内存</a>
+					</li>
+					<li class="no-relate-cat">
+						<a title="电源" data-v="691" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=691#J_crumbsBar" onclick="searchlog(1,691,20007,51)"><i></i>电源</a>
+					</li>
+					<li class="no-relate-cat">
+						<a title="硬盘" data-v="683" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=683#J_crumbsBar" onclick="searchlog(1,683,20008,51)"><i></i>硬盘</a>
+					</li>
+					<li class="no-relate-cat">
+						<a title="散热器" data-v="682" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=682#J_crumbsBar" onclick="searchlog(1,682,20009,51)"><i></i>散热器</a>
+					</li>
+					<li class="no-relate-cat">
+						<a title="SSD固态硬盘" data-v="11303" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=11303#J_crumbsBar" onclick="searchlog(1,11303,20010,51)"><i></i>SSD固态硬盘</a>
+					</li>
+					<li class="no-relate-cat">
+						<a title="声卡/扩展卡" data-v="5008" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=5008#J_crumbsBar" onclick="searchlog(1,5008,20011,51)"><i></i>声卡/扩展卡</a>
+					</li>
+					<li class="no-relate-cat">
+						<a title="装机配件" data-v="5009" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=5009#J_crumbsBar" onclick="searchlog(1,5009,20012,51)"><i></i>装机配件</a>
+					</li>
+					<li class="no-relate-cat">
+						<a title="刻录机/光驱" data-v="684" href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=684#J_crumbsBar" onclick="searchlog(1,684,20013,51)"><i></i>刻录机/光驱</a>
+					</li>
+				</ul>
+			</div>
+			<div class="sl-btns">
+				<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+				<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+			</div>
+		</div>
+		<div class="sl-ext">
+			<a class="sl-e-more J_extMore" href="javascript:;" style="visibility: visible;">更多<i></i></a>
+			<a class="sl-e-multiple J_extMultiple" href="javascript:;" style="visibility: hidden;">多选<i></i></a>
+		</div>
+	</div>
+</div>
+<div class="J_selectorLine s-line"><div class="sl-wrap"><div class="sl-key"><span>电脑类别：</span></div><div class="sl-value"><div class="sl-v-list"><ul class="J_valueList"><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=804_3642%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30000,71,'电脑类别::家用电脑')"><i></i>家用电脑</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=804_5492%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30001,71,'电脑类别::一体机')"><i></i>一体机</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=804_3641%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30002,71,'电脑类别::商用电脑')"><i></i>商用电脑</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=804_622797%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30003,71,'电脑类别::游戏电脑')"><i></i>游戏电脑</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=804_622803%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30004,71,'电脑类别::电脑主机')"><i></i>电脑主机</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=804_622807%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30005,71,'电脑类别::迷你机')"><i></i>迷你机</a></li></ul></div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+						<div class="sl-ext">
+							<a class="sl-e-more J_extMore" href="javascript:;">更多<i></i></a>
+							<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+					</div>
+				</div><div id="J_selectorSenior" class="J_selectorLine s-line s-senior">
+	<div class="sl-wrap">
+		<div class="sl-key"><span>高级选项：</span></div>
+		<div class="sl-value">
+			<div class="sl-v-tab">
+				<div class="sl-tab-trigger clearfix">
+					<a class="trig-item" href="javascript:;"><span class="text">处理器</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">CPU</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">显卡</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">内存容量</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">系统</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">价格</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">尺寸</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">硬盘容量</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">其他分类</span><i class="arrow"></i></a>
+				</div>
+			</div>
+		</div>
+		<div class="sl-tab-cont">
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=11925_309145%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40000,71,'处理器::Intel i3')"><i></i>Intel i3</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=11925_309146%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40001,71,'处理器::Intel i5')"><i></i>Intel i5</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=11925_309149%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40002,71,'处理器::AMD A6')"><i></i>AMD A6</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=11925_309147%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40003,71,'处理器::Intel i7')"><i></i>Intel i7</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=11925_309151%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40004,71,'处理器::AMD A8')"><i></i>AMD A8</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=11925_1312%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40005,71,'处理器::AMD')"><i></i>AMD</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=11925_622827%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40006,71,'处理器::Intel奔腾')"><i></i>Intel奔腾</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=11925_622828%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40007,71,'处理器::Intel赛扬')"><i></i>Intel赛扬</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=11925_593819%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40008,71,'处理器::AMD其他')"><i></i>AMD其他</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=11925_632154%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40009,71,'处理器::Intel 其他')"><i></i>Intel 其他</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=11925_609670%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40010,71,'处理器::Intel 其它')"><i></i>Intel 其它</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=11925_622831%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40011,71,'处理器::intel其它')"><i></i>intel其它</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=13863_1376%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50000,71,'CPU::酷睿i5')"><i></i>酷睿i5</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=13863_7013%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50001,71,'CPU::酷睿i7')"><i></i>酷睿i7</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=13863_12455%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50002,71,'CPU::酷睿i3')"><i></i>酷睿i3</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=13863_582817%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50003,71,'CPU::至强E3')"><i></i>至强E3</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=13863_526734%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50004,71,'CPU::奔腾\/赛扬')"><i></i>奔腾/赛扬</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=13863_526737%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50005,71,'CPU::AMD 速龙')"><i></i>AMD 速龙</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=13863_526736%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50006,71,'CPU::AMD APU')"><i></i>AMD APU</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=13863_526735%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50007,71,'CPU::AMD FX')"><i></i>AMD FX</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_654713%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60000,71,'显卡::1G独立显卡')"><i></i>1G独立显卡</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_654714%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60001,71,'显卡::2G独立显卡')"><i></i>2G独立显卡</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_582848%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60002,71,'显卡::R7 250')"><i></i>R7 250</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_8626%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60003,71,'显卡::R7 240')"><i></i>R7 240</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_605414%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60004,71,'显卡::R9 380')"><i></i>R9 380</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_574554%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60005,71,'显卡::GT720')"><i></i>GT720</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_560362%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60006,71,'显卡::GT730')"><i></i>GT730</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_582828%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60007,71,'显卡::GTX750')"><i></i>GTX750</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_582827%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60008,71,'显卡::GTX750TI')"><i></i>GTX750TI</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_605409%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60009,71,'显卡::GTX950')"><i></i>GTX950</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_582821%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60010,71,'显卡::GTX960')"><i></i>GTX960</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_574200%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60011,71,'显卡::GTX970')"><i></i>GTX970</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_390292%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60012,71,'显卡::GTX TITAN')"><i></i>GTX TITAN</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_609675%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60013,71,'显卡::入门级独显')"><i></i>入门级独显</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_609673%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60014,71,'显卡::游戏显卡')"><i></i>游戏显卡</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_8657%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60015,71,'显卡::集成显卡')"><i></i>集成显卡</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_609674%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60016,71,'显卡::高性能独显')"><i></i>高性能独显</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1464_3%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60017,71,'显卡::其他')"><i></i>其他</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104861_2958%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70000,71,'内存容量::2G')"><i></i>2G</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104861_2963%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70001,71,'内存容量::4G')"><i></i>4G</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104861_1828%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70002,71,'内存容量::8G')"><i></i>8G</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104861_1829%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70003,71,'内存容量::16G')"><i></i>16G</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104861_3%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70004,71,'内存容量::其他')"><i></i>其他</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104861_3031%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70005,71,'内存容量::其它')"><i></i>其它</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1942_622850%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80000,71,'系统::Windows7')"><i></i>Windows7</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1942_593979%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80001,71,'系统::Windows 10')"><i></i>Windows 10</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1942_10793%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80002,71,'系统::Windows 7')"><i></i>Windows 7</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1942_593984%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80003,71,'系统::Windows 8')"><i></i>Windows 8</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1942_622848%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80004,71,'系统::Windows10')"><i></i>Windows10</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1942_609672%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80005,71,'系统::DOS\/Linux')"><i></i>DOS/Linux</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1942_622849%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80006,71,'系统::Windows8')"><i></i>Windows8</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1942_3%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80007,71,'系统::其他')"><i></i>其他</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=1942_3031%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80008,71,'系统::其它')"><i></i>其它</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exprice_0-1799%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90000,71,'价格::0-1799')"><i></i>0-1799</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exprice_1800-2799%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90001,71,'价格::1800-2799')"><i></i>1800-2799</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exprice_2800-3799%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90002,71,'价格::2800-3799')"><i></i>2800-3799</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exprice_3800-4999%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90003,71,'价格::3800-4999')"><i></i>3800-4999</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exprice_5000-7299%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90004,71,'价格::5000-7299')"><i></i>5000-7299</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exprice_7300-12299%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90005,71,'价格::7300-12299')"><i></i>7300-12299</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=exprice_12300gt%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90006,71,'价格::12300以上')"><i></i>12300以上</a></li>					</ul>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=458_8580%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,100000,71,'尺寸::10.1英寸及以下')"><i></i>10.1英寸及以下</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=458_583619%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,100001,71,'尺寸::11.6英寸')"><i></i>11.6英寸</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=458_583620%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,100002,71,'尺寸::12.5英寸')"><i></i>12.5英寸</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=458_609662%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,100003,71,'尺寸::14.0英寸')"><i></i>14.0英寸</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=458_583623%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,100004,71,'尺寸::15.6英寸')"><i></i>15.6英寸</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=458_3%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,100005,71,'尺寸::其他')"><i></i>其他</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104862_1823%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110000,71,'硬盘容量::1T')"><i></i>1T</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104862_526748%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110001,71,'硬盘容量::2T')"><i></i>2T</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104862_609685%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110002,71,'硬盘容量::含64G SSD')"><i></i>含64G SSD</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104862_609686%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110003,71,'硬盘容量::含128G SSD')"><i></i>含128G SSD</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104862_609687%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110004,71,'硬盘容量::含256G SSD')"><i></i>含256G SSD</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104862_526746%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110005,71,'硬盘容量::500G')"><i></i>500G</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104862_609688%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110006,71,'硬盘容量::含512G SSD')"><i></i>含512G SSD</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104862_609684%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110007,71,'硬盘容量::混合硬盘')"><i></i>混合硬盘</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&ev=104862_3%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110008,71,'硬盘容量::其他')"><i></i>其他</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=6265#J_crumbsBar" rel="nofollow" data-v="6265" onclick="searchlog(1,6265,120000,51)"><i></i>炫舞毯</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=2575#J_crumbsBar" rel="nofollow" data-v="2575" onclick="searchlog(1,2575,120001,51)"><i></i>潮流女包</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9851#J_crumbsBar" rel="nofollow" data-v="9851" onclick="searchlog(1,9851,120002,51)"><i></i>书房家具</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=1648#J_crumbsBar" rel="nofollow" data-v="1648" onclick="searchlog(1,1648,120003,51)"><i></i>台灯</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=4956#J_crumbsBar" rel="nofollow" data-v="4956" onclick="searchlog(1,4956,120004,51)"><i></i>五金电器</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1463#J_crumbsBar" rel="nofollow" data-v="1463" onclick="searchlog(1,1463,120005,51)"><i></i>健身训练</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=6224#J_crumbsBar" rel="nofollow" data-v="6224" onclick="searchlog(1,6224,120006,51)"><i></i>保温壶</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=6225#J_crumbsBar" rel="nofollow" data-v="6225" onclick="searchlog(1,6225,120007,51)"><i></i>酒杯/酒具</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=9186#J_crumbsBar" rel="nofollow" data-v="9186" onclick="searchlog(1,9186,120008,51)"><i></i>箱包</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid3=9190#J_crumbsBar" rel="nofollow" data-v="9190" onclick="searchlog(1,9190,120009,51)"><i></i>太阳镜/眼镜框</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=830#J_crumbsBar" rel="nofollow" data-v="830" onclick="searchlog(1,830,120010,51)"><i></i>手机配件</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=703#J_crumbsBar" rel="nofollow" data-v="703" onclick="searchlog(1,703,120011,51)"><i></i>服务产品</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=686#J_crumbsBar" rel="nofollow" data-v="686" onclick="searchlog(1,686,120012,51)"><i></i>外设产品</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=716#J_crumbsBar" rel="nofollow" data-v="716" onclick="searchlog(1,716,120013,51)"><i></i>办公设备</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=729#J_crumbsBar" rel="nofollow" data-v="729" onclick="searchlog(1,729,120014,51)"><i></i>文具/耗材</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=699#J_crumbsBar" rel="nofollow" data-v="699" onclick="searchlog(1,699,120015,51)"><i></i>网络产品</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=12800#J_crumbsBar" rel="nofollow" data-v="12800" onclick="searchlog(1,12800,120016,51)"><i></i>游戏设备</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=794#J_crumbsBar" rel="nofollow" data-v="794" onclick="searchlog(1,794,120017,51)"><i></i>大 家 电</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=13297#J_crumbsBar" rel="nofollow" data-v="13297" onclick="searchlog(1,13297,120018,51)"><i></i>厨卫大电</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=738#J_crumbsBar" rel="nofollow" data-v="738" onclick="searchlog(1,738,120019,51)"><i></i>生活电器</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1276#J_crumbsBar" rel="nofollow" data-v="1276" onclick="searchlog(1,1276,120020,51)"><i></i>个护健康</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=752#J_crumbsBar" rel="nofollow" data-v="752" onclick="searchlog(1,752,120021,51)"><i></i>厨房小电</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9849#J_crumbsBar" rel="nofollow" data-v="9849" onclick="searchlog(1,9849,120022,51)"><i></i>客厅家具</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9854#J_crumbsBar" rel="nofollow" data-v="9854" onclick="searchlog(1,9854,120023,51)"><i></i>商业办公</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9850#J_crumbsBar" rel="nofollow" data-v="9850" onclick="searchlog(1,9850,120024,51)"><i></i>餐厅家具</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9852#J_crumbsBar" rel="nofollow" data-v="9852" onclick="searchlog(1,9852,120025,51)"><i></i>储物家具</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9848#J_crumbsBar" rel="nofollow" data-v="9848" onclick="searchlog(1,9848,120026,51)"><i></i>卧室家具</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=13533#J_crumbsBar" rel="nofollow" data-v="13533" onclick="searchlog(1,13533,120027,51)"><i></i>儿童家具</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9853#J_crumbsBar" rel="nofollow" data-v="9853" onclick="searchlog(1,9853,120028,51)"><i></i>阳台/户外</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=2576#J_crumbsBar" rel="nofollow" data-v="2576" onclick="searchlog(1,2576,120029,51)"><i></i>精品男包</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=2577#J_crumbsBar" rel="nofollow" data-v="2577" onclick="searchlog(1,2577,120030,51)"><i></i>功能箱包</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=2599#J_crumbsBar" rel="nofollow" data-v="2599" onclick="searchlog(1,2599,120031,51)"><i></i>礼品</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=829#J_crumbsBar" rel="nofollow" data-v="829" onclick="searchlog(1,829,120032,51)"><i></i>数码配件</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=12346#J_crumbsBar" rel="nofollow" data-v="12346" onclick="searchlog(1,12346,120033,51)"><i></i>电子教育</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=828#J_crumbsBar" rel="nofollow" data-v="828" onclick="searchlog(1,828,120034,51)"><i></i>影音娱乐</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=12345#J_crumbsBar" rel="nofollow" data-v="12345" onclick="searchlog(1,12345,120035,51)"><i></i>智能设备</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=654#J_crumbsBar" rel="nofollow" data-v="654" onclick="searchlog(1,654,120036,51)"><i></i>摄影摄像</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=981#J_crumbsBar" rel="nofollow" data-v="981" onclick="searchlog(1,981,120037,51)"><i></i>虚拟商品</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9858#J_crumbsBar" rel="nofollow" data-v="9858" onclick="searchlog(1,9858,120038,51)"><i></i>五金工具</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9859#J_crumbsBar" rel="nofollow" data-v="9859" onclick="searchlog(1,9859,120039,51)"><i></i>电工电料</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9857#J_crumbsBar" rel="nofollow" data-v="9857" onclick="searchlog(1,9857,120040,51)"><i></i>厨房卫浴</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9856#J_crumbsBar" rel="nofollow" data-v="9856" onclick="searchlog(1,9856,120041,51)"><i></i>灯饰照明</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9861#J_crumbsBar" rel="nofollow" data-v="9861" onclick="searchlog(1,9861,120042,51)"><i></i>装饰材料</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9860#J_crumbsBar" rel="nofollow" data-v="9860" onclick="searchlog(1,9860,120043,51)"><i></i>墙地面材料</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6740#J_crumbsBar" rel="nofollow" data-v="6740" onclick="searchlog(1,6740,120044,51)"><i></i>车载电器</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6747#J_crumbsBar" rel="nofollow" data-v="6747" onclick="searchlog(1,6747,120045,51)"><i></i>安全自驾</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6742#J_crumbsBar" rel="nofollow" data-v="6742" onclick="searchlog(1,6742,120046,51)"><i></i>维修保养</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6745#J_crumbsBar" rel="nofollow" data-v="6745" onclick="searchlog(1,6745,120047,51)"><i></i>汽车装饰</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6743#J_crumbsBar" rel="nofollow" data-v="6743" onclick="searchlog(1,6743,120048,51)"><i></i>美容清洗</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=653#J_crumbsBar" rel="nofollow" data-v="653" onclick="searchlog(1,653,120049,51)"><i></i>手机通讯</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6271#J_crumbsBar" rel="nofollow" data-v="6271" onclick="searchlog(1,6271,120050,51)"><i></i>益智玩具</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6234#J_crumbsBar" rel="nofollow" data-v="6234" onclick="searchlog(1,6234,120051,51)"><i></i>适用年龄</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6291#J_crumbsBar" rel="nofollow" data-v="6291" onclick="searchlog(1,6291,120052,51)"><i></i>乐器</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6235#J_crumbsBar" rel="nofollow" data-v="6235" onclick="searchlog(1,6235,120053,51)"><i></i>遥控/电动</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6289#J_crumbsBar" rel="nofollow" data-v="6289" onclick="searchlog(1,6289,120054,51)"><i></i>创意减压</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1346#J_crumbsBar" rel="nofollow" data-v="1346" onclick="searchlog(1,1346,120055,51)"><i></i>服饰配件</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1343#J_crumbsBar" rel="nofollow" data-v="1343" onclick="searchlog(1,1343,120056,51)"><i></i>女装</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=12099#J_crumbsBar" rel="nofollow" data-v="12099" onclick="searchlog(1,12099,120057,51)"><i></i>运动鞋包</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1462#J_crumbsBar" rel="nofollow" data-v="1462" onclick="searchlog(1,1462,120058,51)"><i></i>户外装备</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=12115#J_crumbsBar" rel="nofollow" data-v="12115" onclick="searchlog(1,12115,120059,51)"><i></i>骑行运动</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1466#J_crumbsBar" rel="nofollow" data-v="1466" onclick="searchlog(1,1466,120060,51)"><i></i>体育用品</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1621#J_crumbsBar" rel="nofollow" data-v="1621" onclick="searchlog(1,1621,120061,51)"><i></i>家纺</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1624#J_crumbsBar" rel="nofollow" data-v="1624" onclick="searchlog(1,1624,120062,51)"><i></i>生活日用</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=11158#J_crumbsBar" rel="nofollow" data-v="11158" onclick="searchlog(1,11158,120063,51)"><i></i>家装软饰</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9197#J_crumbsBar" rel="nofollow" data-v="9197" onclick="searchlog(1,9197,120064,51)"><i></i>保健器械</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9193#J_crumbsBar" rel="nofollow" data-v="9193" onclick="searchlog(1,9193,120065,51)"><i></i>营养健康</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9194#J_crumbsBar" rel="nofollow" data-v="9194" onclick="searchlog(1,9194,120066,51)"><i></i>营养成分</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=12632#J_crumbsBar" rel="nofollow" data-v="12632" onclick="searchlog(1,12632,120067,51)"><i></i>中西药品</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9195#J_crumbsBar" rel="nofollow" data-v="9195" onclick="searchlog(1,9195,120068,51)"><i></i>传统滋补</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=4997#J_crumbsBar" rel="nofollow" data-v="4997" onclick="searchlog(1,4997,120069,51)"><i></i>妈妈专区</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1526#J_crumbsBar" rel="nofollow" data-v="1526" onclick="searchlog(1,1526,120070,51)"><i></i>喂养用品</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1524#J_crumbsBar" rel="nofollow" data-v="1524" onclick="searchlog(1,1524,120071,51)"><i></i>营养辅食</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1527#J_crumbsBar" rel="nofollow" data-v="1527" onclick="searchlog(1,1527,120072,51)"><i></i>洗护用品</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1525#J_crumbsBar" rel="nofollow" data-v="1525" onclick="searchlog(1,1525,120073,51)"><i></i>尿裤湿巾</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1528#J_crumbsBar" rel="nofollow" data-v="1528" onclick="searchlog(1,1528,120074,51)"><i></i>童车童床</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=11143#J_crumbsBar" rel="nofollow" data-v="11143" onclick="searchlog(1,11143,120075,51)"><i></i>茶具/咖啡具</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6214#J_crumbsBar" rel="nofollow" data-v="6214" onclick="searchlog(1,6214,120076,51)"><i></i>厨房配件</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6197#J_crumbsBar" rel="nofollow" data-v="6197" onclick="searchlog(1,6197,120077,51)"><i></i>烹饪锅具</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1625#J_crumbsBar" rel="nofollow" data-v="1625" onclick="searchlog(1,1625,120078,51)"><i></i>清洁用品</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1381#J_crumbsBar" rel="nofollow" data-v="1381" onclick="searchlog(1,1381,120079,51)"><i></i>面部护肤</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1383#J_crumbsBar" rel="nofollow" data-v="1383" onclick="searchlog(1,1383,120080,51)"><i></i>身体护理</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=1384#J_crumbsBar" rel="nofollow" data-v="1384" onclick="searchlog(1,1384,120081,51)"><i></i>口腔护理</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=12480#J_crumbsBar" rel="nofollow" data-v="12480" onclick="searchlog(1,12480,120082,51)"><i></i>盆栽/苗木</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=9394#J_crumbsBar" rel="nofollow" data-v="9394" onclick="searchlog(1,9394,120083,51)"><i></i>游戏</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6998#J_crumbsBar" rel="nofollow" data-v="6998" onclick="searchlog(1,6998,120084,51)"><i></i>家居日用</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6995#J_crumbsBar" rel="nofollow" data-v="6995" onclick="searchlog(1,6995,120085,51)"><i></i>宠物主粮</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=6182#J_crumbsBar" rel="nofollow" data-v="6182" onclick="searchlog(1,6182,120086,51)"><i></i>时尚饰品</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=5026#J_crumbsBar" rel="nofollow" data-v="5026" onclick="searchlog(1,5026,120087,51)"><i></i>钟表</a></li><li><a href="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&cid2=11730#J_crumbsBar" rel="nofollow" data-v="11730" onclick="searchlog(1,11730,120088,51)"><i></i>流行男鞋</a></li>					</ul>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<div id="J_main" class="g-main2">
+	<div class="m-list">
+		<div class="ml-wrap">
+			<div id="J_filter" class="filter">
+				<div class="f-line top">
+					<div class="f-sort">						<a class="curr" href="javascript:;">综合排序<i></i></a>
+						<a class="" href="javascript:;">销量<i></i></a>
+						<a class="" href="javascript:;">价格<i></i></a>
+						<a class="" href="javascript:;">评论数<i></i></a>
+						<a class="" href="javascript:;">新品<i></i></a>
+					</div>
+					<div class="f-search">
+						<input type="text" value="在结果中搜索" class="input-txt">
+						<a data-type="all" data-field="exp_key" class="btn btn-default" data-url="search?keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2&exp_key=" href="javascript:;">确定</a>
+					</div>
+					<div id="J_topPage" class="f-pager">
+						<span class="fp-text">
+							<b>1</b><em>/</em><i>200</i>
+						</span>
+						<a class="fp-prev disabled" href="javascript:;">&lt;</a>
+						<a class="fp-next" href="javascript:;">&gt;</a>
+					</div>
+					<div class="f-result-sum">共<span id="J_resCount" class="num">100.0万</span>件商品</div>
+					<span class="clr"></span>
+				</div>
+				<div class="f-line">
+					<div class="f-store">
+						<div class="fs-cell delivery-location">配送至</div>
+						<div id="store-selector" class="">
+							<div class="text">北京<b></b></div>
+							<div class="content"></div>
+							<div class="close" onclick="$('#store-selector').removeClass('hover')"></div>
+						</div>
+					</div>
+					<div id="J_feature" class="f-feature">
+						<ul>
+							<li><a data-field="wtype" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,43)"><i></i>京东配送</a></li>
+							<li><a data-field="cod" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,34)"><i></i>货到付款</a></li>
+							<li><a data-field="stock" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,41)"><i></i>仅显示有货</a></li>
+							<li><a data-field="icon" data-val="100" class="" href="javascript:;" onclick="searchlog(1,0,0,109)"><i></i><span class="act-wrap" style="width:96px"><em class="act-text">618</em><img src="//img30.360buyimg.com/da/jfs/t2602/298/1823742758/3733/f9da00ce/574d59f3N06fa6fdf.png" alt="618"></span></a></li>
+						</ul>
+					</div>
+					<div id="J_viewType" class="f-type" data-ref="1">
+						<a class="ft-item shop" href="javascript:;" data-value="3" onclick="searchlog(1,0,0,28)"><i class="i-shop"></i>店铺</a>
+						<a class="ft-item grid selected" href="javascript:;" data-value="2" onclick="searchlog(1,0,0,45)"><i class="i-grid"></i>商品</a>
+					</div>
+					<span class="clr"></span>
+				</div>
+			</div>
+<div id="J_goodsList" class="goods-list-v1 gl-type-1 J-goods-list"><ul class="gl-warp clearfix" data-tpl="1"><li data-sku="1677061" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="戴尔（DELL）Vostro 3800-R6308 台式电脑 （i3-4170 4G 500G DVD 三年上门 三年硬盘保留）黑" href="//item.jd.com/1677061.html" onclick="searchlog(1,1677061,0,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img11.360buyimg.com/n7/jfs/t2674/200/56199731/103373/26a11a3/56fe3d2eN71cffddd.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000140" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1677061" data-price="3199.00"><em>¥</em><i>3199.00</i></strong>						<div class="p-icons" id="J_pro_1677061"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="戴尔（DELL）Vostro 3800-R6308 台式电脑 （i3-4170 4G 500G DVD 三年上门 三年硬盘保留）黑" href="//item.jd.com/1677061.html" onclick="searchlog(1,1677061,0,1,'','flagsClk=4194952')">
+							<em>戴尔（DELL）Vostro 3800-R6308 台式<font class="skcolor_ljg">电脑</font> （i3-4170 4G 500G DVD 三年上门 三年硬盘保留）黑</em>
+							<i class="promo-words" id="J_AD_1677061"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1677061" target="_blank" href="//item.jd.com/1677061.html#comments-list" onclick="searchlog(1,1677061,0,3,'','flagsClk=4194952')">9081</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1677061" href="javascript:;" onclick="searchlog(1,1677061,0,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1677061" href="javascript:;" onclick="searchlog(1,1677061,0,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1677061" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1677061&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1677061,0,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1867146" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="联想（Lenovo）H3050台式电脑（i3-4170 4G 500G 集显 DVD 千兆网卡 Win10）20英寸" href="//item.jd.com/1867146.html" onclick="searchlog(1,1867146,1,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img11.360buyimg.com/n7/jfs/t2275/158/2850937822/145569/ca0252ea/56f8ca15Nec8fd3e1.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000157" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1867146" data-price="3099.00"><em>¥</em><i>3099.00</i></strong>						<div class="p-icons" id="J_pro_1867146"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="联想（Lenovo）H3050台式电脑（i3-4170 4G 500G 集显 DVD 千兆网卡 Win10）20英寸" href="//item.jd.com/1867146.html" onclick="searchlog(1,1867146,1,1,'','flagsClk=4194952')">
+							<em>联想（Lenovo）H3050台式<font class="skcolor_ljg">电脑</font>（i3-4170 4G 500G 集显 DVD 千兆网卡 Win10）20英寸</em>
+							<i class="promo-words" id="J_AD_1867146"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1867146" target="_blank" href="//item.jd.com/1867146.html#comments-list" onclick="searchlog(1,1867146,1,3,'','flagsClk=4194952')">8261</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1867146" href="javascript:;" onclick="searchlog(1,1867146,1,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1867146" href="javascript:;" onclick="searchlog(1,1867146,1,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1867146" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1867146&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1867146,1,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1550966" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="戴尔（DELL）Inspiron 3847-R7938 灵越台式电脑 （i5-4460 8G 1TB 2G独显 WIFI D刻 三年上门 Win7）黑" href="//item.jd.com/1550966.html" onclick="searchlog(1,1550966,2,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img11.360buyimg.com/n7/jfs/t2767/199/1098859256/180370/a615b766/573436f8N60235c1a.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000140" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1550966" data-price="4999.00"><em>¥</em><i>4999.00</i></strong>						<div class="p-icons" id="J_pro_1550966"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="戴尔（DELL）Inspiron 3847-R7938 灵越台式电脑 （i5-4460 8G 1TB 2G独显 WIFI D刻 三年上门 Win7）黑" href="//item.jd.com/1550966.html" onclick="searchlog(1,1550966,2,1,'','flagsClk=4194952')">
+							<em>戴尔（DELL）Inspiron 3847-R7938 灵越台式<font class="skcolor_ljg">电脑</font> （i5-4460 8G 1TB 2G独显 WIFI D刻 三年上门 Win7）黑</em>
+							<i class="promo-words" id="J_AD_1550966"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1550966" target="_blank" href="//item.jd.com/1550966.html#comments-list" onclick="searchlog(1,1550966,2,3,'','flagsClk=4194952')">4612</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1550966" href="javascript:;" onclick="searchlog(1,1550966,2,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1550966" href="javascript:;" onclick="searchlog(1,1550966,2,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1550966" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1550966&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1550966,2,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1867177" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="宏碁（acer）ATC705-N52 台式电脑（Win10 奔腾G3260 4G 500G 集显 键鼠 USB3.0）21.5英寸" href="//item.jd.com/1867177.html" onclick="searchlog(1,1867177,3,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img12.360buyimg.com/n7/jfs/t2887/202/925901477/236452/ec1f21a/572c2f87N2c331354.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000177" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1867177" data-price="2699.00"><em>¥</em><i>2699.00</i></strong>						<div class="p-icons" id="J_pro_1867177"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="宏碁（acer）ATC705-N52 台式电脑（Win10 奔腾G3260 4G 500G 集显 键鼠 USB3.0）21.5英寸" href="//item.jd.com/1867177.html" onclick="searchlog(1,1867177,3,1,'','flagsClk=4194952')">
+							<em>宏碁（acer）ATC705-N52 台式<font class="skcolor_ljg">电脑</font>（Win10 奔腾G3260 4G 500G 集显 键鼠 USB3.0）21.5英寸</em>
+							<i class="promo-words" id="J_AD_1867177"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1867177" target="_blank" href="//item.jd.com/1867177.html#comments-list" onclick="searchlog(1,1867177,3,3,'','flagsClk=4194952')">257</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1867177" href="javascript:;" onclick="searchlog(1,1867177,3,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1867177" href="javascript:;" onclick="searchlog(1,1867177,3,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1867177" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1867177&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1867177,3,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1866916" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="联想（Lenovo）H3005 台式电脑（E1-7010 2G 500G 集显 DVD 百兆网卡 win10）19.5英寸" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwMzUyNjI3XzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzE4NjY5MTYuaHRtbA&log=daYRcqVj9q9AgcezT3330MEf0XQiV3fVD7RV8iBfhFHSuC4IBGphSYlhFd5e-BpnsJ-LoIFUv9ky1tUSk5MTpLwJ25LauZ2mFCPnJY_wHYdO75TB05fQ7ADwlkylNfB5xoqMH8GcjvUkNjNaQd1HVWc5eQ8-pPCGk465I_UkBpBSI5E-xPtp06UfPeL9UUMAobpEf5at7HKOTVoa1kjDDFeL7HqOHgHKI1qbxn75vgj0pV5EgIF2xwc4TbolfI9CJ5q4WlzukGGovbTHhlo2Q1-2aScEG87f9Hz_VlEEVmcYlq5Sl6zSgVHyV4SYGl_tzVVjU27g3MBug60hryZr9YlwxfMujJUIYS8E_1GMJ0cTmkNTQDrFZ9r1BIm5bClpC5eenQtYIqH3VfXRI5GQeA&v=404" onclick="searchlog(1,1866916,4,2,'','adwClk=1')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img11.360buyimg.com/n7/jfs/t2185/331/294091296/117337/6fbe46b1/55fbe2b2Nda15c3e3.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000157" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1866916"></strong>						<div class="p-icons" id="J_pro_1866916"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="联想（Lenovo）H3005 台式电脑（E1-7010 2G 500G 集显 DVD 百兆网卡 win10）19.5英寸" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwMzUyNjI3XzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzE4NjY5MTYuaHRtbA&log=daYRcqVj9q9AgcezT3330MEf0XQiV3fVD7RV8iBfhFHSuC4IBGphSYlhFd5e-BpnsJ-LoIFUv9ky1tUSk5MTpLwJ25LauZ2mFCPnJY_wHYdO75TB05fQ7ADwlkylNfB5xoqMH8GcjvUkNjNaQd1HVWc5eQ8-pPCGk465I_UkBpBSI5E-xPtp06UfPeL9UUMAobpEf5at7HKOTVoa1kjDDFeL7HqOHgHKI1qbxn75vgj0pV5EgIF2xwc4TbolfI9CJ5q4WlzukGGovbTHhlo2Q1-2aScEG87f9Hz_VlEEVmcYlq5Sl6zSgVHyV4SYGl_tzVVjU27g3MBug60hryZr9YlwxfMujJUIYS8E_1GMJ0cTmkNTQDrFZ9r1BIm5bClpC5eenQtYIqH3VfXRI5GQeA&v=404" onclick="searchlog(1,1866916,4,1,'','adwClk=1')">
+							<em>联想（Lenovo）H3005 台式<font class="skcolor_ljg">电脑</font>（E1-7010 2G 500G 集显 DVD 百兆网卡 win10）19.5英寸</em>
+							<i class="promo-words" id="J_AD_1866916"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1866916" target="_blank" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwMzUyNjI3XzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzE4NjY5MTYuaHRtbA&log=daYRcqVj9q9AgcezT3330MEf0XQiV3fVD7RV8iBfhFHSuC4IBGphSYlhFd5e-BpnsJ-LoIFUv9ky1tUSk5MTpLwJ25LauZ2mFCPnJY_wHYdO75TB05fQ7ADwlkylNfB5xoqMH8GcjvUkNjNaQd1HVWc5eQ8-pPCGk465I_UkBpBSI5E-xPtp06UfPeL9UUMAobpEf5at7HKOTVoa1kjDDFeL7HqOHgHKI1qbxn75vgj0pV5EgIF2xwc4TbolfI9CJ5q4WlzukGGovbTHhlo2Q1-2aScEG87f9Hz_VlEEVmcYlq5Sl6zSgVHyV4SYGl_tzVVjU27g3MBug60hryZr9YlwxfMujJUIYS8E_1GMJ0cTmkNTQDrFZ9r1BIm5bClpC5eenQtYIqH3VfXRI5GQeA&v=404" onclick="searchlog(1,1866916,4,3,'','adwClk=1')">1067</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1866916" href="javascript:;" onclick="searchlog(1,1866916,4,6,'','adwClk=1')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1866916" href="javascript:;" onclick="searchlog(1,1866916,4,5,'','adwClk=1')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1866916" data-stock-val="-1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1866916&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1866916,4,4,'','adwClk=1')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<span class="p-promo-flag">推广</span>
+					<script src="https://im-x.jd.com/dsp/np?log=daYRcqVj9q9AgcezT3330MEf0XQiV3fVD7RV8iBfhFHSuC4IBGphSYlhFd5e+BpnsJ+LoIFUv9ky1tUSk5MTpLwJ25LauZ2mFCPnJY/wHYdO75TB05fQ7ADwlkylNfB5xoqMH8GcjvUkNjNaQd1HVWc5eQ8+pPCGk465I/UkBpBSI5E+xPtp06UfPeL9UUMAvuZ+5316napN0NGGSVFYzvwnM2jWkxNWoXZ1Exv+lpHCWPjlbS2iCCllsabdrUmIT5/+OXRv7CLsWhZKGPcYD/RKqrSwLbsC/SeZuL2ANld9lQUbGY+lTZ2dh5n0brpV34yLCL2NVMTuI09eBS8erPyqW/rn9zFA886l9GbBXCG4u6CzvCr5XEPIYHgxd8X5CKVu6qYUftySyVrmfjnKNw==&v=404"></script>
+	</div>
+</li>
+<li data-sku="2220831" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="清华同方（TongFang）精锐X200-BI02 20.7英寸台式电脑(G1840 4G 500G 核心显卡 双PCI 前置4*USB WIN10)" href="//item.jd.com/2220831.html" onclick="searchlog(1,2220831,5,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t1945/75/1729946366/81066/9dff9067/5670cc73N1d9fea12.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000244" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2220831" data-price="1999.00"><em>¥</em><i>1999.00</i></strong>						<div class="p-icons" id="J_pro_2220831"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="清华同方（TongFang）精锐X200-BI02 20.7英寸台式电脑(G1840 4G 500G 核心显卡 双PCI 前置4*USB WIN10)" href="//item.jd.com/2220831.html" onclick="searchlog(1,2220831,5,1,'','flagsClk=4194952')">
+							<em>清华同方（TongFang）精锐X200-BI02 20.7英寸台式<font class="skcolor_ljg">电脑</font>(G1840 4G 500G 核心显卡 双PCI 前置4*USB WIN10)</em>
+							<i class="promo-words" id="J_AD_2220831"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2220831" target="_blank" href="//item.jd.com/2220831.html#comments-list" onclick="searchlog(1,2220831,5,3,'','flagsClk=4194952')">2264</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2220831" href="javascript:;" onclick="searchlog(1,2220831,5,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2220831" href="javascript:;" onclick="searchlog(1,2220831,5,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2220831" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2220831&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2220831,5,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2216985" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="极限矩阵（matrimax）猎豹V7台式主机（I7-6700 8G DDR4 1TB+128G SSD 华硕GTX960 4G独显）游戏电脑主机" href="//item.jd.com/2216985.html" onclick="searchlog(1,2216985,6,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t1933/39/1556310831/289233/7ff6cad5/5666a31bNcdda60fb.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000016623" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2216985" data-price="5999.00"><em>¥</em><i>5999.00</i></strong>						<div class="p-icons" id="J_pro_2216985"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="极限矩阵（matrimax）猎豹V7台式主机（I7-6700 8G DDR4 1TB+128G SSD 华硕GTX960 4G独显）游戏电脑主机" href="//item.jd.com/2216985.html" onclick="searchlog(1,2216985,6,1,'','flagsClk=4194952')">
+							<em>极限矩阵（matrimax）猎豹V7台式主机（I7-6700 8G DDR4 1TB+128G SSD 华硕GTX960 4G独显）游戏<font class="skcolor_ljg">电脑</font>主机</em>
+							<i class="promo-words" id="J_AD_2216985"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2216985" target="_blank" href="//item.jd.com/2216985.html#comments-list" onclick="searchlog(1,2216985,6,3,'','flagsClk=4194952')">1089</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2216985" href="javascript:;" onclick="searchlog(1,2216985,6,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2216985" href="javascript:;" onclick="searchlog(1,2216985,6,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2216985" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2216985&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2216985,6,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1867154" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="联想（Lenovo）H3050 台式电脑（i5-4460 4G 500G GT720 1G独显 DVD 千兆网卡 Win10）23英寸" href="//item.jd.com/1867154.html" onclick="searchlog(1,1867154,7,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2179/138/2784228696/171367/aada4281/56f8c99bNefeea9b9.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000157" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1867154" data-price="4799.00"><em>¥</em><i>4799.00</i></strong>						<div class="p-icons" id="J_pro_1867154"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="联想（Lenovo）H3050 台式电脑（i5-4460 4G 500G GT720 1G独显 DVD 千兆网卡 Win10）23英寸" href="//item.jd.com/1867154.html" onclick="searchlog(1,1867154,7,1,'','flagsClk=4194952')">
+							<em>联想（Lenovo）H3050 台式<font class="skcolor_ljg">电脑</font>（i5-4460 4G 500G GT720 1G独显 DVD 千兆网卡 Win10）23英寸</em>
+							<i class="promo-words" id="J_AD_1867154"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1867154" target="_blank" href="//item.jd.com/1867154.html#comments-list" onclick="searchlog(1,1867154,7,3,'','flagsClk=4194952')">3249</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1867154" href="javascript:;" onclick="searchlog(1,1867154,7,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1867154" href="javascript:;" onclick="searchlog(1,1867154,7,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1867154" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1867154&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1867154,7,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2060618" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="Apple iMac 21.5英寸一体机（Core i5 处理器/8GB内存/1TB存储 MK142CH/A）" href="//item.jd.com/2060618.html" onclick="searchlog(1,2060618,8,2,'','flagsClk=4194944')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t1945/232/861949353/127581/cdf8c9e0/5631d324Nfbcf8ea5.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000127" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2060618" data-price="7288.00"><em>¥</em><i>7288.00</i></strong>						<div class="p-icons" id="J_pro_2060618"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="Apple iMac 21.5英寸一体机（Core i5 处理器/8GB内存/1TB存储 MK142CH/A）" href="//item.jd.com/2060618.html" onclick="searchlog(1,2060618,8,1,'','flagsClk=4194944')">
+							<em>Apple iMac 21.5英寸一体机（Core i5 处理器/8GB内存/1TB存储 MK142CH/A）</em>
+							<i class="promo-words" id="J_AD_2060618"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2060618" target="_blank" href="//item.jd.com/2060618.html#comments-list" onclick="searchlog(1,2060618,8,3,'','flagsClk=4194944')">5104</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2060618" href="javascript:;" onclick="searchlog(1,2060618,8,6,'','flagsClk=4194944')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2060618" href="javascript:;" onclick="searchlog(1,2060618,8,5,'','flagsClk=4194944')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2060618" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2060618&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2060618,8,4,'','flagsClk=4194944')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1892517" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="华硕（ASUS）G11飞行堡垒高配版游戏台式电脑主机（I7-6700 8G 128G SSD+1T GTX960 2G独显 800万色呼吸灯）" href="//item.jd.com/1892517.html" onclick="searchlog(1,1892517,9,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t1849/246/1479171575/132271/edefed56/565d48f7Nb0f72253.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000182" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1892517" data-price="5999.00"><em>¥</em><i>5999.00</i></strong>						<div class="p-icons" id="J_pro_1892517"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="华硕（ASUS）G11飞行堡垒高配版游戏台式电脑主机（I7-6700 8G 128G SSD+1T GTX960 2G独显 800万色呼吸灯）" href="//item.jd.com/1892517.html" onclick="searchlog(1,1892517,9,1,'','flagsClk=4194952')">
+							<em>华硕（ASUS）G11飞行堡垒高配版游戏台式<font class="skcolor_ljg">电脑</font>主机（I7-6700 8G 128G SSD+1T GTX960 2G独显 800万色呼吸灯）</em>
+							<i class="promo-words" id="J_AD_1892517"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1892517" target="_blank" href="//item.jd.com/1892517.html#comments-list" onclick="searchlog(1,1892517,9,3,'','flagsClk=4194952')">1783</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1892517" href="javascript:;" onclick="searchlog(1,1892517,9,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1892517" href="javascript:;" onclick="searchlog(1,1892517,9,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1892517" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1892517&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1892517,9,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="10048842676" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="狄派(hiapad) 台式电脑主机 16万跑分办公家用LOL游戏台式整机AMD四核独显8g 电脑主机 配置一 核显2G 16万跑分" href="//item.jd.com/10048842676.html" onclick="searchlog(1,10048842676,10,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2176/356/1276094924/198341/b02bff3c/5653fd1aNb0865a50.jpg" />
+						</a>
+						<div data-ico="0" data-venid="150828" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_10048842676" data-price="1585.00"><em>¥</em><i>1585.00</i></strong>						<div class="p-icons" id="J_pro_10048842676"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="狄派(hiapad) 台式电脑主机 16万跑分办公家用LOL游戏台式整机AMD四核独显8g 电脑主机 配置一 核显2G 16万跑分" href="//item.jd.com/10048842676.html" onclick="searchlog(1,10048842676,10,1,'','flagsClk=4194952')">
+							<em>狄派(hiapad) 台式<font class="skcolor_ljg">电脑</font>主机 16万跑分办公家用LOL游戏台式整机AMD四核独显8g <font class="skcolor_ljg">电脑</font>主机 配置一 核显2G 16万跑分</em>
+							<i class="promo-words" id="J_AD_10048842676"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_10048842676" target="_blank" href="//item.jd.com/10048842676.html#comments-list" onclick="searchlog(1,10048842676,10,3,'','flagsClk=4194952')">1573</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="10048842676" href="javascript:;" onclick="searchlog(1,10048842676,10,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="10048842676" href="javascript:;" onclick="searchlog(1,10048842676,10,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="10048842676" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=10048842676&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,10048842676,10,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li class="gl-item" data-type="activity" >
+	<div class="gl-act-v2 gl-act-skin">
+		<div class="gl-act-img"><a href="//sale.jd.com/act/2HxlkXF7rOVv.html" title="618品质狂欢节" onclick="searchlog(1,599833,11,2,'','actClk=2')" target="_blank"><img data-img="1" src="//img30.360buyimg.com/mobilecms/jfs/t2914/144/173546770/20889/fc0b9bd4/574e58dbN9dc22bf7.jpg" data-lazy-img="done"/></a></div>
+		<div class="gl-act-main">
+			<div class="gl-act-detail">
+				<div class="gl-act-title"><strong>618品质狂欢节</strong></div>
+				<div class="gl-act-infor">游戏主机1666元起</div>
+				<div class="gl-act-enter"><a href="//sale.jd.com/act/2HxlkXF7rOVv.html" onclick="searchlog(1,599833,11,2,'','actClk=2')" class="gl-act-btn" target="_blank">立即开抢</a></div>
+			</div>
+		</div>
+	</div>
+</li><li data-sku="2717678" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="戴尔（DELL）Inspiron 3459-R1948W 23.8英寸一体机电脑（i5-6200U 8G 1T 2G独显 WIFI 三年上门 Win10）白" href="//item.jd.com/2717678.html" onclick="searchlog(1,2717678,12,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t1960/166/2704306278/269233/b7722273/5714b75fN641f9ce8.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000140" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2717678" data-price="5499.00"><em>¥</em><i>5499.00</i></strong>						<div class="p-icons" id="J_pro_2717678"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="戴尔（DELL）Inspiron 3459-R1948W 23.8英寸一体机电脑（i5-6200U 8G 1T 2G独显 WIFI 三年上门 Win10）白" href="//item.jd.com/2717678.html" onclick="searchlog(1,2717678,12,1,'','flagsClk=4194952')">
+							<em>戴尔（DELL）Inspiron 3459-R1948W 23.8英寸一体机<font class="skcolor_ljg">电脑</font>（i5-6200U 8G 1T 2G独显 WIFI 三年上门 Win10）白</em>
+							<i class="promo-words" id="J_AD_2717678"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2717678" target="_blank" href="//item.jd.com/2717678.html#comments-list" onclick="searchlog(1,2717678,12,3,'','flagsClk=4194952')">499</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2717678" href="javascript:;" onclick="searchlog(1,2717678,12,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2717678" href="javascript:;" onclick="searchlog(1,2717678,12,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2717678" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2717678&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2717678,12,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="10292798555" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="（DELL）戴尔Vostro3650-R1308三年上门 新六代i3处理器 台式电脑套机 搭配21.5英寸高清宽屏" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwMTU1MzIzXzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzEwMjkyNzk4NTU1Lmh0bWw&log=daYRcqVj9q9AgcezT3330MEf0XQiV3fVD7RV8iBfhFGzRPkbLiYq_NE1jKEblvYioknQjE_0_SEhLtChJLVFYSN1JTG1USiodIEDddKx69uhJAEZ1bUn_l30U8Gl5Sq0Sak4MI2-wEcWN9bM8rhAy_b8suwtoro9SnB1TEdFBAY92MiqlFUme_Ls6P6vMZr9HFYPdRmXSibmLJJiTqbnfimF__AAlw1gX3xPQJbwrMOcA61dcW9R1O1cC-Xmgbr2zhAbIq7JK4ykJYZB-1djyHY1UU6HKabFWHa23Euk3-OhdOvpLlMElD8tS-i50bpvHgthOy6p5IZR-_KGk23IvQ8sVejcFCAke9T37K-xUVkkzQ2J1lvbkmMp1IPZ9FUChcPRGtPSCR389LuzOcVPKg&v=404" onclick="searchlog(1,10292798555,13,2,'','adwClk=1')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t2341/362/2834720546/196129/ade9728/571daf8bNa89416eb.jpg" />
+						</a>
+						<div data-ico="0" data-venid="212732" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_10292798555"></strong>						<div class="p-icons" id="J_pro_10292798555"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="（DELL）戴尔Vostro3650-R1308三年上门 新六代i3处理器 台式电脑套机 搭配21.5英寸高清宽屏" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwMTU1MzIzXzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzEwMjkyNzk4NTU1Lmh0bWw&log=daYRcqVj9q9AgcezT3330MEf0XQiV3fVD7RV8iBfhFGzRPkbLiYq_NE1jKEblvYioknQjE_0_SEhLtChJLVFYSN1JTG1USiodIEDddKx69uhJAEZ1bUn_l30U8Gl5Sq0Sak4MI2-wEcWN9bM8rhAy_b8suwtoro9SnB1TEdFBAY92MiqlFUme_Ls6P6vMZr9HFYPdRmXSibmLJJiTqbnfimF__AAlw1gX3xPQJbwrMOcA61dcW9R1O1cC-Xmgbr2zhAbIq7JK4ykJYZB-1djyHY1UU6HKabFWHa23Euk3-OhdOvpLlMElD8tS-i50bpvHgthOy6p5IZR-_KGk23IvQ8sVejcFCAke9T37K-xUVkkzQ2J1lvbkmMp1IPZ9FUChcPRGtPSCR389LuzOcVPKg&v=404" onclick="searchlog(1,10292798555,13,1,'','adwClk=1')">
+							<em>（DELL）戴尔Vostro3650-R1308三年上门 新六代i3处理器 台式<font class="skcolor_ljg">电脑</font>套机 搭配21.5英寸高清宽屏</em>
+							<i class="promo-words" id="J_AD_10292798555"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_10292798555" target="_blank" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwMTU1MzIzXzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzEwMjkyNzk4NTU1Lmh0bWw&log=daYRcqVj9q9AgcezT3330MEf0XQiV3fVD7RV8iBfhFGzRPkbLiYq_NE1jKEblvYioknQjE_0_SEhLtChJLVFYSN1JTG1USiodIEDddKx69uhJAEZ1bUn_l30U8Gl5Sq0Sak4MI2-wEcWN9bM8rhAy_b8suwtoro9SnB1TEdFBAY92MiqlFUme_Ls6P6vMZr9HFYPdRmXSibmLJJiTqbnfimF__AAlw1gX3xPQJbwrMOcA61dcW9R1O1cC-Xmgbr2zhAbIq7JK4ykJYZB-1djyHY1UU6HKabFWHa23Euk3-OhdOvpLlMElD8tS-i50bpvHgthOy6p5IZR-_KGk23IvQ8sVejcFCAke9T37K-xUVkkzQ2J1lvbkmMp1IPZ9FUChcPRGtPSCR389LuzOcVPKg&v=404" onclick="searchlog(1,10292798555,13,3,'','adwClk=1')">112</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="10292798555" href="javascript:;" onclick="searchlog(1,10292798555,13,6,'','adwClk=1')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="10292798555" href="javascript:;" onclick="searchlog(1,10292798555,13,5,'','adwClk=1')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="10292798555" data-stock-val="-1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=10292798555&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,10292798555,13,4,'','adwClk=1')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<span class="p-promo-flag">推广</span>
+					<script src="https://im-x.jd.com/dsp/np?log=daYRcqVj9q9AgcezT3330MEf0XQiV3fVD7RV8iBfhFGzRPkbLiYq/NE1jKEblvYioknQjE/0/SEhLtChJLVFYSN1JTG1USiodIEDddKx69uhJAEZ1bUn/l30U8Gl5Sq0Sak4MI2+wEcWN9bM8rhAy/b8suwtoro9SnB1TEdFBAY92MiqlFUme/Ls6P6vMZr9MDtDLBmMCCq8141VJ6bEeIioMUZjYWzUiqWzVrX8l79JvXUjUuMce998b2Sk1R6cUxOtSoFwrljrtDjWjjj0u4g3JW9FQnVO5FeW/I6A3O1Otb3b/mL4jRi17sK4zFGPp4XH0x7YT0R2D6pTIUnbMOSP2Ao88EJ2Rn06HKVmWXSKdD8ctWustvr04QyqzrGqWfNRpWc97h5sVoyiy9/m6Q==&v=404"></script>
+	</div>
+</li>
+<li data-sku="1251378" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="Apple Mac mini台式电脑 (Core i5 处理器/8GB内存/1TB 存储 MGEN2CH/A)" href="//item.jd.com/1251378.html" onclick="searchlog(1,1251378,14,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2380/357/871339911/44566/b968e8a5/5631d221Nde64bf21.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000127" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1251378" data-price="4588.00"><em>¥</em><i>4588.00</i></strong>						<div class="p-icons" id="J_pro_1251378"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="Apple Mac mini台式电脑 (Core i5 处理器/8GB内存/1TB 存储 MGEN2CH/A)" href="//item.jd.com/1251378.html" onclick="searchlog(1,1251378,14,1,'','flagsClk=4194952')">
+							<em>Apple Mac mini台式<font class="skcolor_ljg">电脑</font> (Core i5 处理器/8GB内存/1TB 存储 MGEN2CH/A)</em>
+							<i class="promo-words" id="J_AD_1251378"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1251378" target="_blank" href="//item.jd.com/1251378.html#comments-list" onclick="searchlog(1,1251378,14,3,'','flagsClk=4194952')">5891</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1251378" href="javascript:;" onclick="searchlog(1,1251378,14,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1251378" href="javascript:;" onclick="searchlog(1,1251378,14,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1251378" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1251378&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1251378,14,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1657867" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="戴尔（DELL）Vostro 3800-R6338 台式电脑 （ i3-4170 4G 500GB DVD 三年上门 三年硬盘保留）黑" href="//item.jd.com/1657867.html" onclick="searchlog(1,1657867,15,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t1903/240/2329045344/111059/589ce425/56fe2b7aN8ac2cabd.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000140" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1657867" data-price="3699.00"><em>¥</em><i>3699.00</i></strong>						<div class="p-icons" id="J_pro_1657867"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="戴尔（DELL）Vostro 3800-R6338 台式电脑 （ i3-4170 4G 500GB DVD 三年上门 三年硬盘保留）黑" href="//item.jd.com/1657867.html" onclick="searchlog(1,1657867,15,1,'','flagsClk=4194952')">
+							<em>戴尔（DELL）Vostro 3800-R6338 台式<font class="skcolor_ljg">电脑</font> （ i3-4170 4G 500GB DVD 三年上门 三年硬盘保留）黑</em>
+							<i class="promo-words" id="J_AD_1657867"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1657867" target="_blank" href="//item.jd.com/1657867.html#comments-list" onclick="searchlog(1,1657867,15,3,'','flagsClk=4194952')">4015</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1657867" href="javascript:;" onclick="searchlog(1,1657867,15,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1657867" href="javascript:;" onclick="searchlog(1,1657867,15,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1657867" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1657867&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1657867,15,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2456004" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="海尔（Haier）天越Y3 台式电脑(Intel四核J3160 4G 500G 键鼠 WIFI Win10 )办公电脑" href="//item.jd.com/2456004.html" onclick="searchlog(1,2456004,16,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t1951/336/1808823336/235553/c41aab48/56dd22a8N60a94f0c.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000175" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2456004" data-price="1899.00"><em>¥</em><i>1899.00</i></strong>						<div class="p-icons" id="J_pro_2456004"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="海尔（Haier）天越Y3 台式电脑(Intel四核J3160 4G 500G 键鼠 WIFI Win10 )办公电脑" href="//item.jd.com/2456004.html" onclick="searchlog(1,2456004,16,1,'','flagsClk=4194952')">
+							<em>海尔（Haier）天越Y3 台式<font class="skcolor_ljg">电脑</font>(Intel四核J3160 4G 500G 键鼠 WIFI Win10 )办公<font class="skcolor_ljg">电脑</font></em>
+							<i class="promo-words" id="J_AD_2456004"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2456004" target="_blank" href="//item.jd.com/2456004.html#comments-list" onclick="searchlog(1,2456004,16,3,'','flagsClk=4194952')">470</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2456004" href="javascript:;" onclick="searchlog(1,2456004,16,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2456004" href="javascript:;" onclick="searchlog(1,2456004,16,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2456004" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2456004&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2456004,16,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1875350" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="联想（Lenovo）Erazer X310 游戏台式电脑（I5-4590 8G 120G固态硬盘 GTX750ti 2G独显 千兆网卡 DOS）23英寸" href="//item.jd.com/1875350.html" onclick="searchlog(1,1875350,17,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t2449/297/2717130432/125410/50a5dd91/56ea4d30Nf9326c5b.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000157" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1875350" data-price="5799.00"><em>¥</em><i>5799.00</i></strong>						<div class="p-icons" id="J_pro_1875350"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="联想（Lenovo）Erazer X310 游戏台式电脑（I5-4590 8G 120G固态硬盘 GTX750ti 2G独显 千兆网卡 DOS）23英寸" href="//item.jd.com/1875350.html" onclick="searchlog(1,1875350,17,1,'','flagsClk=4194952')">
+							<em>联想（Lenovo）Erazer X310 游戏台式<font class="skcolor_ljg">电脑</font>（I5-4590 8G 120G固态硬盘 GTX750ti 2G独显 千兆网卡 DOS）23英寸</em>
+							<i class="promo-words" id="J_AD_1875350"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1875350" target="_blank" href="//item.jd.com/1875350.html#comments-list" onclick="searchlog(1,1875350,17,3,'','flagsClk=4194952')">718</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1875350" href="javascript:;" onclick="searchlog(1,1875350,17,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1875350" href="javascript:;" onclick="searchlog(1,1875350,17,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1875350" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1875350&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1875350,17,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1644314" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="联想（Lenovo） IdeaCentre C560 23英寸一体机电脑（i5-4460T 8G 1T 2G独显 Rambo刻录 Wifi Win10）黑色" href="//item.jd.com/1644314.html" onclick="searchlog(1,1644314,18,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2443/97/2268499978/147686/d3964f08/56f8ca62N1666b891.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000157" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1644314" data-price="5199.00"><em>¥</em><i>5199.00</i></strong>						<div class="p-icons" id="J_pro_1644314"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="联想（Lenovo） IdeaCentre C560 23英寸一体机电脑（i5-4460T 8G 1T 2G独显 Rambo刻录 Wifi Win10）黑色" href="//item.jd.com/1644314.html" onclick="searchlog(1,1644314,18,1,'','flagsClk=4194952')">
+							<em>联想（Lenovo） IdeaCentre C560 23英寸一体机<font class="skcolor_ljg">电脑</font>（i5-4460T 8G 1T 2G独显 Rambo刻录 Wifi Win10）黑色</em>
+							<i class="promo-words" id="J_AD_1644314"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1644314" target="_blank" href="//item.jd.com/1644314.html#comments-list" onclick="searchlog(1,1644314,18,3,'','flagsClk=4194952')">3760</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1644314" href="javascript:;" onclick="searchlog(1,1644314,18,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1644314" href="javascript:;" onclick="searchlog(1,1644314,18,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1644314" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1644314&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1644314,18,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1812695" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="戴尔（DELL）Vostro 3052-R1308 19.5英寸一体机电脑 （奔腾 4G 500G WIFI 高清摄像头 三年上门 Win10）黑" href="//item.jd.com/1812695.html" onclick="searchlog(1,1812695,19,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t2293/321/2265642534/241230/8a720cd1/56fe1d61Neb3f6c57.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000140" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1812695" data-price="2599.00"><em>¥</em><i>2599.00</i></strong>						<div class="p-icons" id="J_pro_1812695"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="戴尔（DELL）Vostro 3052-R1308 19.5英寸一体机电脑 （奔腾 4G 500G WIFI 高清摄像头 三年上门 Win10）黑" href="//item.jd.com/1812695.html" onclick="searchlog(1,1812695,19,1,'','flagsClk=4194952')">
+							<em>戴尔（DELL）Vostro 3052-R1308 19.5英寸一体机<font class="skcolor_ljg">电脑</font> （奔腾 4G 500G WIFI 高清摄像头 三年上门 Win10）黑</em>
+							<i class="promo-words" id="J_AD_1812695"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1812695" target="_blank" href="//item.jd.com/1812695.html#comments-list" onclick="searchlog(1,1812695,19,3,'','flagsClk=4194952')">1173</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1812695" href="javascript:;" onclick="searchlog(1,1812695,19,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1812695" href="javascript:;" onclick="searchlog(1,1812695,19,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1812695" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1812695&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1812695,19,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1867185" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="宏碁（acer）ATC705-N52 台式电脑（Win10 奔腾G3260 4G 500G 集显 键鼠 USB3.0）19.5英寸" href="//item.jd.com/1867185.html" onclick="searchlog(1,1867185,20,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t2734/74/1704997404/252095/ebe51f26/5747aa67Ncda0baaa.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000177" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1867185" data-price="2499.00"><em>¥</em><i>2499.00</i></strong>						<div class="p-icons" id="J_pro_1867185"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="宏碁（acer）ATC705-N52 台式电脑（Win10 奔腾G3260 4G 500G 集显 键鼠 USB3.0）19.5英寸" href="//item.jd.com/1867185.html" onclick="searchlog(1,1867185,20,1,'','flagsClk=4194952')">
+							<em>宏碁（acer）ATC705-N52 台式<font class="skcolor_ljg">电脑</font>（Win10 奔腾G3260 4G 500G 集显 键鼠 USB3.0）19.5英寸</em>
+							<i class="promo-words" id="J_AD_1867185"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1867185" target="_blank" href="//item.jd.com/1867185.html#comments-list" onclick="searchlog(1,1867185,20,3,'','flagsClk=4194952')">652</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1867185" href="javascript:;" onclick="searchlog(1,1867185,20,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1867185" href="javascript:;" onclick="searchlog(1,1867185,20,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1867185" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1867185&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1867185,20,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1603656" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="惠普（HP）20-r031cn 19.45英寸一体机电脑 （i3-4170T 4GB 500GB 1GB独显 Win8.1）" href="//item.jd.com/1603656.html" onclick="searchlog(1,1603656,21,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t1537/158/335801330/92944/361877c9/5576c501Nef3825c1.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000155" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1603656" data-price="3199.00"><em>¥</em><i>3199.00</i></strong>						<div class="p-icons" id="J_pro_1603656"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="惠普（HP）20-r031cn 19.45英寸一体机电脑 （i3-4170T 4GB 500GB 1GB独显 Win8.1）" href="//item.jd.com/1603656.html" onclick="searchlog(1,1603656,21,1,'','flagsClk=4194952')">
+							<em>惠普（HP）20-r031cn 19.45英寸一体机<font class="skcolor_ljg">电脑</font> （i3-4170T 4GB 500GB 1GB独显 Win8.1）</em>
+							<i class="promo-words" id="J_AD_1603656"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1603656" target="_blank" href="//item.jd.com/1603656.html#comments-list" onclick="searchlog(1,1603656,21,3,'','flagsClk=4194952')">1316</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1603656" href="javascript:;" onclick="searchlog(1,1603656,21,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1603656" href="javascript:;" onclick="searchlog(1,1603656,21,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1603656" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1603656&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1603656,21,4,'','flagsClk=4194952')" data-parallel="1"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2696509" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="惠普（HP）HP 286 Pro G2 MT台式电脑 W5W44PA#AB2（i5-6500 4G 1T Win10）18.5英寸显示器" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwNDAxMDMyXzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzI2OTY1MDkuaHRtbA&log=daYRcqVj9q9AgcezT3330MEf0XQiV3fVD7RV8iBfhFEQFgQEcEHhq_Qg9ZPMrbjt6F1VTStLi2prb6ajEJBbWKG8j2kV3tcnG7HC_CxPvSQyl4jzwFClnyawHu4UDQoIjsvHF3Y0qaaiDdCFE2DKIGmNQT7uK0kRY31UFQyy9SIMhmq36EJjnODd6U8c1MfKsDE2IpnABtoDMq5Wc1tqfrT_lWg_KiggfKL8kr5ShJqB-5QDOfyxfsVFESnCueGVabiuoFze6Enb4uQgMPuM9r61mQLexE_8e_8TOcaC2iXcGmAfnVQ-v9o4QHHSHQwLAi9bOKVaift4_f7wMxCuotPKnCJULXvVkK1A0pWPBpTKzcGs3wMF7q_nEMf-6C3-&v=404" onclick="searchlog(1,2696509,22,2,'','adwClk=1')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2773/102/463841121/141719/1b4d8b0f/5715db69N4cb95ca7.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000155" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2696509"></strong>						<div class="p-icons" id="J_pro_2696509"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="惠普（HP）HP 286 Pro G2 MT台式电脑 W5W44PA#AB2（i5-6500 4G 1T Win10）18.5英寸显示器" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwNDAxMDMyXzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzI2OTY1MDkuaHRtbA&log=daYRcqVj9q9AgcezT3330MEf0XQiV3fVD7RV8iBfhFEQFgQEcEHhq_Qg9ZPMrbjt6F1VTStLi2prb6ajEJBbWKG8j2kV3tcnG7HC_CxPvSQyl4jzwFClnyawHu4UDQoIjsvHF3Y0qaaiDdCFE2DKIGmNQT7uK0kRY31UFQyy9SIMhmq36EJjnODd6U8c1MfKsDE2IpnABtoDMq5Wc1tqfrT_lWg_KiggfKL8kr5ShJqB-5QDOfyxfsVFESnCueGVabiuoFze6Enb4uQgMPuM9r61mQLexE_8e_8TOcaC2iXcGmAfnVQ-v9o4QHHSHQwLAi9bOKVaift4_f7wMxCuotPKnCJULXvVkK1A0pWPBpTKzcGs3wMF7q_nEMf-6C3-&v=404" onclick="searchlog(1,2696509,22,1,'','adwClk=1')">
+							<em>惠普（HP）HP 286 Pro G2 MT台式<font class="skcolor_ljg">电脑</font> W5W44PA#AB2（i5-6500 4G 1T Win10）18.5英寸显示器</em>
+							<i class="promo-words" id="J_AD_2696509"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2696509" target="_blank" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwNDAxMDMyXzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzI2OTY1MDkuaHRtbA&log=daYRcqVj9q9AgcezT3330MEf0XQiV3fVD7RV8iBfhFEQFgQEcEHhq_Qg9ZPMrbjt6F1VTStLi2prb6ajEJBbWKG8j2kV3tcnG7HC_CxPvSQyl4jzwFClnyawHu4UDQoIjsvHF3Y0qaaiDdCFE2DKIGmNQT7uK0kRY31UFQyy9SIMhmq36EJjnODd6U8c1MfKsDE2IpnABtoDMq5Wc1tqfrT_lWg_KiggfKL8kr5ShJqB-5QDOfyxfsVFESnCueGVabiuoFze6Enb4uQgMPuM9r61mQLexE_8e_8TOcaC2iXcGmAfnVQ-v9o4QHHSHQwLAi9bOKVaift4_f7wMxCuotPKnCJULXvVkK1A0pWPBpTKzcGs3wMF7q_nEMf-6C3-&v=404" onclick="searchlog(1,2696509,22,3,'','adwClk=1')">6</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2696509" href="javascript:;" onclick="searchlog(1,2696509,22,6,'','adwClk=1')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2696509" href="javascript:;" onclick="searchlog(1,2696509,22,5,'','adwClk=1')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2696509" data-stock-val="-1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2696509&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2696509,22,4,'','adwClk=1')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<span class="p-promo-flag">推广</span>
+					<script src="https://im-x.jd.com/dsp/np?log=daYRcqVj9q9AgcezT3330MEf0XQiV3fVD7RV8iBfhFEQFgQEcEHhq/Qg9ZPMrbjt6F1VTStLi2prb6ajEJBbWKG8j2kV3tcnG7HC/CxPvSQyl4jzwFClnyawHu4UDQoIjsvHF3Y0qaaiDdCFE2DKIGmNQT7uK0kRY31UFQyy9SJni1P/2FkkMsXnIwjiUMTNOWXbGG1/iXlcF3faS4DFE7Mq4/xEyx9MNKIJBppCiBT+wJuImGylT1nPrC0b1wQqwnxgKINFdg90fk7GaWguJHPJBdQZ9vIGaxRPqRAuDp3/k3cTtcPULKMxtqJsyNpCjgVQZNXUAOpF6TkRzw9ryDrHlqOuhWUPuqBkTsQ0T6EVYe3FU8y1P0NaZVHGX2Gc+EbIz9CW+0ZvfJh4zrnwtw==&v=404"></script>
+	</div>
+</li>
+<li data-sku="1689948" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="联想（Lenovo）H3050台式电脑（i3-4170 4G 500G 1G独显 DVD 千兆网卡 Win7）23英寸" href="//item.jd.com/1689948.html" onclick="searchlog(1,1689948,23,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t1486/133/259592473/114483/e0e19519/556c141fN6ff5a9de.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000157" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1689948" data-price="4099.00"><em>¥</em><i>4099.00</i></strong>						<div class="p-icons" id="J_pro_1689948"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="联想（Lenovo）H3050台式电脑（i3-4170 4G 500G 1G独显 DVD 千兆网卡 Win7）23英寸" href="//item.jd.com/1689948.html" onclick="searchlog(1,1689948,23,1,'','flagsClk=4194952')">
+							<em>联想（Lenovo）H3050台式<font class="skcolor_ljg">电脑</font>（i3-4170 4G 500G 1G独显 DVD 千兆网卡 Win7）23英寸</em>
+							<i class="promo-words" id="J_AD_1689948"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1689948" target="_blank" href="//item.jd.com/1689948.html#comments-list" onclick="searchlog(1,1689948,23,3,'','flagsClk=4194952')">1317</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1689948" href="javascript:;" onclick="searchlog(1,1689948,23,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1689948" href="javascript:;" onclick="searchlog(1,1689948,23,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1689948" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1689948&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1689948,23,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li class="gl-item" data-type="activity" >
+	<div class="gl-act-v2 gl-act-skin3">
+		<div class="gl-act-img"><a href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTkxMTE3MjRfMTIwNCZ0bz1odHRwOi8vaHVpcHUuamQuY29tLw&log=uzuYEyBtN1m5SGzUasXwgIyJ3ysunKXOVU8bQf-CJ3pEdTa9JK1rn9we9lK5W3LLtIVdalay30l4x2ew_ncx3Y8Nh905eWAfAniq9F5voZ87G--n4P0zFZKNsAocDMpvrqMUacmnL3pMofFrvS2CRfSHTO3vSQvFn4o4e6zMw1sgEPWDPor8YwUlEs-dIQ67Ao_5HqiZufOXrFb90WYR3EVAoeES7_LgW81WVNvKrGbdyw_ZaIqK0Wyrvy3tK7J9t1f5050CJR4j0wRkWaUjKW6Uj4R_SZLQNaRnld8MY6rUCSD2w9vpZqbQrecy-Zeqbt_gONGYODTdvI_Rv-U9mogE8MCJI1VdXCdPm8MCA80&v=404" title="惠普官方旗舰店" onclick="searchlog(1,9111724,24,2,'','advClk=1')" target="_blank"><img data-img="1" data-lazy-img="//img30.360buyimg.com/n1/s282x282_jfs/t2245/303/2804034130/36930/6a757252/57171430N8ec4eec2.jpg" class="err-product"/></a></div>
+		<div class="gl-act-main">
+			<div class="gl-act-detail">
+				<div class="gl-act-title"><strong>惠普官方旗舰店</strong></div>
+				<div class="gl-act-infor">惠普，创无止境</div>
+				<div class="gl-act-enter"><a href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTkxMTE3MjRfMTIwNCZ0bz1odHRwOi8vaHVpcHUuamQuY29tLw&log=uzuYEyBtN1m5SGzUasXwgIyJ3ysunKXOVU8bQf-CJ3pEdTa9JK1rn9we9lK5W3LLtIVdalay30l4x2ew_ncx3Y8Nh905eWAfAniq9F5voZ87G--n4P0zFZKNsAocDMpvrqMUacmnL3pMofFrvS2CRfSHTO3vSQvFn4o4e6zMw1sgEPWDPor8YwUlEs-dIQ67Ao_5HqiZufOXrFb90WYR3EVAoeES7_LgW81WVNvKrGbdyw_ZaIqK0Wyrvy3tK7J9t1f5050CJR4j0wRkWaUjKW6Uj4R_SZLQNaRnld8MY6rUCSD2w9vpZqbQrecy-Zeqbt_gONGYODTdvI_Rv-U9mogE8MCJI1VdXCdPm8MCA80&v=404" onclick="searchlog(1,9111724,24,2,'','advClk=1')" class="gl-act-btn" target="_blank">立即开抢</a></div>
+			</div>
+			<a href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTkxMTE3MjRfMTIwNCZ0bz1odHRwOi8vaHVpcHUuamQuY29tLw&log=uzuYEyBtN1m5SGzUasXwgIyJ3ysunKXOVU8bQf-CJ3pEdTa9JK1rn9we9lK5W3LLtIVdalay30l4x2ew_ncx3Y8Nh905eWAfAniq9F5voZ87G--n4P0zFZKNsAocDMpvrqMUacmnL3pMofFrvS2CRfSHTO3vSQvFn4o4e6zMw1sgEPWDPor8YwUlEs-dIQ67Ao_5HqiZufOXrFb90WYR3EVAoeES7_LgW81WVNvKrGbdyw_ZaIqK0Wyrvy3tK7J9t1f5050CJR4j0wRkWaUjKW6Uj4R_SZLQNaRnld8MY6rUCSD2w9vpZqbQrecy-Zeqbt_gONGYODTdvI_Rv-U9mogE8MCJI1VdXCdPm8MCA80&v=404" onclick="searchlog(1,9111724,24,2,'','advClk=1')" target="_blank" class="gl-act-promo">推广</a>
+			<script src="https://im-x.jd.com/dsp/np?log=uzuYEyBtN1m5SGzUasXwgIyJ3ysunKXOVU8bQf+CJ3pEdTa9JK1rn9we9lK5W3LLtIVdalay30l4x2ew/ncx3Y8Nh905eWAfAniq9F5voZ87G++n4P0zFZKNsAocDMpvrqMUacmnL3pMofFrvS2CRfSHTO3vSQvFn4o4e6zMw1upePbjxYXdPlH8NsqUgJXQym7HRHIMSNxWtvSeFYjUE2xwhYHp2Fv/+v7psbjTN/tkKeUw1T87H9p+s8lzzoC3FO1Bg8Id2K8px8IvcAXWJFxy/OzVsSpin5eAxaViRcpGUGCtGrks1sO2bGqSnECLuoPDIt6Ss2ebMzaAeeKytskLt0fjMkQX04K5SuIBtzTrNMvhh3P4V1QEEHORIc+Y&v=404"></script>
+		</div>
+	</div>
+</li><li data-sku="1657851" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="戴尔（DELL）Vostro 3900-R6308 台式电脑 （ i3-4170 4G 500GB DVD 三年上门 三年硬盘保留）黑" href="//item.jd.com/1657851.html" onclick="searchlog(1,1657851,25,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2713/270/304994350/150509/d7540a07/570d0e53N68607a86.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000140" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1657851" data-price="3499.00"><em>¥</em><i>3499.00</i></strong>						<div class="p-icons" id="J_pro_1657851"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="戴尔（DELL）Vostro 3900-R6308 台式电脑 （ i3-4170 4G 500GB DVD 三年上门 三年硬盘保留）黑" href="//item.jd.com/1657851.html" onclick="searchlog(1,1657851,25,1,'','flagsClk=4194952')">
+							<em>戴尔（DELL）Vostro 3900-R6308 台式<font class="skcolor_ljg">电脑</font> （ i3-4170 4G 500GB DVD 三年上门 三年硬盘保留）黑</em>
+							<i class="promo-words" id="J_AD_1657851"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1657851" target="_blank" href="//item.jd.com/1657851.html#comments-list" onclick="searchlog(1,1657851,25,3,'','flagsClk=4194952')">2022</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1657851" href="javascript:;" onclick="searchlog(1,1657851,25,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1657851" href="javascript:;" onclick="searchlog(1,1657851,25,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1657851" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1657851&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1657851,25,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2060975" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="联想（Lenovo）扬天T4900c 台式电脑 （i5-4590 4G 1T 1G独显 DVDRW 千兆网卡 WIN7 64位）21.5英寸" href="//item.jd.com/2060975.html" onclick="searchlog(1,2060975,26,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t2365/23/1650110178/130348/df49abe6/5670d81aNab0edb50.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000072509" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2060975" data-price="4399.00"><em>¥</em><i>4399.00</i></strong>						<div class="p-icons" id="J_pro_2060975"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="联想（Lenovo）扬天T4900c 台式电脑 （i5-4590 4G 1T 1G独显 DVDRW 千兆网卡 WIN7 64位）21.5英寸" href="//item.jd.com/2060975.html" onclick="searchlog(1,2060975,26,1,'','flagsClk=4194952')">
+							<em>联想（Lenovo）扬天T4900c 台式<font class="skcolor_ljg">电脑</font> （i5-4590 4G 1T 1G独显 DVDRW 千兆网卡 WIN7 64位）21.5英寸</em>
+							<i class="promo-words" id="J_AD_2060975"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2060975" target="_blank" href="//item.jd.com/2060975.html#comments-list" onclick="searchlog(1,2060975,26,3,'','flagsClk=4194952')">991</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2060975" href="javascript:;" onclick="searchlog(1,2060975,26,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2060975" href="javascript:;" onclick="searchlog(1,2060975,26,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2060975" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2060975&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2060975,26,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1710046" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="戴尔（DELL）Inspiron 3847-R7738 灵越台式电脑 （I3-4170 4G 500G 2G独显 WIFI 三年上门 Win7）黑" href="//item.jd.com/1710046.html" onclick="searchlog(1,1710046,27,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2635/364/1085953353/180370/a615b766/573435f9N2bbb86af.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000140" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2896/42/1289056681/1024/ec1f47d1/573938bbN668f171a.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1710046" data-price="3999.00"><em>¥</em><i>3999.00</i></strong>						<div class="p-icons" id="J_pro_1710046"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="戴尔（DELL）Inspiron 3847-R7738 灵越台式电脑 （I3-4170 4G 500G 2G独显 WIFI 三年上门 Win7）黑" href="//item.jd.com/1710046.html" onclick="searchlog(1,1710046,27,1,'','flagsClk=4194952')">
+							<em>戴尔（DELL）Inspiron 3847-R7738 灵越台式<font class="skcolor_ljg">电脑</font> （I3-4170 4G 500G 2G独显 WIFI 三年上门 Win7）黑</em>
+							<i class="promo-words" id="J_AD_1710046"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1710046" target="_blank" href="//item.jd.com/1710046.html#comments-list" onclick="searchlog(1,1710046,27,3,'','flagsClk=4194952')">1752</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1710046" href="javascript:;" onclick="searchlog(1,1710046,27,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1710046" href="javascript:;" onclick="searchlog(1,1710046,27,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1710046" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1710046&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1710046,27,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1288677" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="戴尔（DELL）Vostro 3900-R7938 台式电脑（i7-4790 8G 1T 4G独显 DVDRW三年上门 三年硬盘保留）" href="//item.jd.com/1288677.html" onclick="searchlog(1,1288677,28,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t2902/24/325178769/207043/d8c39fa8/570e048bN22d68802.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000140" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1288677" data-price="6599.00"><em>¥</em><i>6599.00</i></strong>						<div class="p-icons" id="J_pro_1288677"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="戴尔（DELL）Vostro 3900-R7938 台式电脑（i7-4790 8G 1T 4G独显 DVDRW三年上门 三年硬盘保留）" href="//item.jd.com/1288677.html" onclick="searchlog(1,1288677,28,1,'','flagsClk=4194952')">
+							<em>戴尔（DELL）Vostro 3900-R7938 台式<font class="skcolor_ljg">电脑</font>（i7-4790 8G 1T 4G独显 DVDRW三年上门 三年硬盘保留）</em>
+							<i class="promo-words" id="J_AD_1288677"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1288677" target="_blank" href="//item.jd.com/1288677.html#comments-list" onclick="searchlog(1,1288677,28,3,'','flagsClk=4194952')">2308</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1288677" href="javascript:;" onclick="searchlog(1,1288677,28,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1288677" href="javascript:;" onclick="searchlog(1,1288677,28,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1288677" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1288677&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1288677,28,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1288674" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="戴尔（DELL）Vostro 3900-R5938C 台式电脑（i5-4460 4G 1T 4G独显 DVDRW 三年上门 三年硬盘保留）" href="//item.jd.com/1288674.html" onclick="searchlog(1,1288674,29,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2206/187/2586358837/207043/d8c39fa8/570e0465Ne80c907d.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000000140" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t2932/242/163285178/957/6585a96c/574e5daeN5f9c7420.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1288674" data-price="5388.00"><em>¥</em><i>5388.00</i></strong>						<div class="p-icons" id="J_pro_1288674"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="戴尔（DELL）Vostro 3900-R5938C 台式电脑（i5-4460 4G 1T 4G独显 DVDRW 三年上门 三年硬盘保留）" href="//item.jd.com/1288674.html" onclick="searchlog(1,1288674,29,1,'','flagsClk=4194952')">
+							<em>戴尔（DELL）Vostro 3900-R5938C 台式<font class="skcolor_ljg">电脑</font>（i5-4460 4G 1T 4G独显 DVDRW 三年上门 三年硬盘保留）</em>
+							<i class="promo-words" id="J_AD_1288674"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1288674" target="_blank" href="//item.jd.com/1288674.html#comments-list" onclick="searchlog(1,1288674,29,3,'','flagsClk=4194952')">3863</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1288674" href="javascript:;" onclick="searchlog(1,1288674,29,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1288674" href="javascript:;" onclick="searchlog(1,1288674,29,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1288674" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1288674&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1288674,29,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+</ul><span class="clr"></span></div><div id="J_scroll_loading" class="notice-loading-more" data-pos="30" data-log-id="1466424267.22927"><span>正在加载中，请稍后~~</span></div><div class="page clearfix"><div id="J_bottomPage" class="p-wrap"></div></div>		</div>
+	</div>
+	<div class="m-aside">
+		<div class="aside-bar">
+			<div id="J_promGoodsWrap_6" class="ab-goods"><div class="mt"><h3>推广商品</h3></div><div class="mc"></div></div>
+			<div id="J_recommendGoods" class="ab-goods"><div class="mt"><h3>精品推荐</h3></div><div class="mc"></div></div>
+			<div class="promo-pic-adbox"><h5 class="hd">商家精选</h5><div class="bd"><div id="J_promWrap_576"><div class="mc"></div></div></div></div>
+			<div id="miaozhen8148" class="ab-pic"></div>
+		</div>
+	</div>
+	<span class="clr"></span>
+</div>
+<script>
+LogParm = {
+	result_count:'999843',
+	ab:'0012',
+	front_cost:'145',
+	back_cost:'111',
+	ip:'53.140',
+	cid:'',
+	psort:'',
+	page:'1',
+	ekey:'',
+	ev:'0',
+	rec_type:'0',
+	rel_cat2:'671,677',
+	rel_cat3:'673,672,11762',
+	log_id:'1466424267.22927',
+	expand:'actShow=1$advShow=1$adwShow=1$double=1',
+	mtest:'',
+	sig:'XaZyY7nKr90cE7qlEKASTt+EqWHu40AmBmNSY8CSRTq8iIXu7hHopgoo087bMGQ6muG6c7x4ek+AnY0LZ5xx0Feega7g8WnRUt7hT9nWOpRjWi1XYwVzJcPqbAGE9ABBFK5Mwz4+Pv+WW61oVD2v96yfAQ5o900F1+2tU02FqtU='
+};
+SEARCH.is_shop=0;
+SEARCH.is_promotion=0;
+SEARCH.item_count=60;
+SEARCH.click=0;
+SEARCH.adv_param={page:"1",page_count:"100",psort:"",cid1:"",cid2:"",cid3:""};
+SEARCH.base_url='keyword=%E7%94%B5%E8%84%91&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=2';
+SEARCH.brand_ids='5770_51_921_461_614_537_197_184_5_160_2617_2509_99_398_429_587_868_139_647_250_2425_4754_1545_15255_2195_1_396_4085_1_5576_929_611_444_2983_1456_3161_1337_1115_1814_1141_396_133_1181_558_2061_805_2018_2583_836_1795_935_3262_1685_1716_9896_173_445_608_1160_636_964_1113_938_519_727_18_430_436_550_3462_497_702_158_646_359_782_3046_1804_2243_817_1794_242_25_92_731_287_2109_149_707_249_62_56_57_219_1507_1548_151_2_252_706_313_158_188_565_918_778_207_4_774_895_131_218_937_3413_2786_4289_928_1541_3010_331_708_3077_190_2136_1051_1237_5990_3172_473_939_14_2071_888_1893_2038_6280_529_1424_';
+setTimeout(function(){var b={};b.i="1466424267.22927";b.h="671,677";b.k="电脑";b.c="";b.m="9ea87b9e298671c0676cd8c5bde11edb";var a=[];$("#J_crumbsBar").find("a.crumb-select-item").each(function(){a.push($(this).find("b").html().replace("：","::")+$(this).attr("title").replace(/、/g,"||"))});b.s=a.join(";;")+(a.length?";;":"");var c=[];$("#J_selector").find(".J_selectorLine").each(function(){var f=$(this),e=f.find(".sl-key").text().replace("：","::"),d=[];if(e=="高级选项::"){f.find("a.trig-item").each(function(g){e=$(this).text()+"::";d=[];f.find(".J_valueList").eq(g).find("a").each(function(){d.push(e=="颜色::"?$(this).attr("title"):e=="其他分类::"?$(this).attr("data-v"):$(this).text())});c.push(e+d.join(",,"))})}else{if(e=="品牌::"){f.find(".J_valueList li").each(function(){d.push(this.id.replace("brand-",""))})}else{if(e=="颜色::"){f.find(".J_valueList a").each(function(){d.push($(this).attr("title"))})}else{if(f.hasClass("s-category")){f.find(".J_valueList a").each(function(){d.push($(this).attr("data-v"))})}else{f.find(".J_valueList a").each(function(){d.push($(this).text())})}}}c.push(e+d.join(",,"))}});b.u=c.join(";;")+(c.length?";;":"");$.post("attrlog.php",b,function(){})},500);
+</script>
+<script>$.get("im.php?r=181807648&t=1466424267.7976&cs=42531477510f5854257984d38c187e18");</script></div>
+</div>
+<div class="w">
+	<div class="m-box-s1 rec-goods-chosen hide" id="J_promGoodsWrap_292">
+		<div class="mt"><strong class="mt-title">商品精选</strong></div>
+		<div class="mc"></div>
+	</div>
+</div>
+<div class="w">
+	<div class="bottom-search">
+		<div class="form-group">
+			<div class="fg-line search-ext">
+				<div class="fg-line-key"><span>您是不是要找：</span></div>
+				<div class="fg-line-value" clstag="search|keycount|search|qpsearch"></div>
+			</div>
+			<div class="fg-line re-search">
+				<div class="fg-line-key"><b>重新搜索：</b></div>
+				<div class="fg-line-value">
+					<input id="key-re-search" class="input-txt input-XL" type="text" placeholder="搜索" value="电脑" onkeydown="javascript:if(event.keyCode==13){searchlog(1,0,0,60);search('key-re-search');}">
+					<a class="btn btn-primary btn-XL" href="javascript:search('key-re-search')" onclick="searchlog(1,0,0,60)">搜索</a>
+					<a class="link" href="javascript:surveyShow()">说说我使用搜索的感受</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="w">
+	<div id="footmark" class="footmark" data-lazyload-fn="done"></div>
+</div>
+<div id="service-2014">
+	<div class="slogen">
+		<span class="item fore1">
+			<i></i><b>多</b>品类齐全，轻松购物
+		</span>
+		<span class="item fore2">
+			<i></i><b>快</b>多仓直发，极速配送
+		</span>
+		<span class="item fore3">
+			<i></i><b>好</b>正品行货，精致服务
+		</span>
+		<span class="item fore4">
+			<i></i><b>省</b>天天低价，畅选无忧
+		</span>
+	</div>
+	<div class="w">
+		<dl class="fore1">
+			<dt>购物指南</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-29.html">购物流程</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-151.html">会员介绍</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-297.html">生活旅行/团购</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue.html">常见问题</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-136.html">大家电</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/index.html">联系客服</a></div>
+			</dd>
+		</dl>
+		<dl class="fore2">		
+			<dt>配送方式</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81-100.html">上门自提</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81.html">211限时达</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/103-983.html">配送服务查询</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/109-188.html">配送费收取标准</a></div>				
+				<div><a target="_blank" href="//en.jd.com/chinese.html">海外配送</a></div>
+			</dd>
+		</dl>
+		<dl class="fore3">
+			<dt>支付方式</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-172.html">货到付款</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-173.html">在线支付</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-176.html">分期付款</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-174.html">邮局汇款</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-175.html">公司转账</a></div>
+			</dd>
+		</dl>
+		<dl class="fore4">		
+			<dt>售后服务</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/321-981.html">售后政策</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-132.html">价格保护</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/130-978.html">退款说明</a></div>
+				<div><a rel="nofollow" target="_blank" href="//myjd.jd.com/repair/repairs.action">返修/退换货</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-50.html">取消订单</a></div>
+			</dd>
+		</dl>
+		<dl class="fore5">
+			<dt>特色服务</dt>
+			<dd>		
+				<div><a target="_blank" href="//help.jd.com/user/issue/list-133.html">夺宝岛</a></div>
+				<div><a target="_blank" href="//help.jd.com/user/issue/list-134.html">DIY装机</a></div>
+				<div><a rel="nofollow" target="_blank" href="//fuwu.jd.com/">延保服务</a></div>
+				<div><a rel="nofollow" target="_blank" href="//o.jd.com/market/index.action">京东E卡</a></div>				
+				<div><a rel="nofollow" target="_blank" href="//mobile.jd.com/">京东通信</a></div>
+				<div><a rel="nofollow" target="_blank" href="//s.jd.com/">京东JD+</a></div>
+			</dd>
+		</dl>
+		<span class="clr"></span>
+	</div>
+</div><div class="w">
+	<div id="footer-2014">
+		<div class="links"><a rel="nofollow" target="_blank" href="//www.jd.com/intro/about.aspx">关于我们</a>|<a rel="nofollow" target="_blank" href="//www.jd.com/contact/">联系我们</a>|<a rel="nofollow" target="_blank" href="//www.jd.com/contact/joinin.aspx">商家入驻</a>|<a rel="nofollow" target="_blank" href="//jzt.jd.com">营销中心</a>|<a rel="nofollow" target="_blank" href="//app.jd.com/">手机京东</a>|<a target="_blank" href="//club.jd.com/links.aspx">友情链接</a>|<a target="_blank" href="//media.jd.com/">销售联盟</a>|<a href="//club.jd.com/" target="_blank">京东社区</a>|<a href="//gongyi.jd.com" target="_blank">京东公益</a>|<a href="//en.jd.com/" target="_blank">English Site</a>|<a href="//en.jd.com/help/question-58.html" target="_blank">Contact Us</a></div>
+		<div class="copyright"><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088"><img src="//img13.360buyimg.com/cms/jfs/t2293/321/1377257360/19256/c267b386/56a0a994Nf1b662dc.png" /> 京公网安备 11000002000088号</a>&nbsp;&nbsp;|&nbsp;&nbsp;京ICP证070359号&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_blank" href="//img14.360buyimg.com/da/jfs/t256/349/769670066/270505/3b03e0bb/53f16c24N7c04d9e9.jpg">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a>&nbsp;&nbsp;|&nbsp;&nbsp;新出发京零&nbsp;字第大120007号<br>互联网出版许可证编号新出网证(京)字150号&nbsp;&nbsp;|&nbsp;&nbsp;<a rel="nofollow" href="//img30.360buyimg.com/uba/jfs/t1036/328/1487467280/1405104/ea57ab94/5732f60aN53b01d06.jpg" target="_blank">出版物经营许可证</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="//misc.360buyimg.com/wz/wlwhjyxkz.jpg" target="_blank">网络文化经营许可证京网文[2014]2148-348号</a>&nbsp;&nbsp;|&nbsp;&nbsp;违法和不良信息举报电话：4006561155<br>Copyright&nbsp;&copy;&nbsp;2004-2016&nbsp;&nbsp;京东JD.com&nbsp;版权所有&nbsp;&nbsp;|&nbsp;&nbsp;消费者维权热线：4006067733<br>京东旗下网站：<a href="https://www.jdpay.com/" target="_blank">京东钱包</a>
+		</div>		
+		<div class="authentication">
+			<a rel="nofollow" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007080200026">
+				<img width="103" height="32" alt="经营性网站备案中心" src="//img12.360buyimg.com/da/jfs/t535/349/1185317137/2350/7fc5b9e4/54b8871eNa9a7067e.png" class="err-product" />
+			</a>
+			<script type="text/JavaScript">function CNNIC_change(eleId){var str= document.getElementById(eleId).href;var str1 =str.substring(0,(str.length-6));str1+=CNNIC_RndNum(6); document.getElementById(eleId).href=str1;}function CNNIC_RndNum(k){var rnd=""; for (var i=0;i < k;i++) rnd+=Math.floor(Math.random()*10); return rnd;}</script>
+			<a rel="nofollow" target="_blank" id="urlknet" tabindex="-1" href="https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ct=df&pa=294005">
+				<img border="true" width="103" height="32" onclick="CNNIC_change('urlknet')" oncontextmenu="return false;" name="CNNIC_seal" alt="可信网站" src="//img11.360buyimg.com/da/jfs/t643/61/1174624553/2576/4037eb5f/54b8872dNe37a9860.png" class="err-product" />
+			</a>
+			<a rel="nofollow" target="_blank" href="http://www.bj.cyberpolice.cn/index.do">
+				<img width="103" height="32" alt="网络警察" src="//img12.360buyimg.com/cms/jfs/t2050/256/1470027660/4336/2a2c74bd/56a89b8fNfbaade9a.jpg" class="err-product" />
+			</a>
+			<a rel="nofollow" target="_blank" href="https://search.szfw.org/cert/l/CX20120111001803001836">
+				<img width="103" height="32" src="//img11.360buyimg.com/da/jfs/t451/173/1189513923/1992/ec69b14a/54b8875fNad1e0c4c.png" class="err-product" />
+			</a>
+			<a target="_blank" href="http://www.12377.cn"><img width="103" height="32" src="//img30.360buyimg.com/da/jfs/t1915/215/1329999964/2996/d7ff13f0/5698dc03N23f2e3b8.jpg"></a>
+			<a target="_blank" href="http://www.12377.cn/node_548446.htm"><img width="103" height="32" src="//img14.360buyimg.com/da/jfs/t2026/221/2097811452/2816/8eb35b4b/5698dc16Nb2ab99df.jpg"></a>
+		</div>
+	</div>
+</div><script>
+seajs.use('product/search/0.0.17/js/main.js').config({alias:{'search_new':'./script/search_new.js?226.js'}}).use('search_new', function(s){
+	s.init(1,200,999843,"",1,0,27,1,0,50);
+});
+</script>
+<script type="text/javascript">
+(function(){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=("https:"==document.location.protocol?"https://wlssl":"//wl")+".jd.com/wl.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();
+window.surveyShow=function(){window.open('//surveys.jd.com/index.php?r=survey/index/sid/393283/lang/zh-Hans/search_version/'+(readCookie((readCookie('mx')||'').indexOf('_M')>-1?'mtest':'xtest')||''))};
+</script>
+<div id="J-global-toolbar"></div>
+<script>
+(function(win) {
+    seajs.use('//static.360buyimg.com/devfe/toolbar/1.0.0/js/main', function(Toolbar) {
+var adConfig = {};
+var actName = null;
+if (window.pageConfig && window.pageConfig.actName) {
+    actName = window.pageConfig.actName;
+}
+
+
+        pageConfig.toolbar = new Toolbar({
+            pType: 'search',
+            bars: {
+                jimi: {
+                    enabled: true
+                },
+                cart: {
+                    enabled: true
+                }
+            },
+            links: {
+                feedback: {
+                    anchor: 'javascript:surveyShow();'
+                },
+                top:{
+                  anchor:"javascript:window.scrollTo(0,0);"
+                }
+            }
+        });
+    });
+
+})(window);
+</script></body>
+</html>

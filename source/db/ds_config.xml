@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+<pool>
+<type>mysql</type>
+<name>poolname</name>
+<driver>com.mysql.jdbc.Driver</driver>
+<url>jdbc:mysql://localhost:*****/*****</url>
+<username>******</username>
+<password>******</password>
+<maxconn>10</maxconn>
+<minconn>5</minconn>
+</pool>
+</config>
+

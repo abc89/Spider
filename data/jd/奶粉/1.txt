@@ -1,0 +1,1688 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="renderer" content="webkit">
+<meta http-equiv="Cache-Control" content="max-age=300" />
+<link rel="dns-prefetch" href="//search.jd.com" /><link rel="dns-prefetch" href="//item.jd.com" /><link rel="dns-prefetch" href="//list.jd.com" /><link rel="dns-prefetch" href="//p.3.cn" /><link rel="dns-prefetch" href="//misc.360buyimg.com" /><link rel="dns-prefetch" href="//nfa.jd.com" /><link rel="dns-prefetch" href="//d.jd.com" /><link rel="dns-prefetch" href="//img12.360buyimg.com" /><link rel="dns-prefetch" href="//img13.360buyimg.com" /><link rel="dns-prefetch" href="//static.360buyimg.com" /><link rel="dns-prefetch" href="//csc.jd.com" /><link rel="dns-prefetch" href="//mercury.jd.com" /><link rel="dns-prefetch" href="//x.jd.com" /><link rel="dns-prefetch" href="//wl.jd.com" /><title>奶粉 - 商品搜索 - 京东</title><meta name="Keywords" content="奶粉,京东奶粉" /><meta name="description" content="在京东中找到了57203件奶粉的类似商品，其中包含了“饮料冲调”，“奶粉”，“户外装备”，“储物家具”等类型的奶粉的商品。" /><script>
+window.jdpts={};jdpts._st=new Date().getTime();window.pageConfig={
+	compatible: false,
+	searchType: 0,
+	floatnav: 1,
+	price_pdos_off: 0,
+	actName: '',
+	queryParam: {
+		c1: '',
+		c2: '',
+		c3: '',
+		brand: '',
+		price: '',
+		keyword: '奶粉',
+		page: '1'
+	}
+};
+window.searchUnit={
+	resizeOnebox: function(g,f,j){var g=parseInt(g),i=typeof f,h=typeof j;if(!isNaN(g)){if("string"==i&&f!=""&&g>0){$("#J_oneBoxFrame_"+f).css("height",g+10);h=="function"&&j()}else{if(i=="undefined"||i=="function"){$("#virtualWareIFrame").css("height",g>0?g+10:0);i=="function"&&f()}}}},
+	resizeShopbox: function(e,d){var f=0;switch(e){case 1:case 2:f=145;break;case 3:f=75;break;case 4:f=80;break;default:break}f&&$("#shopboxIFrame").css("height",f).show();typeof(d)=="string"&&(new Image().src=d)},
+	coupon: {}};
+window.QUERY_KEYWORD='奶粉';
+window.REAL_KEYWORD='奶粉';
+</script>
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/jdf/1.0.0/unit/??ui-base/1.0.0/ui-base.css,shortcut/2.0.0/shortcut.css,global-header/1.0.0/global-header.css,myjd/2.0.0/myjd.css,nav/2.0.0/nav.css,shoppingcart/2.0.0/shoppingcart.css,global-footer/1.0.0/global-footer.css,service/1.0.0/service.css,basePatch/1.0.0/basePatch.css" />
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/product/search/0.0.17/css/search.css" />
+<script type="text/javascript" src="//misc.360buyimg.com/??jdf/lib/jquery-1.6.4.js,jdf/1.0.0/unit/base/1.0.0/base.js"></script>
+<script>
+window.SEARCH = {
+	cid: 7052,
+	ui_ver: '0.0.17',
+	c_category: 0,
+	p_category: 0,
+	activity_id: 0,
+	enable_adv: 1,
+	enable_presale: 1,
+	enable_prom_adwords: 1,
+	enable_prom_flag: 1,
+	enable_price: 1,
+	enable_stock: 1,
+	enable_yyk: 0,
+	is_correct_hash: function(e){var a=["keyword","brand_id","activity_id","coupon_batch"];for(var c=0,b=a.length;c<b;c++){var d=new RegExp("(^|\\?|&)"+a[c]+"=([^&]*)(\\s|&|$)");if(d.test(e)){return true}}return false},
+	get_real_hash: function(){var a=window.location.hash.substr(1);if(a&&$.browser.mozilla){return location.href.substr(location.href.indexOf("#")+1)}else{return a}}
+};
+(function(a,b){var c=b.get_real_hash();if(b.is_correct_hash(c)){a.location.href=a.location.pathname+"?"+c;return false}else{if(a.self!=a.top||$.browser.msie&&$.browser.version<=9){var f=null,e=function(){var d=$(a).width();return 1210>d?$("html").removeClass():$("html").removeClass().addClass(d>=1210&&1390>d?"resp01":"resp02"),true};e();$(a).resize(function(){clearTimeout(f),f=setTimeout(e,20)})}}})(window,SEARCH);
+</script>
+</head>
+<body>
+<div id="shortcut-2014">
+	<div class="w">
+    	<ul class="fl" clstag="shangpin|keycount|toplist1|a01">
+    		<li class="dorpdown" id="ttbar-mycity"></li>
+    	</ul>
+    	<ul class="fr">
+			<li class="fore1" id="ttbar-login" clstag="shangpin|keycount|toplist1|a02">
+				<a target="_blank" href="javascript:login();" class="link-login">你好，请登录</a>&nbsp;&nbsp;<a href="javascript:regist();" class="link-regist style-red">免费注册</a>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore2" clstag="shangpin|keycount|toplist1|a03">
+				<div class="dt">
+					<a target="_blank" href="//order.jd.com/center/list.action">我的订单</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore3 dorpdown" id="ttbar-myjd" clstag="shangpin|keycount|toplist1|a04">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>
+					<a target="_blank" href="//home.jd.com/">我的京东</a>
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore4" clstag="shangpin|keycount|toplist1|a05">
+				<div class="dt">
+					<a target="_blank" href="//vip.jd.com/">京东会员</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore5" clstag="shangpin|keycount|toplist1|a06">
+				<div class="dt">
+					<a target="_blank" href="//b.jd.com/">企业采购</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore6 dorpdown" id="ttbar-apps" clstag="shangpin|keycount|toplist1|a07">
+				<div class="dt cw-icon">
+					<i class="ci-left"></i>
+					<i class="ci-right"><s>◇</s></i>
+					<a target="_blank" href="//app.jd.com/">手机京东</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore7 dorpdown" id="ttbar-atte" clstag="shangpin|keycount|toplist1|a08">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>关注京东
+				</div>	
+			</li>
+			<li class="spacer"></li>
+			<li class="fore8 dorpdown" id="ttbar-serv" clstag="shangpin|keycount|toplist1|a09">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>客户服务
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore9 dorpdown" id="ttbar-navs" clstag="shangpin|keycount|toplist1|a10">
+				<div class="dt cw-icon">
+					<i class="ci-right"><s>◇</s></i>网站导航
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+    	</ul>
+		<span class="clr"></span>
+    </div>
+</div>
+<div id="o-header-2013"><div id="header-2013" style="display:none;"></div></div><div class="w">
+    <div id="logo-2014">
+    	<a href="//www.jd.com/" class="logo" clstag="shangpin|keycount|toplist1|b01">京东</a>
+    </div>
+    <div id="search-2014" >
+		<ul id="shelper" class="hide"></ul>
+		<div class="form">
+			<input type="text" onkeydown="javascript:if(event.keyCode==13) search('key');" autocomplete="off" id="key" accesskey="s" class="text" clstag="shangpin|keycount|toplist1|b02" />
+			<button onclick="search('key');return false;" class="button cw-icon" clstag="shangpin|keycount|toplist1|b03"><i></i>搜索</button>
+		</div>
+    </div>
+    <div id="settleup-2014" class="dorpdown">
+		<div class="cw-icon">
+			<i class="ci-left"></i>
+			<i class="ci-right">&gt;</i>
+			<a target="_blank" href="//cart.jd.com/cart.action" clstag="shangpin|keycount|toplist1|b05">我的购物车</a>
+		</div>
+		<div class="dorpdown-layer">
+			<div class="spacer"></div>
+			<div id="settleup-content">
+				<span class="loading"></span>
+			</div>
+		</div>
+	</div>
+    <div id="hotwords" clstag="shangpin|keycount|toplist1|b04"></div>
+    <span class="clr"></span>
+</div>
+<div id="nav-2014">
+    <div class="w">
+        <div class="w-spacer"></div>
+		<div id="categorys-2014" class="dorpdown" data-type="default">
+			<div class="dt" clstag="shangpin|keycount|toplist1|c01">
+				<a target="_blank" href="//www.jd.com/allSort.aspx">全部商品分类</a>
+			</div>
+		</div>
+		<div id="navitems-2014">
+			<ul id="navitems-group1">
+				<li id="nav-home" class="fore1" clstag="shangpin|keycount|toplist1|c02">
+					<a target="_blank" href="//www.jd.com/">首页</a>
+				</li>
+				<li id="nav-fashion" class="fore2" clstag="shangpin|keycount|toplist1|c03">
+					<a target="_blank" href="//fashion.jd.com/">服装城</a>
+				</li>
+				<li id="nav-beauty" class="fore3" clstag="shangpin|keycount|toplist1|c04">
+					<a target="_blank" href="//channel.jd.com/beautysale.html">美妆馆</a>
+				</li>
+				<li id="nav-chaoshi" class="fore4" clstag="shangpin|keycount|toplist1|c05">
+					<a target="_blank" href="//channel.jd.com/chaoshi.html">超市</a>
+				</li>
+				<li id="nav-jdww" class="fore5" clstag="shangpin|keycount|toplist1|c06">
+					<a target="_blank" href="//www.jd.hk/">全球购</a>
+				</li>
+			</ul>
+			<div class="spacer"></div>
+			<ul id="navitems-group2">
+				<li id="nav-red" class="fore6" clstag="shangpin|keycount|toplist1|c07">
+					<a target="_blank" href="//red.jd.com/">闪购</a>
+				</li>
+				<li id="nav-tuan" class="fore7" clstag="shangpin|keycount|toplist1|c08">
+					<a target="_blank" href="//tuan.jd.com/">团购</a>
+				</li>
+				<li id="nav-auction" class="fore8" clstag="shangpin|keycount|toplist1|c09">
+					<a target="_blank" href="//paimai.jd.com/">拍卖</a>
+				</li>
+				<li id="nav-jr" class="fore9" clstag="shangpin|keycount|toplist1|c010">
+					<a target="_blank" href="//jr.jd.com/">金融</a>
+				</li>
+			</ul>
+		</div>
+        <div id="treasure"></div>
+        <span class="clr"></span>
+    </div>
+</div><div id="J_searchWrap" class="w">
+<div id="J_crumbsBar" class="crumbs-bar">
+	<div id="J_giftBox" class="cb-gift">
+		<div class="cb-gift-trigger"><i class="ico-gift"></i><span class="txt"><a href="//gift.jd.com" target="_blank">京东帮您选礼物</a></span></div>
+		<div class="cb-gift-main">
+			<div class="cb-gift-filter"><div class="title">送给谁：</div><ul class="cb-gift-filter-list clearfix"></ul></div>
+			<div class="cb-gift-filter"><div class="title">啥时送：</div><ul class="cb-gift-filter-list clearfix"></ul></div>
+			<div class="gift-btnbox"><a href="javascript:;" class="btn btn-primary btn-XL">搜索</a></div>
+		</div>
+	</div>
+	<div class="crumbs-nav">
+		<div class="crumbs-nav-main clearfix">
+			<div class="crumbs-nav-item">
+				<div class="crumbs-first"><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3">全部结果</a></div>
+			</div>
+			<i class="crumbs-arrow">&gt;</i>
+			<div class="crumbs-nav-item">
+				<strong class="search-key">"奶粉"</strong>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="J_boxSearch" style="display:none;"></div>
+<div id="J_container" class="container">
+<div id="J_selector" class="selector">
+<div class="J_selectorLine s-brand">
+	<div class="sl-wrap">
+		<div class="sl-key"><strong>品牌：</strong></div>
+		<div class="sl-value">
+			<ul class="sl-b-letter J_brandLetter" onclick="searchlog(1,0,0,48)"><li data-initial="0" class="curr">所有品牌</li><li data-initial="a">A</li><li data-initial="b">B</li><li data-initial="c">C</li><li data-initial="d">D</li><li data-initial="e">E</li><li data-initial="f">F</li><li data-initial="g">G</li><li data-initial="h">H</li><li data-initial="i">I</li><li data-initial="j">J</li><li data-initial="k">K</li><li data-initial="l">L</li><li data-initial="m">M</li><li data-initial="n">N</li><li data-initial="o">O</li><li data-initial="p">P</li><li data-initial="q">Q</li><li data-initial="r">R</li><li data-initial="s">S</li><li data-initial="t">T</li><li data-initial="v">V</li><li data-initial="w">W</li><li data-initial="x">X</li><li data-initial="y">Y</li><li data-initial="z">Z</li></ul>			<div class="sl-b-search J_brandSearch">
+				<i></i><input type="text" class="input-txt placehoder" data-placehoder="可输入拼音、汉字查找品牌">
+			</div>
+			<div class="clr"></div>
+			<div class="sl-v-list">
+				<ul class="J_valueList v-fixed">
+					<li id="brand-3390" data-initial="a" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%88%B1%E4%BB%96%E7%BE%8E%EF%BC%88Aptamil%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,0,71,'品牌::爱他美（Aptamil）')" title="爱他美（Aptamil）">
+							<i></i>爱他美（Aptamil）						</a>
+					</li>
+					<li id="brand-8743" data-initial="h" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E6%83%A0%E6%B0%8F%EF%BC%88Wyeth%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,1,71,'品牌::惠氏（Wyeth）')" title="惠氏（Wyeth）">
+							<i></i>惠氏（Wyeth）						</a>
+					</li>
+					<li id="brand-22444" data-initial="n" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E8%AF%BA%E4%BC%98%E8%83%BD%EF%BC%88Nutrilon%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,2,71,'品牌::诺优能（Nutrilon）')" title="诺优能（Nutrilon）">
+							<i></i>诺优能（Nutrilon）						</a>
+					</li>
+					<li id="brand-169192" data-initial="y" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E9%9B%85%E5%9F%B9%EF%BC%88Abbott%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,3,71,'品牌::雅培（Abbott）')" title="雅培（Abbott）">
+							<i></i>雅培（Abbott）						</a>
+					</li>
+					<li id="brand-32490" data-initial="m" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%BE%8E%E8%B5%9E%E8%87%A3%EF%BC%88MeadJohnson%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,4,71,'品牌::美赞臣（MeadJohnson）')" title="美赞臣（MeadJohnson）">
+							<i></i>美赞臣（MeadJohnson）						</a>
+					</li>
+					<li id="brand-876" data-initial="m" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%BE%8E%E7%B4%A0%E4%BD%B3%E5%84%BF%EF%BC%88Friso%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,5,71,'品牌::美素佳儿（Friso）')" title="美素佳儿（Friso）">
+							<i></i>美素佳儿（Friso）						</a>
+					</li>
+					<li id="brand-19306" data-initial="y" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E4%BC%8A%E5%88%A9%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,6,71,'品牌::伊利')" title="伊利">
+							<i></i>伊利						</a>
+					</li>
+					<li id="brand-4696" data-initial="b" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E8%B4%9D%E5%9B%A0%E7%BE%8E%EF%BC%88Beingmate%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,7,71,'品牌::贝因美（Beingmate）')" title="贝因美（Beingmate）">
+							<i></i>贝因美（Beingmate）						</a>
+					</li>
+					<li id="brand-14633" data-initial="q" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E9%9B%80%E5%B7%A2%EF%BC%88Nestle%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,8,71,'品牌::雀巢（Nestle）')" title="雀巢（Nestle）">
+							<i></i>雀巢（Nestle）						</a>
+					</li>
+					<li id="brand-8146" data-initial="h" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%90%88%E7%94%9F%E5%85%83%EF%BC%88BIOSTIME%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,9,71,'品牌::合生元（BIOSTIME）')" title="合生元（BIOSTIME）">
+							<i></i>合生元（BIOSTIME）						</a>
+					</li>
+					<li id="brand-31864" data-initial="f" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E9%A3%9E%E9%B9%A4%EF%BC%88FIRMUS%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,10,71,'品牌::飞鹤（FIRMUS）')" title="飞鹤（FIRMUS）">
+							<i></i>飞鹤（FIRMUS）						</a>
+					</li>
+					<li id="brand-159261" data-initial="x" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%96%9C%E5%AE%9D%EF%BC%88HiPP%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,11,71,'品牌::喜宝（HiPP）')" title="喜宝（HiPP）">
+							<i></i>喜宝（HiPP）						</a>
+					</li>
+					<li id="brand-13443" data-initial="n" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%89%9B%E6%A0%8F%EF%BC%88Cow%26Gate%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,12,71,'品牌::牛栏（Cow&amp;Gate）')" title="牛栏（Cow&amp;Gate）">
+							<i></i>牛栏（Cow&amp;Gate）						</a>
+					</li>
+					<li id="brand-143280" data-initial="a" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_A2.%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,13,71,'品牌::A2.')" title="A2.">
+							<i></i>A2.						</a>
+					</li>
+					<li id="brand-6471" data-initial="d" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%A4%9A%E7%BE%8E%E6%BB%8B%EF%BC%88Dumex%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,14,71,'品牌::多美滋（Dumex）')" title="多美滋（Dumex）">
+							<i></i>多美滋（Dumex）						</a>
+					</li>
+					<li id="brand-61875" data-initial="j" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%90%9B%E4%B9%90%E5%AE%9D%EF%BC%88JUNLEBAO%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,15,71,'品牌::君乐宝（JUNLEBAO）')" title="君乐宝（JUNLEBAO）">
+							<i></i>君乐宝（JUNLEBAO）						</a>
+					</li>
+					<li id="brand-32518" data-initial="w" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%AE%8C%E8%BE%BE%E5%B1%B1%EF%BC%88wondersun%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,16,71,'品牌::完达山（wondersun）')" title="完达山（wondersun）">
+							<i></i>完达山（wondersun）						</a>
+					</li>
+					<li id="brand-18976" data-initial="y" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E9%9B%85%E5%A3%AB%E5%88%A9%EF%BC%88Yashily%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,17,71,'品牌::雅士利（Yashily）')" title="雅士利（Yashily）">
+							<i></i>雅士利（Yashily）						</a>
+					</li>
+					<li id="brand-32447" data-initial="s" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%9C%A3%E5%85%83%EF%BC%88Synutra%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,18,71,'品牌::圣元（Synutra）')" title="圣元（Synutra）">
+							<i></i>圣元（Synutra）						</a>
+					</li>
+					<li id="brand-168784" data-initial="k" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%8F%AF%E7%91%9E%E5%BA%B7%EF%BC%88karicare%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,19,71,'品牌::可瑞康（karicare）')" title="可瑞康（karicare）">
+							<i></i>可瑞康（karicare）						</a>
+					</li>
+					<li id="brand-4623" data-initial="b" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E8%B4%9D%E6%8B%89%E7%B1%B3%EF%BC%88Bellamy%27s%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20,71,'品牌::贝拉米（Bellamy\&#039;s）')" title="贝拉米（Bellamy&#039;s）">
+							<i></i>贝拉米（Bellamy&#039;s）						</a>
+					</li>
+					<li id="brand-178441" data-initial="j" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E4%BD%B3%E8%B4%9D%E8%89%BE%E7%89%B9%EF%BC%88Kabrita%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,21,71,'品牌::佳贝艾特（Kabrita）')" title="佳贝艾特（Kabrita）">
+							<i></i>佳贝艾特（Kabrita）						</a>
+					</li>
+					<li id="brand-16765" data-initial="t" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%89%B9%E7%A6%8F%E8%8A%AC%EF%BC%88Topfer%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,22,71,'品牌::特福芬（Topfer）')" title="特福芬（Topfer）">
+							<i></i>特福芬（Topfer）						</a>
+					</li>
+					<li id="brand-122302" data-initial="h" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_hero%20baby%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,23,71,'品牌::hero baby')" title="hero baby">
+							<i></i>hero baby						</a>
+					</li>
+					<li id="brand-107017" data-initial="h" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E8%8D%B7%E5%85%B0%E7%BE%8E%E7%B4%A0%EF%BC%88Herobaby%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,24,71,'品牌::荷兰美素（Herobaby）')" title="荷兰美素（Herobaby）">
+							<i></i>荷兰美素（Herobaby）						</a>
+					</li>
+					<li id="brand-20367" data-initial="y" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%BE%A1%E5%AE%9D%EF%BC%88YB%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,25,71,'品牌::御宝（YB）')" title="御宝（YB）">
+							<i></i>御宝（YB）						</a>
+					</li>
+					<li id="brand-153062" data-initial="a" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_a2%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,26,71,'品牌::a2')" title="a2">
+							<i></i>a2						</a>
+					</li>
+					<li id="brand-162604" data-initial="m" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%BE%8E%E7%B4%A0%EF%BC%88herobaby%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,27,71,'品牌::美素（herobaby）')" title="美素（herobaby）">
+							<i></i>美素（herobaby）						</a>
+					</li>
+					<li id="brand-166108" data-initial="m" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E6%98%8E%E6%B2%BB%EF%BC%88meiji%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,28,71,'品牌::明治（meiji）')" title="明治（meiji）">
+							<i></i>明治（meiji）						</a>
+					</li>
+					<li id="brand-12998" data-initial="m" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E6%98%8E%E4%B8%80%EF%BC%88wissun%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,29,71,'品牌::明一（wissun）')" title="明一（wissun）">
+							<i></i>明一（wissun）						</a>
+					</li>
+					<li id="brand-15139" data-initial="s" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E4%B8%89%E5%85%83%EF%BC%88SAN%20YUAN%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30,71,'品牌::三元（SAN YUAN）')" title="三元（SAN YUAN）">
+							<i></i>三元（SAN YUAN）						</a>
+					</li>
+					<li id="brand-154975" data-initial="a" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E7%88%B1%E7%9D%BF%E6%83%A0%20Akarola%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,31,71,'品牌::爱睿惠 Akarola')" title="爱睿惠 Akarola">
+							<i></i>爱睿惠 Akarola						</a>
+					</li>
+					<li id="brand-3806" data-initial="a" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E6%BE%B3%E4%BC%98%EF%BC%88Ausnutria%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,32,71,'品牌::澳优（Ausnutria）')" title="澳优（Ausnutria）">
+							<i></i>澳优（Ausnutria）						</a>
+					</li>
+					<li id="brand-161751" data-initial="x" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%96%9C%E5%AE%9D%EF%BC%88Hipp%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,33,71,'品牌::喜宝（Hipp）')" title="喜宝（Hipp）">
+							<i></i>喜宝（Hipp）						</a>
+					</li>
+					<li id="brand-154646" data-initial="j" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E4%BD%B3%E4%B8%BD%E9%9B%85%EF%BC%88Gallia%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,34,71,'品牌::佳丽雅（Gallia）')" title="佳丽雅（Gallia）">
+							<i></i>佳丽雅（Gallia）						</a>
+					</li>
+					<li id="brand-153946" data-initial="y" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E9%9B%85%E5%9F%B9%20%EF%BC%88Similac%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,35,71,'品牌::雅培 （Similac）')" title="雅培 （Similac）">
+							<i></i>雅培 （Similac）						</a>
+					</li>
+					<li id="brand-26991" data-initial="a" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_Arla%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,36,71,'品牌::Arla')" title="Arla">
+							<i></i>Arla						</a>
+					</li>
+					<li id="brand-63617" data-initial="x" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E5%96%9C%E5%AE%89%E6%99%BA%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,37,71,'品牌::喜安智')" title="喜安智">
+							<i></i>喜安智						</a>
+					</li>
+					<li id="brand-58635" data-initial="h" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_%E8%BE%89%E5%B1%B1%EF%BC%88huishan%EF%BC%89%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,38,71,'品牌::辉山（huishan）')" title="辉山（huishan）">
+							<i></i>辉山（huishan）						</a>
+					</li>
+					<li id="brand-144062" data-initial="a" style="display:block;">
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exbrand_Aptamil%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,39,71,'品牌::Aptamil')" title="Aptamil">
+							<i></i>Aptamil						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="sl-b-selected J_brandSelected"><span class="sl-b-key">已选条件：</span><ul class="sl-v-list brand-selected"></ul></div>
+			<div class="sl-btns">
+				<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+				<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+			</div>
+		</div>
+		<div class="sl-ext">
+			<a class="sl-e-more J_extMore" href="javascript:;" data-url="brand.php?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3">更多<i></i></a>
+			<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+		</div>
+	</div>
+</div>
+<div class="J_selectorLine s-category">
+	<div class="sl-wrap">
+		<div class="sl-key"><strong>分类：</strong></div>
+		<div class="sl-value">
+			<div class="sl-v-list">
+				<ul class="J_valueList">
+					<li>
+						<a title="成人奶粉" data-v="12201" href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=12201#J_crumbsBar" onclick="searchlog(1,12201,10000,51)"><i></i>成人奶粉</a>
+					</li>
+					<li>
+						<a title="婴幼奶粉" data-v="7052" href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=7052#J_crumbsBar" onclick="searchlog(1,7052,10001,51)"><i></i>婴幼奶粉</a>
+					</li>
+					<li>
+						<a title="孕妈奶粉" data-v="7054" href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=7054#J_crumbsBar" onclick="searchlog(1,7054,10002,51)"><i></i>孕妈奶粉</a>
+					</li>
+					<li>
+						<a title="孕期营养" data-v="6319" href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=6319#J_crumbsBar" onclick="searchlog(1,6319,10003,51)"><i></i>孕期营养</a>
+					</li>
+				</ul>
+			</div>
+			<div class="sl-btns">
+				<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+				<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+			</div>
+		</div>
+		<div class="sl-ext">
+			<a class="sl-e-more J_extMore" href="javascript:;" style="visibility: hidden;">更多<i></i></a>
+			<a class="sl-e-multiple J_extMultiple" href="javascript:;" style="visibility: hidden;">多选<i></i></a>
+		</div>
+	</div>
+</div>
+<div id="J_selectorPrice" class="J_selectorLine s-line">
+	<div class="sl-wrap">
+		<div class="sl-key"><span>价格：</span></div>
+		<div class="sl-value">
+			<div class="sl-v-list">
+				<ul class="J_valueList">
+					<li>
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_0-299%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20000,71,'价格::0-299')"><i></i>0-299</a>
+					</li>
+					<li>
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_300-599%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20001,71,'价格::300-599')"><i></i>300-599</a>
+					</li>
+					<li>
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_600-999%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20002,71,'价格::600-999')"><i></i>600-999</a>
+					</li>
+					<li>
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_1000-1499%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20003,71,'价格::1000-1499')"><i></i>1000-1499</a>
+					</li>
+					<li>
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_1500-2299%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20004,71,'价格::1500-2299')"><i></i>1500-2299</a>
+					</li>
+					<li>
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_2300-3299%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20005,71,'价格::2300-3299')"><i></i>2300-3299</a>
+					</li>
+					<li>
+						<a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_3300gt%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,20006,71,'价格::3300以上')"><i></i>3300以上</a>
+					</li>
+				</ul>
+				<div class="sl-price">
+					<input type="text" class="input-txt" value=""><em>-</em><input type="text" class="input-txt" value=""><a href="javascript:;" class="btn btn-default" data-url="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=exprice_min-max%40&uc=0#J_crumbsBar">确定</a>
+				</div>
+			</div>
+			<div class="sl-btns">
+				<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+				<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+			</div>
+		</div>
+		<div class="sl-ext">
+			<a class="sl-e-more J_extMore" href="javascript:;">更多<i></i></a>
+			<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+		</div>
+	</div>
+</div><div class="J_selectorLine s-line"><div class="sl-wrap"><div class="sl-key"><span>段位：</span></div><div class="sl-value"><div class="sl-v-list"><ul class="J_valueList"><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=12212_116617%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30000,71,'段位::1段')"><i></i>1段</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=12212_116618%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30001,71,'段位::2段')"><i></i>2段</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=12212_116619%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30002,71,'段位::3段')"><i></i>3段</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=12212_116620%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,30003,71,'段位::4段')"><i></i>4段</a></li></ul></div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+						<div class="sl-ext">
+							<a class="sl-e-more J_extMore" href="javascript:;">更多<i></i></a>
+							<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+					</div>
+				</div><div id="J_selectorSenior" class="J_selectorLine s-line s-senior">
+	<div class="sl-wrap">
+		<div class="sl-key"><span>高级选项：</span></div>
+		<div class="sl-value">
+			<div class="sl-v-tab">
+				<div class="sl-tab-trigger clearfix">
+					<a class="trig-item" href="javascript:;"><span class="text">适用年龄</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">适用人群</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">国产/进口</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">品牌原产地</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">包装单位</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">进口/国产</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">阶段</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">奶源产地</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">脂肪含量</span><i class="arrow"></i></a>
+					<a class="trig-item" href="javascript:;"><span class="text">其他分类</span><i class="arrow"></i></a>
+				</div>
+			</div>
+		</div>
+		<div class="sl-tab-cont">
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=11278_547621%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40000,71,'适用年龄::0-6个月')"><i></i>0-6个月</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=11278_315058%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40001,71,'适用年龄::3-6岁')"><i></i>3-6岁</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=11278_547622%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40002,71,'适用年龄::6-12个月')"><i></i>6-12个月</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=11278_599960%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40003,71,'适用年龄::6岁以上')"><i></i>6岁以上</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=11278_618953%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40004,71,'适用年龄::12-36个月')"><i></i>12-36个月</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=11278_3031%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,40005,71,'适用年龄::其它')"><i></i>其它</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=7437_8777%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50000,71,'适用人群::儿童')"><i></i>儿童</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=7437_15109%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50001,71,'适用人群::女士')"><i></i>女士</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=7437_54143%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50002,71,'适用人群::通用')"><i></i>通用</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=7437_207593%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50003,71,'适用人群::中老年')"><i></i>中老年</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=7437_232378%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50004,71,'适用人群::青少年')"><i></i>青少年</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=7437_594320%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50005,71,'适用人群::孕妇')"><i></i>孕妇</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=7437_3031%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,50006,71,'适用人群::其它')"><i></i>其它</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=105935_91854%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60000,71,'国产\/进口::进口')"><i></i>进口</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=105935_91853%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,60001,71,'国产\/进口::国产')"><i></i>国产</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=105937_55369%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70000,71,'品牌原产地::欧美')"><i></i>欧美</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=105937_55366%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70001,71,'品牌原产地::港澳台')"><i></i>港澳台</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=105937_3031%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,70002,71,'品牌原产地::其它')"><i></i>其它</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=105950_69997%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80000,71,'包装单位::袋装')"><i></i>袋装</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=105950_68077%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80001,71,'包装单位::盒装')"><i></i>盒装</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=105950_69995%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80002,71,'包装单位::罐装')"><i></i>罐装</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=105950_80008%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80003,71,'包装单位::箱装')"><i></i>箱装</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=105950_68074%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80004,71,'包装单位::桶装')"><i></i>桶装</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=105950_3031%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,80005,71,'包装单位::其它')"><i></i>其它</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=109337_91853%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90000,71,'进口\/国产::国产')"><i></i>国产</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=109337_594636%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90001,71,'进口\/国产::原装进口')"><i></i>原装进口</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=109337_624266%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90002,71,'进口\/国产::进口奶源')"><i></i>进口奶源</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=109337_3031%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,90003,71,'进口\/国产::其它')"><i></i>其它</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=8896_116762%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,100000,71,'阶段::孕中期')"><i></i>孕中期</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=8896_205449%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,100001,71,'阶段::孕早期')"><i></i>孕早期</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108378_48763%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110000,71,'奶源产地::德国')"><i></i>德国</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108378_619122%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110001,71,'奶源产地::澳洲\/新西兰')"><i></i>澳洲/新西兰</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108378_108029%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110002,71,'奶源产地::荷兰')"><i></i>荷兰</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108378_57161%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110003,71,'奶源产地::英国')"><i></i>英国</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108378_54888%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110004,71,'奶源产地::中国大陆')"><i></i>中国大陆</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108378_48760%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110005,71,'奶源产地::美国')"><i></i>美国</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108378_619133%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110006,71,'奶源产地::爱尔兰')"><i></i>爱尔兰</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108378_25990%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110007,71,'奶源产地::法国')"><i></i>法国</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108378_3031%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110008,71,'奶源产地::其它')"><i></i>其它</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108378_525574%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,110009,71,'奶源产地::其它　')"><i></i>其它　</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108357_547338%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,120000,71,'脂肪含量::脱脂')"><i></i>脱脂</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108357_547337%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,120001,71,'脂肪含量::全脂')"><i></i>全脂</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108357_547339%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,120002,71,'脂肪含量::低脂')"><i></i>低脂</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&ev=108357_3031%40&uc=0#J_crumbsBar" rel="nofollow" onclick="searchlog(1,0,120003,71,'脂肪含量::其它')"><i></i>其它</a></li>					</ul>
+					<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+			<div class="sl-tab-cont-item" style="display: none;">
+				<div class="sl-v-list">
+					<ul class="J_valueList clearfix">
+<li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1585#J_crumbsBar" rel="nofollow" data-v="1585" onclick="searchlog(1,1585,130000,51)"><i></i>饮料冲调</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=12198#J_crumbsBar" rel="nofollow" data-v="12198" onclick="searchlog(1,12198,130001,51)"><i></i>待产护理</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=1477#J_crumbsBar" rel="nofollow" data-v="1477" onclick="searchlog(1,1477,130002,51)"><i></i>野餐烧烤</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=2691#J_crumbsBar" rel="nofollow" data-v="2691" onclick="searchlog(1,2691,130003,51)"><i></i>旅游用品</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=9888#J_crumbsBar" rel="nofollow" data-v="9888" onclick="searchlog(1,9888,130004,51)"><i></i>层架/置物架</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=9886#J_crumbsBar" rel="nofollow" data-v="9886" onclick="searchlog(1,9886,130005,51)"><i></i>储物/收纳用品</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid3=2603#J_crumbsBar" rel="nofollow" data-v="2603" onclick="searchlog(1,2603,130006,51)"><i></i>笔类</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6219#J_crumbsBar" rel="nofollow" data-v="6219" onclick="searchlog(1,6219,130007,51)"><i></i>水具酒具</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=5019#J_crumbsBar" rel="nofollow" data-v="5019" onclick="searchlog(1,5019,130008,51)"><i></i>进口食品</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9193#J_crumbsBar" rel="nofollow" data-v="9193" onclick="searchlog(1,9193,130009,51)"><i></i>营养健康</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6214#J_crumbsBar" rel="nofollow" data-v="6214" onclick="searchlog(1,6214,130010,51)"><i></i>厨房配件</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1526#J_crumbsBar" rel="nofollow" data-v="1526" onclick="searchlog(1,1526,130011,51)"><i></i>喂养用品</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1524#J_crumbsBar" rel="nofollow" data-v="1524" onclick="searchlog(1,1524,130012,51)"><i></i>营养辅食</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1525#J_crumbsBar" rel="nofollow" data-v="1525" onclick="searchlog(1,1525,130013,51)"><i></i>尿裤湿巾</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6313#J_crumbsBar" rel="nofollow" data-v="6313" onclick="searchlog(1,6313,130014,51)"><i></i>寝居服饰</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1527#J_crumbsBar" rel="nofollow" data-v="1527" onclick="searchlog(1,1527,130015,51)"><i></i>洗护用品</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=11842#J_crumbsBar" rel="nofollow" data-v="11842" onclick="searchlog(1,11842,130016,51)"><i></i>童装童鞋</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=4979#J_crumbsBar" rel="nofollow" data-v="4979" onclick="searchlog(1,4979,130017,51)"><i></i>赠品</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1583#J_crumbsBar" rel="nofollow" data-v="1583" onclick="searchlog(1,1583,130018,51)"><i></i>休闲食品</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1584#J_crumbsBar" rel="nofollow" data-v="1584" onclick="searchlog(1,1584,130019,51)"><i></i>粮油调味</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1581#J_crumbsBar" rel="nofollow" data-v="1581" onclick="searchlog(1,1581,130020,51)"><i></i>地方特产</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=11143#J_crumbsBar" rel="nofollow" data-v="11143" onclick="searchlog(1,11143,130021,51)"><i></i>茶具/咖啡具</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6227#J_crumbsBar" rel="nofollow" data-v="6227" onclick="searchlog(1,6227,130022,51)"><i></i>餐具</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6997#J_crumbsBar" rel="nofollow" data-v="6997" onclick="searchlog(1,6997,130023,51)"><i></i>医疗保健</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6995#J_crumbsBar" rel="nofollow" data-v="6995" onclick="searchlog(1,6995,130024,51)"><i></i>宠物主粮</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6999#J_crumbsBar" rel="nofollow" data-v="6999" onclick="searchlog(1,6999,130025,51)"><i></i>宠物玩具</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6998#J_crumbsBar" rel="nofollow" data-v="6998" onclick="searchlog(1,6998,130026,51)"><i></i>家居日用</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6996#J_crumbsBar" rel="nofollow" data-v="6996" onclick="searchlog(1,6996,130027,51)"><i></i>宠物零食</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9194#J_crumbsBar" rel="nofollow" data-v="9194" onclick="searchlog(1,9194,130028,51)"><i></i>营养成分</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9195#J_crumbsBar" rel="nofollow" data-v="9195" onclick="searchlog(1,9195,130029,51)"><i></i>传统滋补</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=11158#J_crumbsBar" rel="nofollow" data-v="11158" onclick="searchlog(1,11158,130030,51)"><i></i>家装软饰</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1624#J_crumbsBar" rel="nofollow" data-v="1624" onclick="searchlog(1,1624,130031,51)"><i></i>生活日用</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1384#J_crumbsBar" rel="nofollow" data-v="1384" onclick="searchlog(1,1384,130032,51)"><i></i>口腔护理</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1381#J_crumbsBar" rel="nofollow" data-v="1381" onclick="searchlog(1,1381,130033,51)"><i></i>面部护肤</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1387#J_crumbsBar" rel="nofollow" data-v="1387" onclick="searchlog(1,1387,130034,51)"><i></i>香水彩妆</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=12147#J_crumbsBar" rel="nofollow" data-v="12147" onclick="searchlog(1,12147,130035,51)"><i></i>垂钓用品</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=12102#J_crumbsBar" rel="nofollow" data-v="12102" onclick="searchlog(1,12102,130036,51)"><i></i>运动服饰</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=13050#J_crumbsBar" rel="nofollow" data-v="13050" onclick="searchlog(1,13050,130037,51)"><i></i>饲料</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=12316#J_crumbsBar" rel="nofollow" data-v="12316" onclick="searchlog(1,12316,130038,51)"><i></i>教育培训</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6271#J_crumbsBar" rel="nofollow" data-v="6271" onclick="searchlog(1,6271,130039,51)"><i></i>益智玩具</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6279#J_crumbsBar" rel="nofollow" data-v="6279" onclick="searchlog(1,6279,130040,51)"><i></i>DIY玩具</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9858#J_crumbsBar" rel="nofollow" data-v="9858" onclick="searchlog(1,9858,130041,51)"><i></i>五金工具</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9859#J_crumbsBar" rel="nofollow" data-v="9859" onclick="searchlog(1,9859,130042,51)"><i></i>电工电料</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9856#J_crumbsBar" rel="nofollow" data-v="9856" onclick="searchlog(1,9856,130043,51)"><i></i>灯饰照明</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=752#J_crumbsBar" rel="nofollow" data-v="752" onclick="searchlog(1,752,130044,51)"><i></i>厨房小电</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1276#J_crumbsBar" rel="nofollow" data-v="1276" onclick="searchlog(1,1276,130045,51)"><i></i>个护健康</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3270#J_crumbsBar" rel="nofollow" data-v="3270" onclick="searchlog(1,3270,130046,51)"><i></i>育儿/家教</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9368#J_crumbsBar" rel="nofollow" data-v="9368" onclick="searchlog(1,9368,130047,51)"><i></i>农业/林业</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=3285#J_crumbsBar" rel="nofollow" data-v="3285" onclick="searchlog(1,3285,130048,51)"><i></i>医学</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=9854#J_crumbsBar" rel="nofollow" data-v="9854" onclick="searchlog(1,9854,130049,51)"><i></i>商业办公</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=6747#J_crumbsBar" rel="nofollow" data-v="6747" onclick="searchlog(1,6747,130050,51)"><i></i>安全自驾</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=12219#J_crumbsBar" rel="nofollow" data-v="12219" onclick="searchlog(1,12219,130051,51)"><i></i>产地直供</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=2599#J_crumbsBar" rel="nofollow" data-v="2599" onclick="searchlog(1,2599,130052,51)"><i></i>礼品</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=4103#J_crumbsBar" rel="nofollow" data-v="4103" onclick="searchlog(1,4103,130053,51)"><i></i>亲子幼教</a></li><li><a href="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&cid2=1345#J_crumbsBar" rel="nofollow" data-v="1345" onclick="searchlog(1,1345,130054,51)"><i></i>内衣</a></li>					</ul>
+				</div>
+				<div class="sl-btns">
+					<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+					<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<div id="J_main" class="g-main2">
+	<div class="m-list">
+		<div class="ml-wrap">
+			<div id="J_filter" class="filter">
+				<div class="f-line top">
+					<div class="f-sort">						<a class="curr" href="javascript:;">综合排序<i></i></a>
+						<a class="" href="javascript:;">销量<i></i></a>
+						<a class="" href="javascript:;">价格<i></i></a>
+						<a class="" href="javascript:;">评论数<i></i></a>
+						<a class="" href="javascript:;">新品<i></i></a>
+					</div>
+					<div class="f-search">
+						<input type="text" value="在结果中搜索" class="input-txt">
+						<a data-type="all" data-field="exp_key" class="btn btn-default" data-url="search?keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3&exp_key=" href="javascript:;">确定</a>
+					</div>
+					<div id="J_topPage" class="f-pager">
+						<span class="fp-text">
+							<b>1</b><em>/</em><i>200</i>
+						</span>
+						<a class="fp-prev disabled" href="javascript:;">&lt;</a>
+						<a class="fp-next" href="javascript:;">&gt;</a>
+					</div>
+					<div class="f-result-sum">共<span id="J_resCount" class="num">5.7万</span>件商品</div>
+					<span class="clr"></span>
+				</div>
+				<div class="f-line">
+					<div class="f-store">
+						<div class="fs-cell delivery-location">配送至</div>
+						<div id="store-selector" class="">
+							<div class="text">北京<b></b></div>
+							<div class="content"></div>
+							<div class="close" onclick="$('#store-selector').removeClass('hover')"></div>
+						</div>
+					</div>
+					<div id="J_feature" class="f-feature">
+						<ul>
+							<li><a data-field="wtype" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,43)"><i></i>京东配送</a></li>
+							<li><a data-field="cod" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,34)"><i></i>货到付款</a></li>
+							<li><a data-field="stock" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,41)"><i></i>仅显示有货</a></li>
+							<li><a data-field="gp" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,39)"><i></i>全球购</a></li>
+						</ul>
+					</div>
+					<div id="J_viewType" class="f-type" data-ref="1">
+						<a class="ft-item shop" href="javascript:;" data-value="3" onclick="searchlog(1,0,0,28)"><i class="i-shop"></i>店铺</a>
+						<a class="ft-item grid selected" href="javascript:;" data-value="2" onclick="searchlog(1,0,0,45)"><i class="i-grid"></i>商品</a>
+					</div>
+					<span class="clr"></span>
+				</div>
+			</div>
+<div id="J_goodsList" class="goods-list-v1 gl-type-1 J-goods-list"><ul class="gl-warp clearfix" data-tpl="1"><li data-sku="1029507" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="美素佳儿（Friso）金装幼儿配方奶粉 3段（1-3岁幼儿适用）900克（荷兰原装进口）" href="//item.jd.com/1029507.html" onclick="searchlog(1,1029507,0,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img12.360buyimg.com/n7/jfs/t2344/34/2077734042/347132/2adac9d8/56f0bef2N2b26a1bf.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002847" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1029507" data-price="185.00"><em>¥</em><i>185.00</i></strong>						<div class="p-icons" id="J_pro_1029507"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="美素佳儿（Friso）金装幼儿配方奶粉 3段（1-3岁幼儿适用）900克（荷兰原装进口）" href="//item.jd.com/1029507.html" onclick="searchlog(1,1029507,0,1,'','flagsClk=4194952')">
+							<em>美素佳儿（Friso）金装幼儿配方<font class="skcolor_ljg">奶粉</font> 3段（1-3岁幼儿适用）900克（荷兰原装进口）</em>
+							<i class="promo-words" id="J_AD_1029507"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1029507" target="_blank" href="//item.jd.com/1029507.html#comments-list" onclick="searchlog(1,1029507,0,3,'','flagsClk=4194952')">584592</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1029507" href="javascript:;" onclick="searchlog(1,1029507,0,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1029507" href="javascript:;" onclick="searchlog(1,1029507,0,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1029507" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1029507&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1029507,0,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">12-36个月</div>
+	</div>
+</li>
+<li data-sku="831721" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="Nutrilon诺优能 幼儿配方奶粉3段800g（荷兰进口）12-36个月" href="//item.jd.com/831721.html" onclick="searchlog(1,831721,1,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img11.360buyimg.com/n7/jfs/t2479/184/1985072477/278028/53c975ae/56e78a10Ncf3739bd.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002688" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t1807/133/1357889100/866/cdf8cdb3/55e6ab9aN3cec5124.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t1807/133/1357889100/866/cdf8cdb3/55e6ab9aN3cec5124.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_831721" data-price="149.00"><em>¥</em><i>149.00</i></strong>						<div class="p-icons" id="J_pro_831721"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="Nutrilon诺优能 幼儿配方奶粉3段800g（荷兰进口）12-36个月" href="//item.jd.com/831721.html" onclick="searchlog(1,831721,1,1,'','flagsClk=4194952')">
+							<em>Nutrilon诺优能 幼儿配方<font class="skcolor_ljg">奶粉</font>3段800g（荷兰进口）12-36个月</em>
+							<i class="promo-words" id="J_AD_831721"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_831721" target="_blank" href="//item.jd.com/831721.html#comments-list" onclick="searchlog(1,831721,1,3,'','flagsClk=4194952')">296320</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="831721" href="javascript:;" onclick="searchlog(1,831721,1,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="831721" href="javascript:;" onclick="searchlog(1,831721,1,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="831721" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=831721&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,831721,1,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2165630" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="惠氏启赋（Wyeth illuma）幼儿配方奶粉 3段 900克（罐装）新升级" href="//item.jd.com/2165630.html" onclick="searchlog(1,2165630,2,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img10.360buyimg.com/n7/jfs/t2437/34/1444483097/338935/99b46299/56ab1233N47cfb1c0.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002520" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2165630" data-price="308.00"><em>¥</em><i>308.00</i></strong>						<div class="p-icons" id="J_pro_2165630"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="惠氏启赋（Wyeth illuma）幼儿配方奶粉 3段 900克（罐装）新升级" href="//item.jd.com/2165630.html" onclick="searchlog(1,2165630,2,1,'','flagsClk=4194952')">
+							<em>惠氏启赋（Wyeth illuma）幼儿配方<font class="skcolor_ljg">奶粉</font> 3段 900克（罐装）新升级</em>
+							<i class="promo-words" id="J_AD_2165630"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2165630" target="_blank" href="//item.jd.com/2165630.html#comments-list" onclick="searchlog(1,2165630,2,3,'','flagsClk=4194952')">287267</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2165630" href="javascript:;" onclick="searchlog(1,2165630,2,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2165630" href="javascript:;" onclick="searchlog(1,2165630,2,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2165630" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2165630&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2165630,2,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">12-36个月</div>
+	</div>
+</li>
+<li data-sku="1016355" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="美素佳儿（Friso）金装幼儿配方奶粉 3段（1-3岁幼儿适用）1200克（荷兰原装进口）" href="//item.jd.com/1016355.html" onclick="searchlog(1,1016355,3,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img10.360buyimg.com/n7/jfs/t2476/292/2770066701/499206/7a2c6892/56f0bebdN755ab780.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002847" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1016355" data-price="196.00"><em>¥</em><i>196.00</i></strong>						<div class="p-icons" id="J_pro_1016355"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="美素佳儿（Friso）金装幼儿配方奶粉 3段（1-3岁幼儿适用）1200克（荷兰原装进口）" href="//item.jd.com/1016355.html" onclick="searchlog(1,1016355,3,1,'','flagsClk=4194952')">
+							<em>美素佳儿（Friso）金装幼儿配方<font class="skcolor_ljg">奶粉</font> 3段（1-3岁幼儿适用）1200克（荷兰原装进口）</em>
+							<i class="promo-words" id="J_AD_1016355"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1016355" target="_blank" href="//item.jd.com/1016355.html#comments-list" onclick="searchlog(1,1016355,3,3,'','flagsClk=4194952')">584588</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1016355" href="javascript:;" onclick="searchlog(1,1016355,3,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1016355" href="javascript:;" onclick="searchlog(1,1016355,3,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1016355" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1016355&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1016355,3,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">12-36个月</div>
+	</div>
+</li>
+<li data-sku="1434733" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="爱睿惠（Akarola）3段900g幼儿配方奶粉（新西兰原装原罐进口）" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwNDEzODUxXzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzE0MzQ3MzMuaHRtbA&log=W8qWJn5wDg3IagVFEIa1pNYHTZK_fZ_lkc0vyjmL5-weoJ6YxZVhnZ9YaSOsORTtPZ-5OagN8YCLWEQxTeDxB7oKyeQiXTttJrnTzi1nBgKwE8vJzIFlJLm5vowMB7pGR4IRiyC9Y3hIWaJljI1ji1YjTYMdVZmugcnEyEXkUsHOZUWreiN7E-3HPiWXg67kz6R9le-A0yq_rvH7HEWkADqp9l1aqnDs7fUMpqZBXWU8M8PlZSZ69GC0GY9kxgLAR_AEcULmi7JcjM5E37paYRaJSL5fnjrE80eDtkRfQ4EYcSGV-W8hOqFmBM5wZ49Z4wMd3XSu2smpSVp63_ObhAExy5WCPcNsnWA3IIfuQmN_wm0mjnjbZrpxnDQffSIo7YrhXwzeGi8k7AtJmSRssQ&v=404" onclick="searchlog(1,1434733,4,2,'','adwClk=1')">
+							<img width="220" height="220" class="err-product" data-img="1" src="//img13.360buyimg.com/n7/jfs/t2029/365/893307559/327003/719c629c/5632cf82Nfd2bd03a.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000010401" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1434733"></strong>						<div class="p-icons" id="J_pro_1434733"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="爱睿惠（Akarola）3段900g幼儿配方奶粉（新西兰原装原罐进口）" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwNDEzODUxXzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzE0MzQ3MzMuaHRtbA&log=W8qWJn5wDg3IagVFEIa1pNYHTZK_fZ_lkc0vyjmL5-weoJ6YxZVhnZ9YaSOsORTtPZ-5OagN8YCLWEQxTeDxB7oKyeQiXTttJrnTzi1nBgKwE8vJzIFlJLm5vowMB7pGR4IRiyC9Y3hIWaJljI1ji1YjTYMdVZmugcnEyEXkUsHOZUWreiN7E-3HPiWXg67kz6R9le-A0yq_rvH7HEWkADqp9l1aqnDs7fUMpqZBXWU8M8PlZSZ69GC0GY9kxgLAR_AEcULmi7JcjM5E37paYRaJSL5fnjrE80eDtkRfQ4EYcSGV-W8hOqFmBM5wZ49Z4wMd3XSu2smpSVp63_ObhAExy5WCPcNsnWA3IIfuQmN_wm0mjnjbZrpxnDQffSIo7YrhXwzeGi8k7AtJmSRssQ&v=404" onclick="searchlog(1,1434733,4,1,'','adwClk=1')">
+							<em>爱睿惠（Akarola）3段900g幼儿配方<font class="skcolor_ljg">奶粉</font>（新西兰原装原罐进口）</em>
+							<i class="promo-words" id="J_AD_1434733"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1434733" target="_blank" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwNDEzODUxXzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzE0MzQ3MzMuaHRtbA&log=W8qWJn5wDg3IagVFEIa1pNYHTZK_fZ_lkc0vyjmL5-weoJ6YxZVhnZ9YaSOsORTtPZ-5OagN8YCLWEQxTeDxB7oKyeQiXTttJrnTzi1nBgKwE8vJzIFlJLm5vowMB7pGR4IRiyC9Y3hIWaJljI1ji1YjTYMdVZmugcnEyEXkUsHOZUWreiN7E-3HPiWXg67kz6R9le-A0yq_rvH7HEWkADqp9l1aqnDs7fUMpqZBXWU8M8PlZSZ69GC0GY9kxgLAR_AEcULmi7JcjM5E37paYRaJSL5fnjrE80eDtkRfQ4EYcSGV-W8hOqFmBM5wZ49Z4wMd3XSu2smpSVp63_ObhAExy5WCPcNsnWA3IIfuQmN_wm0mjnjbZrpxnDQffSIo7YrhXwzeGi8k7AtJmSRssQ&v=404" onclick="searchlog(1,1434733,4,3,'','adwClk=1')">20592</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1434733" href="javascript:;" onclick="searchlog(1,1434733,4,6,'','adwClk=1')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1434733" href="javascript:;" onclick="searchlog(1,1434733,4,5,'','adwClk=1')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1434733" data-stock-val="-1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1434733&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1434733,4,4,'','adwClk=1')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<span class="p-promo-flag">推广</span>
+					<script src="https://im-x.jd.com/dsp/np?log=W8qWJn5wDg3IagVFEIa1pNYHTZK/fZ/lkc0vyjmL5+weoJ6YxZVhnZ9YaSOsORTtPZ+5OagN8YCLWEQxTeDxB7oKyeQiXTttJrnTzi1nBgKwE8vJzIFlJLm5vowMB7pGR4IRiyC9Y3hIWaJljI1ji1YjTYMdVZmugcnEyEXkUsFQ9bNWzyOantSAe0n5W/6hvTjsa704pe0TNGepC5MNpMmDJP4MkKt2C51EeEP0e8a4JsRU8a1cNG24QFohRPxov1yXY5Fi0X3ChnRcZykWIX7UYqiOixBKEUvUsUobPwvARmEE/91ehwpp8PV+EBn2D1uQUgRrSzCf6yMcsg4iKku4HNu8JyM8JSvqbNLlGEZ8QFzDKB4XxiJPichNOqY18ipJU93dTJecPRgHZ8Qmfg==&v=404"></script>
+	</div>
+</li>
+<li data-sku="915391" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="惠氏（Wyeth）S-26金装幼儿乐幼儿配方奶粉 3段 1200克（400克*3袋）" href="//item.jd.com/915391.html" onclick="searchlog(1,915391,5,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2377/81/2694629993/293730/7b9b71f0/56eb88bbNa98b4231.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002520" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_915391" data-price="148.00"><em>¥</em><i>148.00</i></strong>						<div class="p-icons" id="J_pro_915391"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="惠氏（Wyeth）S-26金装幼儿乐幼儿配方奶粉 3段 1200克（400克*3袋）" href="//item.jd.com/915391.html" onclick="searchlog(1,915391,5,1,'','flagsClk=4194952')">
+							<em>惠氏（Wyeth）S-26金装幼儿乐幼儿配方<font class="skcolor_ljg">奶粉</font> 3段 1200克（400克*3袋）</em>
+							<i class="promo-words" id="J_AD_915391"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_915391" target="_blank" href="//item.jd.com/915391.html#comments-list" onclick="searchlog(1,915391,5,3,'','flagsClk=4194952')">534018</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="915391" href="javascript:;" onclick="searchlog(1,915391,5,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="915391" href="javascript:;" onclick="searchlog(1,915391,5,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="915391" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=915391&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,915391,5,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">12-36个月</div>
+	</div>
+</li>
+<li data-sku="1216716" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="Aptamil爱他美 幼儿配方奶粉3段800g（原装进口 罐）12-36个月" href="//item.jd.com/1216716.html" onclick="searchlog(1,1216716,6,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2416/3/2553088698/297511/e3caff6/56e7851fN85023ccc.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002668" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1216716" data-price="180.00"><em>¥</em><i>180.00</i></strong>						<div class="p-icons" id="J_pro_1216716"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="Aptamil爱他美 幼儿配方奶粉3段800g（原装进口 罐）12-36个月" href="//item.jd.com/1216716.html" onclick="searchlog(1,1216716,6,1,'','flagsClk=4194952')">
+							<em>Aptamil爱他美 幼儿配方<font class="skcolor_ljg">奶粉</font>3段800g（原装进口 罐）12-36个月</em>
+							<i class="promo-words" id="J_AD_1216716"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1216716" target="_blank" href="//item.jd.com/1216716.html#comments-list" onclick="searchlog(1,1216716,6,3,'','flagsClk=4194952')">109670</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1216716" href="javascript:;" onclick="searchlog(1,1216716,6,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1216716" href="javascript:;" onclick="searchlog(1,1216716,6,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1216716" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1216716&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1216716,6,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="1250257" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="美赞臣(MeadJohnson) 安儿宝A+幼儿配方奶粉 3段(1-3岁幼儿适用) 1800克(600克*3袋 进口奶源)新包装" href="//item.jd.com/1250257.html" onclick="searchlog(1,1250257,7,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t2203/271/1882190934/370314/965f1aa1/56e3b48cN909f70ce.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000003179" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1250257" data-price="243.00"><em>¥</em><i>243.00</i></strong>						<div class="p-icons" id="J_pro_1250257"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="美赞臣(MeadJohnson) 安儿宝A+幼儿配方奶粉 3段(1-3岁幼儿适用) 1800克(600克*3袋 进口奶源)新包装" href="//item.jd.com/1250257.html" onclick="searchlog(1,1250257,7,1,'','flagsClk=4194952')">
+							<em>美赞臣(MeadJohnson) 安儿宝A+幼儿配方<font class="skcolor_ljg">奶粉</font> 3段(1-3岁幼儿适用) 1800克(600克*3袋 进口奶源)新包装</em>
+							<i class="promo-words" id="J_AD_1250257"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1250257" target="_blank" href="//item.jd.com/1250257.html#comments-list" onclick="searchlog(1,1250257,7,3,'','flagsClk=4194952')">222514</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1250257" href="javascript:;" onclick="searchlog(1,1250257,7,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1250257" href="javascript:;" onclick="searchlog(1,1250257,7,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1250257" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1250257&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1250257,7,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">12-36个月</div>
+	</div>
+</li>
+<li data-sku="1506689" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="惠氏（Wyeth）S-26金装幼儿乐幼儿配方奶粉 3段 960克（罐装）" href="//item.jd.com/1506689.html" onclick="searchlog(1,1506689,8,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t1903/311/2025709327/421696/404ff88c/56eb8a58N118669b8.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002520" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1506689" data-price="138.00"><em>¥</em><i>138.00</i></strong>						<div class="p-icons" id="J_pro_1506689"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="惠氏（Wyeth）S-26金装幼儿乐幼儿配方奶粉 3段 960克（罐装）" href="//item.jd.com/1506689.html" onclick="searchlog(1,1506689,8,1,'','flagsClk=4194952')">
+							<em>惠氏（Wyeth）S-26金装幼儿乐幼儿配方<font class="skcolor_ljg">奶粉</font> 3段 960克（罐装）</em>
+							<i class="promo-words" id="J_AD_1506689"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1506689" target="_blank" href="//item.jd.com/1506689.html#comments-list" onclick="searchlog(1,1506689,8,3,'','flagsClk=4194952')">534018</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1506689" href="javascript:;" onclick="searchlog(1,1506689,8,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1506689" href="javascript:;" onclick="searchlog(1,1506689,8,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1506689" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1506689&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1506689,8,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">12-36个月</div>
+	</div>
+</li>
+<li data-sku="1029508" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="美素佳儿（Friso）金装较大婴儿配方奶粉 2段（6-12个月婴幼儿适用）900克（荷兰原装进口）" href="//item.jd.com/1029508.html" onclick="searchlog(1,1029508,9,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2500/359/2812084546/350947/f5653025/56f0ba19N532e475e.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002847" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1029508" data-price="188.00"><em>¥</em><i>188.00</i></strong>						<div class="p-icons" id="J_pro_1029508"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="美素佳儿（Friso）金装较大婴儿配方奶粉 2段（6-12个月婴幼儿适用）900克（荷兰原装进口）" href="//item.jd.com/1029508.html" onclick="searchlog(1,1029508,9,1,'','flagsClk=4194952')">
+							<em>美素佳儿（Friso）金装较大婴儿配方<font class="skcolor_ljg">奶粉</font> 2段（6-12个月婴幼儿适用）900克（荷兰原装进口）</em>
+							<i class="promo-words" id="J_AD_1029508"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1029508" target="_blank" href="//item.jd.com/1029508.html#comments-list" onclick="searchlog(1,1029508,9,3,'','flagsClk=4194952')">343510</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1029508" href="javascript:;" onclick="searchlog(1,1029508,9,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1029508" href="javascript:;" onclick="searchlog(1,1029508,9,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1029508" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1029508&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1029508,9,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">6-12个月</div>
+	</div>
+</li>
+<li data-sku="1014489" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="诺贝能Nutrilon较大婴儿配方奶粉2段(6-12个月)900克(荷兰进口牛栏)" href="//item.jd.com/1014489.html" onclick="searchlog(1,1014489,10,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t1894/99/2602332022/268113/33b55bc9/56e78916N7eae4191.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002688" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1014489" data-price="178.00"><em>¥</em><i>178.00</i></strong>						<div class="p-icons" id="J_pro_1014489"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="诺贝能Nutrilon较大婴儿配方奶粉2段(6-12个月)900克(荷兰进口牛栏)" href="//item.jd.com/1014489.html" onclick="searchlog(1,1014489,10,1,'','flagsClk=4194952')">
+							<em>诺贝能Nutrilon较大婴儿配方<font class="skcolor_ljg">奶粉</font>2段(6-12个月)900克(荷兰进口牛栏)</em>
+							<i class="promo-words" id="J_AD_1014489"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1014489" target="_blank" href="//item.jd.com/1014489.html#comments-list" onclick="searchlog(1,1014489,10,3,'','flagsClk=4194952')">296315</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1014489" href="javascript:;" onclick="searchlog(1,1014489,10,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1014489" href="javascript:;" onclick="searchlog(1,1014489,10,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1014489" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1014489&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1014489,10,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">6-12个月</div>
+	</div>
+</li>
+<li data-sku="1130828" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="雅培（Abbott）亲体 金装喜康力幼儿配方奶粉3段1200克（400克*3袋）" href="//item.jd.com/1130828.html" onclick="searchlog(1,1130828,11,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t148/140/501824491/122940/d302d133/538fc46aN7a61dd36.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000001582" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1130828" data-price="180.00"><em>¥</em><i>180.00</i></strong>						<div class="p-icons" id="J_pro_1130828"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="雅培（Abbott）亲体 金装喜康力幼儿配方奶粉3段1200克（400克*3袋）" href="//item.jd.com/1130828.html" onclick="searchlog(1,1130828,11,1,'','flagsClk=4194952')">
+							<em>雅培（Abbott）亲体 金装喜康力幼儿配方<font class="skcolor_ljg">奶粉</font>3段1200克（400克*3袋）</em>
+							<i class="promo-words" id="J_AD_1130828"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1130828" target="_blank" href="//item.jd.com/1130828.html#comments-list" onclick="searchlog(1,1130828,11,3,'','flagsClk=4194952')">323143</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1130828" href="javascript:;" onclick="searchlog(1,1130828,11,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1130828" href="javascript:;" onclick="searchlog(1,1130828,11,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1130828" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1130828&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1130828,11,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">12-36个月</div>
+	</div>
+</li>
+<li data-sku="1883300" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="雅培（Abbott）亲体 金装喜康力幼儿配方奶粉3段950克 电商加量装" href="//item.jd.com/1883300.html" onclick="searchlog(1,1883300,12,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t2068/257/152553830/115577/50978d05/55f23998Nb74a4c16.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000001582" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1883300" data-price="157.00"><em>¥</em><i>157.00</i></strong>						<div class="p-icons" id="J_pro_1883300"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="雅培（Abbott）亲体 金装喜康力幼儿配方奶粉3段950克 电商加量装" href="//item.jd.com/1883300.html" onclick="searchlog(1,1883300,12,1,'','flagsClk=4194952')">
+							<em>雅培（Abbott）亲体 金装喜康力幼儿配方<font class="skcolor_ljg">奶粉</font>3段950克 电商加量装</em>
+							<i class="promo-words" id="J_AD_1883300"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1883300" target="_blank" href="//item.jd.com/1883300.html#comments-list" onclick="searchlog(1,1883300,12,3,'','flagsClk=4194952')">323143</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1883300" href="javascript:;" onclick="searchlog(1,1883300,12,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1883300" href="javascript:;" onclick="searchlog(1,1883300,12,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1883300" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1883300&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1883300,12,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">12-36个月</div>
+	</div>
+</li>
+<li data-sku="1126908471" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="圣元(Synutra)优博58 幼儿配方奶粉3段(12-36个月幼儿适用) 900克罐装" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTc2NzE4MThfMTQ3NiZ0bz1odHRwOi8vaXRlbS5qZC5jb20vMTEyNjkwODQ3MS5odG1s&log=W8qWJn5wDg3IagVFEIa1pNYHTZK_fZ_lkc0vyjmL5-x7MiP825h2ykmoKz_DGSILXerA3Y2qtACdhf2U0sHmKgzpolgY6aSR1aAp2Tb9jRUS6L8ps7hAFILkRaKXrOJ8YJrWctaAAO3UiS0Jz05j5hRqT1jgYGfHwcRqCX0PpRNM8ueO8Y7wiiLzZoK8kWgwRTG1RmJ2TXNURk3oAmlhgRdj2IhowexivZcaCXY5l_RAecnuhoNPmHTzfz7OIxXFJWy9pFQKY4_013xi8fXH_u10RONolr474LuOCnXStVCe-2SXVWX63TtfqOP-wecWjXJS-inRPIlU_AoncBspFb7hLuHDj75z34iBlyVJGOG46-66W6-IWUtGcABZzsbXmx1mzdR3-S47IRTnOOTc8w&v=404" onclick="searchlog(1,1126908471,13,2,'','adwClk=1')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2053/3/1525547585/296069/31965ad9/56c2b9d5N570a4af2.jpg" />
+						</a>
+						<div data-ico="0" data-venid="65135" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1126908471"></strong>						<div class="p-icons" id="J_pro_1126908471"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="圣元(Synutra)优博58 幼儿配方奶粉3段(12-36个月幼儿适用) 900克罐装" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTc2NzE4MThfMTQ3NiZ0bz1odHRwOi8vaXRlbS5qZC5jb20vMTEyNjkwODQ3MS5odG1s&log=W8qWJn5wDg3IagVFEIa1pNYHTZK_fZ_lkc0vyjmL5-x7MiP825h2ykmoKz_DGSILXerA3Y2qtACdhf2U0sHmKgzpolgY6aSR1aAp2Tb9jRUS6L8ps7hAFILkRaKXrOJ8YJrWctaAAO3UiS0Jz05j5hRqT1jgYGfHwcRqCX0PpRNM8ueO8Y7wiiLzZoK8kWgwRTG1RmJ2TXNURk3oAmlhgRdj2IhowexivZcaCXY5l_RAecnuhoNPmHTzfz7OIxXFJWy9pFQKY4_013xi8fXH_u10RONolr474LuOCnXStVCe-2SXVWX63TtfqOP-wecWjXJS-inRPIlU_AoncBspFb7hLuHDj75z34iBlyVJGOG46-66W6-IWUtGcABZzsbXmx1mzdR3-S47IRTnOOTc8w&v=404" onclick="searchlog(1,1126908471,13,1,'','adwClk=1')">
+							<em>圣元(Synutra)优博58 幼儿配方<font class="skcolor_ljg">奶粉</font>3段(12-36个月幼儿适用) 900克罐装</em>
+							<i class="promo-words" id="J_AD_1126908471"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1126908471" target="_blank" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTc2NzE4MThfMTQ3NiZ0bz1odHRwOi8vaXRlbS5qZC5jb20vMTEyNjkwODQ3MS5odG1s&log=W8qWJn5wDg3IagVFEIa1pNYHTZK_fZ_lkc0vyjmL5-x7MiP825h2ykmoKz_DGSILXerA3Y2qtACdhf2U0sHmKgzpolgY6aSR1aAp2Tb9jRUS6L8ps7hAFILkRaKXrOJ8YJrWctaAAO3UiS0Jz05j5hRqT1jgYGfHwcRqCX0PpRNM8ueO8Y7wiiLzZoK8kWgwRTG1RmJ2TXNURk3oAmlhgRdj2IhowexivZcaCXY5l_RAecnuhoNPmHTzfz7OIxXFJWy9pFQKY4_013xi8fXH_u10RONolr474LuOCnXStVCe-2SXVWX63TtfqOP-wecWjXJS-inRPIlU_AoncBspFb7hLuHDj75z34iBlyVJGOG46-66W6-IWUtGcABZzsbXmx1mzdR3-S47IRTnOOTc8w&v=404" onclick="searchlog(1,1126908471,13,3,'','adwClk=1')">7596</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1126908471" href="javascript:;" onclick="searchlog(1,1126908471,13,6,'','adwClk=1')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1126908471" href="javascript:;" onclick="searchlog(1,1126908471,13,5,'','adwClk=1')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1126908471" data-stock-val="-1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1126908471&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1126908471,13,4,'','adwClk=1')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<span class="p-promo-flag">推广</span>
+					<script src="https://im-x.jd.com/dsp/np?log=W8qWJn5wDg3IagVFEIa1pNYHTZK/fZ/lkc0vyjmL5+x7MiP825h2ykmoKz/DGSILXerA3Y2qtACdhf2U0sHmKgzpolgY6aSR1aAp2Tb9jRUS6L8ps7hAFILkRaKXrOJ8YJrWctaAAO3UiS0Jz05j5hRqT1jgYGfHwcRqCX0PpRNVIZtoaq1DZVU8a5yF1PxBij+ifEgVAZqRdTEdvrvOfAVzhtGzmEQ03DZj3fs25GL1rDy4puZW9aHZU1rUyHJu8Brf3RlepwX06+VS/YVKdNqPJWFkg8WXdSUqP1PC5xc1ZsI14NuFaqCAOTBhps1O2sFtAQnOsA966HSGLhDlqptUkeBA8ygCWBTamFuyDpcjqXhwZSEHErd001O+G4RgLvuEg1yhRbCuYwNap+mPtg==&v=404"></script>
+	</div>
+</li>
+<li data-sku="1250244" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="美赞臣(MeadJohnson) 安儿健A+儿童配方奶粉 4段(3岁或以上儿童适用) 1200克(400克*3袋 进口奶源)新包装" href="//item.jd.com/1250244.html" onclick="searchlog(1,1250244,14,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2377/362/2568715341/490766/f6775a03/56e3b584Nef8ce0de.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000003179" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1250244" data-price="140.00"><em>¥</em><i>140.00</i></strong>						<div class="p-icons" id="J_pro_1250244"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="美赞臣(MeadJohnson) 安儿健A+儿童配方奶粉 4段(3岁或以上儿童适用) 1200克(400克*3袋 进口奶源)新包装" href="//item.jd.com/1250244.html" onclick="searchlog(1,1250244,14,1,'','flagsClk=4194952')">
+							<em>美赞臣(MeadJohnson) 安儿健A+儿童配方<font class="skcolor_ljg">奶粉</font> 4段(3岁或以上儿童适用) 1200克(400克*3袋 进口奶源)新包装</em>
+							<i class="promo-words" id="J_AD_1250244"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1250244" target="_blank" href="//item.jd.com/1250244.html#comments-list" onclick="searchlog(1,1250244,14,3,'','flagsClk=4194952')">80924</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1250244" href="javascript:;" onclick="searchlog(1,1250244,14,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1250244" href="javascript:;" onclick="searchlog(1,1250244,14,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1250244" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1250244&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1250244,14,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">3-6岁</div>
+	</div>
+</li>
+<li data-sku="2165601" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="惠氏启赋（Wyeth illuma）婴儿配方奶粉 1段 900克（罐装）新升级" href="//item.jd.com/2165601.html" onclick="searchlog(1,2165601,15,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t2470/234/1798899426/341441/558078eb/5677aa6dN0c425907.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002520" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2165601" data-price="358.00"><em>¥</em><i>358.00</i></strong>						<div class="p-icons" id="J_pro_2165601"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="惠氏启赋（Wyeth illuma）婴儿配方奶粉 1段 900克（罐装）新升级" href="//item.jd.com/2165601.html" onclick="searchlog(1,2165601,15,1,'','flagsClk=4194952')">
+							<em>惠氏启赋（Wyeth illuma）婴儿配方<font class="skcolor_ljg">奶粉</font> 1段 900克（罐装）新升级</em>
+							<i class="promo-words" id="J_AD_2165601"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2165601" target="_blank" href="//item.jd.com/2165601.html#comments-list" onclick="searchlog(1,2165601,15,3,'','flagsClk=4194952')">287268</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2165601" href="javascript:;" onclick="searchlog(1,2165601,15,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2165601" href="javascript:;" onclick="searchlog(1,2165601,15,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2165601" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2165601&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2165601,15,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">0-6个月</div>
+	</div>
+</li>
+<li data-sku="915406" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="惠氏（Wyeth）S-26金装学儿乐学龄前儿童配方奶粉 4段 1200克（400克*3袋）" href="//item.jd.com/915406.html" onclick="searchlog(1,915406,16,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t172/239/575726436/175589/f55548d8/53918afcN127662b3.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002520" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_915406" data-price="139.00"><em>¥</em><i>139.00</i></strong>						<div class="p-icons" id="J_pro_915406"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="惠氏（Wyeth）S-26金装学儿乐学龄前儿童配方奶粉 4段 1200克（400克*3袋）" href="//item.jd.com/915406.html" onclick="searchlog(1,915406,16,1,'','flagsClk=4194952')">
+							<em>惠氏（Wyeth）S-26金装学儿乐学龄前儿童配方<font class="skcolor_ljg">奶粉</font> 4段 1200克（400克*3袋）</em>
+							<i class="promo-words" id="J_AD_915406"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_915406" target="_blank" href="//item.jd.com/915406.html#comments-list" onclick="searchlog(1,915406,16,3,'','flagsClk=4194952')">534021</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="915406" href="javascript:;" onclick="searchlog(1,915406,16,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="915406" href="javascript:;" onclick="searchlog(1,915406,16,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="915406" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=915406&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,915406,16,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">3-6岁</div>
+	</div>
+</li>
+<li data-sku="1938068" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="荷兰牛栏诺优能Nutrilon婴幼儿奶粉 4段(12-24个月)800g" href="//item.jd.com/1938068.html" onclick="searchlog(1,1938068,17,2,'','flagsClk=4194440')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2356/245/428703699/101649/9d548b9c/560a013fN67bc363e.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000010824" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1938068" data-price="139.00"><em>¥</em><i>139.00</i></strong>						<div class="p-icons" id="J_pro_1938068"><i class="goods-icons-s6" title="全球购">京东国际</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="荷兰牛栏诺优能Nutrilon婴幼儿奶粉 4段(12-24个月)800g" href="//item.jd.com/1938068.html" onclick="searchlog(1,1938068,17,1,'','flagsClk=4194440')">
+							<em>荷兰牛栏诺优能Nutrilon婴幼儿<font class="skcolor_ljg">奶粉</font> 4段(12-24个月)800g</em>
+							<i class="promo-words" id="J_AD_1938068"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1938068" target="_blank" href="//item.jd.com/1938068.html#comments-list" onclick="searchlog(1,1938068,17,3,'','flagsClk=4194440')">27774</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1938068" href="javascript:;" onclick="searchlog(1,1938068,17,6,'','flagsClk=4194440')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1938068" href="javascript:;" onclick="searchlog(1,1938068,17,5,'','flagsClk=4194440')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1938068" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1938068&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1938068,17,4,'','flagsClk=4194440')" data-parallel="1"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="915393" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="惠氏（Wyeth）S-26金装幼儿乐幼儿配方奶粉 3段 3200克（400克*8袋）" href="//item.jd.com/915393.html" onclick="searchlog(1,915393,18,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2464/3/2617547115/259519/5403eeb6/56e7da79Nf550efb9.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002520" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_915393" data-price="368.00"><em>¥</em><i>368.00</i></strong>						<div class="p-icons" id="J_pro_915393"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="惠氏（Wyeth）S-26金装幼儿乐幼儿配方奶粉 3段 3200克（400克*8袋）" href="//item.jd.com/915393.html" onclick="searchlog(1,915393,18,1,'','flagsClk=4194952')">
+							<em>惠氏（Wyeth）S-26金装幼儿乐幼儿配方<font class="skcolor_ljg">奶粉</font> 3段 3200克（400克*8袋）</em>
+							<i class="promo-words" id="J_AD_915393"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_915393" target="_blank" href="//item.jd.com/915393.html#comments-list" onclick="searchlog(1,915393,18,3,'','flagsClk=4194952')">534012</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="915393" href="javascript:;" onclick="searchlog(1,915393,18,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="915393" href="javascript:;" onclick="searchlog(1,915393,18,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="915393" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=915393&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,915393,18,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">12-36个月</div>
+	</div>
+</li>
+<li data-sku="1093717" class="gl-item">
+	<div class="gl-i-wrap">
+		<div class="gl-i-tab">
+			<div class="gl-i-tab-trigger">
+				<span class="item selected">单件</span>
+							<span class="item">2件</span>
+						</div>
+			<div class="gl-i-tab-content">
+				<div class="tab-content-item tab-cnt-i-selected">
+					<div class="p-img">
+						<a target="_blank" title="美素佳儿（Friso）金装儿童配方奶粉 4段（3岁以上至6岁适用）900克（荷兰原装进口）" href="//item.jd.com/1093717.html" onclick="searchlog(1,1093717,19,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t241/60/1454832480/340175/aef42e8f/56f0bf88Nde901c37.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002847" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1093717" data-price="149.00"><em>¥</em><i>149.00</i></strong>						<div class="p-icons" id="J_pro_1093717"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="美素佳儿（Friso）金装儿童配方奶粉 4段（3岁以上至6岁适用）900克（荷兰原装进口）" href="//item.jd.com/1093717.html" onclick="searchlog(1,1093717,19,1,'','flagsClk=4194952')">
+							<em>美素佳儿（Friso）金装儿童配方<font class="skcolor_ljg">奶粉</font> 4段（3岁以上至6岁适用）900克（荷兰原装进口）</em>
+							<i class="promo-words" id="J_AD_1093717"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1093717" target="_blank" href="//item.jd.com/1093717.html#comments-list" onclick="searchlog(1,1093717,19,3,'','flagsClk=4194952')">59418</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1093717" href="javascript:;" onclick="searchlog(1,1093717,19,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1093717" href="javascript:;" onclick="searchlog(1,1093717,19,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1093717" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1093717&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1093717,19,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">3-6岁</div>
+				</div>
+							<div class="tab-content-item">
+					<div class="p-img">
+						<a target="_blank" title="美素佳儿（Friso）金装儿童配方奶粉 4段（3岁以上至6岁适用）900克 2罐装（荷兰原装进口）" href="//item.jd.com/1298560.html" onclick="searchlog(1,1298560,19,2,'','flagsClk=4194952')">
+							<img width="220" height="220" data-img="1" src="//img10.360buyimg.com/n7/jfs/t2368/222/1184512861/196166/3f92c1dc/56497aa2Nf96e7ef9.jpg" data-lazy-img="done" />
+						</a>
+						<div></div>					</div>
+					<div class="p-price">
+						<strong class="J_1298560"><em>¥</em><i></i></strong>
+						<div class="p-icons" id="J_pro_1298560"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="美素佳儿（Friso）金装儿童配方奶粉 4段（3岁以上至6岁适用）900克 2罐装（荷兰原装进口）" href="//item.jd.com/1298560.html" onclick="searchlog(1,1298560,19,1,'','flagsClk=4194952')">
+							<em>美素佳儿（Friso）金装儿童配方奶粉 4段（3岁以上至6岁适用）900克 2罐装（荷兰原装进口）</em>
+							<i class="promo-words" id="J_AD_1298560"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1298560" target="_blank" href="//item.jd.com/1298560.html#comments-list" onclick="searchlog(1,1298560,19,3,'','flagsClk=4194952')">49892</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1298560" href="javascript:;" onclick="searchlog(1,1298560,19,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1298560" href="javascript:;" onclick="searchlog(1,1298560,19,5,'','flagsClk=4194952')"><i></i>关注</a>
+											<a class="p-o-btn addcart" data-stock="1298560" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1298560&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1298560,19,4,'','flagsClk=4194952')"><i></i>加入购物车</a>
+										</div>
+									</div>
+						</div>
+		</div>
+	</div>
+</li>
+<li data-sku="1279473" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="爱宝美Aptamil婴儿配方奶粉1段(0-6个月)800克(德国原装进口)" href="//item.jd.com/1279473.html" onclick="searchlog(1,1279473,20,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2275/139/2617027642/271873/9fe85bfe/56e78695N2a21d721.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002668" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1279473" data-price="220.00"><em>¥</em><i>220.00</i></strong>						<div class="p-icons" id="J_pro_1279473"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="爱宝美Aptamil婴儿配方奶粉1段(0-6个月)800克(德国原装进口)" href="//item.jd.com/1279473.html" onclick="searchlog(1,1279473,20,1,'','flagsClk=4194952')">
+							<em>爱宝美Aptamil婴儿配方<font class="skcolor_ljg">奶粉</font>1段(0-6个月)800克(德国原装进口)</em>
+							<i class="promo-words" id="J_AD_1279473"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1279473" target="_blank" href="//item.jd.com/1279473.html#comments-list" onclick="searchlog(1,1279473,20,3,'','flagsClk=4194952')">109667</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1279473" href="javascript:;" onclick="searchlog(1,1279473,20,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1279473" href="javascript:;" onclick="searchlog(1,1279473,20,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1279473" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1279473&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1279473,20,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">0-6个月</div>
+	</div>
+</li>
+<li data-sku="633597" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="雀巢（nestle）超级能恩 幼儿配方奶粉 3段（12-36个月婴儿适用）800克" href="//item.jd.com/633597.html" onclick="searchlog(1,633597,21,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/g6/M00/02/06/rBEGF1Ccf3gIAAAAAAKorapEzVAAAAbvAHkKvgAAqjF702.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000003112" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_633597" data-price="278.00"><em>¥</em><i>278.00</i></strong>						<div class="p-icons" id="J_pro_633597"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="雀巢（nestle）超级能恩 幼儿配方奶粉 3段（12-36个月婴儿适用）800克" href="//item.jd.com/633597.html" onclick="searchlog(1,633597,21,1,'','flagsClk=4194952')">
+							<em>雀巢（nestle）超级能恩 幼儿配方<font class="skcolor_ljg">奶粉</font> 3段（12-36个月婴儿适用）800克</em>
+							<i class="promo-words" id="J_AD_633597"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_633597" target="_blank" href="//item.jd.com/633597.html#comments-list" onclick="searchlog(1,633597,21,3,'','flagsClk=4194952')">176042</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="633597" href="javascript:;" onclick="searchlog(1,633597,21,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="633597" href="javascript:;" onclick="searchlog(1,633597,21,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="633597" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=633597&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,633597,21,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">12-36个月</div>
+	</div>
+</li>
+<li data-sku="1080962" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="雀巢（nestle）能恩 蜂蜜口味儿童配方奶粉 4段（3岁以上儿童适用）900克" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwMTc5ODIyXzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzEwODA5NjIuaHRtbA&log=W8qWJn5wDg3IagVFEIa1pNYHTZK_fZ_lkc0vyjmL5-wXjw7mBIg82e6vbnPI3ZJuivbsdXvpmNGDtBxj5h5N4eKdd6XZAEPSsxKXtWdyhuyLMhPuxIqz4Pqg1FULFQQxO-R_44yZbXGlz9gjWDh1hbLK5IcyajYtn_EySMTsMRySTsMcCbQ5yYGGVq8b97OLuiyULXhr5aEJ8tqb6qPMM4z_zc7cei5244Lh2uLzwilT4YXpudl6WEDULIqniKc8Y12UgagpLtErtE4sE1q0H1DpIRRkjCdD21ag_GHRuOb8fDSt4hw5dE8_0SZthryESXZSbtTtOLReN9_uQQB0gOa1zsd_q61WiyJIdSpVUrG2iqVFE4gVhvsE3M-a8hBQKS7x2teL9nmC4kNrEjFrmA&v=404" onclick="searchlog(1,1080962,22,2,'','adwClk=1')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t2014/278/2272216832/284258/c260d32a/56f9dfbcN214ee651.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000003112" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1080962"></strong>						<div class="p-icons" id="J_pro_1080962"></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="雀巢（nestle）能恩 蜂蜜口味儿童配方奶粉 4段（3岁以上儿童适用）900克" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwMTc5ODIyXzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzEwODA5NjIuaHRtbA&log=W8qWJn5wDg3IagVFEIa1pNYHTZK_fZ_lkc0vyjmL5-wXjw7mBIg82e6vbnPI3ZJuivbsdXvpmNGDtBxj5h5N4eKdd6XZAEPSsxKXtWdyhuyLMhPuxIqz4Pqg1FULFQQxO-R_44yZbXGlz9gjWDh1hbLK5IcyajYtn_EySMTsMRySTsMcCbQ5yYGGVq8b97OLuiyULXhr5aEJ8tqb6qPMM4z_zc7cei5244Lh2uLzwilT4YXpudl6WEDULIqniKc8Y12UgagpLtErtE4sE1q0H1DpIRRkjCdD21ag_GHRuOb8fDSt4hw5dE8_0SZthryESXZSbtTtOLReN9_uQQB0gOa1zsd_q61WiyJIdSpVUrG2iqVFE4gVhvsE3M-a8hBQKS7x2teL9nmC4kNrEjFrmA&v=404" onclick="searchlog(1,1080962,22,1,'','adwClk=1')">
+							<em>雀巢（nestle）能恩 蜂蜜口味儿童配方<font class="skcolor_ljg">奶粉</font> 4段（3岁以上儿童适用）900克</em>
+							<i class="promo-words" id="J_AD_1080962"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1080962" target="_blank" href="https://ccc-x.jd.com/dsp/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTEwMTc5ODIyXzE0NzYmdG89aHR0cDovL2l0ZW0uamQuY29tLzEwODA5NjIuaHRtbA&log=W8qWJn5wDg3IagVFEIa1pNYHTZK_fZ_lkc0vyjmL5-wXjw7mBIg82e6vbnPI3ZJuivbsdXvpmNGDtBxj5h5N4eKdd6XZAEPSsxKXtWdyhuyLMhPuxIqz4Pqg1FULFQQxO-R_44yZbXGlz9gjWDh1hbLK5IcyajYtn_EySMTsMRySTsMcCbQ5yYGGVq8b97OLuiyULXhr5aEJ8tqb6qPMM4z_zc7cei5244Lh2uLzwilT4YXpudl6WEDULIqniKc8Y12UgagpLtErtE4sE1q0H1DpIRRkjCdD21ag_GHRuOb8fDSt4hw5dE8_0SZthryESXZSbtTtOLReN9_uQQB0gOa1zsd_q61WiyJIdSpVUrG2iqVFE4gVhvsE3M-a8hBQKS7x2teL9nmC4kNrEjFrmA&v=404" onclick="searchlog(1,1080962,22,3,'','adwClk=1')">203650</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1080962" href="javascript:;" onclick="searchlog(1,1080962,22,6,'','adwClk=1')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1080962" href="javascript:;" onclick="searchlog(1,1080962,22,5,'','adwClk=1')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1080962" data-stock-val="-1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1080962&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1080962,22,4,'','adwClk=1')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<span class="p-promo-flag">推广</span>
+					<script src="https://im-x.jd.com/dsp/np?log=W8qWJn5wDg3IagVFEIa1pNYHTZK/fZ/lkc0vyjmL5+wXjw7mBIg82e6vbnPI3ZJuivbsdXvpmNGDtBxj5h5N4eKdd6XZAEPSsxKXtWdyhuyLMhPuxIqz4Pqg1FULFQQxO+R/44yZbXGlz9gjWDh1hbLK5IcyajYtn/EySMTsMRySTsMcCbQ5yYGGVq8b97OLfJxyNQfm3eGp/9gwCIsyGw41oR1gBZzWxgMNX8wy+hnffQSneJkZwPbjvTNIrMl50d/RGL6sb4waVmQxiFvKldF+Yc1xnZrxsRZ+GAKwOelqYZ8d2ATp210me17+yPVV6lxTZQV8MrFrBcoI3xOWVoXY2L1yfCx36ZCnvaYsWXlvYWok41TqrOXsxW7Kc6M/8g3nUfIVZTJnj+AzEC8CLHuxA9HPeUok00tL1pcmaOA=&v=404"></script>
+	</div>
+</li>
+<li data-sku="255742" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="雀巢（nestle）能恩 幼儿配方奶粉 3段（12-36个月婴儿适用）900克" href="//item.jd.com/255742.html" onclick="searchlog(1,255742,23,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t2257/248/2710910721/155480/6a043052/56e6576dNd4a6022f.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000003112" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_255742" data-price="170.00"><em>¥</em><i>170.00</i></strong>						<div class="p-icons" id="J_pro_255742"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="雀巢（nestle）能恩 幼儿配方奶粉 3段（12-36个月婴儿适用）900克" href="//item.jd.com/255742.html" onclick="searchlog(1,255742,23,1,'','flagsClk=4194952')">
+							<em>雀巢（nestle）能恩 幼儿配方<font class="skcolor_ljg">奶粉</font> 3段（12-36个月婴儿适用）900克</em>
+							<i class="promo-words" id="J_AD_255742"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_255742" target="_blank" href="//item.jd.com/255742.html#comments-list" onclick="searchlog(1,255742,23,3,'','flagsClk=4194952')">203740</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="255742" href="javascript:;" onclick="searchlog(1,255742,23,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="255742" href="javascript:;" onclick="searchlog(1,255742,23,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="255742" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=255742&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,255742,23,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">12-36个月</div>
+	</div>
+</li>
+<li data-sku="252591" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="雅培（Abbott）小安素 全营养配方奶粉 香草味（适合1岁以上挑食偏食宝宝）900克" href="//item.jd.com/252591.html" onclick="searchlog(1,252591,24,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t1966/180/154028015/131358/3f9d4b14/55f2399cNc022f0cd.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000001582" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_252591" data-price="164.00"><em>¥</em><i>164.00</i></strong>						<div class="p-icons" id="J_pro_252591"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="雅培（Abbott）小安素 全营养配方奶粉 香草味（适合1岁以上挑食偏食宝宝）900克" href="//item.jd.com/252591.html" onclick="searchlog(1,252591,24,1,'','flagsClk=4194952')">
+							<em>雅培（Abbott）小安素 全营养配方<font class="skcolor_ljg">奶粉</font> 香草味（适合1岁以上挑食偏食宝宝）900克</em>
+							<i class="promo-words" id="J_AD_252591"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_252591" target="_blank" href="//item.jd.com/252591.html#comments-list" onclick="searchlog(1,252591,24,3,'','flagsClk=4194952')">110114</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="252591" href="javascript:;" onclick="searchlog(1,252591,24,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="252591" href="javascript:;" onclick="searchlog(1,252591,24,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="252591" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=252591&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,252591,24,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+	</div>
+</li>
+<li data-sku="2165620" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="惠氏启赋（Wyeth illuma）较大婴儿和幼儿配方奶粉 2段 900克（罐装）新升级" href="//item.jd.com/2165620.html" onclick="searchlog(1,2165620,25,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t2317/15/2124258681/347249/4fb964b3/56ab1084N795d3943.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002520" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_2165620" data-price="308.00"><em>¥</em><i>308.00</i></strong>						<div class="p-icons" id="J_pro_2165620"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="惠氏启赋（Wyeth illuma）较大婴儿和幼儿配方奶粉 2段 900克（罐装）新升级" href="//item.jd.com/2165620.html" onclick="searchlog(1,2165620,25,1,'','flagsClk=4194952')">
+							<em>惠氏启赋（Wyeth illuma）较大婴儿和幼儿配方<font class="skcolor_ljg">奶粉</font> 2段 900克（罐装）新升级</em>
+							<i class="promo-words" id="J_AD_2165620"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_2165620" target="_blank" href="//item.jd.com/2165620.html#comments-list" onclick="searchlog(1,2165620,25,3,'','flagsClk=4194952')">287269</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="2165620" href="javascript:;" onclick="searchlog(1,2165620,25,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="2165620" href="javascript:;" onclick="searchlog(1,2165620,25,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="2165620" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=2165620&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,2165620,25,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">6-12个月</div>
+	</div>
+</li>
+<li data-sku="804013" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="惠氏启赋（Wyeth illuma）学龄前儿童配方奶粉 4段 900克（罐装）新升级" href="//item.jd.com/804013.html" onclick="searchlog(1,804013,26,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t1900/342/1737638954/334882/cc33af9d/5673a7f0N600fff55.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002520" class="picon" style="background:url(//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png) no-repeat 0 0;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//img30.360buyimg.com/jgsq-productsoa/jfs/t1489/304/595593239/1323/349e0602/559ce4f0Ndb935fb6.png',sizingMethod='noscale');"></div>
+					</div>
+					<div class="p-price">
+<strong class="J_804013" data-price="268.00"><em>¥</em><i>268.00</i></strong>						<div class="p-icons" id="J_pro_804013"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="惠氏启赋（Wyeth illuma）学龄前儿童配方奶粉 4段 900克（罐装）新升级" href="//item.jd.com/804013.html" onclick="searchlog(1,804013,26,1,'','flagsClk=4194952')">
+							<em>惠氏启赋（Wyeth illuma）学龄前儿童配方<font class="skcolor_ljg">奶粉</font> 4段 900克（罐装）新升级</em>
+							<i class="promo-words" id="J_AD_804013"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_804013" target="_blank" href="//item.jd.com/804013.html#comments-list" onclick="searchlog(1,804013,26,3,'','flagsClk=4194952')">287240</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="804013" href="javascript:;" onclick="searchlog(1,804013,26,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="804013" href="javascript:;" onclick="searchlog(1,804013,26,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="804013" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=804013&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,804013,26,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">3-6岁</div>
+	</div>
+</li>
+<li data-sku="1250264" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="美赞臣(MeadJohnson) 安儿宝A+幼儿配方奶粉 3段(1-3岁幼儿适用) 900克(进口奶源)新包装" href="//item.jd.com/1250264.html" onclick="searchlog(1,1250264,27,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t2266/1/2648018117/371163/4eb24002/56e12926Nef9bc579.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000003179" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_1250264" data-price="168.00"><em>¥</em><i>168.00</i></strong>						<div class="p-icons" id="J_pro_1250264"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="美赞臣(MeadJohnson) 安儿宝A+幼儿配方奶粉 3段(1-3岁幼儿适用) 900克(进口奶源)新包装" href="//item.jd.com/1250264.html" onclick="searchlog(1,1250264,27,1,'','flagsClk=4194952')">
+							<em>美赞臣(MeadJohnson) 安儿宝A+幼儿配方<font class="skcolor_ljg">奶粉</font> 3段(1-3岁幼儿适用) 900克(进口奶源)新包装</em>
+							<i class="promo-words" id="J_AD_1250264"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_1250264" target="_blank" href="//item.jd.com/1250264.html#comments-list" onclick="searchlog(1,1250264,27,3,'','flagsClk=4194952')">222507</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="1250264" href="javascript:;" onclick="searchlog(1,1250264,27,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="1250264" href="javascript:;" onclick="searchlog(1,1250264,27,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="1250264" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=1250264&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,1250264,27,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">12-36个月</div>
+	</div>
+</li>
+<li data-sku="597728" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="美素力（frisolac）金装婴儿配方奶粉 1段（0-6个月婴儿适用）400克（荷兰原装进口）" href="//item.jd.com/597728.html" onclick="searchlog(1,597728,28,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t2026/159/2853869648/412391/1a85973f/56f0b7eeNdef02952.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002847" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_597728" data-price="109.00"><em>¥</em><i>109.00</i></strong>						<div class="p-icons" id="J_pro_597728"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="美素力（frisolac）金装婴儿配方奶粉 1段（0-6个月婴儿适用）400克（荷兰原装进口）" href="//item.jd.com/597728.html" onclick="searchlog(1,597728,28,1,'','flagsClk=4194952')">
+							<em>美素力（frisolac）金装婴儿配方<font class="skcolor_ljg">奶粉</font> 1段（0-6个月婴儿适用）400克（荷兰原装进口）</em>
+							<i class="promo-words" id="J_AD_597728"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_597728" target="_blank" href="//item.jd.com/597728.html#comments-list" onclick="searchlog(1,597728,28,3,'','flagsClk=4194952')">172759</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="597728" href="javascript:;" onclick="searchlog(1,597728,28,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="597728" href="javascript:;" onclick="searchlog(1,597728,28,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="597728" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=597728&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,597728,28,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">0-6个月</div>
+	</div>
+</li>
+<li data-sku="915357" class="gl-item">
+	<div class="gl-i-wrap">
+					<div class="p-img">
+						<a target="_blank" title="惠氏（Wyeth）S-26金装爱儿乐婴儿配方奶粉 1段 900克（罐装）" href="//item.jd.com/915357.html" onclick="searchlog(1,915357,29,2,'','flagsClk=4194952')">
+							<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t2170/311/2708795335/267330/a1f70201/56e7dafcNa7d9e901.jpg" />
+						</a>
+						<div data-ico="0" data-venid="1000002520" ></div>
+					</div>
+					<div class="p-price">
+<strong class="J_915357" data-price="189.00"><em>¥</em><i>189.00</i></strong>						<div class="p-icons" id="J_pro_915357"><i class="goods-icons-s1" title="该商品支持货到付款">货到付款</i></div>
+					</div>
+					<div class="p-name p-name-type-2">
+						<a target="_blank" title="惠氏（Wyeth）S-26金装爱儿乐婴儿配方奶粉 1段 900克（罐装）" href="//item.jd.com/915357.html" onclick="searchlog(1,915357,29,1,'','flagsClk=4194952')">
+							<em>惠氏（Wyeth）S-26金装爱儿乐婴儿配方<font class="skcolor_ljg">奶粉</font> 1段 900克（罐装）</em>
+							<i class="promo-words" id="J_AD_915357"></i>
+						</a>
+					</div>
+					<div class="p-commit"><strong>已有<a id="J_comment_915357" target="_blank" href="//item.jd.com/915357.html#comments-list" onclick="searchlog(1,915357,29,3,'','flagsClk=4194952')">316382</a>人评价</strong></div>
+					<div class="p-operate">
+						<a class="p-o-btn contrast J_contrast" data-sku="915357" href="javascript:;" onclick="searchlog(1,915357,29,6,'','flagsClk=4194952')"><i></i>对比</a>
+						<a class="p-o-btn focus J_focus" data-sku="915357" href="javascript:;" onclick="searchlog(1,915357,29,5,'','flagsClk=4194952')"><i></i>关注</a>
+						<a class="p-o-btn addcart" data-stock="915357" data-stock-val="1" data-disable-notice="0" data-presale="0" href="//gate.jd.com/InitCart.aspx?pid=915357&pcount=1&ptype=1" target="_blank" onclick="searchlog(1,915357,29,4,'','flagsClk=4194952')" data-parallel="0"><i></i>加入购物车</a>
+					</div>
+					<div class="p-attr">0-6个月</div>
+	</div>
+</li>
+</ul><span class="clr"></span></div><div id="J_scroll_loading" class="notice-loading-more" data-pos="30" data-log-id="1466664448.56536"><span>正在加载中，请稍后~~</span></div><div class="page clearfix"><div id="J_bottomPage" class="p-wrap"></div></div>		</div>
+	</div>
+	<div class="m-aside">
+		<div class="aside-bar">
+			<div id="J_promGoodsWrap_6" class="ab-goods"><div class="mt"><h3>推广商品</h3></div><div class="mc"></div></div>
+			<div id="J_recommendGoods" class="ab-goods"><div class="mt"><h3>精品推荐</h3></div><div class="mc"></div></div>
+			<div class="promo-pic-adbox"><h5 class="hd">商家精选</h5><div class="bd"><div id="J_promWrap_576"><div class="mc"></div></div></div></div>
+			<div id="miaozhen8148" class="ab-pic"></div>
+		</div>
+	</div>
+	<span class="clr"></span>
+</div>
+<script>
+LogParm = {
+	result_count:'57203',
+	ab:'0011',
+	front_cost:'90',
+	back_cost:'52',
+	ip:'53.118',
+	cid:'',
+	psort:'',
+	page:'1',
+	ekey:'',
+	ev:'0',
+	rec_type:'0',
+	rel_cat2:'1523,4997,1585',
+	rel_cat3:'7052,7054,6319,12201',
+	log_id:'1466664448.56536',
+	expand:'adwShow=1$double=1',
+	mtest:'',
+	sig:'tTHjzdNiDleKrRCmmWbpqPmuPiKBm2OhTY69hz2dtH0IEknHrumzVz4rtMwtn9V7yDSk1GK3cE5l7Auw8bI7OfBhuocsyeksXbQ3nN6dpm/Ao9/wkJmvm6Zd9PiHfy+2mqvYE1wFD2TtsNLrtWLZzmQX2RxdD37xRWLqFOUscYs='
+};
+SEARCH.is_shop=0;
+SEARCH.is_promotion=0;
+SEARCH.item_count=60;
+SEARCH.click=0;
+SEARCH.adv_param={page:"1",page_count:"100",psort:"",cid1:"",cid2:"",cid3:""};
+SEARCH.base_url='keyword=%E5%A5%B6%E7%B2%89&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&offset=3';
+SEARCH.brand_ids='876_758_273_66_863_347_1_24_31_151_118_60_229_9_227_235_112_243_33_40_1302_345_128_151_678_28_245_50_45_194_205_79_11_22_2_60_120_382_112_670_395_109_342_824_222_204_82_372_277_40_90_32_148_28_308_378_67_18_10_4_5_671_482_506_90_1391_145_165_247_133_305_54_227_91_3_70_714_110_92_120_190_20_189_402_470_949_1128_541_1842_223_881_241_819_909_421_401_1263_901_339_93_546_270_287_26_3_24_1_1_2_5_1_6_20_1_2_1_4_100_414_1574_6_122_1_1_14_1_310_4228_584_2150_347_1405_465_767_890_1220_501_841_2680_1087_1214_377_1440_1_1048_292_225_207_28_721_258_598_149_119_90_51_356_1088_112_1048_1_153_12_61_456_12_3_1271_132_1_117_9_1837_674_500_87_682_1116_386_738_1043_185_435_43_1_597_291_221_2169_596_80_2583_2077_39_1284_193_704_2307_429_293_498_651_287_16_3241_458_204_37_295_7_98_468_2889_695_296_659_83_1_1296_74_2120_118_941_36_579_938_223_54_104_163_237_1216_29_201_679_412_14_480_211_461_79_3_9_778_2091_1120_53_1950_27_215_130_1003_51_1959_383_1560_186_1050_1_238_891_131_186_26_578_399_270_856_996_324_549_391_610_161_467_869_91_1_602_95_125_977_2475_1524_960_1936_504_153_1919_889_859_1872_251_87_435_36_746_59_48_131_568_62_94_42_215_330_45_1_1_754_1407_637_233_1010_241_61_872_465_500_171_198_671_111_73_878_6_700_329_424_614_131_894_557_1309_39_191_4_1_122_97_470_826_215_268_102_249_263_222_277_150_204_270_346_479_32_230_339_38_96_216_219_26_1_527_24_450_103_108_1550_818_177_131_110_298_971_744_1_1042_2492_746_3253_897_1441_425_235_2851_310_629_54_302_115_1314_225_502_607_314_378_773_2780_';
+setTimeout(function(){var b={};b.i="1466664448.56536";b.h="1523,4997,1585";b.k="奶粉";b.c="";b.m="13be7772006ddd74740395fe21742f06";var a=[];$("#J_crumbsBar").find("a.crumb-select-item").each(function(){a.push($(this).find("b").html().replace("：","::")+$(this).attr("title").replace(/、/g,"||"))});b.s=a.join(";;")+(a.length?";;":"");var c=[];$("#J_selector").find(".J_selectorLine").each(function(){var f=$(this),e=f.find(".sl-key").text().replace("：","::"),d=[];if(e=="高级选项::"){f.find("a.trig-item").each(function(g){e=$(this).text()+"::";d=[];f.find(".J_valueList").eq(g).find("a").each(function(){d.push(e=="颜色::"?$(this).attr("title"):e=="其他分类::"?$(this).attr("data-v"):$(this).text())});c.push(e+d.join(",,"))})}else{if(e=="品牌::"){f.find(".J_valueList li").each(function(){d.push(this.id.replace("brand-",""))})}else{if(e=="颜色::"){f.find(".J_valueList a").each(function(){d.push($(this).attr("title"))})}else{if(f.hasClass("s-category")){f.find(".J_valueList a").each(function(){d.push($(this).attr("data-v"))})}else{f.find(".J_valueList a").each(function(){d.push($(this).text())})}}}c.push(e+d.join(",,"))}});b.u=c.join(";;")+(c.length?";;":"");$.post("attrlog.php",b,function(){})},500);
+</script>
+<script>$.get("im.php?r=1181255505&t=1466664448.9903&cs=014a77844717080492e1b4aec0203aec");</script></div>
+</div>
+<div class="w">
+	<div class="m-box-s1 rec-goods-chosen hide" id="J_promGoodsWrap_292">
+		<div class="mt"><strong class="mt-title">商品精选</strong></div>
+		<div class="mc"></div>
+	</div>
+</div>
+<div class="w">
+	<div class="bottom-search">
+		<div class="form-group">
+			<div class="fg-line search-ext">
+				<div class="fg-line-key"><span>您是不是要找：</span></div>
+				<div class="fg-line-value" clstag="search|keycount|search|qpsearch"></div>
+			</div>
+			<div class="fg-line re-search">
+				<div class="fg-line-key"><b>重新搜索：</b></div>
+				<div class="fg-line-value">
+					<input id="key-re-search" class="input-txt input-XL" type="text" placeholder="搜索" value="奶粉" onkeydown="javascript:if(event.keyCode==13){searchlog(1,0,0,60);search('key-re-search');}">
+					<a class="btn btn-primary btn-XL" href="javascript:search('key-re-search')" onclick="searchlog(1,0,0,60)">搜索</a>
+					<a class="link" href="javascript:surveyShow()">说说我使用搜索的感受</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="w">
+	<div id="footmark" class="footmark" data-lazyload-fn="done"></div>
+</div>
+<div id="service-2014">
+	<div class="slogen">
+		<span class="item fore1">
+			<i></i><b>多</b>品类齐全，轻松购物
+		</span>
+		<span class="item fore2">
+			<i></i><b>快</b>多仓直发，极速配送
+		</span>
+		<span class="item fore3">
+			<i></i><b>好</b>正品行货，精致服务
+		</span>
+		<span class="item fore4">
+			<i></i><b>省</b>天天低价，畅选无忧
+		</span>
+	</div>
+	<div class="w">
+		<dl class="fore1">
+			<dt>购物指南</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-29.html">购物流程</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-151.html">会员介绍</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-297.html">生活旅行/团购</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue.html">常见问题</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-136.html">大家电</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/index.html">联系客服</a></div>
+			</dd>
+		</dl>
+		<dl class="fore2">		
+			<dt>配送方式</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81-100.html">上门自提</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81.html">211限时达</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/103-983.html">配送服务查询</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/109-188.html">配送费收取标准</a></div>				
+				<div><a target="_blank" href="//en.jd.com/chinese.html">海外配送</a></div>
+			</dd>
+		</dl>
+		<dl class="fore3">
+			<dt>支付方式</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-172.html">货到付款</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-173.html">在线支付</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-176.html">分期付款</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-174.html">邮局汇款</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-175.html">公司转账</a></div>
+			</dd>
+		</dl>
+		<dl class="fore4">		
+			<dt>售后服务</dt>
+			<dd>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/321-981.html">售后政策</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-132.html">价格保护</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/130-978.html">退款说明</a></div>
+				<div><a rel="nofollow" target="_blank" href="//myjd.jd.com/repair/repairs.action">返修/退换货</a></div>
+				<div><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-50.html">取消订单</a></div>
+			</dd>
+		</dl>
+		<dl class="fore5">
+			<dt>特色服务</dt>
+			<dd>		
+				<div><a target="_blank" href="//help.jd.com/user/issue/list-133.html">夺宝岛</a></div>
+				<div><a target="_blank" href="//help.jd.com/user/issue/list-134.html">DIY装机</a></div>
+				<div><a rel="nofollow" target="_blank" href="//fuwu.jd.com/">延保服务</a></div>
+				<div><a rel="nofollow" target="_blank" href="//o.jd.com/market/index.action">京东E卡</a></div>				
+				<div><a rel="nofollow" target="_blank" href="//mobile.jd.com/">京东通信</a></div>
+				<div><a rel="nofollow" target="_blank" href="//s.jd.com/">京东JD+</a></div>
+			</dd>
+		</dl>
+		<span class="clr"></span>
+	</div>
+</div><div class="w">
+	<div id="footer-2014">
+		<div class="links"><a rel="nofollow" target="_blank" href="//www.jd.com/intro/about.aspx">关于我们</a>|<a rel="nofollow" target="_blank" href="//www.jd.com/contact/">联系我们</a>|<a rel="nofollow" target="_blank" href="//www.jd.com/contact/joinin.aspx">商家入驻</a>|<a rel="nofollow" target="_blank" href="//jzt.jd.com">营销中心</a>|<a rel="nofollow" target="_blank" href="//app.jd.com/">手机京东</a>|<a target="_blank" href="//club.jd.com/links.aspx">友情链接</a>|<a target="_blank" href="//media.jd.com/">销售联盟</a>|<a href="//club.jd.com/" target="_blank">京东社区</a>|<a href="//gongyi.jd.com" target="_blank">京东公益</a>|<a href="//en.jd.com/" target="_blank">English Site</a>|<a href="//en.jd.com/help/question-58.html" target="_blank">Contact Us</a></div>
+		<div class="copyright"><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088"><img src="//img13.360buyimg.com/cms/jfs/t2293/321/1377257360/19256/c267b386/56a0a994Nf1b662dc.png" /> 京公网安备 11000002000088号</a>&nbsp;&nbsp;|&nbsp;&nbsp;京ICP证070359号&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_blank" href="//img14.360buyimg.com/da/jfs/t256/349/769670066/270505/3b03e0bb/53f16c24N7c04d9e9.jpg">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a>&nbsp;&nbsp;|&nbsp;&nbsp;新出发京零&nbsp;字第大120007号<br>互联网出版许可证编号新出网证(京)字150号&nbsp;&nbsp;|&nbsp;&nbsp;<a rel="nofollow" href="//img30.360buyimg.com/uba/jfs/t1036/328/1487467280/1405104/ea57ab94/5732f60aN53b01d06.jpg" target="_blank">出版物经营许可证</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="//misc.360buyimg.com/wz/wlwhjyxkz.jpg" target="_blank">网络文化经营许可证京网文[2014]2148-348号</a>&nbsp;&nbsp;|&nbsp;&nbsp;违法和不良信息举报电话：4006561155<br>Copyright&nbsp;&copy;&nbsp;2004-2016&nbsp;&nbsp;京东JD.com&nbsp;版权所有&nbsp;&nbsp;|&nbsp;&nbsp;消费者维权热线：4006067733<br>京东旗下网站：<a href="https://www.jdpay.com/" target="_blank">京东钱包</a>
+		</div>		
+		<div class="authentication">
+			<a rel="nofollow" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007080200026">
+				<img width="103" height="32" alt="经营性网站备案中心" src="//img12.360buyimg.com/da/jfs/t535/349/1185317137/2350/7fc5b9e4/54b8871eNa9a7067e.png" class="err-product" />
+			</a>
+			<script type="text/JavaScript">function CNNIC_change(eleId){var str= document.getElementById(eleId).href;var str1 =str.substring(0,(str.length-6));str1+=CNNIC_RndNum(6); document.getElementById(eleId).href=str1;}function CNNIC_RndNum(k){var rnd=""; for (var i=0;i < k;i++) rnd+=Math.floor(Math.random()*10); return rnd;}</script>
+			<a rel="nofollow" target="_blank" id="urlknet" tabindex="-1" href="https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ct=df&pa=294005">
+				<img border="true" width="103" height="32" onclick="CNNIC_change('urlknet')" oncontextmenu="return false;" name="CNNIC_seal" alt="可信网站" src="//img11.360buyimg.com/da/jfs/t643/61/1174624553/2576/4037eb5f/54b8872dNe37a9860.png" class="err-product" />
+			</a>
+			<a rel="nofollow" target="_blank" href="http://www.bj.cyberpolice.cn/index.do">
+				<img width="103" height="32" alt="网络警察" src="//img12.360buyimg.com/cms/jfs/t2050/256/1470027660/4336/2a2c74bd/56a89b8fNfbaade9a.jpg" class="err-product" />
+			</a>
+			<a rel="nofollow" target="_blank" href="https://search.szfw.org/cert/l/CX20120111001803001836">
+				<img width="103" height="32" src="//img11.360buyimg.com/da/jfs/t451/173/1189513923/1992/ec69b14a/54b8875fNad1e0c4c.png" class="err-product" />
+			</a>
+			<a target="_blank" href="http://www.12377.cn"><img width="103" height="32" src="//img30.360buyimg.com/da/jfs/t1915/215/1329999964/2996/d7ff13f0/5698dc03N23f2e3b8.jpg"></a>
+			<a target="_blank" href="http://www.12377.cn/node_548446.htm"><img width="103" height="32" src="//img14.360buyimg.com/da/jfs/t2026/221/2097811452/2816/8eb35b4b/5698dc16Nb2ab99df.jpg"></a>
+		</div>
+	</div>
+</div><script>
+seajs.use('product/search/0.0.17/js/main.js').config({alias:{'search_new':'./script/search_new.js?226.js'}}).use('search_new', function(s){
+	s.init(1,200,57203,"",1,0,28,1,0,0);
+});
+</script>
+<script type="text/javascript">
+(function(){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=("https:"==document.location.protocol?"https://wlssl":"//wl")+".jd.com/wl.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();
+window.surveyShow=function(){window.open('//surveys.jd.com/index.php?r=survey/index/sid/393283/lang/zh-Hans/search_version/'+(readCookie((readCookie('mx')||'').indexOf('_M')>-1?'mtest':'xtest')||''))};
+</script>
+<div id="J-global-toolbar"></div>
+<script>
+(function(win) {
+    seajs.use('//static.360buyimg.com/devfe/toolbar/1.0.0/js/main', function(Toolbar) {
+var adConfig = {};
+var actName = null;
+if (window.pageConfig && window.pageConfig.actName) {
+    actName = window.pageConfig.actName;
+}
+
+
+        pageConfig.toolbar = new Toolbar({
+            pType: 'search',
+            bars: {
+                jimi: {
+                    enabled: true
+                },
+                cart: {
+                    enabled: true
+                }
+            },
+            links: {
+                feedback: {
+                    anchor: 'javascript:surveyShow();'
+                },
+                top:{
+                  anchor:"javascript:window.scrollTo(0,0);"
+                }
+            }
+        });
+    });
+
+})(window);
+</script></body>
+</html>
