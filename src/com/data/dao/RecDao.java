@@ -12,10 +12,10 @@ import javax.naming.InitialContext;
 import javax.naming.NamingException;
 import javax.sql.DataSource;
 
-import com.data.JDBean;
 import com.databases.DBConnectionManager;
 import com.myweb.db.DataBaseOperate;
 import com.myweb.db.DataBaseOperateException;
+import com.shop.bean.JDBean;
 
 public class RecDao {
 	     private String TABLENAME="lovetable";

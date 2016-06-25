@@ -14,7 +14,6 @@ import java.util.Properties;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.log4j.Logger;
 
 
 /**
@@ -23,8 +22,6 @@ import org.apache.log4j.Logger;
  *
  */
 public class GMCrawler implements Crawler{
-	private static Logger log=Logger.getLogger(GMCrawler.class.getName());
-	private static String searchUrl="http://search.gome.com.cn/search?question=";
     private static GMCrawler crawler=new GMCrawler();
     private static StringBuilder builder=new StringBuilder();
     private static String fileName="./data/gm/";
@@ -59,7 +56,6 @@ public class GMCrawler implements Crawler{
    	 try {
    		 String  fileName=configFile(shopName);
    		 if(fileName==null){
-   			 log.debug("配置文件异常");
    			 throw new NullPointerException("配置文件异常");
    		 }
    		 File file=new File(fileName);
@@ -131,8 +127,7 @@ public class GMCrawler implements Crawler{
 	return null;
 }
 	private static void updateShopData(File file, String shopName){
-		log.debug("更新数据");
-   	 byte[] data=link.doGetBytes(searchUrl+shopName);
+   	 byte[] data=link.doGetBytes("http://search.gome.com.cn/search?question="+shopName);
 		try {
 				file.createNewFile();
 				OutputStream outputStream=new FileOutputStream(file);
@@ -144,15 +139,12 @@ public class GMCrawler implements Crawler{
 			}
 		
     }
-	/***
-	 * 评论更新
-	 * @param shopID 商品id
-	 * @param file 更新缓存文件
-	 * @param page 评论页码
-	 */
-   private static void updataComment(String shopID,File file, String page){
-		log.debug("更新数据");
+	//https://aldcdn.tmall.com/recommend.htm?appId=03067&itemId=38698117173&vid=0&curPage=1&step=100&categoryId=50006888&sellerId=2003774307&shopId=109028094&brandId=30812&refer=&callback=jsonpAldTabWaterfall
+	//https://rate.tmall.com/list_detail_rate.htm?itemId=38698117173&spuId=272092043&sellerId=2003774307&order=3&currentPage=2
+	//https://rate.tmall.com/list_detail_rate.htm?itemId=38698117173&sellerId=2003774307&order=3&currentPage=1
+	private static void updataComment(String shopID,File file, String page){
    	 byte[] data=link.doGetBytes("http://ss.gome.com.cn/item/v1/prdevajsonp/appraiseModuleAjax/"+shopID+"/"+page+"/all/flag/appraise/all");
+
 		try {
 				file.createNewFile();
 				OutputStream outputStream=new FileOutputStream(file);
@@ -173,7 +165,6 @@ public class GMCrawler implements Crawler{
 			lists.add(means2);
 		}
 		int size=lists.size();
-		log.debug("物品数量:"+size);
 		return lists;
 	}
 
@@ -216,13 +207,19 @@ public class GMCrawler implements Crawler{
 				System.out.println(tp);
 				comments.add(tp);
 			}
+// 			//初次评论
+//			 searchMeanPattern2 = Pattern.compile("\"rateContent\":.*?,");
+//		      m2 = searchMeanPattern2.matcher(remomment); //m1是获取包含翻译的整个<div>的
+// 			while(m2.find()){
+//				String tp=m2.group();
+//				comments.add(tp);
+//			}
  			return null;
 		}
 		return null;
 	}
 	private  static String getRecomment(String shopID, String page) {
-		log.debug("更新数据"+"http://ss.gome.com.cn/item/v1/prdevajsonp/appraiseModuleAjax/"+shopID+"/"+page+"/all/flag/appraise/all");
-    	 String data=link.doGetString("http://ss.gome.com.cn/item/v1/prdevajsonp/appraiseModuleAjax/"+shopID+"/"+page+"/all/flag/appraise/all");
+	 String data=link.doGetString("http://ss.gome.com.cn/item/v1/prdevajsonp/appraiseModuleAjax/"+shopID+"/"+page+"/all/flag/appraise/all");
     	// System.out.println(data.length);
 		return data;
 	}

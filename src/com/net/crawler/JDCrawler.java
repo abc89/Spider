@@ -14,20 +14,18 @@ import java.util.Properties;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.log4j.Logger;
+import com.logs.ShopLogs;
 
-import com.data.JDShopComment;
 /***
  * 京东商品抓取
  * @author e7691
  *
  */
-public class JDCrawler implements Crawler {
-	         private static Logger log=Logger.getLogger(JDCrawler.class.getName());
-		     private static StringBuilder builder=new StringBuilder();
-		     private static String fileName="./data/jd/";
-		     private static Link link=new Link();
-		     private static byte[] data=new byte[500000];
+public class JDCrawler implements Crawler {		     
+		     private static String fileName="./data/jd/";//存储html数据目录
+		     private static Link link=new Link();//http链接
+		     private static byte[] data=new byte[500000];//页面缓存
+		     
 			 private static JDCrawler crawler=new JDCrawler();
 		     public static JDCrawler creatTBCrawler(){
 		    	 return crawler;
@@ -58,6 +56,7 @@ public class JDCrawler implements Crawler {
 		    	 try {
 		    		 String  fileName=configFile(shopName);
 		    		 if(fileName==null){
+		    			 ShopLogs.error(JDCrawler.class.getName(),"爬虫 配置文件异常");
 		    			 throw new NullPointerException("配置文件异常");
 		    		 }
 		    		 File file=new File(fileName);
@@ -74,8 +73,13 @@ public class JDCrawler implements Crawler {
 		    		 e.printStackTrace();
 		    	 }
 				return shopName; 	 
-		     }
-		     private static String configFile(String shopName) {
+		 }
+	/**
+	 * 创建 爬虫配置文件
+	 * @param shopName 搜索商品名称
+	 * @return
+	 */
+     private static String configFile(String shopName) {
 		    	 String name=fileName+shopName+"/config.txt";
 		    	 String reFileName=fileName+shopName+"/";
 		    	 FileOutputStream out=null;
@@ -123,8 +127,12 @@ public class JDCrawler implements Crawler {
 		    	 }catch(Exception e){}
 			return null;
 		}
-		     private static void updateShopData(File file, String shopName){
-		    	 log.debug("更新数据");
+    /**
+     * 存储爬取得数据   
+     * @param file
+     * @param shopName
+     */
+	private static void updateShopData(File file, String shopName){
 		    	 byte[] data=link.doGetBytes("http://search.jd.com/Search?keyword="+shopName+"&enc=utf-8");
 		    	 System.out.println(data.length);
 		        // String sdata=data.substring(2100, data.length());
@@ -162,12 +170,51 @@ public class JDCrawler implements Crawler {
 			@Override
 			public String searchComment(String id, String page) {
 				String remomment=getRecomment(id, page);
-
+				//JDShopComment bean=new JDShopComment(remomment);
+//				List<String> comments=new ArrayList<String>();
+//				if(remomment!=null){
+//					
+//		    		Pattern searchMeanPattern2 = Pattern.compile("\"goodCount\":.*?,");
+//					Matcher m2 = searchMeanPattern2.matcher(remomment); //m1是获取包含翻译的整个<div>的
+//					if(m2.find()){
+//						String tp=m2.group();
+//						System.out.println(tp);
+//						comments.add(tp);
+//					}
+//					searchMeanPattern2 = Pattern.compile("\"generalCount\":.*?,");
+//					 m2 = searchMeanPattern2.matcher(remomment); //m1是获取包含翻译的整个<div>的
+//					if(m2.find()){
+//						String tp=m2.group();
+//						System.out.println(tp);
+//						comments.add(tp);
+//					}
+//					searchMeanPattern2 = Pattern.compile("\"poorCount\":.*?,");
+//					m2 = searchMeanPattern2.matcher(remomment); //m1是获取包含翻译的整个<div>的
+//					if(m2.find()){
+//						String tp=m2.group();
+//						System.out.println(tp);
+//						comments.add(tp);
+//					}
+//					 searchMeanPattern2 = Pattern.compile("\"content\":.*?,");
+//				      m2 = searchMeanPattern2.matcher(remomment); //m1是获取包含翻译的整个<div>的
+//		 			while(m2.find()){
+//						String tp=m2.group();
+//						System.out.println(tp);
+//						comments.add(tp);
+//					}
+////		 			//初次评论
+////					 searchMeanPattern2 = Pattern.compile("\"rateContent\":.*?,");
+////				      m2 = searchMeanPattern2.matcher(remomment); //m1是获取包含翻译的整个<div>的
+////		 			while(m2.find()){
+////						String tp=m2.group();
+////						comments.add(tp);
+////					}
+//		 			return comments;
+//				}
 				return remomment;
 			}
 				private  static String getRecomment(String shopID, String page) {
-					log.debug("更新数据"+"http://club.jd.com/productpage/p-"+shopID+"-s-0-t-"+page+"-p-0.html");
-			    	 String data=link.doGetString("http://club.jd.com/productpage/p-"+shopID+"-s-0-t-"+page+"-p-0.html");
+                 String data=link.doGetString("http://club.jd.com/productpage/p-"+shopID+"-s-0-t-"+page+"-p-0.html");
 			    	// System.out.println(data.length);
 					return data;
 				}

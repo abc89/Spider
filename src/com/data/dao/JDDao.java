@@ -7,10 +7,10 @@ import javax.naming.Context;
 import javax.naming.InitialContext;
 import javax.sql.DataSource;
 
-import com.data.JDBean;
 import com.databases.DBConnectionManager;
 import com.myweb.db.DataBaseOperate;
 import com.myweb.db.DataBaseOperateException;
+import com.shop.bean.JDBean;
 public class JDDao{
 	  private String TABLENAME="item";
 	     private String ID="id";

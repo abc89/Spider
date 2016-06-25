@@ -18,13 +18,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.apache.http.Header;
-import org.apache.log4j.Logger;
-
-import com.data.GMBean;
 
 public class TBCrawler implements Crawler{
 
-	private static Logger log=Logger.getLogger(GMBean.class.getName());
 	     private static TBCrawler crawler=new TBCrawler();
 	     private static StringBuilder builder=new StringBuilder();
 	     private static String fileName="./data/tb/";
@@ -130,7 +126,6 @@ public class TBCrawler implements Crawler{
 		return null;
 	}
 		private static void updateShopData(File file, String shopName){
-			log.debug("更新数据");
 	    	 byte[] data=link.doGetBytes("https://s.taobao.com/search?q="+shopName);
 			try {
 					file.createNewFile();
@@ -149,7 +144,7 @@ public class TBCrawler implements Crawler{
 		private static void updataComment(String shopID,File file, String page){
 			 System.out.println("更新数据");
 	    	 byte[] data=link.doGetBytes("https://rate.tmall.com/list_detail_rate.htm?itemId=38698117173&spuId=272092043&sellerId=2003774307&order=3&currentPage=1");
-	    	 log.debug(data.length);
+
 	        // String sdata=data.substring(2100, data.length());
 	         //byte[] s = null;
 			try {
@@ -168,34 +163,19 @@ public class TBCrawler implements Crawler{
 		}
 		private  static String getRecomment(String item_ID, String seller_ID,
 				String string) {
-			log.debug("更新数据"+"https://rate.tmall.com/list_detail_rate.htm?itemId="+item_ID+"&sellerId="+seller_ID+"&order=3&currentPage=2&append=0&content=1");
-	    	 String data=link.doGetString("https://rate.tmall.com/list_detail_rate.htm?itemId="+item_ID+"&sellerId="+seller_ID+"&order=3&currentPage=2&append=0&content=1");
+      	 String data=link.doGetString("https://rate.tmall.com/list_detail_rate.htm?itemId="+item_ID+"&sellerId="+seller_ID+"&order=3&currentPage=2&append=0&content=1");
 	    	// System.out.println(data.length);
 			return data;
 		}
 		public  List<String> searchObject(String shopName) {
 			List<String> lists=new ArrayList<String>();
-			lists.add(shopName);
 			String result=  TBCrawler.searchOneShopData(shopName);
 			Pattern searchMeanPattern1 = Pattern.compile("\"nid\":.*?\"shopcard\"");
 			Matcher m1 = searchMeanPattern1.matcher(result); //m1是获取包含翻译的整个<div>的
 			StringBuilder builder=new StringBuilder();
 			while(m1.find()){
 				String means=m1.group();
-				Pattern searchMeanPattern2 = Pattern.compile("\".*?\":.*?,");
-				Matcher m2=searchMeanPattern2.matcher(means);
-				boolean has=false;
-				while(m2.find()){
-					has=true;
-					String one=m2.group();
-					one=one.replaceAll("\"", "");
-					builder.append(one);
-					}
-				if(has){
-					builder.append("**");
-					lists.add(builder.toString());
-					builder.setLength(0);
-				}
+				lists.add(means);
 			}
 			return lists;
 		}
@@ -289,7 +269,6 @@ public class TBCrawler implements Crawler{
  			while(m2.find()){
 				String tp=m2.group();
 				comments.add(tp);
-				log.debug(tp);
 			}
  			//初次评论
 			 searchMeanPattern2 = Pattern.compile("\"rateContent\":.*?,");
@@ -297,7 +276,6 @@ public class TBCrawler implements Crawler{
  			while(m2.find()){
 				String tp=m2.group();
 				comments.add(tp);
-				log.debug(tp);
 
 			}
  			return comments;
