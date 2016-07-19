@@ -59,10 +59,10 @@ public class JDFactory extends ShopBeanFactoryMB{
 				Set<Integer> keys=maps.keySet();
 				for (Integer index : keys) {
 					switch(index){
-				     case shopID:bean.setShopID(maps.get(index));break;
+				     case shopID:bean.setItemID(maps.get(index));break;
 				     case price:bean.setPrice(maps.get(index));break;
-				     case img_url:bean.setImg_url(maps.get(index));break;
-				     case deteil_url:bean.setDeteil_url(maps.get(index));break;
+				     case img_url:bean.setImgUrl(maps.get(index));break;
+				     case deteil_url:bean.setDeteilUrl(maps.get(index));break;
 				     case title:bean.setTitle(maps.get(index));break;
 				     case commentNum:bean.setCommentNum(maps.get(index));
 				}

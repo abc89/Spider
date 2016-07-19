@@ -89,10 +89,10 @@ public class JDFacy extends ShopBeanFactory{
 			}
 			 private void setBeanImf(JDBean bean, String means, int index) {
 				switch(index){
-				     case shopID:bean.setShopID(means);break;
+				     case shopID:bean.setId(means);break;
 				     case price:bean.setPrice(means);break;
-				     case img_url:bean.setImg_url(means);break;
-				     case deteil_url:bean.setDeteil_url(means);break;
+				     case img_url:bean.setImgUrl(means);break;
+				     case deteil_url:bean.setDeteilUrl(means);break;
 				     case title:bean.setTitle(means);break;
 				     case commentNum:bean.setCommentNum(means);
 				}

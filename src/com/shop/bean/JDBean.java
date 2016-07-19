@@ -13,11 +13,14 @@ import java.util.regex.Pattern;
 public class JDBean extends ShopBean{
 
 	//正则匹配查找内容
-	private String shopID;//商品id
+	private String id;//商品id
+	private String itemID;
+
+
 	private String price;
 	private String title;//标题，描述物品
-	private String deteil_url;//查看物品 链接
-	private String img_url;//物品 图片链接
+	private String deteilUrl;//查看物品 链接
+	private String imgUrl;//物品 图片链接
 	/***
 	 * 
 	 */
@@ -29,13 +32,21 @@ public class JDBean extends ShopBean{
     private List<String> comments;//评论集合
     private String shopType;//商品分类
 
-	public String getShopID() {
-		return shopID;
+	public String getId() {
+		return id;
+	}
+	public String getItemID() {
+		return itemID;
+	}
+	
+	
+	public void setItemID(String itemID) {
+		this.itemID = itemID;
 	}
 
 
-	public void setShopID(String shopID) {
-		this.shopID = shopID;
+	public void setId(String id) {
+		this.id = id;
 	}
 
 
@@ -59,23 +70,23 @@ public class JDBean extends ShopBean{
 	}
 
 
-	public String getDeteil_url() {
-		return deteil_url;
+	public String getDeteilUrl() {
+		return deteilUrl;
 	}
 
 
-	public void setDeteil_url(String deteil_url) {
-		this.deteil_url = deteil_url;
+	public void setDeteilUrl(String deteil_url) {
+		this.deteilUrl = deteil_url;
 	}
 
 
-	public String getImg_url() {
-		return img_url;
+	public String getImgUrl() {
+		return imgUrl;
 	}
 
 
-	public void setImg_url(String img_url) {
-		this.img_url = img_url;
+	public void setImgUrl(String img_url) {
+		this.imgUrl = img_url;
 	}
 
 

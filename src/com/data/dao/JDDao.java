@@ -7,12 +7,17 @@ import javax.naming.Context;
 import javax.naming.InitialContext;
 import javax.sql.DataSource;
 
+import org.hibernate.HibernateException;
+import org.hibernate.Query;
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+
 import com.databases.DBConnectionManager;
 import com.myweb.db.DataBaseOperate;
 import com.myweb.db.DataBaseOperateException;
 import com.shop.bean.JDBean;
 public class JDDao{
-	  private String TABLENAME="item";
+	  private String TABLENAME="JDBean";
 	     private String ID="id";
 	     private String type="type";
 	     private String price="price";
@@ -21,34 +26,22 @@ public class JDDao{
 	     private String goodCount="goodCount";
 	     private String itemID="itemID";
 	 	public void add(JDBean bean) {
-	 		String sql = "insert into "+TABLENAME+" (";
-	 		sql += itemID+","+type+","+price+","+title+","+imgUrl+","+goodCount;
-	 		sql += ") values(";
-	 		sql += "'" + bean.getShopID() + "','" + bean.getShopType()
-	 				+ "','" + bean.getPrice() + "','" + bean.getTitle() + "','"+ bean.getImg_url() + "','"+ bean.getGoodCount() + "'";
-	 		sql += ")";
-	 		Statement stat = null;
-	 		ResultSet rs = null;
-	 		Connection conn =null;
-	 		try {
-	 			System.out.println(sql);
-	 			 conn = DataBaseOperate.getConnection();
-	 			stat = conn.createStatement();
-	 			stat.executeUpdate(sql);
-	 		} catch (SQLException | DataBaseOperateException e) {
-	 			e.printStackTrace();
-	 		} finally {
-	 			try {
-	 				if (conn != null)
-	 					DBConnectionManager.getInstance().freeConnection(conn);
-	 				if (stat != null)
-	 					stat.close();
-	 				if (rs != null)
-	 					rs.close();
-	 			} catch (SQLException e) {
-	 				e.printStackTrace();
-	 			}
-	 		}
+	 		 Session s = null;  
+	         Transaction ts = null;  
+	   
+	         try {  
+	             s = Hibernateutils.getSession();  
+	             ts = s.beginTransaction();  
+	             s.save(bean);  
+	             ts.commit();  
+	         } catch (HibernateException e) {  
+	             if (ts != null)  
+	                 ts.rollback();  
+	             throw e;  
+	         } finally {  
+	             if (s != null)  
+	                 s.close();  
+	         }  
 	 	}
 
 	 
@@ -79,51 +72,41 @@ public class JDDao{
 	 		}
 	 	}
 
-
+        /**
+         * hibernate 查询商品
+         * @param search 商品类型
+         * @return 对应商品类型 列表
+         */
 		public List<JDBean> getItemType(String search) {
-			List<JDBean> beans=new ArrayList<JDBean>();
-			String sql = "select * from "+TABLENAME+" where "+type+"='" + search + "'";
-			Statement stat = null;
-			ResultSet rs = null;
-			Connection conn = null;
-			try {
-				conn = DBConnectionManager.getInstance().getConnection();
-			} catch (Exception e1) {
-				
-				e1.printStackTrace();
-			};
-			try {
-				stat = conn.createStatement();
-				rs = stat.executeQuery(sql);
-				while (rs.next()) {
-					JDBean bean=this.builderBean(rs);
-
-					beans.add(bean);
-					
-				}
-			} catch (SQLException e) {
-				e.printStackTrace();
-			} finally {
-				try {
-					if (conn != null)
-	                   conn.close();
-					if (stat != null)
-						stat.close();
-					if (rs != null)
-						rs.close();
-				} catch (SQLException e) {
-					e.printStackTrace();
-				}
-			}
-			return beans;
+			 List<JDBean> beans=new ArrayList<JDBean>();
+			 Session s = null;  
+	         try {  
+			 s = Hibernateutils.getSession();  
+             Query query = s.createQuery("from com.shop.bean.JDBean jd where jd.shopType='"+search+"'");
+             
+              beans = query.list();
+             //迭代器去迭代.
+             for(Iterator iter=beans.iterator();iter.hasNext();)
+             {
+                JDBean user =(JDBean)iter.next();
+                System.out.println("id="+user.getId() + "name="+user.getTitle());
+             }
+             return beans;
+	         } catch (HibernateException e) {  
+	               
+	             throw e;  
+	         } finally {  
+	             if (s != null)  
+	                 s.close();  
+	         }  
 		}
 
 		protected JDBean builderBean(ResultSet rs) {
 		
 			JDBean bean=new JDBean();
 			try {
-				bean.setShopID(rs.getString(itemID));
-				bean.setImg_url(rs.getString(imgUrl));
+				bean.setItemID(rs.getString(itemID));
+				bean.setImgUrl(rs.getString(imgUrl));
 				bean.setGoodCount(rs.getString(goodCount));
 				bean.setPrice(rs.getString(price));
 				bean.setTitle(rs.getString(title));

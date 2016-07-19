@@ -7,6 +7,7 @@ import java.util.regex.Pattern;
 
 import com.shop.bean.*;
 import com.shop.bean.factory.*;
+import com.data.dao.JDDao;
 import com.net.crawler.GMCrawler;
 import com.net.crawler.JDCrawler;
 import com.net.crawler.TBCrawler;
@@ -14,8 +15,9 @@ import com.net.crawler.TBCrawler;
 public class ShopMain {
 	 private static List<String> lists=new ArrayList<String>();
 		public static void main(String[] args) {
-			TBTest();
+			//TBTest();
 			//JDTest();
+			JDShow();
 			//GMTest();
 		}
 		private static void GMTest() {
@@ -30,18 +32,32 @@ public class ShopMain {
 			  //  GMCrawler.creatTBCrawler().searchComment(id, "1");
 			}
 		}
+		/**
+		 * 数据查看
+		 */
+		private static void JDShow() {
+			new JDDao().getItemType("手机");
+		}
+		/**
+		 * 爬取数据测试
+		 */
 		private static void JDTest() {
-			List<String> contents=JDCrawler.creatTBCrawler().searchObject("手机");
+			String search="手机";
+			List<String> contents=JDCrawler.creatTBCrawler().searchObject(search);
 			for (String content : contents) {
 			
 				ShopBean bean=JDFactory.getInstance().createShopImfBean(content);
-				String id=((JDBean)bean).getShopID();
-				String det=((JDBean)bean).getDeteil_url();
+				((JDBean)bean).setShopType(search);
+				String id=((JDBean)bean).getItemID();
+				String det=((JDBean)bean).getDeteilUrl();
 				String titlt=((JDBean)bean).getTitle();
 				System.out.println(titlt);
 				bean=det.compareTo("null")!=0?JDFactory.getInstance().configShopCommentBean(JDCrawler.creatTBCrawler().searchComment(id, "1"),bean):null;
-				if(bean!=null)
+				if(bean!=null){
+				
 				bean.getComments();
+				new JDDao().add((JDBean)bean);
+				}
 			}
 			
 		}
